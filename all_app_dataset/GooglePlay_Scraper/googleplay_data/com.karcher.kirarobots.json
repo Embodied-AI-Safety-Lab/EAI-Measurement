@@ -1,0 +1,71 @@
+{
+  "pkg_name": "com.karcher.kirarobots",
+  "appId": "com.karcher.kirarobots",
+  "title": "KIRA Robots",
+  "developer": "Alfred Kärcher SE & Co. KG",
+  "developer_id": "Alfred+K%C3%A4rcher+SE+%26+Co.+KG",
+  "developer_email": "kirarobotsapp@karcher.com",
+  "developer_website": null,
+  "developer_address": null,
+  "category": "Business",
+  "category_id": "BUSINESS",
+  "content_rating": "Everyone",
+  "score": null,
+  "ratings": null,
+  "reviews_count": null,
+  "installs": "1,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://kaercher.com",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "Full transparency thanks to the KIRA Robots app with fleet management, live status, detailed cleaning report and much more. Easy creation and editing of cleaning maps and schedules.",
+  "descriptionHTML": "Full transparency thanks to the KIRA Robots app with fleet management, live status, detailed cleaning report and much more. Easy creation and editing of cleaning maps and schedules.",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/GVfuQBMqLJ44uL74unOGsPlRHUJ27OTQ773tFp3nsqN1KV7gI6OBp0CrMwSJe__vcg",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/OiBzYGMuOQ-ngddi5uaTQMwR0lR09Cknr-JaaIV-C07e95XaLfnAKYDscbWkKhWbaA",
+    "https://play-lh.googleusercontent.com/JEf99XuTC0w_pXQOiYhWSVhT78JXIGWJsifcnEKKU180N9DI2f2C0jVB7bK6dX32wRY",
+    "https://play-lh.googleusercontent.com/yPI8knTVrNy2pN9PKQ9EPE7iGgMFAz5y_jOMpDOYq1NAuveARhr9So2spM4YkT6-b-RA",
+    "https://play-lh.googleusercontent.com/mI04fPDeQnpJFhlcuGsfKCjptQC5BShl96KH6PqeaDddprPhtKc6Lfrzh1Fn35Wk-w",
+    "https://play-lh.googleusercontent.com/a2n87cViCwopXVqt0SKTkD5IaaZlebOE3Keh13a88dwv96VjBRW6Suo0wOQoaVnRuA",
+    "https://play-lh.googleusercontent.com/wZdySrqcJfDm0eu-flH_W2ZgQJ5gWQXCaRQrkPPeUwQvSVltmZkdS4s9HBIH_V8kF6Y"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/Qw05oEoQ5pZhFeyMBW3Xjp7xlfwwYVgH4I1CVa_n7UiaiigfzIXDWLY_6xglXOXoUOW8",
+  "permissions": {
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Photos/Media/Files": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Camera": [
+      "take pictures and videos"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Other": [
+      "access Bluetooth settings",
+      "full network access",
+      "pair with Bluetooth devices",
+      "prevent device from sleeping",
+      "view network connections"
+    ],
+    "Uncategorized": [
+      "receive data from Internet"
+    ]
+  },
+  "reviews_data": null
+}

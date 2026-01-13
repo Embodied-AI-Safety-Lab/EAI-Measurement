@@ -1,0 +1,98 @@
+{
+  "pkg_name": "com.lydsto.robotvacuum",
+  "appId": "com.lydsto.robotvacuum",
+  "title": "Lydsto",
+  "developer": "广东一沐科技有限公司",
+  "developer_id": "%E5%B9%BF%E4%B8%9C%E4%B8%80%E6%B2%90%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8",
+  "developer_email": "privacy@smartda.cn",
+  "developer_website": "https://www.smart-da.com",
+  "developer_address": null,
+  "category": "Tools",
+  "category_id": "TOOLS",
+  "content_rating": "Everyone",
+  "score": 2.3137255,
+  "ratings": 1493,
+  "reviews_count": 39,
+  "installs": "100,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "http://api.lydsto.cn/html/privacy/Lydsto_privacy_en.html",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "The Lydsto App is your home's intelligent hardware management platform. With the Lydsto App, you can complete the convenient and fast interaction between the mobile phone and the intelligent hardware, and realize the interconnection between the smart devices.\r\nYou and the smart life, only a distance from the Robot Cleaner App.\r\nLinked control, easy to use\r\nQuickly grasp the addition and operation of devices to achieve interoperability between smart devices.\r\nPersonalized customization, as you like\r\nSet up a personalized smart scene according to your own usage habits\r\nDevice sharing, fun to pass\r\nSharing equipment for family and friends, sharing the fun of technology",
+  "descriptionHTML": "The Lydsto App is your home&#39;s intelligent hardware management platform. With the Lydsto App, you can complete the convenient and fast interaction between the mobile phone and the intelligent hardware, and realize the interconnection between the smart devices.<br>You and the smart life, only a distance from the Robot Cleaner App.<br>Linked control, easy to use<br>Quickly grasp the addition and operation of devices to achieve interoperability between smart devices.<br>Personalized customization, as you like<br>Set up a personalized smart scene according to your own usage habits<br>Device sharing, fun to pass<br>Sharing equipment for family and friends, sharing the fun of technology",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/nAyyhnJe4H0veDaAf0hCYr9Kl9REcpAecCQ28NqzYCNyTzR0XHHuHo_DMtrxHruhuA",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/I8DykLTvDCt1_ZAYaKP_2UfvmW42ubfaRBg1L7-uqzHLIiU50rp_W-CXwXJKJyL8SLg",
+    "https://play-lh.googleusercontent.com/n9OMgXILu46DetaIrPkd2O3R3URE7zitQ1EQUyrAAFJ7SVrFpi_z7YMT3yi5kBclIlIk",
+    "https://play-lh.googleusercontent.com/3h2LYo68XlUIJtKvAfDJyOf44-WtRlk5iXgooVtn3Chm0RZE0dXHzC_GHiYZLROIGA",
+    "https://play-lh.googleusercontent.com/2eaMXbhe0xmNy-UwzQOVDymrG3s8fus1R9KJIJQR7q9P_rJvKl_4F0EAGBcy7V02DPSr",
+    "https://play-lh.googleusercontent.com/DhGJGB5lhuYeeIn2uXgFIRBj6vA_sjfAN764i0k8TBFgR_5WEJQ7gEK51JFnAZXf6rw",
+    "https://play-lh.googleusercontent.com/C2Z1PEeFv7GTHG8u-3VfcKxCm_vgFdFEWly9_f1TjW8c_mw-1AyzCiEvDm9LLSz38Rg",
+    "https://play-lh.googleusercontent.com/-ynQdROrAWPDlb81w98sZ2LuExr9HhOAPGC1UGYmpfpEwJXibF3qRIHvdwOg86k1Vg",
+    "https://play-lh.googleusercontent.com/zgBtYd5QheAiKaensPjaGXFTznOuXiP_9LO0-UyiKR3Xg4_CJLx20aBFkeOL7kSXi3E",
+    "https://play-lh.googleusercontent.com/PMax5IpHIERTxrcE1sZG3uHgz9zAOfsaPUK0QpBmg-WVcuEi3wu8B357TRRkKMVWzXk",
+    "https://play-lh.googleusercontent.com/2MvnA9z9N_ABNtenvDKMIy6WpJxEJeWsv4zltfeQinPOhBvf4kqZNBtOgQToXmCU07I",
+    "https://play-lh.googleusercontent.com/DbMaBToMCTZpxkcvOzesc6RbkkXvpneysOMw-EuUJe4KmEyZ-XV9bENpURteCPSTGXFe",
+    "https://play-lh.googleusercontent.com/isAU5CzGHIdZFr4Wlq2NbTIjB3__pjm7RFCYRiC9PPsDdfEIyJzsEMwcpqU3XEsCLUY2"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/INRcQpIOTrMGMSbrhFvH3L8jrSnkZlpCq0kx-Zzi6MXpiCoK425ISBRF5Tl_yN7Q-781",
+  "permissions": {
+    "Device & app history": [
+      "read sensitive log data"
+    ],
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Phone": [
+      "read phone status and identity"
+    ],
+    "Photos/Media/Files": [
+      "access USB storage filesystem",
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Camera": [
+      "take pictures and videos"
+    ],
+    "Microphone": [
+      "record audio"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Device ID & call information": [
+      "read phone status and identity"
+    ],
+    "Other": [
+      "access Bluetooth settings",
+      "allow Wi-Fi Multicast reception",
+      "change network connectivity",
+      "change your audio settings",
+      "connect and disconnect from Wi-Fi",
+      "control flashlight",
+      "control vibration",
+      "full network access",
+      "pair with Bluetooth devices",
+      "prevent device from sleeping",
+      "run at startup",
+      "set wallpaper",
+      "view network connections"
+    ],
+    "Uncategorized": [
+      "receive data from Internet"
+    ]
+  },
+  "reviews_data": null
+}

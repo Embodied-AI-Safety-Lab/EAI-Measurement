@@ -1,0 +1,91 @@
+{
+  "pkg_name": "com.ls.robx",
+  "appId": "com.ls.robx",
+  "title": "Robx",
+  "developer": "Robx LLC",
+  "developer_id": "Robx+LLC",
+  "developer_email": "destek@robx.com.tr",
+  "developer_website": null,
+  "developer_address": null,
+  "category": "Tools",
+  "category_id": "TOOLS",
+  "content_rating": "Everyone",
+  "score": null,
+  "ratings": null,
+  "reviews_count": null,
+  "installs": "10,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://images.tuyacn.com/app/robot/html/APP/Robx-privacy.html",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "ROBX LLC. \r\nRobx R7 Akıllı Çöp İstasyonlu Otomatık Çöp Boşaltmalı Silme Ve Süpürme Robotu Uygulamasıdır.\r\nRobx Uygulamasını Cihazınıza İndiriniz Kayıt Olunuz \r\nR7 Robot Süpürge Modelini Seçerek Kolay Türkçe Kullanımı İle Evinizi Haritalama Yaparak Alan Temizliğine Başlayabilirsiniz.\r\nOda Seçimi, Alan Bölme,Sanal Duvar,Sabit Nokta Temizliği,Uzaktan Kontrol,Saat Belirleyerek  Silme Ve Süpürme  İşlemlerinizi Yapabilirsiniz. \r\nSorularınız İçin\r\nWatsapp : 0850 308 30 28\r\ndestek@robx.com.tr",
+  "descriptionHTML": "ROBX LLC. <br>Robx R7 Akıllı Çöp İstasyonlu Otomatık Çöp Boşaltmalı Silme Ve Süpürme Robotu Uygulamasıdır.<br>Robx Uygulamasını Cihazınıza İndiriniz Kayıt Olunuz <br>R7 Robot Süpürge Modelini Seçerek Kolay Türkçe Kullanımı İle Evinizi Haritalama Yaparak Alan Temizliğine Başlayabilirsiniz.<br>Oda Seçimi, Alan Bölme,Sanal Duvar,Sabit Nokta Temizliği,Uzaktan Kontrol,Saat Belirleyerek  Silme Ve Süpürme  İşlemlerinizi Yapabilirsiniz. <br>Sorularınız İçin<br>Watsapp : 0850 308 30 28<br>destek@robx.com.tr",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/7am6DlD7Q9E8wsokQgCcG2YJ0krelx7l1PrG5J39mTU0OYRagS6BcaLf0yOAAIOwnFMi",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/MsHUBgjL4v6ulqBeKZHgQb2sFcpTAt022bvn9HCvNuX3G9deLRvjg9zhvaE8B1cq7ao",
+    "https://play-lh.googleusercontent.com/jc0vr829f-beVnw550ML-YVUh_PWWaDOYuKpByqCm9_toFJDbnV7Y568HU8JTWbsmtg",
+    "https://play-lh.googleusercontent.com/7ylrPFIlXcuOQQ8chx_hlX_uLqrhwUlLakW0eqAupF8Bb6f_bWfw50vAX4XM0cLZmiWl",
+    "https://play-lh.googleusercontent.com/e2-RMAsPQe2O4eazbFoCsGyIEkarIP21HFKFU2dN77VxPbDR40T13c1uJKg9fhI1pEE",
+    "https://play-lh.googleusercontent.com/pkl-QdkTkFro_HgVIERhLl7rnoTh-r5by0vGf1lk0LNAUuyrRwu-WwU22kpsqA-Hjs8",
+    "https://play-lh.googleusercontent.com/HtCzPxarFnKRRuI1M52GRoE67hM0vm6cKSGDpKslJ5LtAqEjYJ1S38f2zx_LNLdq8Ho",
+    "https://play-lh.googleusercontent.com/KVo7T5QqE7cpuLpo7RfhVcrMRsEU2ARUifn0wC4l3krJKJTMNHwmC077mu6UX4vn1ZQ",
+    "https://play-lh.googleusercontent.com/ZcPrdxV6442Zxax8Hzmd-FwT9BcgrF8oqxwcmb-VbeRWlHSw-Suk5irHQDwWwOxit_Vd",
+    "https://play-lh.googleusercontent.com/SzDX6gshIT7ISIFbJsxFYgncM47aZTVLJdh5of5-hWWq5CpobQ81cyzHtRxLeISUgNKH"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/2aTNzwmYBJoOenkswZZ4RczqeZPm9wbEh9kB5S2NS4ueQWglzSnXeGulY6L0ZNYWuV2Y",
+  "permissions": {
+    "Device & app history": [
+      "read sensitive log data"
+    ],
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Phone": [
+      "read phone status and identity"
+    ],
+    "Photos/Media/Files": [
+      "access USB storage filesystem",
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Camera": [
+      "take pictures and videos"
+    ],
+    "Microphone": [
+      "record audio"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Device ID & call information": [
+      "read phone status and identity"
+    ],
+    "Other": [
+      "access Bluetooth settings",
+      "allow Wi-Fi Multicast reception",
+      "change network connectivity",
+      "connect and disconnect from Wi-Fi",
+      "full network access",
+      "pair with Bluetooth devices",
+      "prevent device from sleeping",
+      "set wallpaper",
+      "view network connections"
+    ],
+    "Uncategorized": [
+      "receive data from Internet"
+    ]
+  },
+  "reviews_data": null
+}

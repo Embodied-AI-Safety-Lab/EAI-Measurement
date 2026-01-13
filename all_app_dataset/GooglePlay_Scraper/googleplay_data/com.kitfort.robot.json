@@ -1,0 +1,96 @@
+{
+  "pkg_name": "com.kitfort.robot",
+  "appId": "com.kitfort.robot",
+  "title": "RoboKit",
+  "developer": "Kitfort",
+  "developer_id": "Kitfort",
+  "developer_email": "info@kitfort.ru",
+  "developer_website": "https://kitfort.ru",
+  "developer_address": null,
+  "category": "Lifestyle",
+  "category_id": "LIFESTYLE",
+  "content_rating": "Everyone",
+  "score": null,
+  "ratings": null,
+  "reviews_count": null,
+  "installs": "5,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://kitfort.ru/privacy-policy/",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "We have released the RoboKit mobile application with which you can remotely control Kitfort robots.\r\nOn the first launch of the application, select a robot and connect it.\r\nAfter connecting, you can control the robot while away from home. For example, on leaving work, go to the application and click on the Start button. You will come home to a nice clean floor.\r\nTo avoid having to press a button every time you can set a cleaning schedule for the whole week.\r\nFrom the RoboKit application, you can not only start cleaning, but also change cleaning modes and instruct the robot to charge itself.\r\nWhile moving the robot draws a cleaning map and displays it in the mobile application.\r\nThe RoboKit mobile app team is constantly working on improving features and functionality of the product.\r\nIn the near future we will launch more robots that can be controlled from the application and provide even more opportunities for users of our smart devices.\r\nIf you have any questions or suggestions, please write to us at info@kitfort.ru\r\nOfficial website: https://kirfort.ru/",
+  "descriptionHTML": "We have released the RoboKit mobile application with which you can remotely control Kitfort robots.<br>On the first launch of the application, select a robot and connect it.<br>After connecting, you can control the robot while away from home. For example, on leaving work, go to the application and click on the Start button. You will come home to a nice clean floor.<br>To avoid having to press a button every time you can set a cleaning schedule for the whole week.<br>From the RoboKit application, you can not only start cleaning, but also change cleaning modes and instruct the robot to charge itself.<br>While moving the robot draws a cleaning map and displays it in the mobile application.<br>The RoboKit mobile app team is constantly working on improving features and functionality of the product.<br>In the near future we will launch more robots that can be controlled from the application and provide even more opportunities for users of our smart devices.<br>If you have any questions or suggestions, please write to us at info@kitfort.ru<br>Official website: https://kirfort.ru/",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/FhSPLGHKUnlR-oj-Ppl7_7Y4qPvGX5Udr1dHOnw479Zp2o4U1tRLgg4_dIaF_cSsgr8",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/S37ixtpBKuBt6pVMblyTvhoCyFgAE945kSg8n0qPLRuqnH1Ib2AOVp5UYmDH4t4R6Tk",
+    "https://play-lh.googleusercontent.com/70HmWD4nXN4AAT1AyBJzD9lmS4Az4hPVUYL-8g5wtF4m7U6LpNjr9yoWeLMLnzTLa8U",
+    "https://play-lh.googleusercontent.com/q56s4At9bxi4NiIbeTw1Kdmf9uCV0kURCSKEICiQRLxX0CUfBrh98O6yYjrr_SaUCA",
+    "https://play-lh.googleusercontent.com/ljkAEprq2y-Kk2Veix_Ye3cHSoK2rirHhigbqimIeaqcrudK4HOGnnulI6_peHCatK8",
+    "https://play-lh.googleusercontent.com/fl4fbNS4RB51eU1BEnZB_tMD8hRrk7CeH4O6U4a-VI8TfYYA26UOutlUh-XZh_BQRvI",
+    "https://play-lh.googleusercontent.com/VhACX2kA9t7L7gpxDyvUrEWi1otifl5VX4uJQ20SH6FLGlWo1s4lo-tcZUWIOeu6x_Rw",
+    "https://play-lh.googleusercontent.com/FV4v6UmsrSZ4Otu8I_beCxx8im1ONQrKj_lBoPfM9LzISPccsf2RpsWAFx-5Ew2QLQY",
+    "https://play-lh.googleusercontent.com/oPFZ-xB7up8tiuAbIEf91hZoMJkdrBlB-wf9eDJSxpeQEhTXdOqFzq6yw78I5SYttGI"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/PCcPQwjndy-cWt84zkPwY-Dgo9kHH53uuVtb-pBW8ardAw51VVgCxDaOm2BPDBiZjsw",
+  "permissions": {
+    "Device & app history": [
+      "read sensitive log data",
+      "retrieve running apps"
+    ],
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Phone": [
+      "directly call phone numbers",
+      "read phone status and identity"
+    ],
+    "Photos/Media/Files": [
+      "access USB storage filesystem",
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Camera": [
+      "take pictures and videos"
+    ],
+    "Microphone": [
+      "record audio"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Device ID & call information": [
+      "read phone status and identity"
+    ],
+    "Other": [
+      "access Bluetooth settings",
+      "allow Wi-Fi Multicast reception",
+      "change network connectivity",
+      "change system display settings",
+      "connect and disconnect from Wi-Fi",
+      "control flashlight",
+      "control vibration",
+      "full network access",
+      "modify system settings",
+      "pair with Bluetooth devices",
+      "prevent device from sleeping",
+      "run at startup",
+      "view network connections"
+    ],
+    "Uncategorized": [
+      "receive data from Internet"
+    ]
+  },
+  "reviews_data": null
+}

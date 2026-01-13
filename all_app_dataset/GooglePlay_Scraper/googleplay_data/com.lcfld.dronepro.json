@@ -1,0 +1,76 @@
+{
+  "pkg_name": "com.lcfld.dronepro",
+  "appId": "com.lcfld.dronepro",
+  "title": "Flying MAX",
+  "developer": "LcForever",
+  "developer_id": "LcForever",
+  "developer_email": "logicxxh@gmail.com",
+  "developer_website": null,
+  "developer_address": null,
+  "category": "Entertainment",
+  "category_id": "ENTERTAINMENT",
+  "content_rating": "Everyone",
+  "score": 0,
+  "ratings": 0,
+  "reviews_count": 0,
+  "installs": "10,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://www.jianshu.com/p/fa44fc36aacc",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "1. Photographs and videos;\r\n2. Real-time image transmission;\r\n3. Gesture capture and video recording;\r\n4. Trajectory control;\r\n5. Gravity Sensor Manipulation;\r\n6. Rocker control;\r\n7.3D Scattering Screen;\r\n8. Mirror Reversal;",
+  "descriptionHTML": "1. Photographs and videos;<br>2. Real-time image transmission;<br>3. Gesture capture and video recording;<br>4. Trajectory control;<br>5. Gravity Sensor Manipulation;<br>6. Rocker control;<br>7.3D Scattering Screen;<br>8. Mirror Reversal;",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/zCbHUz7UmyKdeT0-4ycp0P8GA4WZtmMIdafXPpWGbsgA2q7vcoOa9TlJlZWDYSwkVY88",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/adAa3TrTItzq2W1BPLaN4-IYf7-Oj0UHbNauBWCyhrGgkQt3Nd5diAAutfmsxpK6",
+    "https://play-lh.googleusercontent.com/wz11rk7A2XWIvubhmwIAPUmUa04pJ62p-XTcL8CNgghgTv34QXgrAJuDcgDJLRStnQ"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/jGOl6atrmPGUVaJwpLajSQOSiBU1Fd3KNemgnJR52ke-3UFMQt-6UMVrv7JafpvWXg",
+  "permissions": {
+    "Device & app history": [
+      "retrieve running apps"
+    ],
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Phone": [
+      "read phone status and identity"
+    ],
+    "Photos/Media/Files": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Microphone": [
+      "record audio"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Device ID & call information": [
+      "read phone status and identity"
+    ],
+    "Other": [
+      "allow Wi-Fi Multicast reception",
+      "change network connectivity",
+      "connect and disconnect from Wi-Fi",
+      "control vibration",
+      "full network access",
+      "prevent device from sleeping",
+      "run at startup",
+      "view network connections"
+    ]
+  },
+  "reviews_data": null
+}

@@ -1,0 +1,97 @@
+{
+  "pkg_name": "com.unitree.doggo2",
+  "appId": "com.unitree.doggo2",
+  "title": "Unitree Go",
+  "developer": "Unitree Robotics",
+  "developer_id": "Unitree+Robotics",
+  "developer_email": "develop_lzw@unitree.cc",
+  "developer_website": "https://www.unitree.com/",
+  "developer_address": null,
+  "category": "Tools",
+  "category_id": "TOOLS",
+  "content_rating": "Everyone",
+  "score": 3.1818182,
+  "ratings": 53,
+  "reviews_count": 8,
+  "installs": "10,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://marketing.unitree.com/go2En/docPrivacy.html",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "key spotlight of the App\r\n1. AI large language model\r\nEmbodied AI: AI+robot; large language model empowerment makes human-robot interaction more interesting\r\n2. OTA upgrades\r\nAfter being authorized by user, the robot will connect to Unitree Cloud to upgrade its programme via OTA, thus enhancing user experience.\r\n3. HD image quality\r\nHigh-quality image transmission enables users to enjoy smooth video and distinct image\r\n4. Intelligent Avoidance\r\nAgile 4D LiDAR L1 detects forward obstacles, realizes intelligent avoidance and maps and plots the real 3D world.\r\n5. Precise control\r\nDual stickers for precise control, real-time monitoring of the shooting screen and point cloud map; push button for easy mode switching.\r\n6. Graphical Programming \r\nOptimized and easy-understanding graphical programming makes program design available within simple operations.",
+  "descriptionHTML": "key spotlight of the App<br>1. AI large language model<br>Embodied AI: AI+robot; large language model empowerment makes human-robot interaction more interesting<br>2. OTA upgrades<br>After being authorized by user, the robot will connect to Unitree Cloud to upgrade its programme via OTA, thus enhancing user experience.<br>3. HD image quality<br>High-quality image transmission enables users to enjoy smooth video and distinct image<br>4. Intelligent Avoidance<br>Agile 4D LiDAR L1 detects forward obstacles, realizes intelligent avoidance and maps and plots the real 3D world.<br>5. Precise control<br>Dual stickers for precise control, real-time monitoring of the shooting screen and point cloud map; push button for easy mode switching.<br>6. Graphical Programming <br>Optimized and easy-understanding graphical programming makes program design available within simple operations.",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/sJznuB9JTFK52NSxrVIcz6FsdvQDFSq8_uzI7XHGEfsKY8Y9ZBXLqVbM_3D7O8W41g",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/-MDe_IDZ7LaAhWisJ4TP9iDS6lXNvDqUIrcjQXqDJquSyeNa6FLLIpsIGekRdhcnkkM",
+    "https://play-lh.googleusercontent.com/Z0-FeHsm972lmdSyjU5GtoTDxyFaWThDZDOwuGM9A_uF1v3Ocn_v1XGfZvBr9ptMjQI",
+    "https://play-lh.googleusercontent.com/_ZjaT3vfKmjivp_Ed0YXFTpAaOryNY2concSEnzYmeS4_q-kX9oNuCxwjXwbMycNjQ",
+    "https://play-lh.googleusercontent.com/Fr8hyGN1W2ae9ZLTtetzj_5LNLiX_80CkZomgy7SV00GIcZVKHofDoR-RY0FpX1BJBLD",
+    "https://play-lh.googleusercontent.com/ZyEaV_irxH5UDCvCJKNWBHqdl7gF3yj971oqaKaD_UeaODTGQfQTa4WyomwJ0XrVglI"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/7kgE_vhAPKi14RS0r9O1-ZJpcMmI8uP5gA9tULvJIeE4hdE0r8tKrW1f1sOMcYxmU3E",
+  "permissions": {
+    "Device & app history": [
+      "retrieve running apps"
+    ],
+    "Location": [
+      "access extra location provider commands",
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Phone": [
+      "directly call phone numbers",
+      "read phone status and identity"
+    ],
+    "Photos/Media/Files": [
+      "access USB storage filesystem",
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Camera": [
+      "take pictures and videos"
+    ],
+    "Microphone": [
+      "record audio"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Device ID & call information": [
+      "read phone status and identity"
+    ],
+    "Other": [
+      "access Bluetooth settings",
+      "allow Wi-Fi Multicast reception",
+      "change network connectivity",
+      "change your audio settings",
+      "close other apps",
+      "connect and disconnect from Wi-Fi",
+      "control vibration",
+      "draw over other apps",
+      "expand/collapse status bar",
+      "full network access",
+      "measure app storage space",
+      "modify system settings",
+      "pair with Bluetooth devices",
+      "prevent device from sleeping",
+      "read Google service configuration",
+      "reorder running apps",
+      "view network connections"
+    ],
+    "Uncategorized": [
+      "disable or modify status bar"
+    ]
+  },
+  "reviews_data": null
+}

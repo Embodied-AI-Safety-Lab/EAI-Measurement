@@ -1,0 +1,62 @@
+{
+  "pkg_name": "com.deepmav.droneautonomy.parrot",
+  "appId": "com.deepmav.droneautonomy.parrot",
+  "title": "Drone Autonomy",
+  "developer": "Mavtek d.o.o.",
+  "developer_id": "5970150412376911370",
+  "developer_email": "kontakt@mavtek.rs",
+  "developer_website": "https://mavtek.rs",
+  "developer_address": null,
+  "category": "Maps & Navigation",
+  "category_id": "MAPS_AND_NAVIGATION",
+  "content_rating": "Everyone",
+  "score": null,
+  "ratings": null,
+  "reviews_count": null,
+  "installs": "50+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://mavtek.rs/android-privacy-policy/",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "Drone Autonomy is an app used for autonomous drone flights with Parrot Anafi drones. The app supports two modes of flight autonomy. In Position mode, you can control where the drone navigates by selecting locations on the map. In Area flight mode, you can define an area on the map and the drone navigates autonomously with the defined flight boundary. Drone Autonomy allows you to live stream the video feed from the drone’s primary camera to a streaming service such as YouTube over the internet.\r\n\r\nDrone Autonomy app is used with Parrot drones and may be used with a Sky Controller or directly by connecting the device to the drone’s WiFi access point. Following Parrot Anafi drones are supported:\r\n\r\n1.\tParrot Anafi AI\r\n2.\tParrot Anafi 4K\r\n3.\tParrot Anafi USA\r\n\r\nThe app was developed by DeepMAV.ai.\r\n\r\nPerform automatic takeoff by pressing the Take Off button in the app. Upon takeoff, you can switch on autonomous flight by pressing the Fly button in the flight control panel.\r\n\r\nPosition Autonomy Mode\r\n\r\nWhen in autonomous flight in Position mode, the drone will navigate to the defined target location while maintaining the chosen altitude above takeoff. Upon reaching the target location, the drone will hover in place. Simply tap on the map to define the target location for the drone. Pressing the Clear Target button removes the defined target and makes the drone hover in place.\r\n\r\nArea Autonomy Mode\r\n\r\nWhen in Area mode, tapping on the map allows you to define the vertices of the flight area within which the drone will fly. Pressing the Save Area button saves the defined flight area and displays it on the map. Pressing the Clear Area button removes the defined flight area. You may define a flight area of any polygonal shape.\r\n\r\nWhen you activate the autonomous flight in Area mode by pressing the Fly button, the drone will start flying autonomously within the defined flight area, while maintaining the chosen altitude above takeoff. The drone will never leave the bounds of the defined flight area during the flight.\r\n\r\nDeactivating the autonomous flight by pressing the Stop button will hold the drone in place. Autonomous flight may be resumed by pressing on the Fly button once again.\r\n\r\nAutomatic landing and return to home functions may be engaged by pressing the Land and Home buttons on the flight control panel.\r\n\r\nNo account creation or login required. Simply start the app and start flying.\r\n\r\nMake sure to fly responsibly and obey your local drone regulations.",
+  "descriptionHTML": "Drone Autonomy is an app used for autonomous drone flights with Parrot Anafi drones. The app supports two modes of flight autonomy. In Position mode, you can control where the drone navigates by selecting locations on the map. In Area flight mode, you can define an area on the map and the drone navigates autonomously with the defined flight boundary. Drone Autonomy allows you to live stream the video feed from the drone’s primary camera to a streaming service such as YouTube over the internet.<br><br>Drone Autonomy app is used with Parrot drones and may be used with a Sky Controller or directly by connecting the device to the drone’s WiFi access point. Following Parrot Anafi drones are supported:<br><br>1.\tParrot Anafi AI<br>2.\tParrot Anafi 4K<br>3.\tParrot Anafi USA<br><br>The app was developed by DeepMAV.ai.<br><br>Perform automatic takeoff by pressing the Take Off button in the app. Upon takeoff, you can switch on autonomous flight by pressing the Fly button in the flight control panel.<br><br>Position Autonomy Mode<br><br>When in autonomous flight in Position mode, the drone will navigate to the defined target location while maintaining the chosen altitude above takeoff. Upon reaching the target location, the drone will hover in place. Simply tap on the map to define the target location for the drone. Pressing the Clear Target button removes the defined target and makes the drone hover in place.<br><br>Area Autonomy Mode<br><br>When in Area mode, tapping on the map allows you to define the vertices of the flight area within which the drone will fly. Pressing the Save Area button saves the defined flight area and displays it on the map. Pressing the Clear Area button removes the defined flight area. You may define a flight area of any polygonal shape.<br><br>When you activate the autonomous flight in Area mode by pressing the Fly button, the drone will start flying autonomously within the defined flight area, while maintaining the chosen altitude above takeoff. The drone will never leave the bounds of the defined flight area during the flight.<br><br>Deactivating the autonomous flight by pressing the Stop button will hold the drone in place. Autonomous flight may be resumed by pressing on the Fly button once again.<br><br>Automatic landing and return to home functions may be engaged by pressing the Land and Home buttons on the flight control panel.<br><br>No account creation or login required. Simply start the app and start flying.<br><br>Make sure to fly responsibly and obey your local drone regulations.",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/Vl2zXMZtAFBv31O_pBniD6GH3eDSDKKoLXGI30E4E_OEM9R4rrzlg2ZtsomrdCOgODs",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/XDx2ApikoNMGRDrSeam12PSPBvQVMVo0fCKV9hrflhtvzPxi5xSpo-BVZ1kFQlifLnQ",
+    "https://play-lh.googleusercontent.com/vFUtrB79JBGcTv1W5W6oiIfUnD9Dhi8ca3VBw8iJ-3N5YIlRC9DLjFYtwDh4kQySU34",
+    "https://play-lh.googleusercontent.com/R7JN_f9mCrK54wickSTQA5jHVzONCg53IVUmEKY3qIbNQ9mAS3gHulwfw8ClOPxhaA",
+    "https://play-lh.googleusercontent.com/DyJlF_c6fpk34j5ojo8mkMGdaqTgAq8hoXIiUjkJsLJ3gccf33mKRcMYVIPoGRBZzL1M"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/FSrIjuKhoZ6zvcnzoSpPi4yce_XvQOMnaGVZQUN0c6iK_6iZKsJLuLP9JLyFb64Avyl3",
+  "permissions": {
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Photos/Media/Files": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Other": [
+      "allow Wi-Fi Multicast reception",
+      "full network access",
+      "prevent device from sleeping",
+      "view network connections"
+    ]
+  },
+  "reviews_data": null
+}

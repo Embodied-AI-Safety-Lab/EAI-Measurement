@@ -1,0 +1,90 @@
+{
+  "pkg_name": "cn.bwt.poolrobot",
+  "appId": "cn.bwt.poolrobot",
+  "title": "Mypoolbot",
+  "developer": "BWT Holding GmbH",
+  "developer_id": "BWT+Holding+GmbH",
+  "developer_email": "bwtpooldivision@gmail.com",
+  "developer_website": "http://www.bwt.com/",
+  "developer_address": null,
+  "category": "Tools",
+  "category_id": "TOOLS",
+  "content_rating": "Everyone",
+  "score": null,
+  "ratings": null,
+  "reviews_count": null,
+  "installs": "100+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://qin.tuyacn.com/app-agreement/auto/117295649/latest/1/2/smart/app/package/117295649/privacyUrl_1741144809107.html",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "Take full control of your cleaning robots with the Mypoolbot app, designed for effortless pool maintenance. With Bluetooth and Wi-Fi connectivity, the app lets you operate your robot, adjust cleaning settings, and track performance seamlessly. Its user-friendly interface simplifies the experience, making pool care more efficient and hassle-free.",
+  "descriptionHTML": "Take full control of your cleaning robots with the Mypoolbot app, designed for effortless pool maintenance. With Bluetooth and Wi-Fi connectivity, the app lets you operate your robot, adjust cleaning settings, and track performance seamlessly. Its user-friendly interface simplifies the experience, making pool care more efficient and hassle-free.",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/vYI_mB2wbxmeG9iWdu-rg1jJ_qaDam2k_5DptVEp988EAF-KHTNgbj9-AARhN-2SJ7U",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/uHNBOArfwg1IN59z2zXoYlD40bIHqK1epHMpDcUpe7EOHHyIbq_b0ezumnohIjyetQ",
+    "https://play-lh.googleusercontent.com/HDLtMPbqVdfdwhfaJtv_ENA6XKovxuVT7gW6YhXXRuyJ7D4N5CcmPEdrse5lRnHFOw",
+    "https://play-lh.googleusercontent.com/uX1qR2cGnYuk_LB-VZuxqpdFroHm_0akT11QSv7K3TcLABUUpR55tlpPfSp0PbTMMQ",
+    "https://play-lh.googleusercontent.com/hPRNiPBhavb_HdYZF9QT9NOyeI_rCy3faEBWP7cMDPNZHObXBTadQbMZ7dQFYnKeJg",
+    "https://play-lh.googleusercontent.com/k5DUSAJqC7fZ1U0Sh6W6V4bjf6Bt6-y7jOZu_hDXb7PupG6Oxiu3q6pIVBxKdufex6k",
+    "https://play-lh.googleusercontent.com/-VGVxUJPpwIOzT-VUqOIuEtj2QuVuUCOYiqumsSJoZDph0fl1D2jCJB3xOoaOp7qSavM",
+    "https://play-lh.googleusercontent.com/ur6qlgNmEYSW8UE5dXdQKmW6C8-gy_4CL9eCDatUUtYMHFBbFyygihafsZuvjcWi4aY",
+    "https://play-lh.googleusercontent.com/vLeNogBplhBhYIWhHGmKdPxfQzgMxUo9eA-7qpoPLPleO3mkV7ChNQTg_BSUn2EDtw",
+    "https://play-lh.googleusercontent.com/9ZIRnDgjwwwk5S6qNWWmi_KwqWWCHtqndVpLHKrQzC8GF2qdokYmvPcpeIocWVuovHQ",
+    "https://play-lh.googleusercontent.com/bFoTchWvCPzgmYdP8dHZm33hDgWs68YaTaS07h5O6gxGV3cQ29sHAHpSN6OCEEDB214",
+    "https://play-lh.googleusercontent.com/IiU5LsCbWevB23qnN4dHx9e0zMTMXWdNmg4jTTX35xPcKUjulSJDgODi0kXvdaet7w",
+    "https://play-lh.googleusercontent.com/0108evRuLLsiHNQXU7OrxhIyiTv9qajmyjeUyQ-5DEPQDQ1ueTi-AbDdXToQyEdAHOGA"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/VAWJJwhMOcX_rUcY5jckguOmeSqfvPUOPO_XL-8tSei3ZKoccpTv2-d9Y6aJ9TbIVw",
+  "permissions": {
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Photos/Media/Files": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Camera": [
+      "take pictures and videos"
+    ],
+    "Microphone": [
+      "record audio"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Other": [
+      "Google Play license check",
+      "access Bluetooth settings",
+      "allow Wi-Fi Multicast reception",
+      "change network connectivity",
+      "change your audio settings",
+      "connect and disconnect from Wi-Fi",
+      "control vibration",
+      "full network access",
+      "install shortcuts",
+      "pair with Bluetooth devices",
+      "prevent device from sleeping",
+      "reorder running apps",
+      "run at startup",
+      "set wallpaper",
+      "view network connections"
+    ],
+    "Uncategorized": [
+      "receive data from Internet"
+    ]
+  },
+  "reviews_data": null
+}

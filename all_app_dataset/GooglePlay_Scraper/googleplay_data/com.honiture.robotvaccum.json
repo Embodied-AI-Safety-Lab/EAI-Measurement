@@ -1,0 +1,81 @@
+{
+  "pkg_name": "com.honiture.robotvaccum",
+  "appId": "com.honiture.robotvaccum",
+  "title": "HonySmart",
+  "developer": "Dawnwin Techonology",
+  "developer_id": "Dawnwin+Techonology",
+  "developer_email": "developer@wetopu.com",
+  "developer_website": null,
+  "developer_address": null,
+  "category": "House & Home",
+  "category_id": "HOUSE_AND_HOME",
+  "content_rating": "Everyone",
+  "score": 1.942029,
+  "ratings": 602,
+  "reviews_count": 54,
+  "installs": "100,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://qin.tuyacn.com/app-agreement/en/309182490/v1.0.2/1/smart/app/package/309182490/privacyUrl_1692600311046.html",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "Through the HonySmart app, you can easily unlock the following advanced features:\r\n[Map Save](Only applicable to some devices) Turn on the map save mode, and after operating according to regulations, advanced functions such as room zoning, merging and segmentation can be achieved, while improving cleaning efficiency. \r\n[Virtual Walls and Restricted Areas] Set up virtual walls and restricted areas, ready to use and set, so that the robot will not cross the virtual wall or enter the restricted area during cleaning.\r\n[Timing Cleaning] If you make an appointment a scheduled cleaning task, and the robot will start the cleaning task at the designated time. After completion, it will automatically return to the charging station.\r\n[Selected Area  Cleaning] (Only applicable to some devices) You can choose to specify a room for cleaning. After selection, only the selected room will be cleaned, and you can clean wherever you want.\r\n[Spot Cleaning] Click on the location to be cleaned on the map, and after clicking Start, the robot will automatically plan the path to the target point and perform local cleaning.\r\n[Resume Cleaning] When the battery level is below 20%, the robot automatically plans the shortest path to return to the charging station for charging: after fully charging, return to the unfinished area and continue cleaning.",
+  "descriptionHTML": "Through the HonySmart app, you can easily unlock the following advanced features:<br>[Map Save](Only applicable to some devices) Turn on the map save mode, and after operating according to regulations, advanced functions such as room zoning, merging and segmentation can be achieved, while improving cleaning efficiency. <br>[Virtual Walls and Restricted Areas] Set up virtual walls and restricted areas, ready to use and set, so that the robot will not cross the virtual wall or enter the restricted area during cleaning.<br>[Timing Cleaning] If you make an appointment a scheduled cleaning task, and the robot will start the cleaning task at the designated time. After completion, it will automatically return to the charging station.<br>[Selected Area  Cleaning] (Only applicable to some devices) You can choose to specify a room for cleaning. After selection, only the selected room will be cleaned, and you can clean wherever you want.<br>[Spot Cleaning] Click on the location to be cleaned on the map, and after clicking Start, the robot will automatically plan the path to the target point and perform local cleaning.<br>[Resume Cleaning] When the battery level is below 20%, the robot automatically plans the shortest path to return to the charging station for charging: after fully charging, return to the unfinished area and continue cleaning.",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/MSGZ56s7MLsT9QbrdO2B8t2WqFriQOaaqpCRQ1aCp5KFCb_qNAEB6D9qmNW3NaHWW6hu",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/u0xQg-8NJtNFJ4A50RQ-ndnyRD8Qlj0wqG4dYtPqa55_w2_aA8gfxxqfaAqNlvMwLw",
+    "https://play-lh.googleusercontent.com/UFix58HpZ3RXOPdB4o_73jlJ1RM4n6heTivOcgSH6bm-x_knmTh6EZP2qddLgeEqr02A",
+    "https://play-lh.googleusercontent.com/BfTU2V_KuLu3wx1sClU1ddUNSyNLygQAcEtvLi3E9-KBvCUVTO2Fl0X5wMuS-ghVhLE"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/RQa-EsaU7Ims2buwsD1e88Xk-8ytFlLgy8UeXJWKtjiJVOLkNJRj7MnpDNYu0HNbTNc",
+  "permissions": {
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Photos/Media/Files": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Camera": [
+      "take pictures and videos"
+    ],
+    "Microphone": [
+      "record audio"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Other": [
+      "Google Play license check",
+      "access Bluetooth settings",
+      "allow Wi-Fi Multicast reception",
+      "change network connectivity",
+      "change your audio settings",
+      "connect and disconnect from Wi-Fi",
+      "control flashlight",
+      "control vibration",
+      "full network access",
+      "install shortcuts",
+      "pair with Bluetooth devices",
+      "prevent device from sleeping",
+      "reorder running apps",
+      "set wallpaper",
+      "view network connections"
+    ],
+    "Uncategorized": [
+      "receive data from Internet"
+    ]
+  },
+  "reviews_data": null
+}

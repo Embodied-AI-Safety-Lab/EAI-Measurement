@@ -1,0 +1,99 @@
+{
+  "pkg_name": "com.MisterRobot.Robot",
+  "appId": "com.MisterRobot.Robot",
+  "title": "HYBRID SERIES",
+  "developer": "M.M. Global Trade Company Limited",
+  "developer_id": "M.M.+Global+Trade+Company+Limited",
+  "developer_email": "misterrobotcleaner@gmail.com",
+  "developer_website": null,
+  "developer_address": null,
+  "category": "Tools",
+  "category_id": "TOOLS",
+  "content_rating": "Everyone",
+  "score": null,
+  "ratings": null,
+  "reviews_count": null,
+  "installs": "5,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "http://note.youdao.com/noteshare?id=97f55b5699271999d072c45139a6ade3",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "This is a mobile application that use for Mister Robot - HYBRID SERIES product only. Users can use this app instead of traditional remote control to control robot vacuum via wifi connection such as\r\n- Start/Stop Cleaning\r\n- Robot Monitoring\r\n- Recharging\r\n- Water Drop Level Control\r\n- Direction Control\r\n- Time Scheduling\r\nIf you have any question please contact us at misterrobotcleaner@gmail.com",
+  "descriptionHTML": "This is a mobile application that use for Mister Robot - HYBRID SERIES product only. Users can use this app instead of traditional remote control to control robot vacuum via wifi connection such as<br>- Start/Stop Cleaning<br>- Robot Monitoring<br>- Recharging<br>- Water Drop Level Control<br>- Direction Control<br>- Time Scheduling<br>If you have any question please contact us at misterrobotcleaner@gmail.com",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/qbF1tfyIP8YT2BCvcuaQ394DCHftMktp_DdWK4KEv-Gv6CRuHcW-zDEwU7sqRvCUxHcT",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/WHWsbdmBX0rTjmXV0Y_2BJ7Edr-gMB3JGOTbJN6Gvrmzj5lWpMSOR2wg03PeD_R-Pg",
+    "https://play-lh.googleusercontent.com/TJZJf8ty0UyIg3Ugd7G-NWOJXTqvj4nnm0Jeykm0OS33l38R_NBVYe8tEkufn0H_D94",
+    "https://play-lh.googleusercontent.com/8SFaSa_L_Ip0-wLhhin5-5VRXp4rbeeoqF9pton0ONAy4oM4iN8jia37sJue-lPQEB6E"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/gdKLZTducOqWoikvTjDeyny98b1rk72p-wXMmS1CQU_Cwwvoyuk8R50lasW1pFnwMEUP",
+  "permissions": {
+    "Device & app history": [
+      "read sensitive log data",
+      "retrieve running apps"
+    ],
+    "Identity": [
+      "find accounts on the device"
+    ],
+    "Contacts": [
+      "find accounts on the device"
+    ],
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Phone": [
+      "directly call phone numbers",
+      "read phone status and identity"
+    ],
+    "Photos/Media/Files": [
+      "access USB storage filesystem",
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Camera": [
+      "take pictures and videos"
+    ],
+    "Microphone": [
+      "record audio"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Device ID & call information": [
+      "read phone status and identity"
+    ],
+    "Other": [
+      "access Bluetooth settings",
+      "allow Wi-Fi Multicast reception",
+      "change network connectivity",
+      "change system display settings",
+      "connect and disconnect from Wi-Fi",
+      "control flashlight",
+      "control vibration",
+      "full network access",
+      "modify system settings",
+      "pair with Bluetooth devices",
+      "prevent device from sleeping",
+      "reorder running apps",
+      "run at startup",
+      "view network connections"
+    ],
+    "Uncategorized": [
+      "close other apps",
+      "receive data from Internet"
+    ]
+  },
+  "reviews_data": null
+}

@@ -1,0 +1,78 @@
+{
+  "pkg_name": "com.abb.robotassist",
+  "appId": "com.abb.robotassist",
+  "title": "Robot Assist",
+  "developer": "ABB Information Systems AG",
+  "developer_id": "ABB+Information+Systems+AG",
+  "developer_email": "mobileapps@abb.com",
+  "developer_website": null,
+  "developer_address": null,
+  "category": "Business",
+  "category_id": "BUSINESS",
+  "content_rating": "Everyone",
+  "score": 0,
+  "ratings": 0,
+  "reviews_count": 0,
+  "installs": "5,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://mobileapps.abb.com/privacy/robotassist/",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "ABB’s Robot Assist is an application designed to bring to you all the collaborative robot resources and information at your fingertips. Through this app you will get easy access to cobot related documents, manuals, tutorials, videos and much more. \r\nWithout any additional logins and sign-ups, you can get easy and convenient access to a range of ABB’s supporting documentations. Robot Assist will keep you updated about latest news on ABB’s collaborative robot portfolio and help you in learning easy cobot programming via free programming games!\r\nFunctionalities:\r\n- Online Tutorials of YuMi, GoFa, SWIFTI cobots and Wizard easy programming software\r\n- Datasheet, brochure and product manuals of all the collaborative robots\r\n- GLB Files for AR viewing of each collaborative robot",
+  "descriptionHTML": "ABB’s Robot Assist is an application designed to bring to you all the collaborative robot resources and information at your fingertips. Through this app you will get easy access to cobot related documents, manuals, tutorials, videos and much more. <br>Without any additional logins and sign-ups, you can get easy and convenient access to a range of ABB’s supporting documentations. Robot Assist will keep you updated about latest news on ABB’s collaborative robot portfolio and help you in learning easy cobot programming via free programming games!<br>Functionalities:<br>- Online Tutorials of YuMi, GoFa, SWIFTI cobots and Wizard easy programming software<br>- Datasheet, brochure and product manuals of all the collaborative robots<br>- GLB Files for AR viewing of each collaborative robot",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/l-KSURAcG-DPc7hKBhFO0hwuEizEDa8j1N6DA1mu42WSQVMvsTOSsMTAXbg4fo5w8i8",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/7PL--60Tf568tNZHCl5ywjeXh6TxoRAn5-sGO9VpuUQhjdASPynKx93EiF4nrukLBow",
+    "https://play-lh.googleusercontent.com/FiNs1dB0SqgurcVUhx-DF6xZElSFW71vjpckGpnT8a6hIL24apajmiRasS1SPkWq7pQ",
+    "https://play-lh.googleusercontent.com/NVkrpxuNv2wpMMlqoSv1F22w9H19_Ae0wXBW2SFVZ-P4UB8qWenfWkb19TH9vEdqc5I",
+    "https://play-lh.googleusercontent.com/9CM7q0yST_Y0A50dkRj6ZXNQcWJJBNUdXJbm8sFfRh9rcNP5LmgYp8XzExrSp7Q8tA",
+    "https://play-lh.googleusercontent.com/0HU8Vse-f8hfUyRRL3i82wqC0Qsg0Bg86DemekT2PCJmFZEq-tS07gLlsGqwvYEDXew",
+    "https://play-lh.googleusercontent.com/k7gB50d1ZL_f1Af1RJqEgyqbxl1zSZy3uNCpQlAtZBg7zYmcIxKQ-aZxYv3Q9T-nxrc",
+    "https://play-lh.googleusercontent.com/5QXkOLuMzxVfPA6f70fb_2UpVys8IOFEKzG3dTSr02azn6Eusp2JF1NkMkrvIsAkW6o",
+    "https://play-lh.googleusercontent.com/pVF9Jqk7pmE2pHwXq7hpa7jxHx7UD9nIngz43zphWo_zrDBYUmejlUt_PQLbzDJU-A",
+    "https://play-lh.googleusercontent.com/lSmC_3jdYgQOV__Kgv5NybcioMG7b7BnVtIBa648Ci1VnLsJWRtqDL0RycZRiAUnNXc",
+    "https://play-lh.googleusercontent.com/XmDIv1bX_uvqkblo_wWZuwJPTDDy5pjrMU_X4ODTIVpYa2e9Ez1maI1ClTFjrJ8YjueC",
+    "https://play-lh.googleusercontent.com/6llt-tpkQpQBrsPFWM6P85wKPotjMGex67g6qxu6vl6AK58nKvJZvdva5Q4W00WXSIM",
+    "https://play-lh.googleusercontent.com/1hYSgNkfHZwPLLuQ8rJMJo846FFEFbL9ckY2VTyKynqWCW6CRt8gSb7FhPSAeT7ZkFLy",
+    "https://play-lh.googleusercontent.com/34NuMwfYOSR6Qxt7o_HGHa5x4wHvJt64xTTGrs3im9ND_e6p84A2F3xvcTLj0G4J-hc",
+    "https://play-lh.googleusercontent.com/CMkMcfxIiaHrJozS1HH7H7RDgOhicLCPQawBn1StWYMo4Zi8oBm8pT7SsfxafFijEQ",
+    "https://play-lh.googleusercontent.com/2rHqKsyypOlKw409P-nfe4RdHbnbl8p8g2INMOcG9iD38fG_W9fWHt2VP-DL3ON7vJWd",
+    "https://play-lh.googleusercontent.com/A8i3nYhaEF-V4Jmt0xAr5uIZwX8jQZxG-AO8utRx7nKYciYC8wVU9CKNnFJ8oEc-rQ",
+    "https://play-lh.googleusercontent.com/zQCbYsTjMXDl_Rh-6kyyMvpKV3At_pFUcr7oFeYibWgo9swH7QlsltJZjTFg_zfStBY",
+    "https://play-lh.googleusercontent.com/poiGHEDBcvWQhyITE-f3XsW0CqEVhnjTcrkaCu-L_rkxLUOlfknvVWirrHphGvoIyUk",
+    "https://play-lh.googleusercontent.com/omN5HzJvWAAXq82nJU3uv9qWeK4vv4qQOvaVMUg7G5Mwg6P1MPRRr6Wvqt_7WOvPGz4",
+    "https://play-lh.googleusercontent.com/4OOzpKFru608wCh6uW8J8lVTw3A6u5KJFJN2hY4pm18fjCjXYwd2C4hdT-1QbWE_9Gw",
+    "https://play-lh.googleusercontent.com/8kilTVnmmuo072xfqe4-hvlUdU_70ZqJLcJE-rWUL35TyMKtcUKStfn65I-iuAVs6jA"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/APG2mFBnEn3Gds6LT9dGP_HP0RyD13Rox5w25NNaeFERLQ04K1ANvbRIRTTxicz6cgFz",
+  "permissions": {
+    "Photos/Media/Files": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Other": [
+      "allow Wi-Fi Multicast reception",
+      "full network access",
+      "prevent device from sleeping",
+      "view network connections"
+    ],
+    "Uncategorized": [
+      "receive data from Internet"
+    ]
+  },
+  "reviews_data": null
+}

@@ -1,0 +1,56 @@
+{
+  "pkg_name": "com.cooingdv.elitedrone",
+  "appId": "com.cooingdv.elitedrone",
+  "title": "Elite Drone",
+  "developer": "cooingdv",
+  "developer_id": "cooingdv",
+  "developer_email": "liang7320576@gmail.com",
+  "developer_website": null,
+  "developer_address": null,
+  "category": "Tools",
+  "category_id": "TOOLS",
+  "content_rating": "Everyone",
+  "score": null,
+  "ratings": null,
+  "reviews_count": null,
+  "installs": "10,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://www.jianshu.com/p/118027571b67?v=1713776745018",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "This APP uses WIFI to transmit images to control drone flight, and has functions such as taking photos and videos.",
+  "descriptionHTML": "This APP uses WIFI to transmit images to control drone flight, and has functions such as taking photos and videos.",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/lRPpsMdUXDnrEBWNH64SVP39ptmVlYzf-2AIrq5grUz0TyXddECPJ48NMAE56TBP3q9D",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/I5Skvl0Jj9L0wTwK7Q9BVJYp0Pqn2WXPTXPWppHF09LmuChaWCrTwp-2KzWrGG8y8U2N",
+    "https://play-lh.googleusercontent.com/mUT0T2MQ-GmX5tq2HtQ9oPv29rn0G9uYK8GP59KP2_nK-1sAYAADMGQ8sLoqa4y2ajw",
+    "https://play-lh.googleusercontent.com/LM7oWMErrCmimFQXWalY8ilcTn_UBFSsrUrTaSLdqQVEya_aMSHanaZnIJ493w8ZIw"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/A0FTIwcwG8DIIb-gdcaTzXOyU02gp1rxYIJFYvIe5RUyphM_DwRQ_qYEAoeUsjlLDb8U",
+  "permissions": {
+    "Location": [
+      "access extra location provider commands",
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Other": [
+      "change network connectivity",
+      "change your audio settings",
+      "connect and disconnect from Wi-Fi",
+      "full network access",
+      "prevent device from sleeping",
+      "view network connections"
+    ]
+  },
+  "reviews_data": null
+}

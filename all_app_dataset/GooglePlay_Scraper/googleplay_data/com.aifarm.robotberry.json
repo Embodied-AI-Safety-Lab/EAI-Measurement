@@ -1,0 +1,64 @@
+{
+  "pkg_name": "com.aifarm.robotberry",
+  "appId": "com.aifarm.robotberry",
+  "title": "Robotberry",
+  "developer": "AI Farm Robotics",
+  "developer_id": "AI+Farm+Robotics",
+  "developer_email": "info@aifarm.dev",
+  "developer_website": "https://aifarm.dev",
+  "developer_address": null,
+  "category": "Tools",
+  "category_id": "TOOLS",
+  "content_rating": "Everyone",
+  "score": null,
+  "ratings": null,
+  "reviews_count": null,
+  "installs": "50+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://aifarm.dev/robotberry-privacy-policy",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "Robotberry is an intuitive app designed to provide seamless control of AI Farm's robots. It connects with the robot via Bluetooth BLE enabling effortless communication with the robot to control movements, execute tasks, and monitor performance in real-time. \r\nWith a user-friendly interface and robust connectivity, this app is the perfect companion for hobbyists, developers, and robotics enthusiasts.",
+  "descriptionHTML": "Robotberry is an intuitive app designed to provide seamless control of AI Farm&#39;s robots. It connects with the robot via Bluetooth BLE enabling effortless communication with the robot to control movements, execute tasks, and monitor performance in real-time. <br>With a user-friendly interface and robust connectivity, this app is the perfect companion for hobbyists, developers, and robotics enthusiasts.",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/ColCpO3VWXQf4sLnOK1pi_vuASZD7j1_PnSmQlQ1LDn5bA11CAjIl3efoCvKeHdeadgP",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/8B2COnre5oqTFHna9qVTKtcNzt-d8fl8UWzDXEzwPw6cfCAMdvJ9ZJ2VjFrjGl_F_hQ",
+    "https://play-lh.googleusercontent.com/2UfVj8Qc6Zk7lfTpGJ1TPyuG_PzcxYBvHBe1of8KwBQxY9f3U596U1oF9AQJteqDC_s",
+    "https://play-lh.googleusercontent.com/FQrWfCtXRZImAx9F5re6ZP3rUECbszuStvP4rJx8jFB2pxVXxz76SsiIcMgEA3eUKV9R",
+    "https://play-lh.googleusercontent.com/tWxzA2BYR9tX_LVCR12iCy5lyJUT2-q2q1KttAjixHnSabBWsDM7x2COYVlBSPQyvXg",
+    "https://play-lh.googleusercontent.com/sGK4BE0OSNvqel718FcFDIsF_SaNW9gtmDa7QcE0Yg3ZNojOh0Y6MWt9mSYfYOVpVUT1",
+    "https://play-lh.googleusercontent.com/07rcl94pzfRIULuiVbYZgxNpb2QBu9dvchK0L25dzoe5nnoqdOm1AybtPVrnwn3Ey0in",
+    "https://play-lh.googleusercontent.com/YDxALhi9G1qwjLVr1cFzbAllZZNMf4aTrHGBuzuMdf1rX8Aim8ps9P46IavAflNXoRhB",
+    "https://play-lh.googleusercontent.com/1m5dQj96zuri4vcpuQao2Hx1cfBg2EeBcrjhyINBoJgPTuhonRs-z7fpLm2huWOAgQ8",
+    "https://play-lh.googleusercontent.com/fKcWUltz8KpgWVXZ9of2E9a6WfdRsKpR8iUhE6mj0gOggqymi9vWwEbB1h-QKVW2lQQ",
+    "https://play-lh.googleusercontent.com/ZYAtxknA81nYBXbtjKH-tvcFkgRJ7bZrwkaDK8pLBL6nFtBpIUGnXZal5_LeHGrCn18"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/4zPy5TKoz2RJ-zb_Dt0N-gL5CgMGP3_66Ync-9JHcf78lmkdmE220XA1Vd7WGznJCTI",
+  "permissions": {
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Other": [
+      "Google Play license check",
+      "access Bluetooth settings",
+      "change network connectivity",
+      "connect and disconnect from Wi-Fi",
+      "full network access",
+      "modify system settings",
+      "pair with Bluetooth devices",
+      "view network connections"
+    ]
+  },
+  "reviews_data": null
+}

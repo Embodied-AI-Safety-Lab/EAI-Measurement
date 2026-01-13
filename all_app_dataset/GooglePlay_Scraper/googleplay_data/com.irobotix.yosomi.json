@@ -1,0 +1,81 @@
+{
+  "pkg_name": "com.irobotix.yosomi",
+  "appId": "com.irobotix.yosomi",
+  "title": "icotech",
+  "developer": "Icotech Home Technology",
+  "developer_id": "Icotech+Home+Technology",
+  "developer_email": "guowj1973@3irobotics.com",
+  "developer_website": null,
+  "developer_address": null,
+  "category": "Tools",
+  "category_id": "TOOLS",
+  "content_rating": "Everyone",
+  "score": null,
+  "ratings": null,
+  "reviews_count": null,
+  "installs": "500+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://aiot-all-prod.oss-cn-shenzhen.aliyuncs.com/prod/agreements-manage/20230628/icotech-RCVhome_privacy-TR_1687922108413.md",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "The icotech APP allows you to remotely control your laser sweeping robot through your mobile phone whether you are at home or when you are out, allowing the robot to perform daily cleaning tasks autonomously. All you need to do is admire its efficient cleaning ability and enjoyment a warm and clean home environment.\r\n\r\nAPP intelligent control\r\n1) Check the real-time map, the robot builds the map in real time during cleaning, so that you can see its working situation at a glance\r\n2) Remote cleaning, simple operation can remotely control all functions of the machine, one-key cleaning anytime, anywhere\r\n3) Make an appointment for cleaning and set the time for daily cleaning work to meet your exclusive cleaning needs\r\n4) It can start, stop, suspend cleaning and recharging, and also supports multiple cleaning mode switching - high-performance cleaning/energy-saving mode",
+  "descriptionHTML": "The icotech APP allows you to remotely control your laser sweeping robot through your mobile phone whether you are at home or when you are out, allowing the robot to perform daily cleaning tasks autonomously. All you need to do is admire its efficient cleaning ability and enjoyment a warm and clean home environment.<br><br>APP intelligent control<br>1) Check the real-time map, the robot builds the map in real time during cleaning, so that you can see its working situation at a glance<br>2) Remote cleaning, simple operation can remotely control all functions of the machine, one-key cleaning anytime, anywhere<br>3) Make an appointment for cleaning and set the time for daily cleaning work to meet your exclusive cleaning needs<br>4) It can start, stop, suspend cleaning and recharging, and also supports multiple cleaning mode switching - high-performance cleaning/energy-saving mode",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/wB9feav7hExFmtcSgiEJKNIgPiKGVjYd6L5MTb37xTViaHs7FOkbbNQrIkCLdBpWxuI",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/weIOLkAdsE5hJwBIZP7FsYrvnihkhgHXuLCToJntlEy0Tfpa5JQSLkcS-eKO_pNVvRM",
+    "https://play-lh.googleusercontent.com/PiC2eIwRaZeAUP7_e58wdPgeP9oWbyU1_0rtpXQLNSW98qxKvA6kO5lzzv23_gToAqU",
+    "https://play-lh.googleusercontent.com/py2tcU1KAG8gpU45UqVb_-4Q_N-6Pt-D30pKTakItVAjkk6CEvOD0bLwdBYKTqbIwIgU",
+    "https://play-lh.googleusercontent.com/t8Y5DdXDNmb7CAxARPEdOLBHvMHZtgHJf2ry_SHpY0_db00xNTT9qnZxyYTTlclbXCI",
+    "https://play-lh.googleusercontent.com/NKEG8q_-M6w9xhtItQsw5ZUb95KKsz8VsSDdR_4aBnKvNGCgE6vwG3ViSHklSnOqig",
+    "https://play-lh.googleusercontent.com/REh-WUKpmQpoCohCjndF5lOYSOTD-ZBJjXXdmoKLw1T3R0MKco3zjLcCnnsCvnhAsw",
+    "https://play-lh.googleusercontent.com/3ry2b93X8HaPGKR5l32IOXYel_ZubKYkRHFr4f6xNQsKn7nPsNV-xanMcacgbrNl0w",
+    "https://play-lh.googleusercontent.com/AmZTgp_xABquU31Fw7gldAfmRYw0P_7LAbM5xmFKcCQYYJBLc1YJ6J2XGGaasTGrZV4",
+    "https://play-lh.googleusercontent.com/WGBlu53kyz5eFuKxPC_NS2HCQAwn52zjw2E7YQi_TE87H-s72CjFAYDJVC9gR-uTA6J7",
+    "https://play-lh.googleusercontent.com/iDibvPEqVCCx8RPuuhdIu-jKEGYsFQ6JNX10n4NsPMWiqCH9nDqAEk_pH1M57kT0Oug",
+    "https://play-lh.googleusercontent.com/nYawt21RpQnq28CyLp0gcIQGU8urwlyZbSm2U8zqmiiCK7h2wimd4k3DnpQ1ElnhYLXY",
+    "https://play-lh.googleusercontent.com/byuw3TG8oFsX3dhbdqDYR_hfdbZPk_zQEtD1vXYD5AEPYzGECm80udv488q_hwzqOZU",
+    "https://play-lh.googleusercontent.com/_dPCO7q2MxErriOEgvbX-Bpnpfe6HvoCeE-IvMgeoG7LlEAKflaRtCE9loOAQIxbBw"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/CqLclllUxx_5rDA48AlZ-HBwOVjD8P92FopJ-RGZ0xtCJzLWekpEmJCYqXbZr5oPFxTZ",
+  "permissions": {
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Phone": [
+      "read phone status and identity"
+    ],
+    "Photos/Media/Files": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Device ID & call information": [
+      "read phone status and identity"
+    ],
+    "Other": [
+      "access Bluetooth settings",
+      "allow Wi-Fi Multicast reception",
+      "change network connectivity",
+      "connect and disconnect from Wi-Fi",
+      "full network access",
+      "pair with Bluetooth devices",
+      "prevent device from sleeping",
+      "view network connections"
+    ]
+  },
+  "reviews_data": null
+}

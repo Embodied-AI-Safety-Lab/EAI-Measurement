@@ -1,0 +1,71 @@
+{
+  "pkg_name": "com.yahboomrobot",
+  "appId": "com.yahboomrobot",
+  "title": "Yahboom Robot",
+  "developer": "Yahboom Technology",
+  "developer_id": "Yahboom+Technology",
+  "developer_email": "pm@yahboom.com",
+  "developer_website": "https://www.yahboom.net/",
+  "developer_address": null,
+  "category": "Education",
+  "category_id": "EDUCATION",
+  "content_rating": "Everyone",
+  "score": 2.7142856,
+  "ratings": 43,
+  "reviews_count": 10,
+  "installs": "10,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://sites.google.com/view/yahboom-privacy",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "YahboomRobot APP is a robot control software in smart devices. Everyone can directly control Yahboom robots using official controller in the software.\r\n\r\n\r\nFeatures:\r\n-Brand New UI Design, User-Friendly Interface. \r\n-Stronger Controllability, Simpler Way to Learn STEM：STEM education becomes easy & fun as you can also master robot freely to sing, dance or light. \r\n-Supporting Yahboom Robot car: Jetbot, Roboduino, Omniduino, G1 Tank, 4WD Robot car, TrikeBot car, 6WD robot, micro:bit camera platform.\r\n-Multi-Language User Interface :Chinese, Traditional Chinese, English.\r\n\r\nSupport:\r\n-You can visit the official website: www.yahboom.com for more information\r\n-Support email: support@yahboom.com",
+  "descriptionHTML": "YahboomRobot APP is a robot control software in smart devices. Everyone can directly control Yahboom robots using official controller in the software.<br><br><br>Features:<br>-Brand New UI Design, User-Friendly Interface. <br>-Stronger Controllability, Simpler Way to Learn STEM：STEM education becomes easy &amp; fun as you can also master robot freely to sing, dance or light. <br>-Supporting Yahboom Robot car: Jetbot, Roboduino, Omniduino, G1 Tank, 4WD Robot car, TrikeBot car, 6WD robot, micro:bit camera platform.<br>-Multi-Language User Interface :Chinese, Traditional Chinese, English.<br><br>Support:<br>-You can visit the official website: www.yahboom.com for more information<br>-Support email: support@yahboom.com",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/bZtxA8KPCW7zPyeGQ_TPlmDNRF3Gqn3zyzokwQlOL0Ryhj7XvCrICu4A-ieiD48j3re4",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/66AUBtYpRF2Z5rJ7Pqk_pfr-6Qn-49a6QwVbR_C-rvFMwCqeR01Ge3-eYxLoAjhsouvO",
+    "https://play-lh.googleusercontent.com/G_YtpHEj07Q6d1UAAJMcF3Th_C5SuZGzmZJ24Kt0YQV4PUrDojPpwApupXGPNUouqQ",
+    "https://play-lh.googleusercontent.com/aMs9IDHlhf_X5IN-8CVymOYFbTydfmOXdDZKWHRJQ47bmu2JNZnKfbk-A9bpy1mkca8Q",
+    "https://play-lh.googleusercontent.com/XG_UuDOY8uxaulNLu8OmfYkpIIyJaBsn9_MWbqthWNXBn3pmTT20rSBH5fr9NNwDBg"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/_bJULVzp5Wtx2YgqPdjx2EVdq7u6Ca1CY6LU7ZAUkdrfi7EC88FuK3i6leMe9Dfl_Q",
+  "permissions": {
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Photos/Media/Files": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Other": [
+      "access Bluetooth settings",
+      "allow Wi-Fi Multicast reception",
+      "change network connectivity",
+      "connect and disconnect from Wi-Fi",
+      "control vibration",
+      "draw over other apps",
+      "full network access",
+      "measure app storage space",
+      "pair with Bluetooth devices",
+      "view network connections"
+    ],
+    "Uncategorized": [
+      "receive data from Internet"
+    ]
+  },
+  "reviews_data": null
+}

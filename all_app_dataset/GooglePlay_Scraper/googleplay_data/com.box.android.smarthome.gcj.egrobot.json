@@ -1,0 +1,55 @@
+{
+  "pkg_name": "com.box.android.smarthome.gcj.egrobot",
+  "appId": "com.box.android.smarthome.gcj.egrobot",
+  "title": "EGROBOT",
+  "developer": "（中国）杭州妙联物联网技术有限公司",
+  "developer_id": "%EF%BC%88%E4%B8%AD%E5%9B%BD%EF%BC%89%E6%9D%AD%E5%B7%9E%E5%A6%99%E8%81%94%E7%89%A9%E8%81%94%E7%BD%91%E6%8A%80%E6%9C%AF%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8",
+  "developer_email": "mayinghong@miotlink.com",
+  "developer_website": "http://www.miotlink.com/",
+  "developer_address": null,
+  "category": "Lifestyle",
+  "category_id": "LIFESTYLE",
+  "content_rating": "Everyone",
+  "score": 0,
+  "ratings": 0,
+  "reviews_count": 0,
+  "installs": "10,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "http://www.51miaomiao.com/statics/docs/mmw_privacy.html",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "For the life convenience,a robot lawn mower with wifi function is developed and the mower can be controlled by your smartphone after downloading this APP .You also could set up one week(From Monday to Sunday,once for each day)cutting schedule by your phone.Robot lawn mower not only make your lawn more beautiful but also let you enjoy better life.",
+  "descriptionHTML": "For the life convenience,a robot lawn mower with wifi function is developed and the mower can be controlled by your smartphone after downloading this APP .You also could set up one week(From Monday to Sunday,once for each day)cutting schedule by your phone.Robot lawn mower not only make your lawn more beautiful but also let you enjoy better life.",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/eGtpUrZNuVTPECBZezZEjdmy4lRwwjXGOGQIq_UMMlVAy1hpqQAJ1KmujQkw7hSIdQ",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/U8QpPfT2u6meR_BChdsQ5KaxQ_3Khif6b-U4LcPOAfjiO8PBZgdeJnRVKK9E1k7zA94",
+    "https://play-lh.googleusercontent.com/-_aPRN5reRlRm_2WYwWwpe9VvdpmNyEbPpvL_QcUtfqHFQlFdVP8WaMakttL4woseg",
+    "https://play-lh.googleusercontent.com/_QLha-KxvyYCAaXAGUJMBR-b8Brv87xclaIv0xtSCshzU8A_cj1lgbmEHmt0myiP8w"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/3j5xEmRW6hSALIhnWkP_wUHQcnazwdof_XNEsKFWS8i1mZTWYMRbjJ7G4PsdlnJlCvU",
+  "permissions": {
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Other": [
+      "allow Wi-Fi Multicast reception",
+      "change network connectivity",
+      "connect and disconnect from Wi-Fi",
+      "control vibration",
+      "full network access",
+      "view network connections"
+    ]
+  },
+  "reviews_data": null
+}

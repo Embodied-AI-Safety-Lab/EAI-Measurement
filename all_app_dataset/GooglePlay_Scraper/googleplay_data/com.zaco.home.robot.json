@@ -1,0 +1,90 @@
+{
+  "pkg_name": "com.zaco.home.robot",
+  "appId": "com.zaco.home.robot",
+  "title": "ZACOHome",
+  "developer": "ZACO",
+  "developer_id": "ZACO",
+  "developer_email": "zaco@iliferobot.com",
+  "developer_website": "https://www.zacorobot.eu",
+  "developer_address": null,
+  "category": "Tools",
+  "category_id": "TOOLS",
+  "content_rating": "Everyone",
+  "score": 0,
+  "ratings": 0,
+  "reviews_count": 0,
+  "installs": "50,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://rv-robotics.com/pages/mobile-privacy-policy",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "ZACOHome is a mobile phone application of connecting the ZACO cleaner robotic products, which supports the robotic customization products with WIFI function under the ZACO brand. It can not only replace the traditional remote controller , but also can present more working data that cannot be displayed by the conventional remote controller. Through the APP, the user can remotely control and reserve robots for cleaning while away from home, making you to enjoy smart life anytime, anywhere.",
+  "descriptionHTML": "ZACOHome is a mobile phone application of connecting the ZACO cleaner robotic products, which supports the robotic customization products with WIFI function under the ZACO brand. It can not only replace the traditional remote controller , but also can present more working data that cannot be displayed by the conventional remote controller. Through the APP, the user can remotely control and reserve robots for cleaning while away from home, making you to enjoy smart life anytime, anywhere.",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/DvwsQG4qBYHJk9oLlFdbHiwv2V1XmL2rp5JHN8d83rcdXM-gwQy7XfzqNK6FjSQNNtKd",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/YXVjdP1DWQF3sxTW6vfVYvRNTUCvjNlxUFpw11jOpIH5-Fx7KKayNO9YOXq0XEE6Tp0",
+    "https://play-lh.googleusercontent.com/sfSiXKnCyw0gARrrJqMu9LyukZ4Zq6p7y1EsKn92aGAe3frd12QNfDZYHWnV4gY9f_8",
+    "https://play-lh.googleusercontent.com/g6H6PKv2Wcgfl6klweYb2w_Im6goWXGKN3_yU3dardy4B0d3htc_eBIt5_hhofEWBnWG",
+    "https://play-lh.googleusercontent.com/Fbt8UUB8y73JOJoaKRySDBBpZEdLLKHDmYlgQETjcMUdxifbCGbz5oNNIKo4g28eFR7A",
+    "https://play-lh.googleusercontent.com/7uiQQhYDs0kUVUHV5gaVafxfM89Qszhcr1tcJA3ZntPkIiFTUyuJ8a9zz38xPs39v2g"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/tyHc-Xcgrd8F32Nn-Q60uJIheNt9-D2buuc7uVaUvql_KZ1J_vTmsHx5NnEDkC4vpOY",
+  "permissions": {
+    "Device & app history": [
+      "read sensitive log data",
+      "retrieve running apps"
+    ],
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Phone": [
+      "directly call phone numbers",
+      "read phone status and identity"
+    ],
+    "Photos/Media/Files": [
+      "access USB storage filesystem",
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Camera": [
+      "take pictures and videos"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Device ID & call information": [
+      "read phone status and identity"
+    ],
+    "Other": [
+      "access Bluetooth settings",
+      "allow Wi-Fi Multicast reception",
+      "change network connectivity",
+      "change system display settings",
+      "connect and disconnect from Wi-Fi",
+      "control flashlight",
+      "control vibration",
+      "draw over other apps",
+      "full network access",
+      "modify system settings",
+      "pair with Bluetooth devices",
+      "prevent device from sleeping",
+      "view network connections"
+    ],
+    "Uncategorized": [
+      "receive data from Internet"
+    ]
+  },
+  "reviews_data": null
+}

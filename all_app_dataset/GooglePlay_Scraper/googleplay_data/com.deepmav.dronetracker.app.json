@@ -1,0 +1,72 @@
+{
+  "pkg_name": "com.deepmav.dronetracker.app",
+  "appId": "com.deepmav.dronetracker.app",
+  "title": "Drone Tracker",
+  "developer": "Mavtek d.o.o.",
+  "developer_id": "5970150412376911370",
+  "developer_email": "kontakt@mavtek.rs",
+  "developer_website": "https://mavtek.rs",
+  "developer_address": null,
+  "category": "Maps & Navigation",
+  "category_id": "MAPS_AND_NAVIGATION",
+  "content_rating": "Everyone",
+  "score": 0,
+  "ratings": 0,
+  "reviews_count": 0,
+  "installs": "10,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://mavtek.rs/android-privacy-policy/",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "Drone Tracker is an app used for vision-based object tracking for DJI drones. The app allows you to perform visual tracking in real time using drone’s primary camera as the drone autonomously flies following the tracked object. The app allows you to view the video stream from the drone’s primary camera during the flight operation with an overlay showing the tracked object.\r\n\r\nDrone Tracker app is used with DJI drones and requires a DJ RC controller to be connected to the device. Following DJI drones are supported:\r\n\r\n1.\tMatrice 350 RTK\r\n2.\tMatrice 300 RTK\r\n3.\tDJI Mini 3\r\n4.\tDJI Mini 3 Pro\r\n5.\tDJI Mavic 3M\r\n6.\tDJI Mavic 3 Enterprise Series\r\n7.\tMatrice 30 Series\r\n\r\nThe app was developed by DeepMAV.ai.\r\n\r\nThe app allows you to safely take off, land and return to takeoff location by using the flight control panel on the bottom.\r\n\r\nTracking\r\n\r\nTo perform a tracking flight, first ensure the drone is powered on and connected to the RC. Also ensure the RC is powered on and the device is connected to the RC via the USB cable. You can check if the drone connection is successful by previewing the camera video by pressing the camera button in the app.\r\n\r\nWhen the camera video preview panel is visible, tap anywhere inside the camera panel to select the object to track. The app will show a white rectangle overlay over the camera preview panel. Confirm you wish to start tracking in the popup dialog and the drone will start the tracking operation.\r\n\r\nWhile the drone is in tracking mode, the button in the top left corner shows Tracking On. Pressing that button allows you to stop tracking.\r\n\r\nTapping anywhere inside the camera preview panel again allows you to select a different object to track. You can do this even while tracking is in progress.\r\n\r\nWhile tracking is on, the video preview panel shows the live drone camera video with an overlay showing the location of the tracked objects in the frame.\r\n\r\nWhen the drone is tracking, after takeoff, you can enable autonomous flight by pressing the Fly button in the bottom center panel. The drone will autonomously yaw to follow the tracked object and fly towards it if the object moves further away. Stopping autonomous flight will make the drone hover in place.\r\n\r\nSimulator Mode\r\n\r\nDrone Tracker app allows you to test your drone flight in simulator mode. Simply start the app, turn on your drone, make sure the RC is connected to the drone, and connect the device to the RC. Pressing the Sim On/Off button switches between simulator and normal mode. When the simulator is turned on, the button will show the Sim On status.\r\n\r\nIn simulator mode, the drone will perform takeoff, landing, and return to home functions, as if it was truly flying. You can use the control sticks on the RC to fly the drone manually in simulator mode. The map will display the drone’s simulated location. All other functions of the app are enabled including video preview and tracking. Note that the video preview shows the actual live feed from the drone’s primary camera and is not simulated.\r\n\r\nNo account creation or login required. Simply start the app and start flying.\r\n\r\nMake sure to fly responsibly and obey your local drone regulations.",
+  "descriptionHTML": "Drone Tracker is an app used for vision-based object tracking for DJI drones. The app allows you to perform visual tracking in real time using drone’s primary camera as the drone autonomously flies following the tracked object. The app allows you to view the video stream from the drone’s primary camera during the flight operation with an overlay showing the tracked object.<br><br>Drone Tracker app is used with DJI drones and requires a DJ RC controller to be connected to the device. Following DJI drones are supported:<br><br>1.\tMatrice 350 RTK<br>2.\tMatrice 300 RTK<br>3.\tDJI Mini 3<br>4.\tDJI Mini 3 Pro<br>5.\tDJI Mavic 3M<br>6.\tDJI Mavic 3 Enterprise Series<br>7.\tMatrice 30 Series<br><br>The app was developed by DeepMAV.ai.<br><br>The app allows you to safely take off, land and return to takeoff location by using the flight control panel on the bottom.<br><br>Tracking<br><br>To perform a tracking flight, first ensure the drone is powered on and connected to the RC. Also ensure the RC is powered on and the device is connected to the RC via the USB cable. You can check if the drone connection is successful by previewing the camera video by pressing the camera button in the app.<br><br>When the camera video preview panel is visible, tap anywhere inside the camera panel to select the object to track. The app will show a white rectangle overlay over the camera preview panel. Confirm you wish to start tracking in the popup dialog and the drone will start the tracking operation.<br><br>While the drone is in tracking mode, the button in the top left corner shows Tracking On. Pressing that button allows you to stop tracking.<br><br>Tapping anywhere inside the camera preview panel again allows you to select a different object to track. You can do this even while tracking is in progress.<br><br>While tracking is on, the video preview panel shows the live drone camera video with an overlay showing the location of the tracked objects in the frame.<br><br>When the drone is tracking, after takeoff, you can enable autonomous flight by pressing the Fly button in the bottom center panel. The drone will autonomously yaw to follow the tracked object and fly towards it if the object moves further away. Stopping autonomous flight will make the drone hover in place.<br><br>Simulator Mode<br><br>Drone Tracker app allows you to test your drone flight in simulator mode. Simply start the app, turn on your drone, make sure the RC is connected to the drone, and connect the device to the RC. Pressing the Sim On/Off button switches between simulator and normal mode. When the simulator is turned on, the button will show the Sim On status.<br><br>In simulator mode, the drone will perform takeoff, landing, and return to home functions, as if it was truly flying. You can use the control sticks on the RC to fly the drone manually in simulator mode. The map will display the drone’s simulated location. All other functions of the app are enabled including video preview and tracking. Note that the video preview shows the actual live feed from the drone’s primary camera and is not simulated.<br><br>No account creation or login required. Simply start the app and start flying.<br><br>Make sure to fly responsibly and obey your local drone regulations.",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/QREOghkvN4CwrsokWmfQUJ3iAUNF8JxO1OPyKjlyMSfKUqzzvcHAQQlZ4bSlDy8p7c8",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/XIl9krAtoUgMB0S2ObqAcmcXhiZFFnghWuxiD4bpTGrBWWMh9FuUrQsFNd-2oXptgw",
+    "https://play-lh.googleusercontent.com/LYn9Moj500W1Tp9VcuTvKwSRaHhoV8LTjnu-93j_TmXEp6540mViSmQkZNkzVnROpzU",
+    "https://play-lh.googleusercontent.com/O_jdH2mY9mqrAJVupfOuAJ7n4EO9qxoXJsxVE7NZrJ2Uu6sQgbt5kSk5QjIgiVBOxsQ",
+    "https://play-lh.googleusercontent.com/fF_4ks0gm2VpBGGJrI0BlN98-j9lPr2ryTQy-n0V3Xdvrb0EXVzJGIY3dt6xHnfOlJc"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/beaEk4-L8zzsEarovHnU13HyXV4V4uHWhsKvUtZFYx9Rm60l4EkuoBOC7C6Xhxc1VA",
+  "permissions": {
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Phone": [
+      "read phone status and identity"
+    ],
+    "Photos/Media/Files": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Microphone": [
+      "record audio"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Device ID & call information": [
+      "read phone status and identity"
+    ],
+    "Other": [
+      "access Bluetooth settings",
+      "close other apps",
+      "full network access",
+      "pair with Bluetooth devices",
+      "view network connections"
+    ]
+  },
+  "reviews_data": null
+}

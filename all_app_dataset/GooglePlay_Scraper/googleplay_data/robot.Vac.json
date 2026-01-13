@@ -1,0 +1,82 @@
+{
+  "pkg_name": "robot.Vac",
+  "appId": "robot.Vac",
+  "title": "Robot Vac",
+  "developer": "Ocumow",
+  "developer_id": "Ocumow",
+  "developer_email": "gavingao@cleva.com.cn",
+  "developer_website": "http://www.cleva-na.com/",
+  "developer_address": null,
+  "category": "Tools",
+  "category_id": "TOOLS",
+  "content_rating": "Everyone",
+  "score": 3.3225806,
+  "ratings": 36,
+  "reviews_count": 17,
+  "installs": "5,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "http://www.cleva-na.com/",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "The Kenmore Smart Robot Vacuum app  allows you to conveniently connect and control your robot anytime and anywhere from your mobile device. \r\nThe Kenmore Smart Robot Vacuum \r\nFeatures: \r\n•\tClean your house whether you are home or away \r\n•\tSet future cleaning sessions that work for your busy schedule \r\n•\tChoose between 4 cleaning modes including: Auto, Spot, Edge, and Single Room\r\n•\tControl the robots cleaning strength with Eco, Normal and Turbo modes\r\n•\tRemotely check the status of your robot – including the battery level, cleaning mode, and more\r\n•\tAccess instruction manuals, FAQ’s and more\r\nThe Kenmore Smart Robot Vacuum \r\nRequirements: \r\n•\tSupports model numbers 31510 and XXXX\r\n•\tWi-Fi with 2.4GHz band support\r\n•\tMobile device with Apple iOS9 or later \r\nThe Kenmore Smart Robot Vacuum app\r\nVisit Kenmore.com for additional support or call our customer service team at 1-877-531-7321",
+  "descriptionHTML": "The Kenmore Smart Robot Vacuum app  allows you to conveniently connect and control your robot anytime and anywhere from your mobile device. <br>The Kenmore Smart Robot Vacuum <br>Features: <br>•\tClean your house whether you are home or away <br>•\tSet future cleaning sessions that work for your busy schedule <br>•\tChoose between 4 cleaning modes including: Auto, Spot, Edge, and Single Room<br>•\tControl the robots cleaning strength with Eco, Normal and Turbo modes<br>•\tRemotely check the status of your robot – including the battery level, cleaning mode, and more<br>•\tAccess instruction manuals, FAQ’s and more<br>The Kenmore Smart Robot Vacuum <br>Requirements: <br>•\tSupports model numbers 31510 and XXXX<br>•\tWi-Fi with 2.4GHz band support<br>•\tMobile device with Apple iOS9 or later <br>The Kenmore Smart Robot Vacuum app<br>Visit Kenmore.com for additional support or call our customer service team at 1-877-531-7321",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/E9nBTaCGaUnZyRzVKy0i5aDnyKm0jDBdHubYImpEmv0SPgEWg3pPesSX_NHwY_c_Ww",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/QCw23PW4JZm0fL-09r5GZtdu8GC0_MoQANIEVY4iCxVC8orFme1ioxFPbga1Huoezg",
+    "https://play-lh.googleusercontent.com/Ed8MkBNXkDVY7YldHzn57SdxfV7uaNKbqboYwz1qHpkCH0x2lRTxrIbBT_fNw1Gs-eQ",
+    "https://play-lh.googleusercontent.com/IDfLBH0glBtxFnRoV-kSxQ5QgkXDeX2vCHddDwcjwERyxLmFzSSNlpUIqCKnU409Wd8",
+    "https://play-lh.googleusercontent.com/u0T7suW6LeaE2G7F5t8Z-Fd9OqVi38_JhnbrnyjCQ-IWRuAWrv5OVgu6QqOS41bKUL0"
+  ],
+  "video": "https://www.youtube.com/embed/HBCItePClxU?vq=large&rel=0&autohide=1&showinfo=0",
+  "video_image": "https://play-lh.googleusercontent.com/NCe-gJ5GdGu9ys8rT-vHbnbJgnPh1OznItlFwABK8wnrShL8dM_3ArQ5Tv6YsjVpBoBj",
+  "header_image": "https://play-lh.googleusercontent.com/NCe-gJ5GdGu9ys8rT-vHbnbJgnPh1OznItlFwABK8wnrShL8dM_3ArQ5Tv6YsjVpBoBj",
+  "permissions": {
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Photos/Media/Files": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Camera": [
+      "take pictures and videos"
+    ],
+    "Microphone": [
+      "record audio"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Other": [
+      "Google Play license check",
+      "access Bluetooth settings",
+      "allow Wi-Fi Multicast reception",
+      "change network connectivity",
+      "change your audio settings",
+      "connect and disconnect from Wi-Fi",
+      "control vibration",
+      "full network access",
+      "install shortcuts",
+      "pair with Bluetooth devices",
+      "prevent device from sleeping",
+      "reorder running apps",
+      "run at startup",
+      "set wallpaper",
+      "view network connections"
+    ],
+    "Uncategorized": [
+      "receive data from Internet"
+    ]
+  },
+  "reviews_data": null
+}

@@ -1,0 +1,68 @@
+{
+  "pkg_name": "com.rxmap.rxdrone",
+  "appId": "com.rxmap.rxdrone",
+  "title": "RxDrone",
+  "developer": "睿兴实业",
+  "developer_id": "%E7%9D%BF%E5%85%B4%E5%AE%9E%E4%B8%9A",
+  "developer_email": "eng7_ruixing@ruixingtech.com",
+  "developer_website": "http://www.ruixingtech.com",
+  "developer_address": null,
+  "category": "Tools",
+  "category_id": "TOOLS",
+  "content_rating": "Everyone",
+  "score": 3.71,
+  "ratings": 2130,
+  "reviews_count": 98,
+  "installs": "500,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://writer.zoho.com.cn/writer/open/dfpvf7967375122b5460b9ca6304dfb70197a",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "The RxDrone can preview the drone's shooting video in real time, taking photos and recording videos. In addition, the RxDrone can also control the flight of the drone through the map location planning, and has GPS following flight, circling flight, navigation point flight and other functions.",
+  "descriptionHTML": "The RxDrone can preview the drone&#39;s shooting video in real time, taking photos and recording videos. In addition, the RxDrone can also control the flight of the drone through the map location planning, and has GPS following flight, circling flight, navigation point flight and other functions.",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/xL4hvP-zLwTvWb1hchvj936C7ku_shMu2oP03tzOCaav5KqgX2sXUIo7jog2wornPoBP",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/vgdWpMUgRFdehx9McN1Bxz7cd288yNPMKvjzrEUiGv8bBWqJ5P8hiq9UC1_XXf_-gg",
+    "https://play-lh.googleusercontent.com/9sUGivdQ2UvVGykzYIodFymVp_-REQBawOvkfu5YzEjtjRwng-uNfiwog9HkWRNP8w",
+    "https://play-lh.googleusercontent.com/a-eIzJiaUpFcCfDD623lhlH2rx75AQYK7pD7qqXqy7Vs1NhcSOim68J_SXSUHmwSf2c",
+    "https://play-lh.googleusercontent.com/FPOKDODwivkjrKV36jIVASe_MLaC7k179_BwGQltfwgO6R1HmqaW8MLaqrY2ccdoxif-"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/e9p66lzONQIUPAEopghTIcEOkQa6kvg8IDn83qrNQY0m42QmAgf83FSTeX3RUliHMA",
+  "permissions": {
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Photos/Media/Files": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Camera": [
+      "take pictures and videos"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Other": [
+      "access Bluetooth settings",
+      "change network connectivity",
+      "connect and disconnect from Wi-Fi",
+      "full network access",
+      "pair with Bluetooth devices",
+      "prevent device from sleeping",
+      "view network connections"
+    ]
+  },
+  "reviews_data": null
+}

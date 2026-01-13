@@ -1,0 +1,75 @@
+{
+  "pkg_name": "com.lwcx.ametadrone",
+  "appId": "com.lwcx.ametadrone",
+  "title": "AMETA Drone",
+  "developer": "GRANDLINEV  TECH CO.,  LIMITED",
+  "developer_id": "GRANDLINEV++TECH+CO.,++LIMITED",
+  "developer_email": "ameta_dev@ametasmart.com",
+  "developer_website": "https://ametasmart.com/",
+  "developer_address": null,
+  "category": "Tools",
+  "category_id": "TOOLS",
+  "content_rating": "Everyone",
+  "score": 3.5,
+  "ratings": 24,
+  "reviews_count": 2,
+  "installs": "10,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://api.ametasmart.com/privacyPolicy/language",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "AMETA Drone is specially designed for drone beginners, making it easy to get started and offering a variety of features to enhance your flying experience!\r\n\r\nDiscover what it offers:\r\n· Aerial Views: Unlock new perspective from the sky\r\n· Exciting Features: Make flying more enjoyable\r\n· Beginner Mode: Fly with confidence and ease\r\nWe would love to hear your feedback and suggestions!\r\nEmail us:\r\nNorth America: support.na@ametasmart.com\r\nEurope: support.eu@ametasmart.com",
+  "descriptionHTML": "AMETA Drone is specially designed for drone beginners, making it easy to get started and offering a variety of features to enhance your flying experience!<br><br>Discover what it offers:<br>· Aerial Views: Unlock new perspective from the sky<br>· Exciting Features: Make flying more enjoyable<br>· Beginner Mode: Fly with confidence and ease<br>We would love to hear your feedback and suggestions!<br>Email us:<br>North America: support.na@ametasmart.com<br>Europe: support.eu@ametasmart.com",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/_Cfj-4b2Lt4Iz7vWBS_i1hCWjqVXChg3RV8RpSuSymAQy7Jif-fDDTqHV0QNzLWFpk8",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/u5XQOi47NS96YgAnWh6lFl5WJAU8hns7CqC2YT9Il_JnlGN7kuCSXG9HrPnKGAnRdxk",
+    "https://play-lh.googleusercontent.com/q4hYrDl0J3WKcIWARqKptwbwjrqy3pvSlS8irWB0aTrB8QJKFet8EcNI7amNZ_ahjSU",
+    "https://play-lh.googleusercontent.com/PApwDe0biepCUReuHoMKhqBO8l3S79QhJ06BNyrMJ8VJ8Y7j1pWnMcjEnPmrSRSVBQU"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/IfNGEl5_zZphdm5jCmwAtXQZfKIPe7SiUSiSNHsjY2oCqWlxf6f-CJUvm4t6Xj3kp-s",
+  "permissions": {
+    "Device & app history": [
+      "retrieve running apps"
+    ],
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Phone": [
+      "directly call phone numbers"
+    ],
+    "Photos/Media/Files": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Microphone": [
+      "record audio"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Other": [
+      "allow Wi-Fi Multicast reception",
+      "change network connectivity",
+      "connect and disconnect from Wi-Fi",
+      "control vibration",
+      "disable your screen lock",
+      "full network access",
+      "prevent device from sleeping",
+      "run at startup",
+      "view network connections"
+    ]
+  },
+  "reviews_data": null
+}

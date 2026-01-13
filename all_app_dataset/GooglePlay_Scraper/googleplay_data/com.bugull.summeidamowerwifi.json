@@ -1,0 +1,82 @@
+{
+  "pkg_name": "com.bugull.summeidamowerwifi",
+  "appId": "com.bugull.summeidamowerwifi",
+  "title": "Mowap",
+  "developer": "SUMEC Hardware & Tools Co.,Ltd",
+  "developer_id": "SUMEC+Hardware+%26+Tools+Co.,Ltd",
+  "developer_email": "tools_app@sumec.com.cn",
+  "developer_website": null,
+  "developer_address": null,
+  "category": "Tools",
+  "category_id": "TOOLS",
+  "content_rating": "Everyone",
+  "score": 0,
+  "ratings": 0,
+  "reviews_count": 0,
+  "installs": "10,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "http://sumec.yunext.com/v3/getPrivacyPolicy/en",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "“ Mowap \"can be used with” Yard Forced\" brand robotic mowers.\r\nyour Mowap With everything installed you will be able to control, set and track your robotic lawnmower.\r\n\r\nMore APP functions available:\r\n- Get the distributor information\r\n- Watch the instruction video\r\n- Get FAQ information\r\n- Receive the status of your  robotic lawnmower\r\n- Click Start, Stop, Home button to control your  robotic lawnmower\r\n- Check and set the configuration of working time and date of your  robotic lawnmower\r\n- Check and set configuration of system language of your  robotic lawnmower\r\n- Check and set configuration of GEO protection of your  robotic lawnmower. Once the distance between your home and your  robotic lawnmower is bigger than GEO there will be a warning on APP\r\nYou can download these keywords by searching for “mower”.",
+  "descriptionHTML": "“ Mowap &quot;can be used with” Yard Forced&quot; brand robotic mowers.<br>your Mowap With everything installed you will be able to control, set and track your robotic lawnmower.<br><br>More APP functions available:<br>- Get the distributor information<br>- Watch the instruction video<br>- Get FAQ information<br>- Receive the status of your  robotic lawnmower<br>- Click Start, Stop, Home button to control your  robotic lawnmower<br>- Check and set the configuration of working time and date of your  robotic lawnmower<br>- Check and set configuration of system language of your  robotic lawnmower<br>- Check and set configuration of GEO protection of your  robotic lawnmower. Once the distance between your home and your  robotic lawnmower is bigger than GEO there will be a warning on APP<br>You can download these keywords by searching for “mower”.",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/hACOdD89wc-pxG4POcEQCM-66lOiz3ffW6wIWpsZG0MX_fJUHWB3HJzqnovsi7wY-Uw",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/GQUlHPWNo2cS7o-nKBC1jaCdv3iMXCqki1Hdz6YqxT_yCHI9tZhlzgJvz1pc-zwPZyE",
+    "https://play-lh.googleusercontent.com/OJcqKIRAuocJZnk5Gu9AqTq8_jqzuZ2k834T7RltKHp4KDq7pokiQb2S23FN1P4OO61a",
+    "https://play-lh.googleusercontent.com/oblqcxNBOZ7UulaHj70IgHWF2oocgBTWH4i85tlebgltE7CmFUEtwNyUINzz8gMzHfAy",
+    "https://play-lh.googleusercontent.com/7Wvf0o7Qbpcf8MLMKAyEMmKQUBXH40iFav051up2Jp7hvOyov_Kz1XWPBdbrAFto5YU",
+    "https://play-lh.googleusercontent.com/zTxClzGZHhlx1tGpJ3lBy3xb1UfLbDyM5ABtC9ITQFGKhUZP8FEB5D5f_Lj6Pid0jmM"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/zgjMsuhtux5uw_nKoIkVn2dMpzE3F6zFm7CO3gpioe3dZB3fIEvBKTxxpkJ6TUAlPmWp",
+  "permissions": {
+    "Device & app history": [
+      "read sensitive log data"
+    ],
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Phone": [
+      "read phone status and identity"
+    ],
+    "Photos/Media/Files": [
+      "access USB storage filesystem",
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Camera": [
+      "take pictures and videos"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Device ID & call information": [
+      "read phone status and identity"
+    ],
+    "Other": [
+      "allow Wi-Fi Multicast reception",
+      "change network connectivity",
+      "connect and disconnect from Wi-Fi",
+      "control flashlight",
+      "control vibration",
+      "draw over other apps",
+      "full network access",
+      "modify system settings",
+      "prevent device from sleeping",
+      "view network connections"
+    ]
+  },
+  "reviews_data": null
+}

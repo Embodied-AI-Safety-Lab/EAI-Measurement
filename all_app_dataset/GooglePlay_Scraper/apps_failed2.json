@@ -1,0 +1,622 @@
+[
+    {
+        "appId": null,
+        "csv_title": "Gausium APP",
+        "error": "No appId in source JSON"
+    },
+    {
+        "appId": null,
+        "csv_title": "iRobot Home",
+        "error": "No appId in source JSON"
+    },
+    {
+        "appId": null,
+        "csv_title": "원더스 다이나킹 R6",
+        "error": "No appId in source JSON"
+    },
+    {
+        "appId": null,
+        "csv_title": "Kärcher Home Robots",
+        "error": "No appId in source JSON"
+    },
+    {
+        "appId": null,
+        "csv_title": "CLIEN-클리엔",
+        "error": "No appId in source JSON"
+    },
+    {
+        "appId": null,
+        "csv_title": "Dreamehome",
+        "error": "No appId in source JSON"
+    },
+    {
+        "appId": null,
+        "csv_title": "eureka robot",
+        "error": "No appId in source JSON"
+    },
+    {
+        "appId": null,
+        "csv_title": "SwitchBot",
+        "error": "No appId in source JSON"
+    },
+    {
+        "appId": null,
+        "csv_title": "ECOVACS HOME",
+        "error": "No appId in source JSON"
+    },
+    {
+        "appId": null,
+        "csv_title": "SharkClean",
+        "error": "No appId in source JSON"
+    },
+    {
+        "appId": null,
+        "csv_title": "Matic Robots",
+        "error": "No appId in source JSON"
+    },
+    {
+        "appId": null,
+        "csv_title": "iVacuum Cleaner Robot Control",
+        "error": "No appId in source JSON"
+    },
+    {
+        "appId": null,
+        "csv_title": "YEEDI",
+        "error": "No appId in source JSON"
+    },
+    {
+        "appId": null,
+        "csv_title": "obode Life",
+        "error": "No appId in source JSON"
+    },
+    {
+        "appId": null,
+        "csv_title": "Gausium Mobile",
+        "error": "No appId in source JSON"
+    },
+    {
+        "appId": null,
+        "csv_title": "Tennant Robotics",
+        "error": "No appId in source JSON"
+    },
+    {
+        "appId": null,
+        "csv_title": "Nilfisk Robotics",
+        "error": "No appId in source JSON"
+    },
+    {
+        "appId": null,
+        "csv_title": "LEGEE-688",
+        "error": "No appId in source JSON"
+    },
+    {
+        "appId": null,
+        "csv_title": "Neabot",
+        "error": "No appId in source JSON"
+    },
+    {
+        "appId": null,
+        "csv_title": "Robot iVacuum: Home Cleaning",
+        "error": "No appId in source JSON"
+    },
+    {
+        "appId": null,
+        "csv_title": "Teendow",
+        "error": "No appId in source JSON"
+    },
+    {
+        "appId": null,
+        "csv_title": "OKP",
+        "error": "No appId in source JSON"
+    },
+    {
+        "appId": null,
+        "csv_title": "ILIFEHOME",
+        "error": "No appId in source JSON"
+    },
+    {
+        "appId": null,
+        "csv_title": "POWERbot-E",
+        "error": "No appId in source JSON"
+    },
+    {
+        "appId": null,
+        "csv_title": "EXTRAVIS",
+        "error": "No appId in source JSON"
+    },
+    {
+        "appId": null,
+        "csv_title": "Tuvacs",
+        "error": "No appId in source JSON"
+    },
+    {
+        "appId": null,
+        "csv_title": "ROPVACNIC",
+        "error": "No appId in source JSON"
+    },
+    {
+        "appId": null,
+        "csv_title": "Neatsvor Home",
+        "error": "No appId in source JSON"
+    },
+    {
+        "appId": null,
+        "csv_title": "UWANT HOME",
+        "error": "No appId in source JSON"
+    },
+    {
+        "appId": null,
+        "csv_title": "INXNI HOME",
+        "error": "No appId in source JSON"
+    },
+    {
+        "appId": null,
+        "csv_title": "Conga 8090",
+        "error": "No appId in source JSON"
+    },
+    {
+        "appId": null,
+        "csv_title": "Mellerware",
+        "error": "No appId in source JSON"
+    },
+    {
+        "appId": null,
+        "csv_title": "Intelligent Robot Vacuums",
+        "error": "No appId in source JSON"
+    },
+    {
+        "appId": null,
+        "csv_title": "Conga 5090",
+        "error": "No appId in source JSON"
+    },
+    {
+        "appId": null,
+        "csv_title": "AIRROBO",
+        "error": "No appId in source JSON"
+    },
+    {
+        "appId": null,
+        "csv_title": "HOBOT LEGEE",
+        "error": "No appId in source JSON"
+    },
+    {
+        "appId": null,
+        "csv_title": "FieldBots",
+        "error": "No appId in source JSON"
+    },
+    {
+        "appId": null,
+        "csv_title": "LionsClean V2",
+        "error": "No appId in source JSON"
+    },
+    {
+        "appId": null,
+        "csv_title": "Dirt Devil Clean",
+        "error": "No appId in source JSON"
+    },
+    {
+        "appId": null,
+        "csv_title": "Narwal Freo",
+        "error": "No appId in source JSON"
+    },
+    {
+        "appId": null,
+        "csv_title": "Robolta",
+        "error": "No appId in source JSON"
+    },
+    {
+        "appId": null,
+        "csv_title": "eufy Clean",
+        "error": "No appId in source JSON"
+    },
+    {
+        "appId": null,
+        "csv_title": "TIDY LIVING",
+        "error": "No appId in source JSON"
+    },
+    {
+        "appId": null,
+        "csv_title": "REDMOND Robot",
+        "error": "No appId in source JSON"
+    },
+    {
+        "appId": null,
+        "csv_title": "RobZone",
+        "error": "No appId in source JSON"
+    },
+    {
+        "appId": null,
+        "csv_title": "Beko Robot",
+        "error": "No appId in source JSON"
+    },
+    {
+        "appId": null,
+        "csv_title": "Lauben Robot Vacuum",
+        "error": "No appId in source JSON"
+    },
+    {
+        "appId": null,
+        "csv_title": "SENCOR Robotics",
+        "error": "No appId in source JSON"
+    },
+    {
+        "appId": null,
+        "csv_title": "Makita Robotic Cleaner DRC300",
+        "error": "No appId in source JSON"
+    },
+    {
+        "appId": null,
+        "csv_title": "Proscenic Robotic",
+        "error": "No appId in source JSON"
+    },
+    {
+        "appId": null,
+        "csv_title": "ROB-Connect",
+        "error": "No appId in source JSON"
+    },
+    {
+        "appId": null,
+        "csv_title": "TOPPERS",
+        "error": "No appId in source JSON"
+    },
+    {
+        "appId": null,
+        "csv_title": "3i",
+        "error": "No appId in source JSON"
+    },
+    {
+        "appId": null,
+        "csv_title": "TROUVER",
+        "error": "No appId in source JSON"
+    },
+    {
+        "appId": null,
+        "csv_title": "에브리봇 Q9",
+        "error": "No appId in source JSON"
+    },
+    {
+        "appId": null,
+        "csv_title": "AICLE-에이클",
+        "error": "No appId in source JSON"
+    },
+    {
+        "appId": null,
+        "csv_title": "WYBOT",
+        "error": "No appId in source JSON"
+    },
+    {
+        "appId": null,
+        "csv_title": "Aiper",
+        "error": "No appId in source JSON"
+    },
+    {
+        "appId": null,
+        "csv_title": "Beatbot",
+        "error": "No appId in source JSON"
+    },
+    {
+        "appId": null,
+        "csv_title": "MyDolphin Plus",
+        "error": "No appId in source JSON"
+    },
+    {
+        "appId": null,
+        "csv_title": "MyDolphin",
+        "error": "No appId in source JSON"
+    },
+    {
+        "appId": null,
+        "csv_title": "POZIE Robot Cleaners",
+        "error": "No appId in source JSON"
+    },
+    {
+        "appId": null,
+        "csv_title": "DolphinTech Plus",
+        "error": "No appId in source JSON"
+    },
+    {
+        "appId": null,
+        "csv_title": "iGarden Robotics",
+        "error": "No appId in source JSON"
+    },
+    {
+        "appId": null,
+        "csv_title": "Prowler 930 – Kreepy Krauly",
+        "error": "No appId in source JSON"
+    },
+    {
+        "appId": null,
+        "csv_title": "Aquabot RC",
+        "error": "No appId in source JSON"
+    },
+    {
+        "appId": null,
+        "csv_title": "BWT RC",
+        "error": "No appId in source JSON"
+    },
+    {
+        "appId": null,
+        "csv_title": "Moorebot Scout",
+        "error": "No appId in source JSON"
+    },
+    {
+        "appId": null,
+        "csv_title": "Keenon Robotics",
+        "error": "No appId in source JSON"
+    },
+    {
+        "appId": null,
+        "csv_title": "CLOi Station",
+        "error": "No appId in source JSON"
+    },
+    {
+        "appId": null,
+        "csv_title": "Stiga Autoclip robots",
+        "error": "No appId in source JSON"
+    },
+    {
+        "appId": null,
+        "csv_title": "novabot",
+        "error": "No appId in source JSON"
+    },
+    {
+        "appId": null,
+        "csv_title": "Yarbo",
+        "error": "No appId in source JSON"
+    },
+    {
+        "appId": null,
+        "csv_title": "robotic-mower connect",
+        "error": "No appId in source JSON"
+    },
+    {
+        "appId": null,
+        "csv_title": "TarraBot Pro",
+        "error": "No appId in source JSON"
+    },
+    {
+        "appId": null,
+        "csv_title": "Robotic Mower",
+        "error": "No appId in source JSON"
+    },
+    {
+        "appId": null,
+        "csv_title": "FJD Landscaping",
+        "error": "No appId in source JSON"
+    },
+    {
+        "appId": null,
+        "csv_title": "STIGA.GO",
+        "error": "No appId in source JSON"
+    },
+    {
+        "appId": null,
+        "csv_title": "CubCadet XR 2.0",
+        "error": "No appId in source JSON"
+    },
+    {
+        "appId": null,
+        "csv_title": "Wolf Garten Loopo 2.0",
+        "error": "No appId in source JSON"
+    },
+    {
+        "appId": null,
+        "csv_title": "NEXMOW 2.0",
+        "error": "No appId in source JSON"
+    },
+    {
+        "appId": null,
+        "csv_title": "Landroid",
+        "error": "No appId in source JSON"
+    },
+    {
+        "appId": null,
+        "csv_title": "McCulloch ROB",
+        "error": "No appId in source JSON"
+    },
+    {
+        "appId": null,
+        "csv_title": "KY FPV",
+        "error": "No appId in source JSON"
+    },
+    {
+        "appId": null,
+        "csv_title": "skydio",
+        "error": "No appId in source JSON"
+    },
+    {
+        "appId": null,
+        "csv_title": "One Click Drone",
+        "error": "No appId in source JSON"
+    },
+    {
+        "appId": null,
+        "csv_title": "Pluto Controller",
+        "error": "No appId in source JSON"
+    },
+    {
+        "appId": null,
+        "csv_title": "Botlink Capture Drone App",
+        "error": "No appId in source JSON"
+    },
+    {
+        "appId": null,
+        "csv_title": "HS FLY",
+        "error": "No appId in source JSON"
+    },
+    {
+        "appId": null,
+        "csv_title": "Bwine Drone",
+        "error": "No appId in source JSON"
+    },
+    {
+        "appId": null,
+        "csv_title": "Ophelia GO",
+        "error": "No appId in source JSON"
+    },
+    {
+        "appId": null,
+        "csv_title": "Ophelia FLY",
+        "error": "No appId in source JSON"
+    },
+    {
+        "appId": null,
+        "csv_title": "HS Sirius",
+        "error": "No appId in source JSON"
+    },
+    {
+        "appId": null,
+        "csv_title": "HolyStone-FPV",
+        "error": "No appId in source JSON"
+    },
+    {
+        "appId": null,
+        "csv_title": "PiHOT Go",
+        "error": "No appId in source JSON"
+    },
+    {
+        "appId": null,
+        "csv_title": "Contixo F35",
+        "error": "No appId in source JSON"
+    },
+    {
+        "appId": null,
+        "csv_title": "Potensic Eve",
+        "error": "No appId in source JSON"
+    },
+    {
+        "appId": null,
+        "csv_title": "PotensicPro",
+        "error": "No appId in source JSON"
+    },
+    {
+        "appId": null,
+        "csv_title": "WiFi UAV",
+        "error": "No appId in source JSON"
+    },
+    {
+        "appId": null,
+        "csv_title": "HASAKEE Q10",
+        "error": "No appId in source JSON"
+    },
+    {
+        "appId": null,
+        "csv_title": "4DRC Air",
+        "error": "No appId in source JSON"
+    },
+    {
+        "appId": null,
+        "csv_title": "YN Fly",
+        "error": "No appId in source JSON"
+    },
+    {
+        "appId": null,
+        "csv_title": "Spexi",
+        "error": "No appId in source JSON"
+    },
+    {
+        "appId": null,
+        "csv_title": "Yanshee",
+        "error": "No appId in source JSON"
+    },
+    {
+        "appId": null,
+        "csv_title": "WhalesBot",
+        "error": "No appId in source JSON"
+    },
+    {
+        "appId": null,
+        "csv_title": "ClicBot",
+        "error": "No appId in source JSON"
+    },
+    {
+        "appId": null,
+        "csv_title": "Humanpanion",
+        "error": "No appId in source JSON"
+    },
+    {
+        "appId": null,
+        "csv_title": "Vector Robot",
+        "error": "No appId in source JSON"
+    },
+    {
+        "appId": null,
+        "csv_title": "AIBOTGO",
+        "error": "No appId in source JSON"
+    },
+    {
+        "appId": null,
+        "csv_title": "Cozmo Robot",
+        "error": "No appId in source JSON"
+    },
+    {
+        "appId": null,
+        "csv_title": "MIRO",
+        "error": "No appId in source JSON"
+    },
+    {
+        "appId": null,
+        "csv_title": "Tennibot",
+        "error": "No appId in source JSON"
+    },
+    {
+        "appId": null,
+        "csv_title": "XORIGIN AI",
+        "error": "No appId in source JSON"
+    },
+    {
+        "appId": null,
+        "csv_title": "Octiva",
+        "error": "No appId in source JSON"
+    },
+    {
+        "appId": null,
+        "csv_title": "WingspanAI",
+        "error": "No appId in source JSON"
+    },
+    {
+        "appId": null,
+        "csv_title": "Hypershell+",
+        "error": "No appId in source JSON"
+    },
+    {
+        "appId": null,
+        "csv_title": "ConchinAssist",
+        "error": "No appId in source JSON"
+    },
+    {
+        "appId": null,
+        "csv_title": "ZYY_HEXO",
+        "error": "No appId in source JSON"
+    },
+    {
+        "appId": null,
+        "csv_title": "Unitree Explore",
+        "error": "No appId in source JSON"
+    },
+    {
+        "appId": null,
+        "csv_title": "BT Robot Controller",
+        "error": "No appId in source JSON"
+    },
+    {
+        "appId": null,
+        "csv_title": "AimMaster",
+        "error": "No appId in source JSON"
+    },
+    {
+        "appId": null,
+        "csv_title": "Wonderbit",
+        "error": "No appId in source JSON"
+    },
+    {
+        "appId": null,
+        "csv_title": "WonderPi",
+        "error": "No appId in source JSON"
+    },
+    {
+        "appId": null,
+        "csv_title": "WonderNex",
+        "error": "No appId in source JSON"
+    }
+]

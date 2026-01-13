@@ -1,0 +1,64 @@
+{
+  "pkg_name": "com.ottobock.prosthetics.ll.cockpit",
+  "appId": "com.ottobock.prosthetics.ll.cockpit",
+  "title": "Cockpit",
+  "developer": "Ottobock SE & Co. KGaA",
+  "developer_id": "Ottobock+SE+%26+Co.+KGaA",
+  "developer_email": "cockpit@ottobock.com",
+  "developer_website": "http://www.ottobock.com",
+  "developer_address": null,
+  "category": "Medical",
+  "category_id": "MEDICAL",
+  "content_rating": "Everyone",
+  "score": 3.36,
+  "ratings": 555,
+  "reviews_count": 78,
+  "installs": "50,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://www.ottobock.com/de-de/datenschutzhinweis/",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "The Cockpit app helps you easily adjust various electronic prostheses and orthoses from Ottobock to your individual needs in the course of everyday life, and to access information about these components. \r\n•\tSelect preconfigured MyModes (such as cycling or flexed standing) \r\n•\tRead the charge level of the component\r\n•\tDisplay component feedback\r\n•\tFine-tune component parameters\r\n•\tTurn additional component functions on or off\r\n•\tEasily switch between multiple saved components\r\n•\tChange signal tones\r\n•\tRead and reset step counters\r\n•\tSee the next service date\r\n\r\nThe number and type of MyModes, functions and configurable parameters depend on the component being used. Some older components are not compatible with the Cockpit app. \r\nFor further information, please contact your O&P professional or cockpit@ottobock.com\r\n\r\nThe instructions for use are available online https://product-documents.ottobock.com/IFU/INT/4X441-V2/647H1002/01/O/S/F\r\n\r\nManufacturer: \r\nOtto Bock Healthcare Products GmbH\r\nBrehmstrasse 16 · 1110 Vienna · Austria\r\nT +43 1 523 37 86 · F +43 1 523 22 64\r\nwww.ottobock.com\r\n\r\nThis product meets the applicable European requirements for medical devices.",
+  "descriptionHTML": "The Cockpit app helps you easily adjust various electronic prostheses and orthoses from Ottobock to your individual needs in the course of everyday life, and to access information about these components. <br>•\tSelect preconfigured MyModes (such as cycling or flexed standing) <br>•\tRead the charge level of the component<br>•\tDisplay component feedback<br>•\tFine-tune component parameters<br>•\tTurn additional component functions on or off<br>•\tEasily switch between multiple saved components<br>•\tChange signal tones<br>•\tRead and reset step counters<br>•\tSee the next service date<br><br>The number and type of MyModes, functions and configurable parameters depend on the component being used. Some older components are not compatible with the Cockpit app. <br>For further information, please contact your O&amp;P professional or cockpit@ottobock.com<br><br>The instructions for use are available online https://product-documents.ottobock.com/IFU/INT/4X441-V2/647H1002/01/O/S/F<br><br>Manufacturer: <br>Otto Bock Healthcare Products GmbH<br>Brehmstrasse 16 · 1110 Vienna · Austria<br>T +43 1 523 37 86 · F +43 1 523 22 64<br>www.ottobock.com<br><br>This product meets the applicable European requirements for medical devices.",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/7ieFsoHxIiCgEs4n5I_FFaZERc9cuPcbOblO6jWyniBK5xQEVERGJ1KtPFDm334t_V1V",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/E0_gh0HAu02CEJ6-CYoT64t4i-pxr4O7EdGpqJCLKSg3fWGEPnTMVSZkGdBzn9vjVJSt",
+    "https://play-lh.googleusercontent.com/mIEOEUrUYcZVxzodZUTQnzn9FZXhNB-6jodMxIydsam0t8YQp3MjeuuytUcs-wxZFGw",
+    "https://play-lh.googleusercontent.com/xuTaGgvllahZD7Pre7j6sStgyHubJzNvS2gVs4HMUsMpIg-v53cXpKbQUm4S61D82c-Z",
+    "https://play-lh.googleusercontent.com/zZzrd4ryZ4_kgwDYJK5qomcp4rwmr88-UGUsfE-N-T8uQc13aBlcpzndxHZhWmFHsTc",
+    "https://play-lh.googleusercontent.com/xit-a0tXhTVEqH5xU2PMcGHPIiIYFitwEYlnhVwmBfSFBBg-c_dpiNpp3gczLZh0bkQ"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/VeZ8OdbsHis08hErKkTEexumKPQ-yhZf9sxyz2utqQMNly-gYHDXNyP_EPtJb68jZQ",
+  "permissions": {
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Photos/Media/Files": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Other": [
+      "access Bluetooth settings",
+      "control vibration",
+      "full network access",
+      "pair with Bluetooth devices",
+      "view network connections"
+    ],
+    "Uncategorized": [
+      "allow Bluetooth pairing by Application"
+    ]
+  },
+  "reviews_data": null
+}

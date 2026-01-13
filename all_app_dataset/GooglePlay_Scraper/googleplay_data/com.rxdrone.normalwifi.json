@@ -1,0 +1,63 @@
+{
+  "pkg_name": "com.rxdrone.normalwifi",
+  "appId": "com.rxdrone.normalwifi",
+  "title": "Lidl Quadrocopter",
+  "developer": "睿兴实业",
+  "developer_id": "%E7%9D%BF%E5%85%B4%E5%AE%9E%E4%B8%9A",
+  "developer_email": "info@delta-sport.com",
+  "developer_website": "https://www.delta-sport.com/",
+  "developer_address": null,
+  "category": "Tools",
+  "category_id": "TOOLS",
+  "content_rating": "Everyone",
+  "score": 0,
+  "ratings": 0,
+  "reviews_count": 0,
+  "installs": "10,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://www.delta-sport.com/geschaeftsbereiche/hartwaren/#privacypolicy",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "The app can connect the drone to preview videos via WiFi or control the drone's flight using the app.",
+  "descriptionHTML": "The app can connect the drone to preview videos via WiFi or control the drone&#39;s flight using the app.",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/zPZED0SyrMTDvlBR6wmuanPjGanflAl17lofVAi1LRYqoKrdN0IKlswfffdbQUT_ZSar",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/vEB-a-K4myT6AIdwZv3QOIgNIFaj67fK-0Q9PAqlH9WeuHKUZ_OXlciNhVT4nVC2Pg",
+    "https://play-lh.googleusercontent.com/cYdVzJ-jkdwUyl8nfq45itdqaNoegvjWgqdjPbhWBeKy4jZk4RBw33fI9M95WgkYvw",
+    "https://play-lh.googleusercontent.com/SqJoBrJX08JLsXYhtYSNmq0c0wTqsVJwSuFCNhP0hvF543WreZkLLITcejrL2N_slLhe",
+    "https://play-lh.googleusercontent.com/LnoUPb9LXJU6CL2oEqVhL0HW57quC8h9t-7jKvuk8iay8up8kPYBEGBGevgmey66pmo",
+    "https://play-lh.googleusercontent.com/Fpg13MB3S14gxCNyVaW7uryRq7TWfjob34TQhqBspx907d_UHN02cgPHWSAOyvm1Hpw"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/tKL4eMHIUgMpUD7M-Kgt-70QScd0JudPjN-UDiUQ6C0R9iU2-bPkbHDW7F64glBYCcJ7UpIj_ojHdFeC1bfUs6g",
+  "permissions": {
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Photos/Media/Files": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Other": [
+      "change network connectivity",
+      "connect and disconnect from Wi-Fi",
+      "full network access",
+      "view network connections"
+    ]
+  },
+  "reviews_data": null
+}

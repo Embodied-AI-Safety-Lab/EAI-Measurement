@@ -1,0 +1,78 @@
+{
+  "pkg_name": "com.mjx.mdrone",
+  "appId": "com.mjx.mdrone",
+  "title": "M-DRONE",
+  "developer": "Wu Jian",
+  "developer_id": "Wu+Jian",
+  "developer_email": "2850919701@qq.com",
+  "developer_website": null,
+  "developer_address": null,
+  "category": "Entertainment",
+  "category_id": "ENTERTAINMENT",
+  "content_rating": "Everyone",
+  "score": 2.8181818,
+  "ratings": 41,
+  "reviews_count": 11,
+  "installs": "10,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://www.feilingda.com/PackSys/upload/appVer/MjxPrivacy.txt",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "This APP is specially used to connect M-DRONE series drones.\r\n1. Real-time image transmission.\r\n2. Joystick control, gravity sensing control, trajectory control, Chinese and English voice keyword control.\r\n3. Take pictures and videos.\r\n4. Gestures to take pictures and videos.",
+  "descriptionHTML": "This APP is specially used to connect M-DRONE series drones.<br>1. Real-time image transmission.<br>2. Joystick control, gravity sensing control, trajectory control, Chinese and English voice keyword control.<br>3. Take pictures and videos.<br>4. Gestures to take pictures and videos.",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/WfKKwGO8MUE0pSwGF-fT0hqvoLKJ9V2G78kluKXDNEQArKDjFyyG3TM8RlWTK2Kg0w",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/yJ9iyzjvvC9IdwvlgzIqgiNI_VkY1pbFsvVw9isqroGcHaruxV1mz7DMl8YXO1iF3as",
+    "https://play-lh.googleusercontent.com/FDVu6up5jwpYZZ4jVi6SQTq828sP-X7Z6-jg9sTkoMpb-V5Lsqyj5O4Uyaezxf4My-Rh",
+    "https://play-lh.googleusercontent.com/pe4NGGsc83ql9qwqsJqj-lUZbSlMFMVKCFvnMX4mdsw-ym-M2hN9WTihipi1wkPqwQ",
+    "https://play-lh.googleusercontent.com/qu8aSOdTcoB3GljBOnoXvNZVDCf9l_0-Y3R7Ep7omeljSJ6BiAB044FRvWoDGA8jhWg"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/2G4zwoGAVb8vMmzY1fNJTrV6AWuNimLEMp3yuQ5PuX1T9BXIVw8mQ8nvVy384iGA-Kk",
+  "permissions": {
+    "Device & app history": [
+      "retrieve running apps"
+    ],
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Phone": [
+      "read phone status and identity"
+    ],
+    "Photos/Media/Files": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Microphone": [
+      "record audio"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Device ID & call information": [
+      "read phone status and identity"
+    ],
+    "Other": [
+      "allow Wi-Fi Multicast reception",
+      "change network connectivity",
+      "connect and disconnect from Wi-Fi",
+      "control vibration",
+      "full network access",
+      "prevent device from sleeping",
+      "run at startup",
+      "view network connections"
+    ]
+  },
+  "reviews_data": null
+}

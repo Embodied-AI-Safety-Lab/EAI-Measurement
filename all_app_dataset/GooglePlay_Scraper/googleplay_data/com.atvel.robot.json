@@ -1,0 +1,89 @@
+{
+  "pkg_name": "com.atvel.robot",
+  "appId": "com.atvel.robot",
+  "title": "Atvel robots",
+  "developer": "Grandstone",
+  "developer_id": "Grandstone",
+  "developer_email": "support@atvel.com",
+  "developer_website": null,
+  "developer_address": null,
+  "category": "Tools",
+  "category_id": "TOOLS",
+  "content_rating": "Everyone",
+  "score": null,
+  "ratings": null,
+  "reviews_count": null,
+  "installs": "5,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://baole-release.oss-cn-shenzhen.aliyuncs.com/Atvel.html",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "The Atvel Robot APP is a mobile applicationthat connects to Atvel robot products. \r\nUsers can replace the traditional remote control with APP, remote control the robot to clean,dock to charge,etc.\r\nEquipment control, support direction control, cleaning preferences settings,etc.\r\nTime Schedule, clean at any time within a week.\r\nEquipment positioning, can view the data of cleaning area and cleaning time.\r\nSupport personalized settings of device name, time calibration, deleting equipment,etc.\r\nIf you have any questions or suggestions during use, please contact us by email，Mail address:  info@atvel.com\r\nEquipment positioning, can view the data of cleaning area and cleaning time.\r\nSupport personalized settings of device name, time calibration, deleting equipment,etc.\r\nIf you have any questions or suggestions during use, please contact us by email，Mail address:  info@atvel.com",
+  "descriptionHTML": "The Atvel Robot APP is a mobile applicationthat connects to Atvel robot products. <br>Users can replace the traditional remote control with APP, remote control the robot to clean,dock to charge,etc.<br>Equipment control, support direction control, cleaning preferences settings,etc.<br>Time Schedule, clean at any time within a week.<br>Equipment positioning, can view the data of cleaning area and cleaning time.<br>Support personalized settings of device name, time calibration, deleting equipment,etc.<br>If you have any questions or suggestions during use, please contact us by email，Mail address:  info@atvel.com<br>Equipment positioning, can view the data of cleaning area and cleaning time.<br>Support personalized settings of device name, time calibration, deleting equipment,etc.<br>If you have any questions or suggestions during use, please contact us by email，Mail address:  info@atvel.com",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/cZQltYa2xjhnC_lZWSa4UjIMocEGMNGR_1rPKO__jxjXWmtUkUZyY1Qfmk4PhOeiMPA",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/nYp3Myil7K3G2yrJXX5qd2hRm2wCpIrBAWeti6pWxDGSswNod6xXp1OYKv8qB8p36Q",
+    "https://play-lh.googleusercontent.com/v1LmeqqluIE-sKFh3ZhPIEpDq2FyLK6o1yyQSapT6lq4nAq7HsXeEgkctyTpSDLdK3l5",
+    "https://play-lh.googleusercontent.com/AygQjSN8U7bbxNB9OfJ3Mj5ZeumMm3juM8Wv9EszViLC0xFNwOCLyUb9MzbjUbWTG-U"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/O9xAREMXpJj9nu5MsLrNFQ3N5zNrQIUzanjN7-UZ5JcC-UCvpzjiuC6NXcWXlBP3YXg0",
+  "permissions": {
+    "Device & app history": [
+      "read sensitive log data",
+      "retrieve running apps"
+    ],
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Phone": [
+      "directly call phone numbers",
+      "read phone status and identity"
+    ],
+    "Photos/Media/Files": [
+      "access USB storage filesystem",
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Camera": [
+      "take pictures and videos"
+    ],
+    "Microphone": [
+      "record audio"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Device ID & call information": [
+      "read phone status and identity"
+    ],
+    "Other": [
+      "allow Wi-Fi Multicast reception",
+      "change network connectivity",
+      "change system display settings",
+      "connect and disconnect from Wi-Fi",
+      "control flashlight",
+      "control vibration",
+      "draw over other apps",
+      "full network access",
+      "modify system settings",
+      "prevent device from sleeping",
+      "view network connections"
+    ],
+    "Uncategorized": [
+      "receive data from Internet"
+    ]
+  },
+  "reviews_data": null
+}

@@ -1,0 +1,85 @@
+{
+  "pkg_name": "com.keyitech.loona",
+  "appId": "com.keyitech.loona",
+  "title": "Loona",
+  "developer": "KEYi Technology  Co., Ltd.",
+  "developer_id": "KEYi+Technology+%C2%A0Co.,+Ltd.",
+  "developer_email": "support@keyirobot.com",
+  "developer_website": "https://yourloona.jp/",
+  "developer_address": null,
+  "category": "Entertainment",
+  "category_id": "ENTERTAINMENT",
+  "content_rating": "Everyone",
+  "score": 3.4356437,
+  "ratings": 580,
+  "reviews_count": 72,
+  "installs": "100,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://loonaweb.keyirobot.cn/web/protocol/index?lan=en",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "Loona APP is a mobile control and programming software developed for Loona robots. Rich robot application scenarios are provided in the application. Users can experience various robot control and functions by connecting robots according to software guidance. The robot can be controlled in the APP to perform talent shows, play small games, and also enter the community to communicate with other users.",
+  "descriptionHTML": "Loona APP is a mobile control and programming software developed for Loona robots. Rich robot application scenarios are provided in the application. Users can experience various robot control and functions by connecting robots according to software guidance. The robot can be controlled in the APP to perform talent shows, play small games, and also enter the community to communicate with other users.",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/hUbi7V7KeQRNbFgQ0bFBg0hZ2RBNR1HBP6yoWqtlSpxTnoyWQu1OelGawgpjSwTCR10",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/Mb5XA3sVVujmQPykQ8AjzRKRMpV362YkGruYPijgPP6g1tk6tnw9mRUp0K7ErgZa0g",
+    "https://play-lh.googleusercontent.com/BesFKwyfRYlbE0dcTTPSkJUyW1T1aUX9fvzxI-1enBQU7NLCaw0enzQGSLt6sSvjjQ",
+    "https://play-lh.googleusercontent.com/aBeAnC1Kp_k6QbXJZ_7Lo9E4D8KA2zZ-2tVc61ia9D6n9W7kqaDFrBEfNpibcmXgdA",
+    "https://play-lh.googleusercontent.com/-o3gD9MB-ng79VJRZtK2anLUFqHxNuZy1SH-qVbV9sqT5Stou0TBkM9F-ORf6vFfJ20",
+    "https://play-lh.googleusercontent.com/aKCWAtpb6EERSGji8NsLn8QTN6wWAGZrd4pEG4I3sdvLdhGcFTm3m3gvFoSEkthrKJ0",
+    "https://play-lh.googleusercontent.com/bw8gszBaYTat_tXf_-Nc8qSnu0A5j61lAhWzS1HUstKnGFOJmbX8LaxKZfcoKleJzMI",
+    "https://play-lh.googleusercontent.com/ltAtEgwfxJwot_7gk_jJfc03yYR3brQ60sb3k7oQ_xlJjGQcm58dvDY8AB_T5yqb2WQ",
+    "https://play-lh.googleusercontent.com/U6hHbEm9tG2X7mMtUxxqZaqpaMNDSX3HIJRj2hqHNKxfifscH6oTC-lB0BP5JOGG5Fw",
+    "https://play-lh.googleusercontent.com/Lp2l3MT_jaC7DhkQKoagg_hHXJIihcGvucvoMMwqt3fzGGbn0_gz2zJI5YPxT6_QQwdi",
+    "https://play-lh.googleusercontent.com/Me3DRLHSEPSM7NMdLK8s-jA3oahJnE89BnBwoWLx-9yh4ofXVpdDVgHPu9yy2Zon1g"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/jca1gyb1i052KJ19A_eEP8NltaAkOaSntO0d8Z7wOTQ1Z0jN8X4hnIdIiIPEiS7l0w",
+  "permissions": {
+    "Device & app history": [
+      "read sensitive log data"
+    ],
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Phone": [
+      "read phone status and identity"
+    ],
+    "Photos/Media/Files": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Camera": [
+      "take pictures and videos"
+    ],
+    "Microphone": [
+      "record audio"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Device ID & call information": [
+      "read phone status and identity"
+    ],
+    "Other": [
+      "allow Wi-Fi Multicast reception",
+      "change your audio settings",
+      "connect and disconnect from Wi-Fi",
+      "control vibration",
+      "full network access",
+      "view network connections"
+    ]
+  },
+  "reviews_data": null
+}

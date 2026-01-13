@@ -1,0 +1,77 @@
+{
+  "pkg_name": "com.lcfld.irdronego",
+  "appId": "com.lcfld.irdronego",
+  "title": "Mahestan 62",
+  "developer": "LcForever",
+  "developer_id": "LcForever",
+  "developer_email": "logicxxh@gmail.com",
+  "developer_website": null,
+  "developer_address": null,
+  "category": "Entertainment",
+  "category_id": "ENTERTAINMENT",
+  "content_rating": "Everyone",
+  "score": null,
+  "ratings": null,
+  "reviews_count": null,
+  "installs": "50+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://www.jianshu.com/p/fa44fc36aacc",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "1.Real-time video streaming transmission.\r\n2.3D Scattering Screen\r\n3.Real-time remote sensing control\r\n4.Trajectory control\r\n5.Gravity Induction Manipulation\r\n6.Gesture capture/video\r\n7.Image filter and multi split screen, recording specified music while recording video\r\n8.Some models support palm control and figure following",
+  "descriptionHTML": "1.Real-time video streaming transmission.<br>2.3D Scattering Screen<br>3.Real-time remote sensing control<br>4.Trajectory control<br>5.Gravity Induction Manipulation<br>6.Gesture capture/video<br>7.Image filter and multi split screen, recording specified music while recording video<br>8.Some models support palm control and figure following",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/N1xQHGbOoDe1bdAUkqsshaHPbPCh9lhT5fx8fFkCKomEUYcdt5x6ptrdbqpJdjOl7Dw",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/LaBgrI9fxm74qygQbHFQ804T5-2bhIvwnjQT_dr6UjbNPlkeBZLvQdsuEHuxDBfIpA",
+    "https://play-lh.googleusercontent.com/c2Ezvq9lXMT7LXP7UZenW8lrzRl2dc7pzg6ZAzl1oiaIH_dusoZI8IByeX6eNucMKVlL",
+    "https://play-lh.googleusercontent.com/Nv2_J-mH1q6ZA26wn7eVbycaFLUea5YKUn-lAO6Lp2_uX2boSh1FK45SHJOdVAKXxw4"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/rGzDhJTrusCy5QlGo3gF_aNILLnxAwnG7_TvBYoKV-pHUPAX1kwo3D2KaMUf9fYm9pjk",
+  "permissions": {
+    "Device & app history": [
+      "retrieve running apps"
+    ],
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Phone": [
+      "read phone status and identity"
+    ],
+    "Photos/Media/Files": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Microphone": [
+      "record audio"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Device ID & call information": [
+      "read phone status and identity"
+    ],
+    "Other": [
+      "allow Wi-Fi Multicast reception",
+      "change network connectivity",
+      "connect and disconnect from Wi-Fi",
+      "control vibration",
+      "full network access",
+      "prevent device from sleeping",
+      "run at startup",
+      "view network connections"
+    ]
+  },
+  "reviews_data": null
+}

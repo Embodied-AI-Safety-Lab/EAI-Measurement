@@ -1,0 +1,80 @@
+{
+  "pkg_name": "com.lcfld.trbfpv",
+  "appId": "com.lcfld.trbfpv",
+  "title": "TRB FPV",
+  "developer": "LcForever",
+  "developer_id": "LcForever",
+  "developer_email": "logicxxh@gmail.com",
+  "developer_website": null,
+  "developer_address": null,
+  "category": "Entertainment",
+  "category_id": "ENTERTAINMENT",
+  "content_rating": "Everyone",
+  "score": 3.4666667,
+  "ratings": 277,
+  "reviews_count": 26,
+  "installs": "100,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "http://www.feilingda.com/PackSys/upload/appVer/Privacy_en.htm",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "The specific functions are as follows:\r\n1. Voice control\r\n2. Manual control\r\n3. Trajectory flight\r\n4. Induction control of mobile gyroscope\r\n5. Headless mode  \r\n6. VR real picture\r\n7. Hand taking video",
+  "descriptionHTML": "The specific functions are as follows:<br>1. Voice control<br>2. Manual control<br>3. Trajectory flight<br>4. Induction control of mobile gyroscope<br>5. Headless mode  <br>6. VR real picture<br>7. Hand taking video",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/lWxaPPaN_fJuW7IbS98ZuRq11zG38hrgNnrQ1eIN4YP1HSWYqsj7SfJhpYESbtAPm-o",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/0f80DK4IDODN0MJP80xYhyfZZJEpKne5Wza4WwHU27K4JDm0tR29XtwfQPPPYhjJfw",
+    "https://play-lh.googleusercontent.com/WkCro5HciEdvRFeR8IQdvk4lSdAF_avmV2BEo68Dblrx7qoM-xAy04B_HIPJFiEW",
+    "https://play-lh.googleusercontent.com/4RWnMcGq0Gk0uxCaj2IkIPaH0cSZo9TSv8480dTTCPR2HynQCcjcoxqI2VVGMMDB-xg"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/vTN6ZFCn3Zvy0BpWjJLfL8dnCtYZeMi4wULD2XNSr7T66NACzX1SDxwbDpop8j2QplE",
+  "permissions": {
+    "Device & app history": [
+      "retrieve running apps"
+    ],
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Phone": [
+      "read phone status and identity"
+    ],
+    "Photos/Media/Files": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Microphone": [
+      "record audio"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Device ID & call information": [
+      "read phone status and identity"
+    ],
+    "Other": [
+      "allow Wi-Fi Multicast reception",
+      "change network connectivity",
+      "connect and disconnect from Wi-Fi",
+      "control vibration",
+      "full network access",
+      "prevent device from sleeping",
+      "run at startup",
+      "view network connections"
+    ],
+    "Uncategorized": [
+      "receive data from Internet"
+    ]
+  },
+  "reviews_data": null
+}

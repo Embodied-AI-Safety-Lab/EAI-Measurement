@@ -1,0 +1,64 @@
+{
+  "pkg_name": "com.hfcam.rxdrone",
+  "appId": "com.hfcam.rxdrone",
+  "title": "HF Cam",
+  "developer": "睿兴实业",
+  "developer_id": "%E7%9D%BF%E5%85%B4%E5%AE%9E%E4%B8%9A",
+  "developer_email": "eng7_ruixing@ruixingtech.com",
+  "developer_website": null,
+  "developer_address": null,
+  "category": "Entertainment",
+  "category_id": "ENTERTAINMENT",
+  "content_rating": "Everyone",
+  "score": 2.631579,
+  "ratings": 123,
+  "reviews_count": 7,
+  "installs": "50,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "http://blog.csdn.net/johndevelop/article/details/50990178",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "The ral time images of the aircraft are transmitted to app, and the can be photographed and video taped control the drone by drawing line in app.",
+  "descriptionHTML": "The ral time images of the aircraft are transmitted to app, and the can be photographed and video taped control the drone by drawing line in app.",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/OvAJ415tHjjjw5TeDGWoX8Ag5ICxIV-Ni-ECeNbYwyhiHbmcszoQsw6rsRR2f8FJ4e-it6O66j4j2CMsX4eFyQ",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/9O7s6x4dWctzbOAbYWBz3AAParPrQMzHsgyk94STXKOq77hAkhcT86gDkT6c9IQlBQ",
+    "https://play-lh.googleusercontent.com/1b0D936rfdSlloVuXMjICK7mWxMC-iq31nePjMLeZp2LzP3V3M9-SfVNlLxxxEvUMg",
+    "https://play-lh.googleusercontent.com/ymaBD0XGo9K2XulLZm5TcXkznelI45Jef_9c-rOZcrkzxK1VKbby8PzSkUy3ioXiaA",
+    "https://play-lh.googleusercontent.com/EMpvZ6gtdu4f1CE-cRQUjmrB1_QI2jeMx_dGZW14Dii-GIezTugQdy4-weYtKgNqPij-x-Wk9vSW1VxPPMd3tA",
+    "https://play-lh.googleusercontent.com/UwXUBkv6TP2NQHpeo4BJDbB95Q4-t0L0uPw0MxmD_WQdloyWHx6DYxKAvClYMn9ZroSVnd6VT1JMv4QkaJQQyw"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/2aKykPELjd9eiEdWbRQAKNOUoI2SuLQqfcA_bxeGPJTInM2rdXN-IfxJYD70ETpmwPJT",
+  "permissions": {
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Photos/Media/Files": [
+      "access USB storage filesystem",
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Other": [
+      "change network connectivity",
+      "connect and disconnect from Wi-Fi",
+      "full network access",
+      "view network connections"
+    ]
+  },
+  "reviews_data": null
+}

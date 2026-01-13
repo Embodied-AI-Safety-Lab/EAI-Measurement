@@ -1,0 +1,81 @@
+{
+  "pkg_name": "com.irobotix.muchen",
+  "appId": "com.irobotix.muchen",
+  "title": "RedkeyRobot",
+  "developer": "Shenzhen PICEA Robotics Co., Ltd",
+  "developer_id": "Shenzhen+PICEA+Robotics+Co.,+Ltd",
+  "developer_email": "sz3irobotics@gmail.com",
+  "developer_website": null,
+  "developer_address": null,
+  "category": "Tools",
+  "category_id": "TOOLS",
+  "content_rating": "Everyone",
+  "score": null,
+  "ratings": null,
+  "reviews_count": null,
+  "installs": "1,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "http://www.3irobotix.com/userPrivacy/userPrivacy.html",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "RedkeyRobot APP can control your LiDAR Cleaning Robot wherever you are, the robot will carry out the cleaning working automatically according to your instructions through the APP, you just need to hail its high-efficient cleaning performances, and enjoy your clean and cosy home.\r\n\r\nAPP Intelligent Control\r\n Real time map: the map will be created simultaneously when robot start cleaning, you could see the working situation clearly through the APP.\r\n Control anywhere, anytime: easy control all functions of robot through the APP, Cleaning at anywhere, anytime\r\n Schedule: make the reservation for day to day cleaning working, cater for your customized cleaning requirements.\r\n Software update: understand the robot’s updated status through APP prompt, keep your robot with best performance.\r\n Multi-purpose: Not only can start, stop, pause cleaning and recharging, but support switching for multiple cleaning modes—standard, turbo, eco",
+  "descriptionHTML": "RedkeyRobot APP can control your LiDAR Cleaning Robot wherever you are, the robot will carry out the cleaning working automatically according to your instructions through the APP, you just need to hail its high-efficient cleaning performances, and enjoy your clean and cosy home.<br><br>APP Intelligent Control<br> Real time map: the map will be created simultaneously when robot start cleaning, you could see the working situation clearly through the APP.<br> Control anywhere, anytime: easy control all functions of robot through the APP, Cleaning at anywhere, anytime<br> Schedule: make the reservation for day to day cleaning working, cater for your customized cleaning requirements.<br> Software update: understand the robot’s updated status through APP prompt, keep your robot with best performance.<br> Multi-purpose: Not only can start, stop, pause cleaning and recharging, but support switching for multiple cleaning modes—standard, turbo, eco",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/F9JkUdqqXjPwOLZXvOlHyMVLNM0qQkuelpJgg3V8n89Q7on7EVK2HWHiSoWigQfJSYfN",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/_Bq3BezMQLBFSlUfKKZJndCH_Dgxq9AvoC4qddTBmauOUt0g04igkLzGdJEZfa6hviA3",
+    "https://play-lh.googleusercontent.com/kVu5yQRXQhJO5P5sJPfljtPUxTWR1IssUt_dx0wW7F1PmqcBUpw5n0Jgsjsu6TVGEg",
+    "https://play-lh.googleusercontent.com/W3_sYKdF3FSLqGilulp5k6kdAr7QN1nU4AJA9lVI3el4Pvt_IRIfAmJEy0puUEOG4g",
+    "https://play-lh.googleusercontent.com/bRH8fTZoqfJuq8OC4quQUsswvyXWwUMAr9irZMGt0YhWNFs2koWckTCbjq2wSfV7DvM",
+    "https://play-lh.googleusercontent.com/8GMU35wSh7t1Z6vM1RWRL4aXUDpxkokfkVEwA2NubWKsz3-9zURzRtwCVwak9nO02oM",
+    "https://play-lh.googleusercontent.com/Qn2Kc285cAgS5naXvx9sv_3HcxbEDNesWASNfoyydUEM97SiAo_5_FVqz39BjFmX8u0",
+    "https://play-lh.googleusercontent.com/ytoIDaiXdXBp_L3q1y7aL2fZZp12DqCdkf6DZ-tsDsrVqt90zMNOo_sowgeEB534ufo",
+    "https://play-lh.googleusercontent.com/CFgLSBFiIzXAXbBSSy-OP_AW_dCsPpDbMrt63IrzjylrYBb9k_HWtzhhG7Kny3V223o",
+    "https://play-lh.googleusercontent.com/X-Gq3JZ_xB9Tl-u_wWebiYWb1ceRNJ1BJDIzUU26oZ0NuSUQHTHjLO4uUhb4ofxOlYo",
+    "https://play-lh.googleusercontent.com/1Qi2CEPABPnwCJitdmooZoJ5-JM-pd9AVTEYQEvkAGzqdYrJbNRSgXaZP6RZWv7WFQ",
+    "https://play-lh.googleusercontent.com/ZzBYXvkglIWCt1hTsNKIDfH9_qskRvOwSMo9o17Kw3InasNqkwbV0MoiT08pbkDqT70n",
+    "https://play-lh.googleusercontent.com/pzhakjTG1bYOg4kQezHC9KfBbToYFXenSzHjftiBKYj7dkmG1dnJOmOHyWumrkH3cvU"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/EmILQUhaXFR1FjDCprB2XhwjZT6Km_zsRGDU23yAGDTOjWzdsWUaP8qSib6UtjHKFw",
+  "permissions": {
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Phone": [
+      "directly call phone numbers"
+    ],
+    "Photos/Media/Files": [
+      "access USB storage filesystem",
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Other": [
+      "access Bluetooth settings",
+      "allow Wi-Fi Multicast reception",
+      "change network connectivity",
+      "close other apps",
+      "connect and disconnect from Wi-Fi",
+      "draw over other apps",
+      "full network access",
+      "pair with Bluetooth devices",
+      "prevent device from sleeping",
+      "read terms you added to the dictionary",
+      "view network connections"
+    ]
+  },
+  "reviews_data": null
+}

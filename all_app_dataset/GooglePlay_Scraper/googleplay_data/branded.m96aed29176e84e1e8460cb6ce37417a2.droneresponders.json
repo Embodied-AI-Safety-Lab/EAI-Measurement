@@ -1,0 +1,100 @@
+{
+  "pkg_name": "branded.m96aed29176e84e1e8460cb6ce37417a2.droneresponders",
+  "appId": "branded.m96aed29176e84e1e8460cb6ce37417a2.droneresponders",
+  "title": "DRONERESPONDERS",
+  "developer": "DRONERESPONDERS",
+  "developer_id": "DRONERESPONDERS",
+  "developer_email": "info@airt.ngo",
+  "developer_website": null,
+  "developer_address": null,
+  "category": "Education",
+  "category_id": "EDUCATION",
+  "content_rating": "Everyone",
+  "score": 0,
+  "ratings": 0,
+  "reviews_count": 0,
+  "installs": "100+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://www.privacypolicies.com/live/b2216373-a9ec-4485-9ed7-8462c65cd614",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "DRONERESPONDERS is a non-profit initiative dedicated to bringing together first responders, emergency managers, and search & rescue specialists under a unified organization. Its mission is to facilitate learning, training, and testing of UAS technologies, empowering public safety professionals to maximize drone operations in critical situations.\r\n\r\nThe program is led by Chief Charles Werner (ret.), who serves as the director. DRONERESPONDERS operates as an official 501(c)(3) non-profit under AIRT, Inc.'s Drones for Good initiative, advancing the responsible and effective use of drone technology for public safety.",
+  "descriptionHTML": "DRONERESPONDERS is a non-profit initiative dedicated to bringing together first responders, emergency managers, and search &amp; rescue specialists under a unified organization. Its mission is to facilitate learning, training, and testing of UAS technologies, empowering public safety professionals to maximize drone operations in critical situations.<br><br>The program is led by Chief Charles Werner (ret.), who serves as the director. DRONERESPONDERS operates as an official 501(c)(3) non-profit under AIRT, Inc.&#39;s Drones for Good initiative, advancing the responsible and effective use of drone technology for public safety.",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/jOrU0_Rgu4IBT6y_vtPePAN-Gk6mtjXilLUGcAHwfPeMCulurEUm_M37Bb8E7kVpUnU",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/yvSiXhmKXLKl-a1ntcq_Fawe4oBaUxfWnoKKhEflZuYCMdlz7ldXnG4as3dbKk2KAY4",
+    "https://play-lh.googleusercontent.com/YM7qac0gvpjhlDu3oUAGGnTQUjOTjnP-R98xRdmdWR3MVt9I8LvBmbcB9uiu0Y1gLOQ",
+    "https://play-lh.googleusercontent.com/wq9A91poFf2RMv955WykLts6-7e9khcfjgMyREiChXEIxn_c7lN7gcAER2h__ToYm50",
+    "https://play-lh.googleusercontent.com/oH9lY2KErb7gFD5FMxsxKVlz1VI78VsZnZ6cH5USuga8prRc25-iDwGPbZHuHA3GtvU",
+    "https://play-lh.googleusercontent.com/dMv2x8kwJY3r1WocoN5UUB5aEFCWS8Kio3dcuVnTLmpP4LZv2ZrNWGaLrKDLjX0C3Ek",
+    "https://play-lh.googleusercontent.com/7toDrzp4DiBNQPfDeVYZxORNvZrVzZejGIuJdWGDjKerTpUTabP_CZDfzgGFAMmaug4",
+    "https://play-lh.googleusercontent.com/M0D1fCG1TlwfEvbf-30kg4OtasWbQMwpZBgpJ4ko3SqUi5ZPDTA1hxEwcctrn1WjLJo",
+    "https://play-lh.googleusercontent.com/4Jyxjd7ftd3gQCHgkayfqk8EEFJnPQih3nV7zHsY_5IEZaAwkqVD65qO_9tZagQGRfuW",
+    "https://play-lh.googleusercontent.com/PaRHKodRBdJAWHeXQedv4erDNy-nzHIKBHhXHdBD9ErmcWu6HWUuNPnqoN3vR8Ew1nl9"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/OiLVrlDg2QeTxiVGz0d05qyDAU-4EJiKChzoe_L9eQw-3eAtL-VWe-9WChNMxp4xR2Xr",
+  "permissions": {
+    "Calendar": [
+      "add or modify calendar events and send email to guests without owners' knowledge",
+      "read calendar events plus confidential information"
+    ],
+    "Contacts": [
+      "modify your contacts",
+      "read your contacts"
+    ],
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Phone": [
+      "directly call phone numbers",
+      "read phone status and identity"
+    ],
+    "Photos/Media/Files": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Camera": [
+      "take pictures and videos"
+    ],
+    "Microphone": [
+      "record audio"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Device ID & call information": [
+      "read phone status and identity"
+    ],
+    "Other": [
+      "Google Play license check",
+      "access Bluetooth settings",
+      "change your audio settings",
+      "control Near Field Communication",
+      "control vibration",
+      "full network access",
+      "pair with Bluetooth devices",
+      "prevent device from sleeping",
+      "read Google service configuration",
+      "reorder running apps",
+      "run at startup",
+      "view network connections"
+    ],
+    "Uncategorized": [
+      "download files without notification",
+      "receive data from Internet"
+    ]
+  },
+  "reviews_data": null
+}

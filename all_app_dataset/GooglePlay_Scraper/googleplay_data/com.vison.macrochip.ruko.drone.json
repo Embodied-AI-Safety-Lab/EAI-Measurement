@@ -1,0 +1,80 @@
+{
+  "pkg_name": "com.vison.macrochip.ruko.drone",
+  "appId": "com.vison.macrochip.ruko.drone",
+  "title": "RUKO DRONE",
+  "developer": "Zheng Xiang",
+  "developer_id": "Zheng+Xiang",
+  "developer_email": "vison_macrochip@163.com",
+  "developer_website": null,
+  "developer_address": null,
+  "category": "Entertainment",
+  "category_id": "ENTERTAINMENT",
+  "content_rating": "Everyone",
+  "score": 2.96,
+  "ratings": 270,
+  "reviews_count": 130,
+  "installs": "50,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://www.rukotoy.com",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "This is an app which we can control a quadcopter to fly with a WiFi camera module , it’s also display a real-time video taken by the WiFi camera module, which include below feature.\r\n \r\n    1, support VGA, 720P and 1080P resolution.\r\n    2, support take photo and record video function.\r\n    3, support 3D function.",
+  "descriptionHTML": "This is an app which we can control a quadcopter to fly with a WiFi camera module , it’s also display a real-time video taken by the WiFi camera module, which include below feature.<br> <br>    1, support VGA, 720P and 1080P resolution.<br>    2, support take photo and record video function.<br>    3, support 3D function.",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/5m6Rjeb_JOb3v3kOIn-kVdYTXd7hBh3-D0a7u2M3zNqDSkfiuKvalHfZFDKmvsIQReQ",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/Ftqo5DIirlXKQB0UNZ6cbTOZH_NLo-U6E8G9asqCYFAouKxqPnM9HZE7Z7EQKtX7OZs",
+    "https://play-lh.googleusercontent.com/9PSuz6PJdMnLJoya2Z6JJxesgdNuA9XxpncIkjw_KS7QG5xRxLIIkReKdzpIVtuWr6oT"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/_tHKs2Ws_5oQieFAq3r_xlk8rA3LRqJ_1NdEHwMObBI3JuIjbb-kgEoX2_-Fs_y1Sxs",
+  "permissions": {
+    "Location": [
+      "access extra location provider commands",
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Phone": [
+      "read phone status and identity"
+    ],
+    "Photos/Media/Files": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Camera": [
+      "take pictures and videos"
+    ],
+    "Microphone": [
+      "record audio"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Device ID & call information": [
+      "read phone status and identity"
+    ],
+    "Other": [
+      "access Bluetooth settings",
+      "allow Wi-Fi Multicast reception",
+      "change network connectivity",
+      "change your audio settings",
+      "connect and disconnect from Wi-Fi",
+      "control flashlight",
+      "control vibration",
+      "full network access",
+      "pair with Bluetooth devices",
+      "prevent device from sleeping",
+      "view network connections"
+    ]
+  },
+  "reviews_data": null
+}

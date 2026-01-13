@@ -1,0 +1,111 @@
+{
+  "pkg_name": "com.agilexrobotics",
+  "appId": "com.agilexrobotics",
+  "title": "Mammotion",
+  "developer": "Mammotion",
+  "developer_id": "5540920740751627253",
+  "developer_email": "mammotionluba@gmail.com",
+  "developer_website": "https://mammotion.com/",
+  "developer_address": null,
+  "category": "Tools",
+  "category_id": "TOOLS",
+  "content_rating": "Everyone",
+  "score": 3.24,
+  "ratings": 1513,
+  "reviews_count": 162,
+  "installs": "100,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://privacy.mammotion.com/application/agreement/",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "With the app control, you can just walk with Luba along the boundaries of the initial mapping to program your multi-cutting zone without the hassle of digging or burying the wires.",
+  "descriptionHTML": "With the app control, you can just walk with Luba along the boundaries of the initial mapping to program your multi-cutting zone without the hassle of digging or burying the wires.",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/KhN2ary-Xy5u71XG6WKIsPqDCD5Y6nhgOBMiaju4b8wwXNoOzIFBAwFmjnKLVdOFi3c",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/l3ubhzZi6Yck1sMhGGWI3rGHOkxaN_NZUFF88uy93IPZSYv23F3Jux0JGUjajo7AUYo",
+    "https://play-lh.googleusercontent.com/_jgS-fn1-KOo37hHWT3v2krMv4qpLZ_z_Wj5QJGULumXv_69VOsk0u-mc94Zzw7p1PI",
+    "https://play-lh.googleusercontent.com/NtLoSc2x9uQgC6CYooUFDmXfdWvQdidwkG2RWgR7gvvpf4PdLCaI7X0LZOXboO387A",
+    "https://play-lh.googleusercontent.com/QtCeM_T0aehGhdiwswsu8alO0kwIYv-WYuBRnIabITilL9p_ZmEjAGYXm4oaub8Qh8m3",
+    "https://play-lh.googleusercontent.com/hFfvjkE1jJwxj5AH7t9FKIphRgPjIjcTrPQqTByZi6F_yXbz9s5FZDf2KKpVaSrBq50",
+    "https://play-lh.googleusercontent.com/pgOj-Gl1hw1PArE8352UanTPSZ0W6cxuQyO1wDPy8nKW94bnixyK6A_uUX6FfbYC4TQ",
+    "https://play-lh.googleusercontent.com/EH8XGXfw7EfyAk8BHiVYtepNgp7cmv77ezPqPHtsWhJ57DZIEwJGsJPtLmPMB5nm2g",
+    "https://play-lh.googleusercontent.com/SkBFRZuNXElTb41AVa3Bt2tRqapnFkLIHtEH8Ma-_342gkhGO2SgdwNVtq-lPJ5WAQ",
+    "https://play-lh.googleusercontent.com/wb8UP4pXXLd01pIHBYNFMRKFjOkxDDU-hboc3Hwtc5yEZrWqs4v4vW2PmD6_ho5GW0YX",
+    "https://play-lh.googleusercontent.com/8vDdDWrMRh3Wb-btXkt3mAGDzXLz38KPUUF4Rrt89fC8mT-VVRBbW3OW63KuEZueRg",
+    "https://play-lh.googleusercontent.com/hBZRMWMC9BW1lBy-ah3lMn6aqcC86tp_HscZ4LJyIRa-wmSQwDDXHvubDEkj6S0shaU",
+    "https://play-lh.googleusercontent.com/Dxc2JlrrVgDF2OOgvwEgf_SKBmhP2nscfav1U57gMNPeLrGevBW5up7pOyP0xfGtQ4Q",
+    "https://play-lh.googleusercontent.com/LqLvMDK72niUl_acCcu4si1Egvh1yXjb3QkJUEqCL0XYPuD0HqbqLN3pUN8gHg_ztQ",
+    "https://play-lh.googleusercontent.com/YlcxM2IVxYM-0UTGvRMxtTbc1skBrPYurp-30b8YXFFb9Q5TDFQZ892hMVFEaUUArA",
+    "https://play-lh.googleusercontent.com/i7JMIbU6m0z00J60KMrtW39k8YTayy4_j8MToEl4aC65k3ZTNtdlro0lj_kKbFR54Q",
+    "https://play-lh.googleusercontent.com/4ZBlpfiOl_tFOf1nfqdAtnz9EOPo-RwfDDYYfBEBqe3h2h85ZY2yjL0F_iuVEgDhP0A",
+    "https://play-lh.googleusercontent.com/Qi8u8muhu0PVuYW9sxQLBp8TuB_au-Jy0k1_qndKiHOtK4cs2qJ2Ozfe_9d5KwFZqcnd",
+    "https://play-lh.googleusercontent.com/HAmiy-IvjVHYACE43Wqumv5SjoRg5okYvI1onabDJNLCG_TYG33VTlZslxZouwxkkngC"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/cjOrZZCdIK7BTwS_MMLlS6_Go-dZsFACuamyTu-URVb83NnNi93nnAzMZgoPdyip8g",
+  "permissions": {
+    "Device & app history": [
+      "read sensitive log data",
+      "retrieve running apps"
+    ],
+    "Location": [
+      "access extra location provider commands",
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Phone": [
+      "read phone status and identity"
+    ],
+    "Photos/Media/Files": [
+      "access USB storage filesystem",
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Camera": [
+      "take pictures and videos"
+    ],
+    "Microphone": [
+      "record audio"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Device ID & call information": [
+      "read phone status and identity"
+    ],
+    "Other": [
+      "access Bluetooth settings",
+      "allow Wi-Fi Multicast reception",
+      "change network connectivity",
+      "change your audio settings",
+      "close other apps",
+      "connect and disconnect from Wi-Fi",
+      "control flashlight",
+      "control vibration",
+      "draw over other apps",
+      "full network access",
+      "install shortcuts",
+      "modify system settings",
+      "pair with Bluetooth devices",
+      "prevent device from sleeping",
+      "run at startup",
+      "uninstall shortcuts",
+      "view network connections"
+    ],
+    "Uncategorized": [
+      "modify/delete internal media storage contents",
+      "receive data from Internet"
+    ]
+  },
+  "reviews_data": null
+}

@@ -1,0 +1,73 @@
+{
+  "pkg_name": "org.DroneBooth.app",
+  "appId": "org.DroneBooth.app",
+  "title": "360 Drone Booth",
+  "developer": "360 Motion Labs",
+  "developer_id": "360+Motion+Labs",
+  "developer_email": "info@360motionlabs.com",
+  "developer_website": "https://360dronebooth.com/",
+  "developer_address": null,
+  "category": "Video Players & Editors",
+  "category_id": "VIDEO_PLAYERS",
+  "content_rating": "Everyone",
+  "score": 0,
+  "ratings": 0,
+  "reviews_count": 0,
+  "installs": "100+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://360motionlabs.com/terms/privacy_policy.html",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "Our 360 Drone Booth software is compatible with the DJI Mini 3 Pro drone and uses a mix of programmed paths control and sophisticated AI to optimize safe flying. Takeoff, circling, and landing all at the touch of a single button via the Android tablet. There are many customizations, such as radius, number of loops, and live gimbal adjustments, just to name a few. Live AI tracking helps ensure a safe take off, flying, and landing.\r\n\r\nThe drone is lightweight and safe, weighing only 8 ounces with the safety cage equipped!\r\n\r\nDJI Ocusync allows for reliable connectivity with no need to worry about disconnections (tablet to drone connection does not use Wi-Fi). If something does happen during flight, the drone will hover in place. The emergency land button is always available, if you want to land the drone at any time during flight.\r\n\r\nThe equipment is super easy to transport and set up! All you need is the DJI drone, Android tablet, and the printable helipad (all of which can be easily contained in a small case).\r\n\r\nSharing is easy! We support the use of most existing 360 sharing platforms.\r\n\r\nFuture releases will contain different flight patterns!",
+  "descriptionHTML": "Our 360 Drone Booth software is compatible with the DJI Mini 3 Pro drone and uses a mix of programmed paths control and sophisticated AI to optimize safe flying. Takeoff, circling, and landing all at the touch of a single button via the Android tablet. There are many customizations, such as radius, number of loops, and live gimbal adjustments, just to name a few. Live AI tracking helps ensure a safe take off, flying, and landing.<br><br>The drone is lightweight and safe, weighing only 8 ounces with the safety cage equipped!<br><br>DJI Ocusync allows for reliable connectivity with no need to worry about disconnections (tablet to drone connection does not use Wi-Fi). If something does happen during flight, the drone will hover in place. The emergency land button is always available, if you want to land the drone at any time during flight.<br><br>The equipment is super easy to transport and set up! All you need is the DJI drone, Android tablet, and the printable helipad (all of which can be easily contained in a small case).<br><br>Sharing is easy! We support the use of most existing 360 sharing platforms.<br><br>Future releases will contain different flight patterns!",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/xyU6552XdvqY5Tqal1PVib2zLTIkqbvqfG262eL2qg56aPnmwNx-mglR6S3JDICRUMI",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/7l4ir-swexm1pKIf7v6TFv3D46kENPH7-FlsE-7ElPx1Hwj2k5JHLuf0ktp39VjsbXw",
+    "https://play-lh.googleusercontent.com/TLIzAKWeC1tzpW9zlGjqZNYrBriEBrdFWlQRgfA3WUsJJ15Ip8VGF0bTJWEozOOuFRw",
+    "https://play-lh.googleusercontent.com/MeU1eT8vu-JJSUXtPdthTAD_jgE3qJlwKvLuT8--1OG9lgddNXzrJm6qNm6zlmd72g",
+    "https://play-lh.googleusercontent.com/H-tw9w5d-39gMK_HYQ1R69TyYxUHgPbsdCp9ajGi18gRLYn2cbr0RD-JIMz56YDQJoY",
+    "https://play-lh.googleusercontent.com/pwTyao39HDDCVmm_zNz98dJdDh6_MsDJWR4hZ4cTEIS7d65173ULKx-WEIdMpIDvZqg",
+    "https://play-lh.googleusercontent.com/BIE3ojdtV1z1kq6LwMrLzk4tBvIE9MhOHKLbBVlqZduv2MhkKsR4R7TlEn3NlTE-weEs"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/8DdDHQjc6XCceV-31CDin_pgQkM8Qtqi8St3qtbm7OHaMIqOOSqMlVeh79lExLWDcO7J",
+  "permissions": {
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Phone": [
+      "read phone status and identity"
+    ],
+    "Photos/Media/Files": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Device ID & call information": [
+      "read phone status and identity"
+    ],
+    "Other": [
+      "access Bluetooth settings",
+      "close other apps",
+      "full network access",
+      "pair with Bluetooth devices",
+      "prevent device from sleeping",
+      "run at startup",
+      "view network connections"
+    ]
+  },
+  "reviews_data": null
+}

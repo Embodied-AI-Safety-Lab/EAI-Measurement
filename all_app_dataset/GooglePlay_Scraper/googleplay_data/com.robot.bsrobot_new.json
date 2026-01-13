@@ -1,0 +1,90 @@
+{
+  "pkg_name": "com.robot.bsrobot_new",
+  "appId": "com.robot.bsrobot_new",
+  "title": "RVB SmartBot",
+  "developer": "Công Ty Cổ Phần Tara",
+  "developer_id": "C%C3%B4ng+Ty+C%E1%BB%95+Ph%E1%BA%A7n+Tara",
+  "developer_email": "1900545494@tara.com.vn",
+  "developer_website": null,
+  "developer_address": null,
+  "category": "Tools",
+  "category_id": "TOOLS",
+  "content_rating": "Everyone",
+  "score": null,
+  "ratings": null,
+  "reviews_count": null,
+  "installs": "100+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://www.bluestone.com.vn/pages/user-agreement-privacy-policy-rvb-9731",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "RVB SmartBot is a mobile phone application of connecting the TARA cleaner robotic products, which supports the robotic customization products with WIFI function under the TARA brand. It can not only replace the traditional remote controller , but also can present more working data that cannot be displayed by the conventional remote controller. Through the APP, the user can remotely control and reserve robots for cleaning while away from home, making you to enjoy smart life anytime, anywhere.",
+  "descriptionHTML": "RVB SmartBot is a mobile phone application of connecting the TARA cleaner robotic products, which supports the robotic customization products with WIFI function under the TARA brand. It can not only replace the traditional remote controller , but also can present more working data that cannot be displayed by the conventional remote controller. Through the APP, the user can remotely control and reserve robots for cleaning while away from home, making you to enjoy smart life anytime, anywhere.",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/GMz1Ju5Czt_zWEn3V09oXv4k6stNW_waN8EhGC9bZKMTzniDG6IFx1dOO1QA7wLh6nA",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/LSOHyb4-LErpHbqGLp_wHpLqw2LtNWGhurXj_J0HWifv4gqBDQMnYT5PNlWrkUUYJ78",
+    "https://play-lh.googleusercontent.com/oduagxzz_8_ps2tqcZIzLDobuKxNDkBnvqZg2pSyEtv0E9yHaz5T6g_m4LxVSXvDHPs",
+    "https://play-lh.googleusercontent.com/JIGAXKf53yP5arcMPdqhedEgJJFyQB7HcMKeAw-9Kwhzy1vYqYyFNhkZ6wsRfSUysvxf",
+    "https://play-lh.googleusercontent.com/pzK86O9-hnyEZ5gTnz6iCr5J-MFSuYyE0oq27KVZFn8by0pbOGFH9ojuRpkdhvIGyoQ"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/RLwHsSkldJ0u7mwbexmBOEzG4ZgMf2OA-Y-IJMzY8r5TnlNyCNQvUvGwImsbfBGjhKY",
+  "permissions": {
+    "Device & app history": [
+      "read sensitive log data",
+      "retrieve running apps"
+    ],
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Phone": [
+      "directly call phone numbers",
+      "read phone status and identity"
+    ],
+    "Photos/Media/Files": [
+      "access USB storage filesystem",
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Camera": [
+      "take pictures and videos"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Device ID & call information": [
+      "read phone status and identity"
+    ],
+    "Other": [
+      "access Bluetooth settings",
+      "allow Wi-Fi Multicast reception",
+      "change network connectivity",
+      "connect and disconnect from Wi-Fi",
+      "control flashlight",
+      "control vibration",
+      "full network access",
+      "modify system settings",
+      "pair with Bluetooth devices",
+      "prevent device from sleeping",
+      "reorder running apps",
+      "run at startup",
+      "view network connections"
+    ],
+    "Uncategorized": [
+      "close other apps",
+      "receive data from Internet"
+    ]
+  },
+  "reviews_data": null
+}

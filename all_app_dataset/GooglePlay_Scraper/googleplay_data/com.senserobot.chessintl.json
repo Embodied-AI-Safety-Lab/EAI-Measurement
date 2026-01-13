@@ -1,0 +1,72 @@
+{
+  "pkg_name": "com.senserobot.chessintl",
+  "appId": "com.senserobot.chessintl",
+  "title": "SenseRobot",
+  "developer": "上海元罗卜智能科技有限公司",
+  "developer_id": "%E4%B8%8A%E6%B5%B7%E5%85%83%E7%BD%97%E5%8D%9C%E6%99%BA%E8%83%BD%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8",
+  "developer_email": "service@senserobotchess.com",
+  "developer_website": null,
+  "developer_address": null,
+  "category": "Tools",
+  "category_id": "TOOLS",
+  "content_rating": "Everyone",
+  "score": 0,
+  "ratings": 0,
+  "reviews_count": 0,
+  "installs": "500+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://jupiter.senserobotchess.com/robot-public-intl/en-US/all-in-app/agreement/privacy/en",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "SenseRobot AI Robot's dedicated app is used for network connection, user pairing, user creation, and confirming game information.\r\n\r\nConduct network connection and user pairing of SenseRobot AI Robot through the app.\r\nUser creation and information registration through the app enable user switching on the robot.\r\nConfirming game records and replaying game records is possible through the app, improving chess skills through reflection.",
+  "descriptionHTML": "SenseRobot AI Robot&#39;s dedicated app is used for network connection, user pairing, user creation, and confirming game information.<br><br>Conduct network connection and user pairing of SenseRobot AI Robot through the app.<br>User creation and information registration through the app enable user switching on the robot.<br>Confirming game records and replaying game records is possible through the app, improving chess skills through reflection.",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/W39I0rbwBXPMFDhRCagoUn08qM7RQkwI5qM79a4-CnY0Cvb4iREx9ZfD0JJZY74nqw",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/brkaoGJF5lk9ziggHH8jSvLP7D08Y5Ms1psSUWpbQSZnG7vttl4z-TBqNTHGv9vUoaA",
+    "https://play-lh.googleusercontent.com/UGLQLnasgNkbdGj4coQEbQ80ENH5WKcy90fx67VkgLZz0u40OeBGuuPLh_3fcoR1PVkj",
+    "https://play-lh.googleusercontent.com/OGIiJe2s7RxplOUpMTEHtCjaTdmt-ANOE1r0TZk-oZE80wNgIsbLBw5HM_51nbPSgY8"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/92CJdsAzMPyzf6eDQ_6rBM8F7rQMx0Utb2xH13x69Z98sOExKRKWvBdr5khsTT9Ybf-w",
+  "permissions": {
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Photos/Media/Files": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Camera": [
+      "take pictures and videos"
+    ],
+    "Microphone": [
+      "record audio"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Other": [
+      "Google Play license check",
+      "change network connectivity",
+      "connect and disconnect from Wi-Fi",
+      "full network access",
+      "modify system settings",
+      "view network connections"
+    ],
+    "Uncategorized": [
+      "receive data from Internet"
+    ]
+  },
+  "reviews_data": null
+}

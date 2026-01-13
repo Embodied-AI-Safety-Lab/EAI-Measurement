@@ -1,0 +1,79 @@
+{
+  "pkg_name": "com.gravitii.uav_pro",
+  "appId": "com.gravitii.uav_pro",
+  "title": "Gravitii",
+  "developer": "CEI Conrad Electronic International (HK) Limited",
+  "developer_id": "8434613608620804512",
+  "developer_email": "ceiprojectdeveloper@gmail.com",
+  "developer_website": null,
+  "developer_address": null,
+  "category": "Entertainment",
+  "category_id": "ENTERTAINMENT",
+  "content_rating": "Everyone",
+  "score": null,
+  "ratings": null,
+  "reviews_count": null,
+  "installs": "1,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "http://120.79.204.191/upload/gravitii_privacy.html",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "This app supports Gravitii drones to meet the needs of aerial photography.\r\n\r\nExperience the combination of technology and life, find the inspiration, enjoy the enjoyment at high altitude, travel around the world, record the good times!\r\n\r\nFunctions:\r\n1. FPV live sharing, photo taking or recording videos \r\n2. Adjust the gimbal angle, parameter of camera\r\n3. One key share to social media\r\n4. Waypoint，route planning\r\n5. One key take off/land, one key return\r\n6. Display flight speed, GPS, battery life\r\n7. One key switch to altitude, GPS,Follow, etc\r\n8. Beginners’ mode",
+  "descriptionHTML": "This app supports Gravitii drones to meet the needs of aerial photography.<br><br>Experience the combination of technology and life, find the inspiration, enjoy the enjoyment at high altitude, travel around the world, record the good times!<br><br>Functions:<br>1. FPV live sharing, photo taking or recording videos <br>2. Adjust the gimbal angle, parameter of camera<br>3. One key share to social media<br>4. Waypoint，route planning<br>5. One key take off/land, one key return<br>6. Display flight speed, GPS, battery life<br>7. One key switch to altitude, GPS,Follow, etc<br>8. Beginners’ mode",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/pKLbH-Phin-K_ghPmn4jZewUMJ5k_jWGmvrNeqe_ghgqFAAjgO75qO_vKxvRmFgRWsE",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/HGofdKg4_mOrn9Rof5QXa7UCTQL9rkbkqJpH7V-LK2lAKtRnJILetcvLebi5NILWnQ",
+    "https://play-lh.googleusercontent.com/wjOI70sdrK2ZNNN0FCvKIA0WRu0IHxfjCvzx6akbWOjrMHfy88NU70bsgzeycXlS0O_m",
+    "https://play-lh.googleusercontent.com/R3u16l_TMIO1kuRAoULPIplzmNvwbZlrvpGqe3nhChNxqF_N85aBWaWzUr0GyHw_fSs"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/dDn1_luBY2Yad97PawqwKVmJ1fAGwxn0RKeehImPIPBQCmDI51W2d_1gRtK4maPrBvZs",
+  "permissions": {
+    "Device & app history": [
+      "read sensitive log data"
+    ],
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Phone": [
+      "read phone status and identity"
+    ],
+    "Photos/Media/Files": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Camera": [
+      "take pictures and videos"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Device ID & call information": [
+      "read phone status and identity"
+    ],
+    "Other": [
+      "access Bluetooth settings",
+      "change network connectivity",
+      "connect and disconnect from Wi-Fi",
+      "control vibration",
+      "full network access",
+      "modify system settings",
+      "pair with Bluetooth devices",
+      "prevent device from sleeping",
+      "read Google service configuration",
+      "view network connections"
+    ]
+  },
+  "reviews_data": null
+}

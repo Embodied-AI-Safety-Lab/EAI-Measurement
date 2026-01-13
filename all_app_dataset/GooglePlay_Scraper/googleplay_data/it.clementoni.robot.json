@@ -1,0 +1,53 @@
+{
+  "pkg_name": "it.clementoni.robot",
+  "appId": "it.clementoni.robot",
+  "title": "Cyber Robot",
+  "developer": "Clementoni S.p.A.",
+  "developer_id": "7481325896989786351",
+  "developer_email": "assistenza@clementoni.it",
+  "developer_website": "http://www.clementoni.com",
+  "developer_address": null,
+  "category": "Educational",
+  "category_id": "GAME_EDUCATIONAL",
+  "content_rating": "Everyone",
+  "score": 3.3913043,
+  "ratings": 3637,
+  "reviews_count": 12,
+  "installs": "500,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://clemworld.clementoni.com/en/app/",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "Cyber Robot is the first Clementoni Robotics APP for children aged 8 years and upward. This game has been specifically designed so you can control and play with your very own robot.\r\n\r\n\"The free version of the Science&Play TechnoLogic APP will take you on a stimulating  and exciting adventure with Cyber Robot, giving you an opportunity to study and learn  how a robot works first-hand.  \"\r\n\r\n\"The APP allows you to control and play with Cyber Robot in 4 fun and engaging game modes: Programming, Real Time, Gyro and Self-Learning.  \"\r\n\r\nThanks to Bluetooth® technology, you can programme your robot, control its movements in real-time and even guide it using your gyroscope and teach it to understand your commands.\r\n\r\nTo make the experience even more engaging, you can also access the camera function, which will allow you to photograph and video the robot as it carries out your commands.\r\n\r\nWhat are you waiting for? Download the APP and start having fun now!\r\n\r\nWith fun light and sound effects and adjustable, speed-controlled movements, Cyber Robot will become an inseparable playmate, who you’ll be able to do lots of amazing activities with, as you discover the basic principles of programming!",
+  "descriptionHTML": "Cyber Robot is the first Clementoni Robotics APP for children aged 8 years and upward. This game has been specifically designed so you can control and play with your very own robot.<br><br>&quot;The free version of the Science&amp;Play TechnoLogic APP will take you on a stimulating  and exciting adventure with Cyber Robot, giving you an opportunity to study and learn  how a robot works first-hand.  &quot;<br><br>&quot;The APP allows you to control and play with Cyber Robot in 4 fun and engaging game modes: Programming, Real Time, Gyro and Self-Learning.  &quot;<br><br>Thanks to Bluetooth® technology, you can programme your robot, control its movements in real-time and even guide it using your gyroscope and teach it to understand your commands.<br><br>To make the experience even more engaging, you can also access the camera function, which will allow you to photograph and video the robot as it carries out your commands.<br><br>What are you waiting for? Download the APP and start having fun now!<br><br>With fun light and sound effects and adjustable, speed-controlled movements, Cyber Robot will become an inseparable playmate, who you’ll be able to do lots of amazing activities with, as you discover the basic principles of programming!",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/40IZYIaMntAJqBe5SGZP06v5ZttUKJaEU0U1KF1LoeIGsn8pCfX2Sbe6NT-v_KAAcMQ",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/UCw9tsDvxn3zTtvi5sOt-gTEYqfYDhS7UHe895sPIS9bWsvQtnk8xZRFG6asP_ptGhg",
+    "https://play-lh.googleusercontent.com/yEthS68W_Irry7IQmkPpyYpIpt3kocBgWEjNRqvWt9qiP7Isp358nmsSFpjZj-kyOw0",
+    "https://play-lh.googleusercontent.com/efT_dGD7ItR_6WGRDD3LMOUKvWFtTsn4S17I60TSLgeeqh4tBJQP87R9FJfAaVDwebc",
+    "https://play-lh.googleusercontent.com/r82vQXlcDzELV2KWSc0DQVKzGZ6EmGzP_PgBOqeRBGthRmKD3iaOs5KlaV2ppV5-9H8",
+    "https://play-lh.googleusercontent.com/MXGj7e_kvqRSFKluBDngXqp2GJUJfXIVlIFVAYONYl_PRo1Okg_oGQyIgmSJv4I1"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/N2mvQ1JxZYYpbZfnz7JOrutLNOGzrFhBm-4KrYK3mSRoBbrSrGuoI81RbB9PDq6zeg",
+  "permissions": {
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Camera": [
+      "take pictures and videos"
+    ],
+    "Other": [
+      "access Bluetooth settings",
+      "pair with Bluetooth devices"
+    ]
+  },
+  "reviews_data": null
+}

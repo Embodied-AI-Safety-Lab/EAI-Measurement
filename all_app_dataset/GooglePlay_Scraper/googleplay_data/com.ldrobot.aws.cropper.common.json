@@ -1,0 +1,80 @@
+{
+  "pkg_name": "com.ldrobot.aws.cropper.common",
+  "appId": "com.ldrobot.aws.cropper.common",
+  "title": "Intelligent Mower",
+  "developer": "SHENZHEN LDROBOT CO.,LTD",
+  "developer_id": "SHENZHEN+LDROBOT+CO.,LTD",
+  "developer_email": "wfldrobot@gmail.com",
+  "developer_website": "https://www.ldrobot.com",
+  "developer_address": null,
+  "category": "Lifestyle",
+  "category_id": "LIFESTYLE",
+  "content_rating": "Everyone",
+  "score": 0,
+  "ratings": 0,
+  "reviews_count": 0,
+  "installs": "1,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://api.anthbot.com/api/principles/Intelligent_Mower_Privacy_Principles.html",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "Mower，Smart, Intelligent maintenance，Intelligent\r\n1. Remote control: control the lawn mower robots from anywhere\r\n2. Simultaneously control: control multiple devices with one App\r\n3. Glogal mowing: automaticlly mowing\r\n4. Device sharing: One tap to share devices among family members",
+  "descriptionHTML": "Mower，Smart, Intelligent maintenance，Intelligent<br>1. Remote control: control the lawn mower robots from anywhere<br>2. Simultaneously control: control multiple devices with one App<br>3. Glogal mowing: automaticlly mowing<br>4. Device sharing: One tap to share devices among family members",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/F1aBrG4BBntIZBL9QWSgBuHUqoJJIH5gYjpovNh52Y1cab75zTfNAsV4s_C4tiIRs8Q",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/luGC10n0TxVHoPCtRPxD4_r6O09vI1IMPezABkF628RjuWyigdny2Z8HutKOSONHFcE",
+    "https://play-lh.googleusercontent.com/CTRcMvuU7TH15ahGEi6Rd3cyreCL4O3HFvglbRQhZeZhmJvWNxugd5agarhx0LAx4NY",
+    "https://play-lh.googleusercontent.com/IbLsRiu3OnJZqpr9ebSm79WgLWYbi5vDSQDyPEPPqUzq1Rd_JaOcnJw0VGkmTEui-g4",
+    "https://play-lh.googleusercontent.com/czuFDnz-P0wPxCglZdsJHAf11xY_ecYeVyZCvno3pznqiIMmJl5O4nM09xY7BQFxGYUG",
+    "https://play-lh.googleusercontent.com/b9H9V3MEy--UcTcq5iftRXDkgNod1ejU_gwVwfWhgseJazOT5twTLKc8xiXIvSDe5g"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/CIsZUHHvWhozei62pASrLyV6M_7vZSTs3fA87IHKyvTCmaBudklsZEf1DKEJ3784EXk",
+  "permissions": {
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Photos/Media/Files": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Camera": [
+      "take pictures and videos"
+    ],
+    "Microphone": [
+      "record audio"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Other": [
+      "Google Play license check",
+      "access Bluetooth settings",
+      "change network connectivity",
+      "change your audio settings",
+      "connect and disconnect from Wi-Fi",
+      "control vibration",
+      "draw over other apps",
+      "full network access",
+      "pair with Bluetooth devices",
+      "prevent device from sleeping",
+      "run at startup",
+      "view network connections"
+    ],
+    "Uncategorized": [
+      "receive data from Internet"
+    ]
+  },
+  "reviews_data": null
+}

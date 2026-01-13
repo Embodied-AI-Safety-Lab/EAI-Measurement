@@ -1,0 +1,60 @@
+{
+  "pkg_name": "com.guanxu.technology.my_drone",
+  "appId": "com.guanxu.technology.my_drone",
+  "title": "Smart Drone",
+  "developer": "GuanZhi Technology",
+  "developer_id": "GuanZhi+Technology",
+  "developer_email": "guanxukeji@qq.com",
+  "developer_website": "http://www.netopsun.com/",
+  "developer_address": null,
+  "category": "Casual",
+  "category_id": "GAME_CASUAL",
+  "content_rating": "Everyone",
+  "score": 3.7857144,
+  "ratings": 249,
+  "reviews_count": 10,
+  "installs": "50,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "http://goodstevechan.blogspot.com/2017/02/our-apps-privacy-policy.html",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "This APP can control the 4-axis aircraft by WiFi on the Android smartphone, and also can get the real time video from the aircraft, and take the photo and save the video .",
+  "descriptionHTML": "This APP can control the 4-axis aircraft by WiFi on the Android smartphone, and also can get the real time video from the aircraft, and take the photo and save the video .",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/dzEZapoFa-qzhY7aR_gN9-557MVyf9v8jHc1jLEPU6faXvZeehNDWnE7CEeamPe44f3r",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/zGo_ZMeYRlo3U84Ed-N8D0uQHCidRxT07XDOLKYEVXDneIyB9_3Yezsd8F3qRLWU3A",
+    "https://play-lh.googleusercontent.com/eXreUZH5SMALeCzNFxTqtDogAzbTJ6t3KMFRYtICVAO3i12QOdTaG9O670aBud39psE",
+    "https://play-lh.googleusercontent.com/FAWV8okmW1BngpSm0ksILwvwJxCrLxq0adb6vy886cRRnCunH9034jPfVu9NR5iu9cnr",
+    "https://play-lh.googleusercontent.com/AmCW9sxBEHUe9Qk_JRkmTPCp425P-Xt1QVEU7EtR2pD3MnBsQMbLJ9CD03DIMFpTXXw"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/Lc5hU8tB_Ij3Z4y9x-zkmzyvef8IAodMiPXToauo9C_l3EDuNnBebu3j0tfr620wU0Y",
+  "permissions": {
+    "Photos/Media/Files": [
+      "access USB storage filesystem",
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Other": [
+      "connect and disconnect from Wi-Fi",
+      "disable your screen lock",
+      "full network access",
+      "prevent device from sleeping",
+      "view network connections"
+    ]
+  },
+  "reviews_data": null
+}

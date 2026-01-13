@@ -1,0 +1,88 @@
+{
+  "pkg_name": "com.sensorplus.plus",
+  "appId": "com.sensorplus.plus",
+  "title": "SENSOR PLUS",
+  "developer": "Guangzhou Haoqin Robot Technology Co., Ltd",
+  "developer_id": "Guangzhou+Haoqin+Robot+Technology+Co.,+Ltd",
+  "developer_email": "bianj@cloudsbot.com",
+  "developer_website": "http://www.cloudsbot.com",
+  "developer_address": null,
+  "category": "Lifestyle",
+  "category_id": "LIFESTYLE",
+  "content_rating": "Everyone",
+  "score": null,
+  "ratings": null,
+  "reviews_count": null,
+  "installs": "1,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://releaseoss.hctrobot.com/html/1767529083211.html",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "The SENSOR PLUS Robot Vacuum APP is a mobile application that connects to SENSOR PLUS robot products. \r\nUsers can replace the traditional remote control with APP, remote control the robot to clean,dock to charge,etc.\r\nEquipment control, support direction control, cleaning preferences settings,etc.\r\nTime Schedule, clean at any time within a week.\r\nEquipment positioning, can view the data of cleaning area and cleaning time.\r\nSupport personalized settings of device name, time calibration, deleting equipment,etc.\r\nIf you have any questions or suggestions during use, please contact us by email，Mail address:  lineatielle@lineatielle.com",
+  "descriptionHTML": "The SENSOR PLUS Robot Vacuum APP is a mobile application that connects to SENSOR PLUS robot products. <br>Users can replace the traditional remote control with APP, remote control the robot to clean,dock to charge,etc.<br>Equipment control, support direction control, cleaning preferences settings,etc.<br>Time Schedule, clean at any time within a week.<br>Equipment positioning, can view the data of cleaning area and cleaning time.<br>Support personalized settings of device name, time calibration, deleting equipment,etc.<br>If you have any questions or suggestions during use, please contact us by email，Mail address:  lineatielle@lineatielle.com",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/0rY4HnFfRHK3Ovg2njMsrLJAGWt96KGSCM5B8_o8155Qiczt6Aczd_y6CAXd57TDUw",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/iiYLvHpVu1hSWL4T9v4ILk4oFZyiAxE2qPQ74mrv0CZ0ZOwSRcsTOpslltHbADsnOw",
+    "https://play-lh.googleusercontent.com/9mFAi9LWcOuHeJTpEkJj76thDRArUA_HkVq6OpK6-Oprl64wjquBTKO5WnjPXXZ1Spg",
+    "https://play-lh.googleusercontent.com/N0Jkm94dkzEDBeU02cp8OqHYP7vbWOPlBKf9Qhk_0mxTybW-6pW9bgZy_aSeS7N4trG0",
+    "https://play-lh.googleusercontent.com/GY2iY7d4T1sKLvgvvqzGO83eo4UnwGKEOYvq1y09n4lP_c8IDsaEL30Iem3v6rMtrWg"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/a_KYN129p65fk7HgbeqWKRFLG1f-VNzWaKUuGmYLhYxpYanQdZOU3Hrip3V8iP8cFus",
+  "permissions": {
+    "Device & app history": [
+      "read sensitive log data",
+      "retrieve running apps"
+    ],
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Phone": [
+      "directly call phone numbers"
+    ],
+    "Photos/Media/Files": [
+      "access USB storage filesystem",
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Camera": [
+      "take pictures and videos"
+    ],
+    "Microphone": [
+      "record audio"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Other": [
+      "access Bluetooth settings",
+      "allow Wi-Fi Multicast reception",
+      "change network connectivity",
+      "change system display settings",
+      "connect and disconnect from Wi-Fi",
+      "control flashlight",
+      "control vibration",
+      "full network access",
+      "modify system settings",
+      "pair with Bluetooth devices",
+      "prevent device from sleeping",
+      "run at startup",
+      "view network connections"
+    ],
+    "Uncategorized": [
+      "receive data from Internet"
+    ]
+  },
+  "reviews_data": null
+}

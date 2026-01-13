@@ -1,0 +1,91 @@
+{
+  "pkg_name": "com.bluebot.blbt",
+  "appId": "com.bluebot.blbt",
+  "title": "Bluebot Robotics",
+  "developer": "Blaupunkt Robotics",
+  "developer_id": "5294090915238498460",
+  "developer_email": "info@blaupunktrobotics.eu",
+  "developer_website": "https://shop.blaupunktrobotics.eu/contact-support/",
+  "developer_address": null,
+  "category": "Tools",
+  "category_id": "TOOLS",
+  "content_rating": "Everyone",
+  "score": 0,
+  "ratings": 0,
+  "reviews_count": 0,
+  "installs": "10,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://blaupunktrobotics.eu/en/privacy-policy/",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "The Bluebot Robotics Robot Vacuum APP is a mobile application that connects to Bluebot Robotics robot products. \r\nUsers can replace the traditional remote control with APP, remote control the robot to clean, dock to charge, etc.\r\nEquipment control, support direction control, cleaning preferences settings, etc.\r\nTime Schedule, clean at any time within a week.\r\nEquipment positioning, can view the data of cleaning area and cleaning time.\r\nSupport personalized settings of device name, time calibration, deleting equipment, etc.\r\nIf you have any questions or suggestions during use, please contact us by email，Mail address:  support@blaupunktrobotics.eu",
+  "descriptionHTML": "The Bluebot Robotics Robot Vacuum APP is a mobile application that connects to Bluebot Robotics robot products. <br>Users can replace the traditional remote control with APP, remote control the robot to clean, dock to charge, etc.<br>Equipment control, support direction control, cleaning preferences settings, etc.<br>Time Schedule, clean at any time within a week.<br>Equipment positioning, can view the data of cleaning area and cleaning time.<br>Support personalized settings of device name, time calibration, deleting equipment, etc.<br>If you have any questions or suggestions during use, please contact us by email，Mail address:  support@blaupunktrobotics.eu",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/YaG-KrFlYdW5XeAT8ri2B5PxeJjfqOZYziM2tzcgG0I73p7cojoyc6s_myNwHhoZr28",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/qmKy-7m-0NJDcu3ZK9vCit2j0kWeVdrTpCngZwVzhJTA1frZsRczJZE21g-skGN21-g",
+    "https://play-lh.googleusercontent.com/mizjiUuqI76nHKf-Qgh1fyRyHEv5Kk44zI-1zf-_OBBXI1gfWRVRcHsItKlQm9PGXNVA",
+    "https://play-lh.googleusercontent.com/mbsmMkU0DC236p_J01whfld4DJq4OP7bSGzn2yT08AM6u63CckRNCb9Izb0kMRdNHik6",
+    "https://play-lh.googleusercontent.com/Fuwt6g4FoVz-hDZPISY3V8Lm0Z5RYLkP50Atyh4BHHlDca_lBT1lpPwx_Wri7bOCSfot",
+    "https://play-lh.googleusercontent.com/jkJGe7Iuu8fQfLHQkB696MA7HYhE4zVnpG1HY_XddpRIArmM45i-RfrkWq1VkmrhwiY"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/xUTUIGjKKoMxZqPC6YmIp9e5MsWmcXsNiuu-XVm3OiVJEmoe-rn_r27vZ-uVwCgdhQ",
+  "permissions": {
+    "Device & app history": [
+      "read sensitive log data",
+      "retrieve running apps"
+    ],
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Phone": [
+      "directly call phone numbers",
+      "read phone status and identity"
+    ],
+    "Photos/Media/Files": [
+      "access USB storage filesystem",
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Camera": [
+      "take pictures and videos"
+    ],
+    "Microphone": [
+      "record audio"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Device ID & call information": [
+      "read phone status and identity"
+    ],
+    "Other": [
+      "allow Wi-Fi Multicast reception",
+      "change network connectivity",
+      "change system display settings",
+      "connect and disconnect from Wi-Fi",
+      "control flashlight",
+      "control vibration",
+      "draw over other apps",
+      "full network access",
+      "modify system settings",
+      "prevent device from sleeping",
+      "view network connections"
+    ],
+    "Uncategorized": [
+      "receive data from Internet"
+    ]
+  },
+  "reviews_data": null
+}

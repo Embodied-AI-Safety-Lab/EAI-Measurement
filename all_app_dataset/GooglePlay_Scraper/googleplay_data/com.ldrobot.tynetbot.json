@@ -1,0 +1,79 @@
+{
+  "pkg_name": "com.ldrobot.tynetbot",
+  "appId": "com.ldrobot.tynetbot",
+  "title": "NetBot LS23",
+  "developer": "CREATE Software",
+  "developer_id": "6391165311479027120",
+  "developer_email": "postventa@IKOHS.com",
+  "developer_website": "https://www.ikohs.com/es/content/150-servicio-postventa",
+  "developer_address": null,
+  "category": "House & Home",
+  "category_id": "HOUSE_AND_HOME",
+  "content_rating": "Everyone",
+  "score": 2,
+  "ratings": 558,
+  "reviews_count": 4,
+  "installs": "10,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://www.ikohs.com/es/content/151-politica-de-privacidad",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "Bienvenido a IKOHS, NetBot LS23 experiencia y control de tu robot de limpieza Inteligente. Con NetBot APP podrás configurar y programar las funciones del robot limpiador láser desde cualquier lugar en el que te encuentres. Configura los parámetros y las funciones que quieres que realice NETBOT LS23 con facilidad y rapidez. Controla en todo momento y online las tareas que está realizando y reprograma las tareas cuando quieras. APP es muy intuitiva se vincula fácilmente a tu robot aspirador y puede ser compartida por varios miembros de la familia. Compatible con ALEXA y Google Home, instálala gratuitamente en tu dispositivo móvil y comienza a disfrutar de todas las ventajas que te ofrece.",
+  "descriptionHTML": "Bienvenido a IKOHS, NetBot LS23 experiencia y control de tu robot de limpieza Inteligente. Con NetBot APP podrás configurar y programar las funciones del robot limpiador láser desde cualquier lugar en el que te encuentres. Configura los parámetros y las funciones que quieres que realice NETBOT LS23 con facilidad y rapidez. Controla en todo momento y online las tareas que está realizando y reprograma las tareas cuando quieras. APP es muy intuitiva se vincula fácilmente a tu robot aspirador y puede ser compartida por varios miembros de la familia. Compatible con ALEXA y Google Home, instálala gratuitamente en tu dispositivo móvil y comienza a disfrutar de todas las ventajas que te ofrece.",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/aVicICUZ6shaf5Zv2fTt-LJpnvNUtzDI10sOSCDgsMDwYYZhnOS0rSuvYx2Z0ZDxHIE",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/Ousu7Bhu-Yzlfv87oSwSNdiDrOUnM9MLYRGhvBi6uoLAaI8tPldq4w3HrHAYFBivw8I",
+    "https://play-lh.googleusercontent.com/aAfw1hvZkhXNQtR-j_30-HQzcEBFb2Mhe-DtpYekc7KHJM-0lakEp0Lam_p_ufHLvWE",
+    "https://play-lh.googleusercontent.com/9H1lrbRxNt8F-PZsW5l_r7ArTg-3ZTHS0o_vCi2QhzQnOla54IUArnftqnHkCqYktzX9",
+    "https://play-lh.googleusercontent.com/1xzhV5Ji_YrrMtwU4tZJkRLyDhBMwEAZcUbbiNv9G9zXd3QRTrf_DYxFGf2jWnzeIdg",
+    "https://play-lh.googleusercontent.com/hB-PNSX1eyDgPJ65vGANIPqVvBTOrpTfgP-JOgByyE-hnacUXbMzEBpj0q96etipFg"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/wxsMBJerk3EP39kwEfIMdmAskcmb7c_Fl07lfDqdb2_Elk7JUwyenMH2EERaipkfG9E",
+  "permissions": {
+    "Device & app history": [
+      "retrieve running apps"
+    ],
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Phone": [
+      "read phone status and identity"
+    ],
+    "Photos/Media/Files": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Camera": [
+      "take pictures and videos"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Device ID & call information": [
+      "read phone status and identity"
+    ],
+    "Other": [
+      "allow Wi-Fi Multicast reception",
+      "change network connectivity",
+      "connect and disconnect from Wi-Fi",
+      "control vibration",
+      "full network access",
+      "pair with Bluetooth devices",
+      "prevent device from sleeping",
+      "view network connections"
+    ]
+  },
+  "reviews_data": null
+}

@@ -1,0 +1,83 @@
+{
+  "pkg_name": "com.coredy.robot",
+  "appId": "com.coredy.robot",
+  "title": "Coredy Robot",
+  "developer": "Coredy inc",
+  "developer_id": "Coredy+inc",
+  "developer_email": "support@coredytech.com",
+  "developer_website": "https://www.coredy.com/",
+  "developer_address": null,
+  "category": "Tools",
+  "category_id": "TOOLS",
+  "content_rating": "Everyone",
+  "score": 2.38,
+  "ratings": 280,
+  "reviews_count": 124,
+  "installs": "50,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://images.tuyacn.com/smart/app/package/14004/origin/privacyUrl_1554861118930.html",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "You can also share Coredy smart home devices with family members, so everyone can control the devices, schedule time and set their own personal preferences for each device. You and your family will enjoy the convenience together from Coredy product.",
+  "descriptionHTML": "You can also share Coredy smart home devices with family members, so everyone can control the devices, schedule time and set their own personal preferences for each device. You and your family will enjoy the convenience together from Coredy product.",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/ymE0ZHsi8gQTYFNotEF41bzACYV12rG_OYQDfwqjVddkc36xliHjwiQ-zlPGjR5Iifw",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/H_j4Nyel1sfAgdB6DBObWPhOMTl9X5JN5Rfyg6jzYSo-rE5Zgy12YNkTYqdqRS190lM",
+    "https://play-lh.googleusercontent.com/_KnOobvHau50v9We39X5L9q-Q_O0HlHGjBTNPivGfw3Qjfnq1wtgjVfZII_WUylxE-A",
+    "https://play-lh.googleusercontent.com/tvwLDV8U-psukEyZ7bMlRElMGtz-YDFgE9TJLTPSZPYRxCNtyk9KaV1sp2jC4EV9cw",
+    "https://play-lh.googleusercontent.com/vIex5L53hS3Fc1FIHuhkWd_Kdfekxdbz6qpdztsqOQg0ODDIXvA10kKtFQb1IYUDoEsF",
+    "https://play-lh.googleusercontent.com/XyETWVcf4v4DHKinCc0fT8zGwLN2y4X285bTQqsTSZNETsgLmgp7RxhIWyzluzgxNdn4"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/V4Td3MKaOQS4bY_TAAn9hfSOw_kHXMeGKTYTxPcYChhivS298k7jXaG3u-o0gcWNDdI",
+  "permissions": {
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Photos/Media/Files": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Camera": [
+      "take pictures and videos"
+    ],
+    "Microphone": [
+      "record audio"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Other": [
+      "Google Play license check",
+      "access Bluetooth settings",
+      "allow Wi-Fi Multicast reception",
+      "change network connectivity",
+      "change your audio settings",
+      "connect and disconnect from Wi-Fi",
+      "control vibration",
+      "full network access",
+      "install shortcuts",
+      "pair with Bluetooth devices",
+      "prevent device from sleeping",
+      "reorder running apps",
+      "run at startup",
+      "set wallpaper",
+      "view network connections"
+    ],
+    "Uncategorized": [
+      "receive data from Internet"
+    ]
+  },
+  "reviews_data": null
+}

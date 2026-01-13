@@ -1,0 +1,98 @@
+{
+  "pkg_name": "com.dreame.movahome",
+  "appId": "com.dreame.movahome",
+  "title": "MOVAhome",
+  "developer": "Spacewalker Technology",
+  "developer_id": "Spacewalker+Technology",
+  "developer_email": "aftersales@mova-tech.com",
+  "developer_website": "https://global.mova-tech.com",
+  "developer_address": null,
+  "category": "Lifestyle",
+  "category_id": "LIFESTYLE",
+  "content_rating": "Everyone",
+  "score": 3.1923077,
+  "ratings": 449,
+  "reviews_count": 13,
+  "installs": "100,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://protocol.dreame.tech/r9407/zh/general_privacyPolicy.html",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "MOVAhome App is a professional cleaning management tool that developed specifically for MOVA robotic vacuum cleaners. Connect with your MOVA robot through MOVAhome App to remotely control and personalize the management of cleaning spaces and schedules, giving you control of your home’s floor cleaning anytime, anywhere. Unlock a variety of advanced features with ease through the MOVAhome App:\r\n\r\nDevice Information: Monitor your robot in real-time to precisely track its cleaning progress and path, work status, any malfunctions or anomalies, and the lifespan of cleaning consumables.\r\n\r\nRemote Control: Connect with the device to remotely control the robot, set cleaning schedules, and adjust various parameters such as water flow and suction power.\r\n\r\nZone Selection & Cleaning Customization: Select and customize cleaning areas through an intuitive map interface, pinpointing the exact locations you wish to clean.\r\n\r\nScheduled Cleaning: Set up timed cleaning appointments, and the robot will start the task at the designated time and autonomously return to its charging dock upon completion.\r\n\r\nHome Mapping: Create a personalized home map with custom room names and divided areas, and plan settings like floor material and cleaning sequence to meet the needs of your family.\r\n\r\nNo-Go Zones: Set no-go zones on your map, ensuring that the robot avoids these areas during cleaning to prevent entry into designated off-limits spaces.\r\n\r\nFirmware Upgrades: Update your robot to the latest firmware version with a single click through OTA technology, and be among the first to experience cutting-edge features.\r\n\r\nVoice Connection: Register and log into the app to connect with your robot, enabling compatibility with third-party voice assistant platforms for convenient voice control functions.\r\n\r\nContact Us\r\n• Email: aftersales@mova-tech.com\r\n• Website: https://global.mova-tech.com/",
+  "descriptionHTML": "MOVAhome App is a professional cleaning management tool that developed specifically for MOVA robotic vacuum cleaners. Connect with your MOVA robot through MOVAhome App to remotely control and personalize the management of cleaning spaces and schedules, giving you control of your home’s floor cleaning anytime, anywhere. Unlock a variety of advanced features with ease through the MOVAhome App:<br><br>Device Information: Monitor your robot in real-time to precisely track its cleaning progress and path, work status, any malfunctions or anomalies, and the lifespan of cleaning consumables.<br><br>Remote Control: Connect with the device to remotely control the robot, set cleaning schedules, and adjust various parameters such as water flow and suction power.<br><br>Zone Selection &amp; Cleaning Customization: Select and customize cleaning areas through an intuitive map interface, pinpointing the exact locations you wish to clean.<br><br>Scheduled Cleaning: Set up timed cleaning appointments, and the robot will start the task at the designated time and autonomously return to its charging dock upon completion.<br><br>Home Mapping: Create a personalized home map with custom room names and divided areas, and plan settings like floor material and cleaning sequence to meet the needs of your family.<br><br>No-Go Zones: Set no-go zones on your map, ensuring that the robot avoids these areas during cleaning to prevent entry into designated off-limits spaces.<br><br>Firmware Upgrades: Update your robot to the latest firmware version with a single click through OTA technology, and be among the first to experience cutting-edge features.<br><br>Voice Connection: Register and log into the app to connect with your robot, enabling compatibility with third-party voice assistant platforms for convenient voice control functions.<br><br>Contact Us<br>• Email: aftersales@mova-tech.com<br>• Website: https://global.mova-tech.com/",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/DMgTXtyFTGykw_HyaY6EoLDVQRMSsk_AbJkYGFQm8F3VEiIueEd9zfh0NLUXS1-L_ChV",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/kq9xLbyeNYmEx7xb3qn1Utgz0ekJoX1iXoc5pfnEnhTHrRlatxoVtDkbF0o5pgehvg",
+    "https://play-lh.googleusercontent.com/2nQOiucIppfg7S_d1kPxFab6fX_m05jpMFwsGpXqnyl-HvA-v9t1ldWEXAP7Gg6EqsI5",
+    "https://play-lh.googleusercontent.com/omwcGNj0eFPTqhdGy_lYutoHDCzI2vpYg12sx531SZ--nPDxASetA2iRf_Hs5JUUpHma",
+    "https://play-lh.googleusercontent.com/6AVAHF7sn6AZ4YFcgAw_p3ctpzQNRDwewNLHr3IJXO0nGaDou9_bouQfFcmCggmwSw",
+    "https://play-lh.googleusercontent.com/ubYeTYv54cY1AnMbLOoS2V_aZGdZgRtY-FbMe4XaHMPrLImc7YLLW8nSPPlGkzgv9v-1"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/j6Bnbz68gGQJTb3nTAjR9r-J60ONmNaHMO-L7sl3G8kO9sKOFZEjnKw5FOATML071Q",
+  "permissions": {
+    "Device & app history": [
+      "read sensitive log data",
+      "retrieve running apps"
+    ],
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Phone": [
+      "read phone status and identity"
+    ],
+    "Photos/Media/Files": [
+      "access USB storage filesystem",
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Camera": [
+      "take pictures and videos"
+    ],
+    "Microphone": [
+      "record audio"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Device ID & call information": [
+      "read phone status and identity"
+    ],
+    "Other": [
+      "access Bluetooth settings",
+      "allow Wi-Fi Multicast reception",
+      "change network connectivity",
+      "change your audio settings",
+      "connect and disconnect from Wi-Fi",
+      "control vibration",
+      "draw over other apps",
+      "full network access",
+      "install shortcuts",
+      "modify system settings",
+      "pair with Bluetooth devices",
+      "prevent device from sleeping",
+      "read Google service configuration",
+      "run at startup",
+      "uninstall shortcuts",
+      "view network connections"
+    ],
+    "Uncategorized": [
+      "download files without notification",
+      "read Home settings and shortcuts",
+      "receive data from Internet",
+      "write Home settings and shortcuts"
+    ]
+  },
+  "reviews_data": null
+}

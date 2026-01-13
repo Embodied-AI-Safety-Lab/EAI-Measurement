@@ -1,0 +1,57 @@
+{
+  "pkg_name": "com.tts.ruggedrobot",
+  "appId": "com.tts.ruggedrobot",
+  "title": "Rugged Robot",
+  "developer": "TTS Group",
+  "developer_id": "6883507181083450415",
+  "developer_email": "theteam@tts-group.co.uk",
+  "developer_website": "http://www.tts-group.co.uk",
+  "developer_address": null,
+  "category": "Education",
+  "category_id": "EDUCATION",
+  "content_rating": "Everyone",
+  "score": null,
+  "ratings": null,
+  "reviews_count": null,
+  "installs": "5,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://www.tts-group.co.uk/app-privacy-policy.html",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "Please note: Rugged Robot Floor Robot is compatible with any Android device with version 5.0(Lollipop) or higher \r\n\r\nDownload the app to control Rugged Robot, the latest addition to the TTS floor robot family. The app enables you to write an algorithm, send it and then Rugged Robot will follow your instructions. There are numerous features, which make writing algorithms both fun and educational.\r\n \r\nUse step-by-step for beginners\r\n\t•\tGet to grips with directional control with step-by-step commands\r\nMove onto basic programming \r\n\t•\tCreate and debug algorithms \r\n\r\nUse explore mode to develop algorithms:\r\n\t•\tDrag and drop programming. Just drag your instructions into the left hand bar to save\r\n\t•\tInclude repeats to make things even more fun\r\n\t•\tProgram 45 degree turns\r\n\t•\tControl the 3 speed settings\r\n\t•\tTurn obstacle avoidance on/off \r\n\r\n\r\nChildren can also record themselves saying a command and can assign it to a button on Rugged Robot. As the algorithm progresses, they will hear themselves giving the instructions.\r\n \r\nNotes:\r\nPlease note to control a Rugged Robot floor robot your device must have Bluetooth. ",
+  "descriptionHTML": "Please note: Rugged Robot Floor Robot is compatible with any Android device with version 5.0(Lollipop) or higher <br><br>Download the app to control Rugged Robot, the latest addition to the TTS floor robot family. The app enables you to write an algorithm, send it and then Rugged Robot will follow your instructions. There are numerous features, which make writing algorithms both fun and educational.<br> <br>Use step-by-step for beginners<br>\t•\tGet to grips with directional control with step-by-step commands<br>Move onto basic programming <br>\t•\tCreate and debug algorithms <br><br>Use explore mode to develop algorithms:<br>\t•\tDrag and drop programming. Just drag your instructions into the left hand bar to save<br>\t•\tInclude repeats to make things even more fun<br>\t•\tProgram 45 degree turns<br>\t•\tControl the 3 speed settings<br>\t•\tTurn obstacle avoidance on/off <br><br><br>Children can also record themselves saying a command and can assign it to a button on Rugged Robot. As the algorithm progresses, they will hear themselves giving the instructions.<br> <br>Notes:<br>Please note to control a Rugged Robot floor robot your device must have Bluetooth. ",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/poftUfbdpGnAQmyX7xp5tkOowe5dYCGDHUdao2JkUJ1-UtdFaZ7U0G8sPaJim8hKNFU",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/S8Yj7x1GgPGOLVFElKPeKAgdmlmv36ZoSX0FIf-GCe7_4TbIxspBwpZjv4TrfOEhiA",
+    "https://play-lh.googleusercontent.com/oOpCI1BJlHqZx4ZYSVi7hzMBuWvfh12oGzP-vDUjORkJg1nd6GYvIMLQbpyultMrVwk",
+    "https://play-lh.googleusercontent.com/mNAmPyoWLxt8U85G-efAumrUC_GauUALyxbB-ypmv4bgRbDUYSeKscc68qxrKOm4gQ",
+    "https://play-lh.googleusercontent.com/o0rWNV5VR0v-Cm2UUTJWG2MBiawgorMSLBa61VcNTlT-GjjVkkIqjsclZuJxSctMRQ",
+    "https://play-lh.googleusercontent.com/PDY5oRE6y5C-iAv2-mtyS91g816-2SRw4eDw_SGcM-IgXqRb4iXWjrwiWq_VQH1h1o6R",
+    "https://play-lh.googleusercontent.com/d93A8JK4CmtjLeppspljaXqSC-8zT81cb9OvOXc-UiNCWbpnZ5dYD8L1foY_6pmoB7g",
+    "https://play-lh.googleusercontent.com/m0lDVOkdeSLSPj6PQGWGh5bcKrywtd-8UkhfE17yK3gQZPV8xOhZqzTAmIarLbtWAg",
+    "https://play-lh.googleusercontent.com/QgCQ71j2POxaNTYUu_VnyL6WytgPTYae57JOx3aapEFziT8e82dlyGxBYHi9gw2-mYE"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/7DFZIbmvfhBqq-CoMfyqmi_havhGmTdp8q_JvkfmPr2VSnH8CcS0ZCBY2Qx_Ibo9nhE",
+  "permissions": {
+    "Location": [
+      "precise location (GPS and network-based)"
+    ],
+    "Microphone": [
+      "record audio"
+    ],
+    "Other": [
+      "access Bluetooth settings",
+      "change your audio settings",
+      "full network access",
+      "pair with Bluetooth devices"
+    ]
+  },
+  "reviews_data": null
+}

@@ -1,0 +1,48 @@
+{
+  "pkg_name": "com.timyerc.iglassbot",
+  "appId": "com.timyerc.iglassbot",
+  "title": "iGLASSBOT",
+  "developer": "Timye77",
+  "developer_id": "Timye77",
+  "developer_email": "dareplay77@gmail.com",
+  "developer_website": "http://www.timye.com.cn",
+  "developer_address": null,
+  "category": "Tools",
+  "category_id": "TOOLS",
+  "content_rating": "Everyone",
+  "score": 0,
+  "ratings": 0,
+  "reviews_count": 0,
+  "installs": "10,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "http://www.iglassbot.com/ProVac-Titan/privacy-notice",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "function description:The user can use the smart phone to search for the clean machine Bluetooth signal and connected , you can build real-time with their\r\nContact , and then remote control and management in order to achieve the purpose of human-computer interaction .",
+  "descriptionHTML": "function description:The user can use the smart phone to search for the clean machine Bluetooth signal and connected , you can build real-time with their<br>Contact , and then remote control and management in order to achieve the purpose of human-computer interaction .",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/EJISa7fNGWjs0nFezqbcbh53NhIKCzq3PBr-GwVjCO9FOKr5wZCHSlXNLwWPLJQqug",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/a43gG_m6iMgC8RDZxA-ZO038gP0-Iu1es5jc9Nln76omI8Uu9xsUgXf0ohK1r1EmO-A_",
+    "https://play-lh.googleusercontent.com/HzSUuvl9KFpaBGD-9nHLEjuUKcORrSGpNqv79ry_zLbrKXDxIlC-NO7hVlYKTzZnKZk",
+    "https://play-lh.googleusercontent.com/EDP4h2SlW6tcJV8SyjDH238XNcBqajaY2dpSF_QpD0NLoiI23cVgaYZ8l378dfVzYZUO"
+  ],
+  "video": "https://www.youtube.com/embed/u-CueM_IM8U?vq=large&rel=0&autohide=1&showinfo=0",
+  "video_image": "https://play-lh.googleusercontent.com/64oCSkkplKXUQS8IjejOEVyLCntvtC7WzzNuTfsga2tP1PPFDVXhOOdxgOep1bzIc_CN",
+  "header_image": "https://play-lh.googleusercontent.com/64oCSkkplKXUQS8IjejOEVyLCntvtC7WzzNuTfsga2tP1PPFDVXhOOdxgOep1bzIc_CN",
+  "permissions": {
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Other": [
+      "access Bluetooth settings",
+      "pair with Bluetooth devices"
+    ]
+  },
+  "reviews_data": null
+}

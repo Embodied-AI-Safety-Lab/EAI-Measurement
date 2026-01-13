@@ -1,0 +1,98 @@
+{
+  "pkg_name": "com.ugcs.android.vsm.dji",
+  "appId": "com.ugcs.android.vsm.dji",
+  "title": "UgCS for DJI",
+  "developer": "SPH Engineering",
+  "developer_id": "SPH+Engineering",
+  "developer_email": "support@ugcs.com",
+  "developer_website": "http://www.ugcs.com",
+  "developer_address": null,
+  "category": "Tools",
+  "category_id": "TOOLS",
+  "content_rating": "Everyone",
+  "score": 3.2894738,
+  "ratings": 277,
+  "reviews_count": 22,
+  "installs": "50,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://www.ugcs.com/privacy-policy",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "The UgCS for DJI app is designed to establish a connection between the DJI drone and the UgCS desktop to upload and carry out previously planned automatic AreaScan, Photogrammetry, Vertical (Facade) scan, Corridor Mapping and other drone survey mission. UgCS for DJI can also be used as a stand-alone application to manually fly a DJI drone and capture photos or videos.\r\n\r\nCompatible with DJI’s:\r\n - M600 / M600 PRO\r\n - M300\r\n - M200, M200 v2 series, M210, M210RTK\r\n - M100\r\n - Mavic Pro, Mavic 2 Pro/Enterprise/Zoom\r\n - A3\r\n - N3\r\n - Inspire 2\r\n - Inspire 1\r\n - Phantom 4\r\n - Phantom 4 PRO  series\r\n - Phantom 4 PRO V2.0\r\n - Phantom 4 ADV (will be detected as the profile of Phantom 4 PRO)\r\n - Phantom 3 (all editions)\r\n - Spark.\r\n\r\nUgCS for DJI features:\r\n - Establish connection with UgCS desktop enabling full access to features to plan, control and fly drone missions;\r\n - Upload planned and calculated missions from UgCS desktop to DJI drone;\r\n - Start uploaded mission manually or in auto-mode;\r\n - Manual flight mode;\r\n - Flight simulator;\r\n - Live HD camera view;\r\n - Camera view stream to UgCS Desktop;\r\n - Manage camera settings and controls (gimbal pitch and yaw);\r\n - Capture photos and videos;\r\n - Reset home position;\r\n - Command vehicle to return to the home position;\r\n - Check telemetry data;\r\n - Supports metric and imperial units.\r\n\r\nRequires: UgCS desktop\r\nDownload the latest version of UgCS: https://ugcs.com/download\r\n\r\nAbout UgCS desktop\r\nUgCS is a complete platform to plan and fly drone survey missions. Automated drone mission planning, built-in photogrammetry, facade scan, and geotagging tools, map customization and battery exchange option for long routes make UgCS an effective solution for a wide range of applications. \r\n\r\nControl your drones with UgCS https://ugcs.com",
+  "descriptionHTML": "The UgCS for DJI app is designed to establish a connection between the DJI drone and the UgCS desktop to upload and carry out previously planned automatic AreaScan, Photogrammetry, Vertical (Facade) scan, Corridor Mapping and other drone survey mission. UgCS for DJI can also be used as a stand-alone application to manually fly a DJI drone and capture photos or videos.<br><br>Compatible with DJI’s:<br> - M600 / M600 PRO<br> - M300<br> - M200, M200 v2 series, M210, M210RTK<br> - M100<br> - Mavic Pro, Mavic 2 Pro/Enterprise/Zoom<br> - A3<br> - N3<br> - Inspire 2<br> - Inspire 1<br> - Phantom 4<br> - Phantom 4 PRO  series<br> - Phantom 4 PRO V2.0<br> - Phantom 4 ADV (will be detected as the profile of Phantom 4 PRO)<br> - Phantom 3 (all editions)<br> - Spark.<br><br>UgCS for DJI features:<br> - Establish connection with UgCS desktop enabling full access to features to plan, control and fly drone missions;<br> - Upload planned and calculated missions from UgCS desktop to DJI drone;<br> - Start uploaded mission manually or in auto-mode;<br> - Manual flight mode;<br> - Flight simulator;<br> - Live HD camera view;<br> - Camera view stream to UgCS Desktop;<br> - Manage camera settings and controls (gimbal pitch and yaw);<br> - Capture photos and videos;<br> - Reset home position;<br> - Command vehicle to return to the home position;<br> - Check telemetry data;<br> - Supports metric and imperial units.<br><br>Requires: UgCS desktop<br>Download the latest version of UgCS: https://ugcs.com/download<br><br>About UgCS desktop<br>UgCS is a complete platform to plan and fly drone survey missions. Automated drone mission planning, built-in photogrammetry, facade scan, and geotagging tools, map customization and battery exchange option for long routes make UgCS an effective solution for a wide range of applications. <br><br>Control your drones with UgCS https://ugcs.com",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/OGM-tr07ZGTHvgwoIyiOsvWfdE98NPQHLXTGT0fch15dY4Ywx3iTCVKvc5sbc33NDvBS",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/UlLjetXzAdW8zpnFWvs7N2InRtOzZY1Z-ejMTht-uihm2MfelZ5oV8_RhPFEbYhxfo4",
+    "https://play-lh.googleusercontent.com/XYIJnBvRFpH8U7Ta0YByLa5IbiqkVGtuS3irL-mO_G5_h_f-gk6eb1-dP5o6rx8cNA",
+    "https://play-lh.googleusercontent.com/iNrHaQggyBMSzyu5R1fQ9HNsVBo0OIqLqwisD34mJIqZuNjAjtGqQ-cP30arogdNspk",
+    "https://play-lh.googleusercontent.com/Ox1Vvl4nqPlM1jb9Oxrfm3hXNTEKmpbi2R-meTuOwcs3by2J2he2IyRWu9bdByYoSA",
+    "https://play-lh.googleusercontent.com/HMUAWkUaL8zaGtUipQTpuMgXk_XL7un8H3T79x5UfnKY5iKkOL_3vFZE_ROzqIcXj1A",
+    "https://play-lh.googleusercontent.com/n0AhYrrDX858_OALZJyG7rhiLG41QPviFELrHEyBsQxcftDfxA98aaLe5FSG-5Hjhvm1"
+  ],
+  "video": "https://www.youtube.com/embed/IxCUfKFCvvs?vq=large&rel=0&autohide=1&showinfo=0",
+  "video_image": "https://play-lh.googleusercontent.com/Ty_oEMKfzKQdber9IwqwHaAkmTnjBRWb6ApUhFMH2lhKMlHsNSqPrPGwOKyBqHXCZmNi",
+  "header_image": "https://play-lh.googleusercontent.com/Ty_oEMKfzKQdber9IwqwHaAkmTnjBRWb6ApUhFMH2lhKMlHsNSqPrPGwOKyBqHXCZmNi",
+  "permissions": {
+    "Device & app history": [
+      "read sensitive log data",
+      "retrieve running apps"
+    ],
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Phone": [
+      "read phone status and identity"
+    ],
+    "Photos/Media/Files": [
+      "access USB storage filesystem",
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Camera": [
+      "take pictures and videos"
+    ],
+    "Microphone": [
+      "record audio"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Device ID & call information": [
+      "read phone status and identity"
+    ],
+    "Other": [
+      "access Bluetooth settings",
+      "add words to user-defined dictionary",
+      "allow Wi-Fi Multicast reception",
+      "change network connectivity",
+      "change system display settings",
+      "close other apps",
+      "connect and disconnect from Wi-Fi",
+      "control vibration",
+      "draw over other apps",
+      "full network access",
+      "modify system settings",
+      "pair with Bluetooth devices",
+      "prevent device from sleeping",
+      "read Google service configuration",
+      "run at startup",
+      "send sticky broadcast",
+      "use accounts on the device",
+      "view network connections"
+    ],
+    "Uncategorized": [
+      "full license to interact across users"
+    ]
+  },
+  "reviews_data": null
+}

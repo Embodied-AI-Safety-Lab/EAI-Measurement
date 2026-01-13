@@ -1,0 +1,80 @@
+{
+  "pkg_name": "com.misterrobotcleaner.hmc",
+  "appId": "com.misterrobotcleaner.hmc",
+  "title": "Mister Robot Touch",
+  "developer": "M.M. Global Trade Company Limited",
+  "developer_id": "M.M.+Global+Trade+Company+Limited",
+  "developer_email": "misterrobotcleaner@gmail.com",
+  "developer_website": "https://www.misterrobotcleaner.com/",
+  "developer_address": null,
+  "category": "Tools",
+  "category_id": "TOOLS",
+  "content_rating": "Everyone",
+  "score": null,
+  "ratings": null,
+  "reviews_count": null,
+  "installs": "1,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://aiot-image-prod.oss-cn-shenzhen.aliyuncs.com/prod/agreements-manage/20230609/MM%20home%20privacy%20policy_1686300490954.md",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "With the ‘Mister Robot Touch ‘App, you can use the following functions:\r\n[Remote control] Remote control and setup of the robot anytime and anywhere\r\n[Status View] Real time view of the working status of the robot\r\n[Work Data] View the cleaning data of the robot\r\n[Set Appointment] Set a scheduled cleaning task to automatically start working\r\n[Do Not Disturb Mode] Set the Do Not Disturb time so that the robot will not disturb your rest\r\n[Firmware Upgrade] Get feature updates and enjoy a better intelligent life\r\n[Device sharing] Share the device with family and friends to use it together",
+  "descriptionHTML": "With the ‘Mister Robot Touch ‘App, you can use the following functions:<br>[Remote control] Remote control and setup of the robot anytime and anywhere<br>[Status View] Real time view of the working status of the robot<br>[Work Data] View the cleaning data of the robot<br>[Set Appointment] Set a scheduled cleaning task to automatically start working<br>[Do Not Disturb Mode] Set the Do Not Disturb time so that the robot will not disturb your rest<br>[Firmware Upgrade] Get feature updates and enjoy a better intelligent life<br>[Device sharing] Share the device with family and friends to use it together",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/UL7MA9Kku_5-H3gJMM9X4WcJgj7WmousdHRhOE1x9jTnBHXQLKFJr0u3DHIM2hj5Jw",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/dRU09c_JaNrax2PDswURgh48b2-dmgmy_4rVRxrB2ez5S3uFkc-DGIOo4JX708sScHw",
+    "https://play-lh.googleusercontent.com/58QA9ZdQeNMMoXaXXZaz2vR966Pbz2WbHI0fqhIbeH3fCFG0x4CLUFL959D_7Dy9qJZm",
+    "https://play-lh.googleusercontent.com/MvydnFDml6b_K_W-ik4tufXge5H2zHbTyA110V5NkOmXIV05sUeK70dc4XEmR3g8RJc",
+    "https://play-lh.googleusercontent.com/lR5sIa-6_i6BnmhPKYmghCSBf0a8uSVQ1DeHqhcTUsak5HcWF_Pv2KkiZYJtk_SlMyQ",
+    "https://play-lh.googleusercontent.com/u1IH_VGb5mMJAx7MOhgv7p2aCe2pjclxdETiOHX04Wadip0z-cAZElB8z6bp_N9-QEY",
+    "https://play-lh.googleusercontent.com/sQ4iuktGp_0LkLd0rr24smMrQWAp9tkgFSOQ8Ijcn0eizyFyZ0lDsw3416HtH50QO5w",
+    "https://play-lh.googleusercontent.com/WrzopL5SiID608icTxfVb4xTZIzupUPHu2SSqDGcRgcpMUss4WkmAwih508ewNVUd0ns",
+    "https://play-lh.googleusercontent.com/6-ex733O3pPRQ6kSp5wdjO9r9Y6LWtuznmJWVkI9wyUEBnrHDiKmdUBvX92H3haVMSA",
+    "https://play-lh.googleusercontent.com/guALy7Wh76tMcJp36hL_lMLFZp_w8Qz5LAA0Hm6vAmTsckxGORfU-pWmGcVqZ8SI9A"
+  ],
+  "video": "https://www.youtube.com/embed/vjOuxKTEY7k?vq=large&rel=0&autohide=1&showinfo=0",
+  "video_image": "https://play-lh.googleusercontent.com/SFeJwiNzWFjJxFVXX8dSWSXpTRpYWWkHIl7SQu1Y_6pzE0EoXa_7BvnT-VohF-v3588",
+  "header_image": "https://play-lh.googleusercontent.com/SFeJwiNzWFjJxFVXX8dSWSXpTRpYWWkHIl7SQu1Y_6pzE0EoXa_7BvnT-VohF-v3588",
+  "permissions": {
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Phone": [
+      "read phone status and identity"
+    ],
+    "Photos/Media/Files": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Camera": [
+      "take pictures and videos"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Device ID & call information": [
+      "read phone status and identity"
+    ],
+    "Other": [
+      "access Bluetooth settings",
+      "change network connectivity",
+      "connect and disconnect from Wi-Fi",
+      "full network access",
+      "modify system settings",
+      "pair with Bluetooth devices",
+      "prevent device from sleeping",
+      "view network connections"
+    ]
+  },
+  "reviews_data": null
+}

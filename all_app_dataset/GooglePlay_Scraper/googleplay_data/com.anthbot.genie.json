@@ -1,0 +1,71 @@
+{
+  "pkg_name": "com.anthbot.genie",
+  "appId": "com.anthbot.genie",
+  "title": "ANTHBOT Genie",
+  "developer": "ANTHBOT (SG) PTE. LTD.",
+  "developer_id": "ANTHBOT+(SG)+PTE.+LTD.",
+  "developer_email": "info@anthbot.com",
+  "developer_website": "https://www.anthbot.com",
+  "developer_address": null,
+  "category": "Lifestyle",
+  "category_id": "LIFESTYLE",
+  "content_rating": "Everyone",
+  "score": 3.5384614,
+  "ratings": 76,
+  "reviews_count": 9,
+  "installs": "10,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://api.anthbot.com/api/principles/ANTNBOT_Privacy_Principles.html",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "ANTHBOT (SG) PTE. LTD. is an international robotics company registered in Singapore dedicated to garden maintenance and lawn care.We hope to make every garden beautiful, tidy, and evergreen through our innovation. Our values are \"innovation, sustainability, health and happiness, and customer-centricity\". ANTHBOT will redefine lawn care and improve people's lives by promoting innovation in robotics technology. At the same time, we prioritize sustainability, integrate ecological protection into product design, and protect our living environment. At ANTHBOT, customer satisfaction is the core of everything we do. Listening carefully to customers and continuous improvement will be our way to achieve this goal.",
+  "descriptionHTML": "ANTHBOT (SG) PTE. LTD. is an international robotics company registered in Singapore dedicated to garden maintenance and lawn care.We hope to make every garden beautiful, tidy, and evergreen through our innovation. Our values are &quot;innovation, sustainability, health and happiness, and customer-centricity&quot;. ANTHBOT will redefine lawn care and improve people&#39;s lives by promoting innovation in robotics technology. At the same time, we prioritize sustainability, integrate ecological protection into product design, and protect our living environment. At ANTHBOT, customer satisfaction is the core of everything we do. Listening carefully to customers and continuous improvement will be our way to achieve this goal.",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/Qj6JgvtuM7o48fTCYgwccJYgn_CKIyAfpEAPYUFmBKfMdR807e7hgZY6lYig3TyKGVc",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/Ry9e-yqQopW5xd_mPUWSnCGlXgTMT58HjILxRysnZd0cWfseSqBPU6w6z6OZ9Yakut0",
+    "https://play-lh.googleusercontent.com/B4OdoMDynUquJVuct2Ko9LrF6T-G6pHGQGa9kREAioo2-FWh2pYgh5ZzqbFELXhcsvc",
+    "https://play-lh.googleusercontent.com/Br6bmHofcSC795v-ZhaTzdA-sQ-1Qfc0SAVuZABEhWHomXgsOX4wS_flFROGe3hTkbs",
+    "https://play-lh.googleusercontent.com/Ywd3nDOKbiPhSllq04hCjwXa4qYVcK8cLqNQMrf_cBg7so2fobklPMhqDWeZp_6N5OY",
+    "https://play-lh.googleusercontent.com/Ikh5FIzhhk7a_GJQKC9xd6S-nhr2mduZ2eUAwI3G3N6hQ2kpMzUPUGvA0ygGLRGBQw"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/MXP0A7BT9TUk0NXNUXdj5BGW1Bi1p-IsuQWdTXO1N5aOVRkU7sJpl-_H6GqXb-hlMKnZ",
+  "permissions": {
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Photos/Media/Files": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Other": [
+      "access Bluetooth settings",
+      "connect and disconnect from Wi-Fi",
+      "control vibration",
+      "full network access",
+      "pair with Bluetooth devices",
+      "prevent device from sleeping",
+      "run at startup",
+      "view network connections"
+    ],
+    "Uncategorized": [
+      "download files without notification",
+      "receive data from Internet"
+    ]
+  },
+  "reviews_data": null
+}

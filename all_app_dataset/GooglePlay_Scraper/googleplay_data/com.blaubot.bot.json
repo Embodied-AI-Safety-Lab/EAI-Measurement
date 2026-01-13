@@ -1,0 +1,93 @@
+{
+  "pkg_name": "com.blaubot.bot",
+  "appId": "com.blaubot.bot",
+  "title": "BlauBot",
+  "developer": "2N-Everpol",
+  "developer_id": "2N-Everpol",
+  "developer_email": "sda@blaupunkt.pl",
+  "developer_website": null,
+  "developer_address": null,
+  "category": "Tools",
+  "category_id": "TOOLS",
+  "content_rating": "Everyone",
+  "score": null,
+  "ratings": null,
+  "reviews_count": null,
+  "installs": "1,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "http://www.blaupunkt.pl",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "The BlauBot Robot Vacuum APP is a mobile applicationthat connects to BLAUPUNKT robot products. \r\nUsers can replace the traditional remote control with APP, remote control the robot to clean,dock to charge,etc.\r\nEquipment control, support direction control, cleaning preferences settings,etc.\r\nTime Schedule, clean at any time within a week.\r\nEquipment positioning, can view the data of cleaning area and cleaning time.\r\nSupport personalized settings of device name, time calibration, deleting equipment,etc.\r\nIf you have any questions or suggestions during use, please contact us by email，Mail address:  sda@blaupunkt.pl",
+  "descriptionHTML": "The BlauBot Robot Vacuum APP is a mobile applicationthat connects to BLAUPUNKT robot products. <br>Users can replace the traditional remote control with APP, remote control the robot to clean,dock to charge,etc.<br>Equipment control, support direction control, cleaning preferences settings,etc.<br>Time Schedule, clean at any time within a week.<br>Equipment positioning, can view the data of cleaning area and cleaning time.<br>Support personalized settings of device name, time calibration, deleting equipment,etc.<br>If you have any questions or suggestions during use, please contact us by email，Mail address:  sda@blaupunkt.pl",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/HsypJzuue0VXJCOwj0Tdmz-Tb9XzFyEVfCT36kJN7ZUu32ecMfaCB1toh3OoyJIVKA",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/N3TO0NlctFAneKn40vTcfknCyweDpoIedeGIJkdTIdEILOis884IIDdRfboyZ9otd6U",
+    "https://play-lh.googleusercontent.com/0fb-qlI0ksV9JLuXSUGsTrHgxIaW36fQvL73NJN7sJLRid5XfE4KjBwX9QKpEZwFI4t2",
+    "https://play-lh.googleusercontent.com/oIyPMKoyxK8CxNCpqrdWWBfLhMwKbUHLPb1zB98jZDCEdnvoY_FrcODNSn1NK4bmkQ",
+    "https://play-lh.googleusercontent.com/8Nw0rC1LDfIsaorEsACtKy1MQmnLq9zlI0lpG3d0UuTgXSW-9kd4kmELgcqRTGFQi2c",
+    "https://play-lh.googleusercontent.com/Lc-igxBYs32MdkZmhBLcYH4tZThunLe957QEiEDPaYF9nSmcz6BtVb7UlqjOX3e1ZFU",
+    "https://play-lh.googleusercontent.com/gqwzRxLjnP2X4knFVDTL074obygI1Ct7MpQ8dNB8ENxAduGq5U3UI5mVeweR-4-LO4bR",
+    "https://play-lh.googleusercontent.com/aMnrN_e_pX6h6QR1epouD99AAp2OvrjVtzMKH5Mp-6DqZogHu9TnuEs5c1LuEh3qCrvV"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/vIRYAhyuQFkVilz4FfqCmPm0cXaChgv4h6bKRpVxMSJ9lzOgWcyMNM85Qi1HWTFpAQ",
+  "permissions": {
+    "Device & app history": [
+      "read sensitive log data",
+      "retrieve running apps"
+    ],
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Phone": [
+      "directly call phone numbers",
+      "read phone status and identity"
+    ],
+    "Photos/Media/Files": [
+      "access USB storage filesystem",
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Camera": [
+      "take pictures and videos"
+    ],
+    "Microphone": [
+      "record audio"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Device ID & call information": [
+      "read phone status and identity"
+    ],
+    "Other": [
+      "allow Wi-Fi Multicast reception",
+      "change network connectivity",
+      "change system display settings",
+      "connect and disconnect from Wi-Fi",
+      "control flashlight",
+      "control vibration",
+      "draw over other apps",
+      "full network access",
+      "modify system settings",
+      "prevent device from sleeping",
+      "view network connections"
+    ],
+    "Uncategorized": [
+      "receive data from Internet"
+    ]
+  },
+  "reviews_data": null
+}

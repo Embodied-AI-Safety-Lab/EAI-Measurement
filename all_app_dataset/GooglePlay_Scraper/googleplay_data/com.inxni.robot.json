@@ -1,0 +1,107 @@
+{
+  "pkg_name": "com.inxni.robot",
+  "appId": "com.inxni.robot",
+  "title": "INXNI",
+  "developer": "INXNI",
+  "developer_id": "INXNI",
+  "developer_email": "Inxni123456@gmail.com",
+  "developer_website": "http://www.inxni.com/",
+  "developer_address": null,
+  "category": "Tools",
+  "category_id": "TOOLS",
+  "content_rating": "Everyone",
+  "score": 0,
+  "ratings": 0,
+  "reviews_count": 0,
+  "installs": "1,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "http://info.inxni.com/PolicyAgreement/PrivacyPolicy.html",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "The inner APP is a sweeping robot control application. You can control your sweeping robot to clean anytime, anywhere, as you like; check various status and cleaning completion status at any time.\r\nThrough the APP, you can easily unlock the following functions:\r\n[Selected area cleaning] You can select a designated room for cleaning. After selection, only the selected room will be cleaned, and the cleaning will be performed according to the selected order.\r\n[Zone cleaning] Select the area you want to clean on the map, and set the number of cleanings to achieve key cleaning.\r\n[Forbidden area setting] Set the forbidden area. After setting, the robot will not enter the forbidden area when cleaning.\r\n[Scheduled cleaning] Schedule a cleaning task, and the robot will start the cleaning task at the specified time.\r\n[Partition editing] After the robot is automatically partitioned, the partitions can be edited manually, which can be merged, divided and named.",
+  "descriptionHTML": "The inner APP is a sweeping robot control application. You can control your sweeping robot to clean anytime, anywhere, as you like; check various status and cleaning completion status at any time.<br>Through the APP, you can easily unlock the following functions:<br>[Selected area cleaning] You can select a designated room for cleaning. After selection, only the selected room will be cleaned, and the cleaning will be performed according to the selected order.<br>[Zone cleaning] Select the area you want to clean on the map, and set the number of cleanings to achieve key cleaning.<br>[Forbidden area setting] Set the forbidden area. After setting, the robot will not enter the forbidden area when cleaning.<br>[Scheduled cleaning] Schedule a cleaning task, and the robot will start the cleaning task at the specified time.<br>[Partition editing] After the robot is automatically partitioned, the partitions can be edited manually, which can be merged, divided and named.",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/cxl6Z0Rrbq9WBSkkxTIHN2GHINS6xCoJaMv_KI9Cpuqv1eGyFwvyuxLC15fVszxPNHo",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/PTQpkZOqgJSoTADLItGzDKT8d-aWlt5VXJjwy7P9ruRItCMTouy3I3Hmq25fA1U-6pFW",
+    "https://play-lh.googleusercontent.com/bP92pLPbDHXG3tXP8KepkUIztc-LlqUXYXgQEch1z7m6aSCsEscP6_NXzcCHnbCz4Q",
+    "https://play-lh.googleusercontent.com/NK2pej7SUHsDuuK2BQ_f1-YSEBDayPWHALR8xa6gjJ_g8bDSfG6qMniA_E1PVQ_pGw",
+    "https://play-lh.googleusercontent.com/UNIFl9I7XSWwfYCQkUX6JEHAamPgjxjxkNtB4ybQW8g7oZLfhpmTtF_8D4Hogqh9cJo",
+    "https://play-lh.googleusercontent.com/Er89XfeRqE50kMNl51y_jhpe2jtDK1l9WgsvgV4gxacdGo6GReQ4IaAHHmDZIzxR1tQ",
+    "https://play-lh.googleusercontent.com/2JcLEUMDyX3xi4DQHxIWhR_ayqEbnoKq-kf2-RJ83gpXgdngpn6Uc82sRFRfGVRqPr4",
+    "https://play-lh.googleusercontent.com/3xczUMrVzrk3hdBJj3-QNkTfGOxe6b3vMJeUD7XE3gQXvgANimD5LGn4f1qgyTgQWVM",
+    "https://play-lh.googleusercontent.com/gWZdnMvQMGMLVSnb9c-nxW2QEuIYbc1qcJtFEjhI2eve4QCxlukYdJRjMpZHpBAsYA",
+    "https://play-lh.googleusercontent.com/wWKhfSMAib8_Cl1oHWEGDV4QBqXvDqkDOQ95jBMiil7CnN0zlAIYVostx0VLMyl96Vk",
+    "https://play-lh.googleusercontent.com/u5KcVMeVrXRPvgISlPTLaCdHbRxL-IrGEYPN2eB5iJs22mTjMJWjdVyEy43HUOP19g0",
+    "https://play-lh.googleusercontent.com/WGQPXF3RLd3SFD8bQN8oWZGQt-zFY5fPKc6dZPukf1kQhutAxWFxW6Mpe1fwND1husM",
+    "https://play-lh.googleusercontent.com/6rWJf-foBWAHwyKYogVUTHvd5Y8DF4s9XZqi1r9WzSP8CVuv9NBI_rthAl3QORpiEjg",
+    "https://play-lh.googleusercontent.com/pmRuPZZ8lFSAiqzYQMK6WdigiwuIa59uhyolTK0RK-l8_KToZI5SS-IS11uo3VEh214",
+    "https://play-lh.googleusercontent.com/NSdswQEADNMmhoGfR7XB6LBdfqeGkQC7VAmcZ_-1tRodMlIqe-B4gQPGiWkxg40vf6A",
+    "https://play-lh.googleusercontent.com/u1w8Zo5AC-rV6Phr1kVAlgDv4r9QhgI5aOiO1mN6cs4C0qlgoBAS2fz1TMwX6e0HdME",
+    "https://play-lh.googleusercontent.com/y4Ri-tUltYxc-BJvQW_x2HnsOYVpfyGN1ruVnpPxq-sbzWZmeamn5yVJyGVCnB3mVg0",
+    "https://play-lh.googleusercontent.com/PA7aSxuxfhku_mgJ_0AZvf3Pz557r3cIueFRW1fDB8MR08q-cThwU6eGae34K_mjfw",
+    "https://play-lh.googleusercontent.com/YWJEE77NqjJppulj004vJgDMpa2qBSDVYxBXHANKi_thTr2CzlhUcm5VQjmVmQUAPUVD",
+    "https://play-lh.googleusercontent.com/9tzgg2SZBVq1EXMQqIcrSJDE5eiDpJmRKhTYUtpiZKydocCYQS6tneBL2mCjR92fbn0",
+    "https://play-lh.googleusercontent.com/YvLI3KWOgZxfx8fkT0qi4n-UF8fggDq5-n7nNP1h_nG_6EEJw989F_ZevZ2llWVWrBg",
+    "https://play-lh.googleusercontent.com/ty-XWDiVD8T57a-KV6gnWu1_qFNDAAdzL5e4ErvH-qLbyuurQqYyzaXzYOyk5MY7u9Mr",
+    "https://play-lh.googleusercontent.com/uLKWVwYTXKFNyxBDelivV--gD8FgwdsNGIWmqT3hwMC6euGI7iDKTBZuRKelu9ElmxI",
+    "https://play-lh.googleusercontent.com/myNaj2O1pBTs-U5SAeD2BCKubLi6eYdV5W4dF3jntEflCuiGSmG9Ew3Wr_YgMrHYLiA2",
+    "https://play-lh.googleusercontent.com/h7rlOTBg7X99yV-6nNFYF7PPAYRVo5wSTbQ-5aMa_VMFAoJbib3zW3sb0nLPlLN1yBUv",
+    "https://play-lh.googleusercontent.com/avx6uY6Rc8KZJxT3rG03kmdKSb_h694ea9Eluuq2ZL9IPGTiSq2tX1NvBmjs7JJDFLo",
+    "https://play-lh.googleusercontent.com/AOUVxZSvCW1t5ElcDRFP_tgOqNSQU3822KT9IBlTs31YzXvKVgn77yHOMIO4PKs9zpDf",
+    "https://play-lh.googleusercontent.com/1Zf5RmvKA1rvdLVcSAasifsYgCs1CS5u5PN-M1AHqSlo_JsfXYmvlw_TAXRgFmaHPqA",
+    "https://play-lh.googleusercontent.com/hlHzid7c03l3WxKWOQIxSbS2E_NkU-ppID59hNQAn4Y7QB4zMBekpTlIrAuPRGW-95I",
+    "https://play-lh.googleusercontent.com/VhMDRFUJ_ybUgyaVB-lUtFmcIpw7KjRrg7-BtgEuguoY-92FRIYgYNgwNpyf-iAp8zUc",
+    "https://play-lh.googleusercontent.com/FtY5pWqh94g8WckggZXsk8KTyovKzMpV33J5djdYB_h2EwLzd-0L__fmA1MBeIbd7A",
+    "https://play-lh.googleusercontent.com/DvXnKKQgONG4RBJfdTl6Ak48S_Mu2GE6DskA-5wRBuTkpOjj_eJa1-DHVECuQnh3Hjo",
+    "https://play-lh.googleusercontent.com/Q65Xdw6K4wIqJK97kJcsZcIjvxcjRYRQ97Bk3TOLehFWWxE3FJgzPyTWL5_WQByePXp6"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/K66hh_fqvbkVuK0aTxUnd-eYU9neCqpGLLxNOt0WJ-I4cGxXvIs7TXid-Tww8qGkK8qO",
+  "permissions": {
+    "Device & app history": [
+      "read sensitive log data"
+    ],
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Photos/Media/Files": [
+      "access USB storage filesystem",
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Camera": [
+      "take pictures and videos"
+    ],
+    "Microphone": [
+      "record audio"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Other": [
+      "access Bluetooth settings",
+      "allow Wi-Fi Multicast reception",
+      "change network connectivity",
+      "change your audio settings",
+      "connect and disconnect from Wi-Fi",
+      "control vibration",
+      "full network access",
+      "modify system settings",
+      "pair with Bluetooth devices",
+      "prevent device from sleeping",
+      "view network connections"
+    ]
+  },
+  "reviews_data": null
+}

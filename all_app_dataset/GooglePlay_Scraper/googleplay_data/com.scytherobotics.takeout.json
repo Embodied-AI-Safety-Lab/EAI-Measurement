@@ -1,0 +1,71 @@
+{
+  "pkg_name": "com.scytherobotics.takeout",
+  "appId": "com.scytherobotics.takeout",
+  "title": "Scythe Robotics",
+  "developer": "Scythe Robotics",
+  "developer_id": "7761668416157324584",
+  "developer_email": "mobile@scytherobotics.com",
+  "developer_website": "https://www.scytherobotics.com/",
+  "developer_address": null,
+  "category": "Tools",
+  "category_id": "TOOLS",
+  "content_rating": "Everyone",
+  "score": null,
+  "ratings": null,
+  "reviews_count": null,
+  "installs": "100+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://scytherobotics.com/privacy-policy",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "Introducing the Scythe Robotics mobile app, the ultimate tool for managing your fleet of all-electric lawn mowers. With its intuitive design and advanced features, this app allows you to stay on top of your landscaping operations like never before.\r\n\r\nEasily track the location and status of each robot in your fleet, thanks to the app's detailed map and real-time updates. Check battery levels, charging status, perimeters, and drive mode with just a few taps, and never worry about a robot running out of power during a job again.\r\n\r\nThe app's sleek design makes it easy to use, and the level of control it provides gives you complete confidence in your landscaping operations. And with its ability to monitor multiple robots at once, you can streamline your operations and increase efficiency like never before.\r\n\r\nScythe's mobile app is the ideal tool for managing your fleet of all-electric lawn mowers. With its advanced features, user-friendly design, and eco-friendly focus, it's the ultimate choice for any landscaping professional looking to take their M.52 operations to the next level.",
+  "descriptionHTML": "Introducing the Scythe Robotics mobile app, the ultimate tool for managing your fleet of all-electric lawn mowers. With its intuitive design and advanced features, this app allows you to stay on top of your landscaping operations like never before.<br><br>Easily track the location and status of each robot in your fleet, thanks to the app&#39;s detailed map and real-time updates. Check battery levels, charging status, perimeters, and drive mode with just a few taps, and never worry about a robot running out of power during a job again.<br><br>The app&#39;s sleek design makes it easy to use, and the level of control it provides gives you complete confidence in your landscaping operations. And with its ability to monitor multiple robots at once, you can streamline your operations and increase efficiency like never before.<br><br>Scythe&#39;s mobile app is the ideal tool for managing your fleet of all-electric lawn mowers. With its advanced features, user-friendly design, and eco-friendly focus, it&#39;s the ultimate choice for any landscaping professional looking to take their M.52 operations to the next level.",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/37dcF_oyMLDKgVAtsiD-m2UpqlG0TZGwCaoR0z1uVI1002FFKfchX-Bu6dNveOz53is",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/a90GdIq4sgFJjK2THYi0JC_1zOgP7ZoWZm7tTUHLdYhXDLYTlAPzDyzvj6y8SL6pm94",
+    "https://play-lh.googleusercontent.com/b5KWAmZmufICoJtTk9ny_i2MZKzsTxDR9tkn3MQY08xYbj7-0wcNsUCH3HBWgCFUEXE",
+    "https://play-lh.googleusercontent.com/ts0SB1OIGtx2v_zD474lX4yg3RXNfVOtwvSdpajvO34SzsWTQKqAcIIwcqSzUyuwzF0",
+    "https://play-lh.googleusercontent.com/--wgYpP5Qsov6GBrpRjxnpICg2wjydiEGxzsNPzTTU0oix1mUpnnIcIWVS5hahQAGOU",
+    "https://play-lh.googleusercontent.com/hBhUfHTO_wlfg2E2q_-_fjhQl0br54VuvPoqZ4XwejtmHoa-1snDy9R73rt5ow_lo_Q",
+    "https://play-lh.googleusercontent.com/6FD48UWqCZMoogzMCxcxQhoSvRemIW5HZ5ZDVA6uZYaV4vLmxy9eAdTQ-8_hLa0M0w"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/yLYQY192V62mxobRhOzEKE3H1og9rTIhlbU0JuKs5eaO9mdjfi6gb6Gc3DDACZ10Mw",
+  "permissions": {
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Photos/Media/Files": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Other": [
+      "Google Play license check",
+      "control vibration",
+      "draw over other apps",
+      "full network access",
+      "prevent device from sleeping",
+      "read Google service configuration",
+      "run at startup",
+      "view network connections"
+    ],
+    "Uncategorized": [
+      "receive data from Internet"
+    ]
+  },
+  "reviews_data": null
+}

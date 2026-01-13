@@ -1,0 +1,108 @@
+{
+  "pkg_name": "com.ubtechinc.alpha.mini.edu",
+  "appId": "com.ubtechinc.alpha.mini.edu",
+  "title": "AlphaMini",
+  "developer": "Ubtech Robotics Corp Ltd",
+  "developer_id": "Ubtech+Robotics+Corp+Ltd",
+  "developer_email": "aftersales@ubtrobot.com",
+  "developer_website": "http://www.ubtrobot.com/",
+  "developer_address": null,
+  "category": "Education",
+  "category_id": "EDUCATION",
+  "content_rating": "Everyone",
+  "score": 0,
+  "ratings": 0,
+  "reviews_count": 0,
+  "installs": "5,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://web.ubtrobot.com/WkAppEdu/privacyPolicy.html?lang=1",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "\"Alpha Mini\" APP is a supporting application for UBTECH Mini Robot. Alpha Mini is an intelligent humanoid robot produced by the company UBTECH. It provides a plenty of functions for education and entertainment purposes, including photo taking, programming and dancing, etc. This APP can help manage your robot:\r\n\r\n1. Control and use some functions of the robot;\r\n2. Use graphical programming tools to learn about robot programming;\r\n3. Understand the way to control and use the robot;\r\n4. View and set up the configuration and information of the robot.",
+  "descriptionHTML": "&quot;Alpha Mini&quot; APP is a supporting application for UBTECH Mini Robot. Alpha Mini is an intelligent humanoid robot produced by the company UBTECH. It provides a plenty of functions for education and entertainment purposes, including photo taking, programming and dancing, etc. This APP can help manage your robot:<br><br>1. Control and use some functions of the robot;<br>2. Use graphical programming tools to learn about robot programming;<br>3. Understand the way to control and use the robot;<br>4. View and set up the configuration and information of the robot.",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/K8mk3xFaL4PixnrfxWiAlv5fnT7G4aLfvjpJKg2rIifCYKPpSbuumceUPh-hItEezk0",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/92gC4E52-SuX7VciYu4OVO8loA2a6PZRWTgeH5J3uO3ng-DvpoiiP-O6wB5X942L0w",
+    "https://play-lh.googleusercontent.com/Y_NBJg5c1ExDUWn7x8-sCCy8H9e1hf7mZuBjMdscZnWzPIbaV9kG1nETSQQ0bsjjDUg",
+    "https://play-lh.googleusercontent.com/l7KWSGW5kiAy66fpGJobWdextGzGz8l0TimUHe224oLmeGxCssl0IbeAuJqOMkeZjY8",
+    "https://play-lh.googleusercontent.com/563eGIv_zBm-RU-HINhSGSdFrqd8oNlHraq4XDoDm_MH3ktE0g15KRtkwNS7RSSIbg",
+    "https://play-lh.googleusercontent.com/YOvoWqp3xSPT2crwibG-X4HoSJ0Y7cOs8gBTvf02CgWf9-ljA24bbSoyMK1X1gjMYNM"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/eJ59pY11xOIKhOg8MG2yKRrfYVs0I8C0f8lgTJAobx-DpU9XRojMJa2FmD9_1Yqgei8",
+  "permissions": {
+    "Device & app history": [
+      "retrieve running apps"
+    ],
+    "Identity": [
+      "find accounts on the device"
+    ],
+    "Contacts": [
+      "find accounts on the device",
+      "modify your contacts",
+      "read your contacts"
+    ],
+    "Location": [
+      "access extra location provider commands",
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Phone": [
+      "directly call phone numbers",
+      "read phone status and identity"
+    ],
+    "Photos/Media/Files": [
+      "access USB storage filesystem",
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Camera": [
+      "take pictures and videos"
+    ],
+    "Microphone": [
+      "record audio"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Device ID & call information": [
+      "read phone status and identity"
+    ],
+    "Other": [
+      "access Bluetooth settings",
+      "allow Wi-Fi Multicast reception",
+      "change network connectivity",
+      "change your audio settings",
+      "connect and disconnect from Wi-Fi",
+      "control flashlight",
+      "control vibration",
+      "draw over other apps",
+      "full network access",
+      "install shortcuts",
+      "modify system settings",
+      "pair with Bluetooth devices",
+      "prevent device from sleeping",
+      "reorder running apps",
+      "run at startup",
+      "uninstall shortcuts",
+      "view network connections"
+    ],
+    "Uncategorized": [
+      "read Home settings and shortcuts",
+      "read Home settings and shortcuts",
+      "write Home settings and shortcuts",
+      "write Home settings and shortcuts"
+    ]
+  },
+  "reviews_data": null
+}

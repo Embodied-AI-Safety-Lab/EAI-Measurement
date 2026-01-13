@@ -1,0 +1,66 @@
+{
+  "pkg_name": "com.udirc.drone",
+  "appId": "com.udirc.drone",
+  "title": "UDIRC drone",
+  "developer": "Udirc Toys Industrial Co.,Ltd",
+  "developer_id": "Udirc+Toys+Industrial+Co.,Ltd",
+  "developer_email": "xjs@udirc.com",
+  "developer_website": "http://www.udirc.com",
+  "developer_address": null,
+  "category": "Entertainment",
+  "category_id": "ENTERTAINMENT",
+  "content_rating": "Everyone",
+  "score": 2.71,
+  "ratings": 283,
+  "reviews_count": 68,
+  "installs": "50,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://udirc.com/privacy/",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "It’s used to control UDIRC’s drones to fly, take photo, record video, and share to the social network etc. It’s featured with easy control but with various functions.\r\nMain Functions:\r\n1.Real time transmission to experience first person view\r\n2.Gravity induction mode, to control the flight direction with great fun\r\n3.Good media management system, to record the wonderful moment of life\r\n4.HD image and video",
+  "descriptionHTML": "It’s used to control UDIRC’s drones to fly, take photo, record video, and share to the social network etc. It’s featured with easy control but with various functions.<br>Main Functions:<br>1.Real time transmission to experience first person view<br>2.Gravity induction mode, to control the flight direction with great fun<br>3.Good media management system, to record the wonderful moment of life<br>4.HD image and video",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/C7Mqsf8ZL2sFH1F_4jzdZ1mHRsU42AUD42KjcYNO57eMuQD67rDoeQdQJAo08FEVim4",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/R80MAOLTKsP_T9w1ePnmS09TJzYRxCGfaF7jHyy2eQF2qhh3QeMLHVKtDa2ux-uYCIM",
+    "https://play-lh.googleusercontent.com/YDtLCGcSXxTj6edwEpzDxv4dJ0mZQTqDTtVCWiVG0es7drmYrb7xfFOI_Y0bqnUQX1E",
+    "https://play-lh.googleusercontent.com/5AfdSYno-xOsm5Xjm2UxxuruwYc8jM3CeQQXnMgc8N4rjsKlB4TFspCVn8r2rTTnLA",
+    "https://play-lh.googleusercontent.com/5h6k6birmXH1IbRjsT7B2m9lIvAK4GRANGWPQn3xLdyQaFvYs2dHJjncdfG2pOADaIM"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/G7vUes01XgBdAVMMsttRRs-O36vMsVxff9EQy_kxjzFYoBMyvibvbtl2JuVkh_MOOA",
+  "permissions": {
+    "Device & app history": [
+      "retrieve running apps"
+    ],
+    "Photos/Media/Files": [
+      "access USB storage filesystem",
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Other": [
+      "allow Wi-Fi Multicast reception",
+      "change system display settings",
+      "connect and disconnect from Wi-Fi",
+      "disable your screen lock",
+      "full network access",
+      "modify system settings",
+      "prevent device from sleeping",
+      "view network connections"
+    ]
+  },
+  "reviews_data": null
+}

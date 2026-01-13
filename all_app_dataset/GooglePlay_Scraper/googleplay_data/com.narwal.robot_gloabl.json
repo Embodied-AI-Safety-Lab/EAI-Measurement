@@ -1,0 +1,85 @@
+{
+  "pkg_name": "com.narwal.robot_gloabl",
+  "appId": "com.narwal.robot_gloabl",
+  "title": "T10 Robot Vacuum & Mop",
+  "developer": "Narwal Intelligence Technology",
+  "developer_id": "Narwal+Intelligence+Technology",
+  "developer_email": "internet_app@narwel.com",
+  "developer_website": "https://www.narwal.com/",
+  "developer_address": null,
+  "category": "Tools",
+  "category_id": "TOOLS",
+  "content_rating": "Everyone",
+  "score": 2.4868422,
+  "ratings": 102,
+  "reviews_count": 60,
+  "installs": "10,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "http://www.narwal.com/web/Foreign/Privacypolicy_English.html",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "Through the T10 Robot Vacuum & Mop APP, users can remotely control and unlock advanced functions for the robot.\r\nRemote Control\r\nCheck the robot status at anytime from anywhere; remotely control robot to begin task; view robot cleaning path and cleaning information in real time.\r\nPlanned Cleaning\r\nUsers can choose which rooms to clean, number of cleaning times, mop moisture level and other options; design exclusive cleaning plans for different scenarios.\r\nNo-go Zones Management\r\nUsers can set no-go zones in APP for both vacuuming and mopping; the robot will automatically avoid these areas when cleaning.",
+  "descriptionHTML": "Through the T10 Robot Vacuum &amp; Mop APP, users can remotely control and unlock advanced functions for the robot.<br>Remote Control<br>Check the robot status at anytime from anywhere; remotely control robot to begin task; view robot cleaning path and cleaning information in real time.<br>Planned Cleaning<br>Users can choose which rooms to clean, number of cleaning times, mop moisture level and other options; design exclusive cleaning plans for different scenarios.<br>No-go Zones Management<br>Users can set no-go zones in APP for both vacuuming and mopping; the robot will automatically avoid these areas when cleaning.",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/ZKcuSny1RltUpbwt2ZaS2istFB2ocDe8I4kFCyAYYPjXzDXh4Hk4PlvcqUJqINGtOA0",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/c8peaqdvCTUbW7DaHPwPxJxbqggDBeV_ejhRrXQPlJQPyQOX9syM7lvwuOVxIx_fqZs",
+    "https://play-lh.googleusercontent.com/acvtAKEz6tu1MK6XVoDM6b4qnaptOfW7uSoR7UZNhtWapqanTkBCJzdrEFNs2QGziAGb",
+    "https://play-lh.googleusercontent.com/zCXn7hwlU9RO8MQaNqi9Q4AYTXipdK5X_VsP8wzoeEsMNsQbYpWjjX6vL98R3j38FoI7",
+    "https://play-lh.googleusercontent.com/Nt0hIyFl8O6Dv37pK1gIiTnsOsgGdbWqd-EilaMCUnzpa2lnRWSMyhPMNbszUejLpxo",
+    "https://play-lh.googleusercontent.com/SyS8FrIstLDsWvDo0E3-sSa8LYh0XMT8ljeqg3iqDyOQl_G7XFKfqwKzxp_QSfTM1g",
+    "https://play-lh.googleusercontent.com/ycFkp_ms2i2hXIXe2pl25FYmeMIVV9CkmrCG5FkvtDrBQ2l_F_ojpjfhy8SAj4m_XZM",
+    "https://play-lh.googleusercontent.com/8l7A7v518gO9OYv0lH8uYG7rtptGuzhYMhM9w-NxDpYELIP-J-vKs0RaZLVYh0qojrY",
+    "https://play-lh.googleusercontent.com/ZWWNKfOxrpBnnGFj9D0pOztAXY3iOcPnqJ3_et496J7XYYo2pzcAJLobgpxdP2OKRGk"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/qtQ1k8wHTzzLfJgbYNr4Afl_53YsZqZNALaBFtvbenipYpLxPTHdNRYElVe0d1fglHZ5",
+  "permissions": {
+    "Device & app history": [
+      "retrieve running apps"
+    ],
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Phone": [
+      "read phone status and identity"
+    ],
+    "Photos/Media/Files": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Camera": [
+      "take pictures and videos"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Device ID & call information": [
+      "read phone status and identity"
+    ],
+    "Other": [
+      "change network connectivity",
+      "connect and disconnect from Wi-Fi",
+      "control vibration",
+      "draw over other apps",
+      "full network access",
+      "modify system settings",
+      "prevent device from sleeping",
+      "view network connections"
+    ],
+    "Uncategorized": [
+      "receive data from Internet"
+    ]
+  },
+  "reviews_data": null
+}

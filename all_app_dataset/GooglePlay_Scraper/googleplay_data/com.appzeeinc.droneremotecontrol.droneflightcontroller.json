@@ -1,0 +1,75 @@
+{
+  "pkg_name": "com.appzeeinc.droneremotecontrol.droneflightcontroller",
+  "appId": "com.appzeeinc.droneremotecontrol.droneflightcontroller",
+  "title": "Raspberry PI Drone Controller",
+  "developer": "AppZeeInc",
+  "developer_id": "AppZeeInc",
+  "developer_email": "zakari.maaroufi@gmail.com",
+  "developer_website": "https://l81e87f5d.app-ads-txt.com",
+  "developer_address": null,
+  "category": "Tools",
+  "category_id": "TOOLS",
+  "content_rating": "Everyone",
+  "score": 3.7037036,
+  "ratings": 683,
+  "reviews_count": 26,
+  "installs": "50,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": true,
+  "privacy_policy": "https://sites.google.com/view/droneflightcontroller/accueil",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "📱 **Transform Your Smartphone into the Ultimate Drone Remote Controller!**\r\n\r\nUnlock the full potential of your Raspberry Pi drone with Drone RC: Flight Controller Pi, the premier application designed to convert your Android device into a sophisticated and intuitive drone remote control. Trusted by a rapidly growing community of over 50,000 pilots, our app provides a seamless bridge between your smartphone and your drone, offering professional-grade features previously only available with expensive dedicated hardware. Whether you are taking your first flight, capturing breathtaking aerial cinematography, or developing cutting-edge drone applications on your Raspberry Pi, our flight controller app delivers unparalleled control and reliability.\r\n\r\nExperience the thrill of flight with features like advanced autopilot navigation, crystal-clear real-time FPV (First Person View) video streaming, and highly responsive, customizable controls. Effortlessly design complex autonomous flight plans, execute precise waypoint missions, manage your drone's camera for stunning photos and videos, and enjoy a truly immersive flight experience. \r\n\r\n🚁 **UNLEASH POWERFUL DRONE CONTROL FEATURES:**\r\n\r\n✅ **INTUITIVE FLIGHT CONTROLS:** Master drone navigation with our highly responsive virtual joysticks and customizable button layouts. Tailor the interface to your exact preferences for maximum precision and comfort during flight. Our controls simulate the feel of a physical RC transmitter, providing tactile feedback options and adjustable sensitivity settings for perfect drone handling in any condition.\r\n\r\n✅ **ADVANCED AUTONOMOUS FLIGHT PLANNING:** Go beyond manual control! Design sophisticated waypoint missions directly on your device's map interface. Set altitude, speed, heading, and camera actions for each waypoint. Create automated flight paths for tasks like aerial surveying, infrastructure inspection, or automated deliveries. \r\n\r\n✅ **IMMERSIVE REAL-TIME VIDEO STREAMING (FPV):** See what your drone sees! Experience the world from above with a low-latency, high-definition FPV video feed streamed directly to your smartphone screen. Monitor your flight path, frame your shots perfectly, and enjoy a truly captivating first-person perspective. \r\n\r\n✅ **ONE-TOUCH TAKEOFF & LANDING:** Simplify the most critical phases of flight. Initiate automatic takeoff with a single tap, and bring your drone home safely with automated landing procedures. Integrated safety protocols, including return-to-home (RTH) on signal loss or low battery, provide peace of mind for every flight.\r\n\r\n✅ **DEDICATED RASPBERRY PI OPTIMIZATION:** Unlike generic drone apps, Drone RC: Flight Controller Pi is built from the ground up for seamless integration with Raspberry Pi-based drone projects. We ensure perfect compatibility with popular flight controller software running on the Pi and support various communication methods (WiFi, Bluetooth, SiK Telemetry Radios). \r\n\r\n✅ **INTEGRATED CAMERA CONTROLS:** Capture professional-quality aerial photography and videography. Remotely trigger photo capture, start/stop video recording, adjust camera angles (gimbal control where supported), and manage camera settings directly from the app interface. \r\n\r\n✅ **COMPREHENSIVE FLIGHT LOGS & ANALYTICS:** Track your progress and improve your piloting skills. Automatically record detailed flight data, including path, duration, distance, altitude, speed, battery usage, and signal strength. Review past flights on a map, analyze performance metrics, and export logs for further analysis or compliance purposes.\r\n\r\n✅ **CRITICAL SAFETY ALERTS & GEO-FENCING:** Fly safer with real-time notifications. Receive audible and visual alerts for low battery levels, loss of connection, GPS signal issues, and approaching restricted airspace (requires up-to-date geofencing data). \r\n\r\n📥 **DOWNLOAD NOW and elevate your drone experience!** Join the thousands of pilots who have made Drone RC:",
+  "descriptionHTML": "📱 **Transform Your Smartphone into the Ultimate Drone Remote Controller!**<br><br>Unlock the full potential of your Raspberry Pi drone with Drone RC: Flight Controller Pi, the premier application designed to convert your Android device into a sophisticated and intuitive drone remote control. Trusted by a rapidly growing community of over 50,000 pilots, our app provides a seamless bridge between your smartphone and your drone, offering professional-grade features previously only available with expensive dedicated hardware. Whether you are taking your first flight, capturing breathtaking aerial cinematography, or developing cutting-edge drone applications on your Raspberry Pi, our flight controller app delivers unparalleled control and reliability.<br><br>Experience the thrill of flight with features like advanced autopilot navigation, crystal-clear real-time FPV (First Person View) video streaming, and highly responsive, customizable controls. Effortlessly design complex autonomous flight plans, execute precise waypoint missions, manage your drone&#39;s camera for stunning photos and videos, and enjoy a truly immersive flight experience. <br><br>🚁 **UNLEASH POWERFUL DRONE CONTROL FEATURES:**<br><br>✅ **INTUITIVE FLIGHT CONTROLS:** Master drone navigation with our highly responsive virtual joysticks and customizable button layouts. Tailor the interface to your exact preferences for maximum precision and comfort during flight. Our controls simulate the feel of a physical RC transmitter, providing tactile feedback options and adjustable sensitivity settings for perfect drone handling in any condition.<br><br>✅ **ADVANCED AUTONOMOUS FLIGHT PLANNING:** Go beyond manual control! Design sophisticated waypoint missions directly on your device&#39;s map interface. Set altitude, speed, heading, and camera actions for each waypoint. Create automated flight paths for tasks like aerial surveying, infrastructure inspection, or automated deliveries. <br><br>✅ **IMMERSIVE REAL-TIME VIDEO STREAMING (FPV):** See what your drone sees! Experience the world from above with a low-latency, high-definition FPV video feed streamed directly to your smartphone screen. Monitor your flight path, frame your shots perfectly, and enjoy a truly captivating first-person perspective. <br><br>✅ **ONE-TOUCH TAKEOFF &amp; LANDING:** Simplify the most critical phases of flight. Initiate automatic takeoff with a single tap, and bring your drone home safely with automated landing procedures. Integrated safety protocols, including return-to-home (RTH) on signal loss or low battery, provide peace of mind for every flight.<br><br>✅ **DEDICATED RASPBERRY PI OPTIMIZATION:** Unlike generic drone apps, Drone RC: Flight Controller Pi is built from the ground up for seamless integration with Raspberry Pi-based drone projects. We ensure perfect compatibility with popular flight controller software running on the Pi and support various communication methods (WiFi, Bluetooth, SiK Telemetry Radios). <br><br>✅ **INTEGRATED CAMERA CONTROLS:** Capture professional-quality aerial photography and videography. Remotely trigger photo capture, start/stop video recording, adjust camera angles (gimbal control where supported), and manage camera settings directly from the app interface. <br><br>✅ **COMPREHENSIVE FLIGHT LOGS &amp; ANALYTICS:** Track your progress and improve your piloting skills. Automatically record detailed flight data, including path, duration, distance, altitude, speed, battery usage, and signal strength. Review past flights on a map, analyze performance metrics, and export logs for further analysis or compliance purposes.<br><br>✅ **CRITICAL SAFETY ALERTS &amp; GEO-FENCING:** Fly safer with real-time notifications. Receive audible and visual alerts for low battery levels, loss of connection, GPS signal issues, and approaching restricted airspace (requires up-to-date geofencing data). <br><br>📥 **DOWNLOAD NOW and elevate your drone experience!** Join the thousands of pilots who have made Drone RC:",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/98NFn06SYH2g-Rk1K-v1kcVKAQXQ1aVr045LXKp0BlmhVFleds3LGXsvYV_N0olaigw",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/ThNHByn2KxX90NDAj2clDic7vEcfSdVWiMGAqDV63n3V_cDiTwkdOPXVO7s6gUzUbLA",
+    "https://play-lh.googleusercontent.com/_Xe6sOeXyUUTWvEiaJyS_Az4_W5p3P11wutf679UxBJ7FU3q7FzJudsQKbqT3xb85g",
+    "https://play-lh.googleusercontent.com/bFOiCYdF_WNysa3z_dqAsMuEDraAAC_xAnJuRpgRBhPg6pfFgB1ar8k0K9-mXsirTFQV",
+    "https://play-lh.googleusercontent.com/VHvexfrGJgNfS9qJ23Z9moF6K7A5L7P_nkyjv32SGn6tBYbxh9im0KGlKBtMYENKSAM",
+    "https://play-lh.googleusercontent.com/g0e-5akyuGN9uuwhWsGld1t_ds5DkbSLVWfjIkrfL8VhTitso0JNVLPdKU1LXoHNWDB_",
+    "https://play-lh.googleusercontent.com/SOme-GuhLuZ6Q8UvDD9OCNeytA-x37CtWww_ynJVzZ0p8mI5WdD5Le9ETphMrnSZ_hk",
+    "https://play-lh.googleusercontent.com/hV2JcJoBjSCqoElmfJ1fDngNWuabdpOozKQAPlRcRNwfdHEZLefDFVdjf5xDxG5J1A",
+    "https://play-lh.googleusercontent.com/6BskaIBBs0Hy_5rOZdI5Misi749TKQcT4FtwS5HFEP2JZ7YhItAkc8ejeYM2leq8wg",
+    "https://play-lh.googleusercontent.com/v-2a6euQCeLgac-HqJ2Inm_DwJisx4a1PW48F1u0IRJT0A1TEO3FrK0jLGGIarR6gwM",
+    "https://play-lh.googleusercontent.com/9gSkXIvb4y6d-ki4syZZSo7lViJ28YuwspIUmbm0kJowwuRkqfwLwCuHucnbKisQnhWo",
+    "https://play-lh.googleusercontent.com/yGJ0_vVF16Si_w4hK10G0PQBLnTy9frOJpTCWoCyKNBc6kB4C4DZscHmBhcvcV1QuXI",
+    "https://play-lh.googleusercontent.com/eX3BXsJ1Hem0IV9sI3PjZeIwZC9zkgrrdfYXje8isuwoyPJaNyHE2HHN0IYKhNuZKFo",
+    "https://play-lh.googleusercontent.com/8b7tCWyJt0yCc2mXN2qnD_Gt2zRoRzAJAycC2cBzSgEoZJfRT_Pf2bKk2SwMkz7EfHOa",
+    "https://play-lh.googleusercontent.com/mx0svcSa3xZQ3pVN4cEy5pyVmryeRIl5I6nvk5b5CvU1l0XCUXFTosYwCyahRPNCUpU"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/mFGr5cJ2XYO503THl3are5pUKa5UC0GBB7kvU1Aqtm8jGpJmbcRXe30lbyM1b6HFOwc",
+  "permissions": {
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Photos/Media/Files": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Camera": [
+      "take pictures and videos"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Other": [
+      "control vibration",
+      "full network access",
+      "prevent device from sleeping",
+      "view network connections"
+    ]
+  },
+  "reviews_data": null
+}

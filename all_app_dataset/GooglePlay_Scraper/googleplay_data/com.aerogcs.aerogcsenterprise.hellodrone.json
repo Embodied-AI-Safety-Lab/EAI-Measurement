@@ -1,0 +1,72 @@
+{
+  "pkg_name": "com.aerogcs.aerogcsenterprise.hellodrone",
+  "appId": "com.aerogcs.aerogcsenterprise.hellodrone",
+  "title": "AeroGCS GREEN",
+  "developer": "Passenger Drone Research Pvt Ltd",
+  "developer_id": "5216277023524009982",
+  "developer_email": "support@aeromegh.com",
+  "developer_website": "https://aeromegh.com",
+  "developer_address": null,
+  "category": "Tools",
+  "category_id": "TOOLS",
+  "content_rating": "Everyone",
+  "score": 0,
+  "ratings": 0,
+  "reviews_count": 0,
+  "installs": "5,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://aerogcs.com/privacy-policy/",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "AeroGCS GREEN \r\n\r\nA versatile agriculture spraying drone mission planning software \r\nUsing AeroGCS GREEN , one can connect with Ardupilot based drones and create mission plans with few clicks to fly a spray mission.\r\n\r\nWith AeroGCS GREEN its also possible to add areas to be avoided while flying , also map a field ( plot) using various methods like using mobile device , using map , using drone itself.\r\n\r\nAeroGCS GREEN lets you fly a mission and stop it in-between to refill the spray liquid and restart mission where it landed / passed.\r\n\r\nAeroGCS GREEN is a companion app for AeroGCS KEA as it only focuses on agriculture spraying and workflows. AeroGCS GREEN lets you share spraying reports with anyone with clicks, also upload to AeroMegh cloud and also generate amazing business insights instantly.\r\n\r\nVisit https://aeromegh.com for more details and documentations about AeroGCS GREEN.",
+  "descriptionHTML": "AeroGCS GREEN <br><br>A versatile agriculture spraying drone mission planning software <br>Using AeroGCS GREEN , one can connect with Ardupilot based drones and create mission plans with few clicks to fly a spray mission.<br><br>With AeroGCS GREEN its also possible to add areas to be avoided while flying , also map a field ( plot) using various methods like using mobile device , using map , using drone itself.<br><br>AeroGCS GREEN lets you fly a mission and stop it in-between to refill the spray liquid and restart mission where it landed / passed.<br><br>AeroGCS GREEN is a companion app for AeroGCS KEA as it only focuses on agriculture spraying and workflows. AeroGCS GREEN lets you share spraying reports with anyone with clicks, also upload to AeroMegh cloud and also generate amazing business insights instantly.<br><br>Visit https://aeromegh.com for more details and documentations about AeroGCS GREEN.",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/djje4cFbjnIwqxz7AdQjj9YIAWl1-PPvRrS3PNmAbNeW1gwZxWU-TnRZhXQbqv90nG-k",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/blufEa79SUrUYywl-SNC4mrZdO2EpngKxbHPrq8g3MGRFoxpoZBX9CRitxeZAdjInw",
+    "https://play-lh.googleusercontent.com/mBKvan-GZp7LsSzhpUGLJ5TzV4X3BVgqCY4lzcD_cuAKxlf82mWOp1Lr4k4xGkI6SgQ",
+    "https://play-lh.googleusercontent.com/DeUXKPyO2t4JqqvvqDPWlmiCco-k0C9J22608sgcxk7t5Tg4tzhsOhomUl3CTSiTqYY",
+    "https://play-lh.googleusercontent.com/FQkwrlNx4xFjuL_3GleSbkY790NGfYZQ99mH1JzyefZYmByLRjNbr9Cij7gdSkUd-kLz",
+    "https://play-lh.googleusercontent.com/Y4kGQy5wDOkeUWPuyCP_Jbj73Xsvb4YYShBFHpJhAADwRPeOOFuR2xtp6zySD1nT3dU",
+    "https://play-lh.googleusercontent.com/Dx0EbIOWbuMrHblKVezYh_r63wsBARSETGHWBNUPi7c2sWU1_WHuF7dkP6q4StKuot1q",
+    "https://play-lh.googleusercontent.com/mbJ4Yd4bUvd81Po_enkwegFYGN-cbt97ozwXwv0MtRnuqyiuKDN7tmfsi8vOTQbKxcw",
+    "https://play-lh.googleusercontent.com/O-BfPXnQciLnvlUhTaV1HQTOYgxkGCtaojPkE4rgA42RWQ78uum_cUpB3nfsQd0QPWE6",
+    "https://play-lh.googleusercontent.com/aCuiMPnIUFgnq2KSgDFqz21kLbFYYKo4_yXT-XyYMwXCNxohQHBa-zB5zpihcqzkYUA",
+    "https://play-lh.googleusercontent.com/M8H4PZ6ZOcudIwBeaAji5rtV_jzfmOCSQLNXPKZ0StKmCg9ylU0dkiCWS1ZDA421Aw",
+    "https://play-lh.googleusercontent.com/xAFDsNCs8TF76WAGecYRTxrIrgcDZ6MY_8U2hh0fTj_-F4SLx1zW6qz06fdgbhNThe1U",
+    "https://play-lh.googleusercontent.com/YuQLHkFNv7MJR99_lL_TCT5O4i1e1EaITskKlJDjAcv96D3DCVxgKuFnqo-_vL_jHn0",
+    "https://play-lh.googleusercontent.com/Jk0LnGXVNNpO3cJTLq2LPeEwYiq-kzdjFNBDzcpzg7BMnPVGN79-DP7hITBRe2tLRqw",
+    "https://play-lh.googleusercontent.com/mjzuT1XBtfGqb1z4d-2_8pZCda5m_lRgroW5wFzRMH3D99oFwkygEs_vAlLtMSl5kw",
+    "https://play-lh.googleusercontent.com/ZtmtEIWFZJmDJfaC-UcZ9LcN-KA9vHLzDlkkyOrJwstahcsUq21mTpGI0moIy-RYLTY",
+    "https://play-lh.googleusercontent.com/IMKCd8vvb2Jmd4tLtbN5zbfz6ZeodJ5rzCo4XYXAIeNimmVshGSX_SWuDsOetd8bKQ",
+    "https://play-lh.googleusercontent.com/ewCBOuScE7jCUG3B2H4rx6Oigqq96eoTS6C9tS45en48_597vK0vrKanbz1Skx-IixM"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/Ukafd4Rxt4c77K8Quy0os-aETYE4xigqPGpSQEwTtWPrd_yjheX7Xhox3HMDbcrrHpc",
+  "permissions": {
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Other": [
+      "access Bluetooth settings",
+      "change network connectivity",
+      "connect and disconnect from Wi-Fi",
+      "control vibration",
+      "draw over other apps",
+      "full network access",
+      "pair with Bluetooth devices",
+      "prevent device from sleeping",
+      "view network connections"
+    ]
+  },
+  "reviews_data": null
+}

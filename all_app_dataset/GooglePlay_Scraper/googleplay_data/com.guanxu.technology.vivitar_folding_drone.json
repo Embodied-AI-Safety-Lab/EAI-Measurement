@@ -1,0 +1,62 @@
+{
+  "pkg_name": "com.guanxu.technology.vivitar_folding_drone",
+  "appId": "com.guanxu.technology.vivitar_folding_drone",
+  "title": "Vivitar Folding Drone",
+  "developer": "GuanZhi Technology Inc.",
+  "developer_id": "GuanZhi+Technology+Inc.",
+  "developer_email": "guanzhijishu@gmail.com",
+  "developer_website": "http://www.netopsun.com/",
+  "developer_address": null,
+  "category": "Casual",
+  "category_id": "GAME_CASUAL",
+  "content_rating": "Everyone",
+  "score": 3.2727273,
+  "ratings": 23,
+  "reviews_count": 3,
+  "installs": "10,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://app.netopsun.com/privacy_policy.html",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "Control the 4-axis aircraft via the wireless network on your Android smartphone, get real-time video from your flight, take pictures and save your video.",
+  "descriptionHTML": "Control the 4-axis aircraft via the wireless network on your Android smartphone, get real-time video from your flight, take pictures and save your video.",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/lTw-D-3NyA3cD716qcYexlDPkgKQoySHOAFBz2ggY6Zt5RrXR8RO0w7RuUHnlwD0Ato",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/Ws4M7dmVs8VE2-Yvpisi0J4M3ovpKY6AZwreAX29gvdQix9fAEiLOalDWZkbtnL3eLP9",
+    "https://play-lh.googleusercontent.com/av5lXRTQwomMHSqe9XmaPnPFVMwTp8h8_4cqppBBtd5I35xOoWPQ1v1XtB_Sv92Zo4w",
+    "https://play-lh.googleusercontent.com/rSHR7ZQ6UjDpK2NnyNL3o9HWt5Hs0wZ6orIIEZrKEiRXq4eiXX8qBPF5kyN41_M7zsFc",
+    "https://play-lh.googleusercontent.com/wU08ImxDJno67-kfxN2hvAdgtkUAwS4MR4N-JvXlKY14UEdjHsyWKjhSNyy8Z2vjKWM",
+    "https://play-lh.googleusercontent.com/Q-B0MdaekrboPNn-Xt2xojHek7PlqEYVAHXzMmNyw-FBG72tXj209ikACiRnBKX_Qf8"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/fsejUXAcyuv4o7Yb_KXUExVBkRPMk37pBxFrrRIHMG_GUf3-c_eDrOTPiFL1KV35W0I",
+  "permissions": {
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Photos/Media/Files": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Other": [
+      "change network connectivity",
+      "full network access",
+      "view network connections"
+    ]
+  },
+  "reviews_data": null
+}

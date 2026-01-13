@@ -1,0 +1,78 @@
+{
+  "pkg_name": "com.irobotix.eta",
+  "appId": "com.irobotix.eta",
+  "title": "ETA Navaggio",
+  "developer": "ETA a.s.",
+  "developer_id": "ETA+a.s.",
+  "developer_email": "vysavace@eta.cz",
+  "developer_website": "http://www.eta.cz/robot",
+  "developer_address": null,
+  "category": "Tools",
+  "category_id": "TOOLS",
+  "content_rating": "Everyone",
+  "score": 0,
+  "ratings": 0,
+  "reviews_count": 0,
+  "installs": "10,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://privacy.3irobotix.net/user-privacy/eta/user_privacy_en.html",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "Basic characteristics:\r\n- Intelligent cleaning planning - the possibility of setting individual days, hours and with the possibility of setting individual rooms\r\n- Automatic division of rooms after obtaining a map with the possibility of subsequent editing\r\n- Delimitation of forbidden zones (up to 10) and zones for current zone cleaning (up to 10)\r\n- Creation of up to 5 maps of vacuumed areas\r\n- If the application is connected to the Internet, the vacuum cleaner can be controlled remotely even if you are not at home\r\n- Monitoring the current state and movement of the vacuum cleaner; including history\r\n- The vacuum cleaner can be controlled from multiple user accounts\r\n- Choice of cleaning mode: automatic, zone, local, double\r\n- Warning of the need to maintain individual parts of the vacuum cleaner\r\n- It also allows manual guidance of the vacuum cleaner\r\n- DO NOT DISTURB function at an adjustable time of day\r\n- Setting of suction power and moping intensity - 3 levels",
+  "descriptionHTML": "Basic characteristics:<br>- Intelligent cleaning planning - the possibility of setting individual days, hours and with the possibility of setting individual rooms<br>- Automatic division of rooms after obtaining a map with the possibility of subsequent editing<br>- Delimitation of forbidden zones (up to 10) and zones for current zone cleaning (up to 10)<br>- Creation of up to 5 maps of vacuumed areas<br>- If the application is connected to the Internet, the vacuum cleaner can be controlled remotely even if you are not at home<br>- Monitoring the current state and movement of the vacuum cleaner; including history<br>- The vacuum cleaner can be controlled from multiple user accounts<br>- Choice of cleaning mode: automatic, zone, local, double<br>- Warning of the need to maintain individual parts of the vacuum cleaner<br>- It also allows manual guidance of the vacuum cleaner<br>- DO NOT DISTURB function at an adjustable time of day<br>- Setting of suction power and moping intensity - 3 levels",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/4MXkNUiTBI7gRtoWYwCUG-fJAy52Ojoh_a7eM2-ULxs8_4Gwn5FuBHQuTAAvxxHQK2A",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/y4lTjmNHxPmIoHQqkMJUfDafv5wXi6i-yQ5UJfujjHR4EnFCy31PCHMX6CUGeMFx-w",
+    "https://play-lh.googleusercontent.com/Fd-cifvCEYzSyIL1mKcPKElMyQfr5j-lxap-xlFUn8A7f4KtNlKvMXFyiXOp5f3eIM6v",
+    "https://play-lh.googleusercontent.com/GEyW_Jwwx6BOC6ChZDvlkaG0yEStnL62FfM5MIgtQIFiPi4LMWniUK9qQPTnIGf_7yxX",
+    "https://play-lh.googleusercontent.com/ZsWUPvExH8jiRrQf-IHn0wrjCgFSPVWNyGfJU3hmNUaqhs7eBAlaRNfC2JKXfuRwzBM",
+    "https://play-lh.googleusercontent.com/3REpuAqFmuIL1TPMCo3J-4JAjapyWaU-y3GB3V0hy8Cwas_6wRv9RQOrYEofuMaXTA",
+    "https://play-lh.googleusercontent.com/R9oVPTjSZM0VcGyGNvvL4VasI2Gu_TGuavnsjTdG0GwR1OtU5Y4V0F0M7_et0iHkdyM"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/lxKqxMBDxm8FsQn_qLijcz_eC5Bxxe918-kXUKEXJ_Fnhbo7y10pXwNKG0_DEo6V_n4",
+  "permissions": {
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Photos/Media/Files": [
+      "access USB storage filesystem",
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Camera": [
+      "take pictures and videos"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Other": [
+      "access Bluetooth settings",
+      "allow Wi-Fi Multicast reception",
+      "change network connectivity",
+      "connect and disconnect from Wi-Fi",
+      "control vibration",
+      "draw over other apps",
+      "full network access",
+      "pair with Bluetooth devices",
+      "prevent device from sleeping",
+      "read terms you added to the dictionary",
+      "view network connections"
+    ],
+    "Uncategorized": [
+      "receive data from Internet"
+    ]
+  },
+  "reviews_data": null
+}

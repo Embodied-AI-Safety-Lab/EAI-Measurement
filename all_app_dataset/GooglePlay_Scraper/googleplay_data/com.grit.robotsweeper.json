@@ -1,0 +1,75 @@
+{
+  "pkg_name": "com.grit.robotsweeper",
+  "appId": "com.grit.robotsweeper",
+  "title": "Robot Sweeper",
+  "developer": "Grit Technology",
+  "developer_id": "Grit+Technology",
+  "developer_email": "yugong@yg-ai.com",
+  "developer_website": null,
+  "developer_address": null,
+  "category": "Lifestyle",
+  "category_id": "LIFESTYLE",
+  "content_rating": "Everyone",
+  "score": 0,
+  "ratings": 0,
+  "reviews_count": 0,
+  "installs": "10,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://info.inxni.com/Honor/PolicyAgreement/PrivacyPolicy_English.html",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "Connecting to the Robot Cleaner APP you can unlock the following functions.\r\nDevice information: You can display information about device functions, working status, fault exceptions, consumables life, etc. \r\nHouse map: By building a floor cleaning house map, you can personalize the name, zone, and set the rooms and areas you want to clean.\r\nSuction power level: Four levels of suction power can be switched to personalize the level you need according to the dirtiness of the area you are cleaning.\r\nAppointment cleaning: You can personalize the time and number of times the machine works according to your living habits and cleaning needs.\r\nFirmware upgrade: With OTA technology, you can constantly upgrade the firmware version of your robot to experience smarter continuous improvement.",
+  "descriptionHTML": "Connecting to the Robot Cleaner APP you can unlock the following functions.<br>Device information: You can display information about device functions, working status, fault exceptions, consumables life, etc. <br>House map: By building a floor cleaning house map, you can personalize the name, zone, and set the rooms and areas you want to clean.<br>Suction power level: Four levels of suction power can be switched to personalize the level you need according to the dirtiness of the area you are cleaning.<br>Appointment cleaning: You can personalize the time and number of times the machine works according to your living habits and cleaning needs.<br>Firmware upgrade: With OTA technology, you can constantly upgrade the firmware version of your robot to experience smarter continuous improvement.",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/OGfuZtqa_PDGqT91EgeNwDAPLKWcAl4cDlw_VV2qWgh1fBVV0CszHYDlfch_UJ283LTh",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/onxKYi67X5Iwe68GazmTgk9_fJSl1ddskWbdhtM-eMCITWu-GhVVXF1sr2IxsuZDcg",
+    "https://play-lh.googleusercontent.com/3SRooyIbST8VxuVOdhAvAZPJW9yeGpuC5wYRxTdTxi0C0s3okozH5-YML0L8Xk6up3gX",
+    "https://play-lh.googleusercontent.com/qeNoM1uM7ptUSy6E_oMYl8ke8DBv196Gu_N0m46rsMstWmvY8dspwOAhkNf12dlOiM0",
+    "https://play-lh.googleusercontent.com/v37dinazUF-rqE3r66sXvH5FZt0p86dtEliGUcn7oIntaK9F2fvsfGlN0MI3P5frUVg"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/v-fa1GFroIw76VR-wgRdd_cn7mIcu1up9azv2LnrgkQ8nP0lIeK5atdy1U3lf4U0CKk",
+  "permissions": {
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Photos/Media/Files": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Camera": [
+      "take pictures and videos"
+    ],
+    "Microphone": [
+      "record audio"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Other": [
+      "access Bluetooth settings",
+      "allow Wi-Fi Multicast reception",
+      "change network connectivity",
+      "connect and disconnect from Wi-Fi",
+      "full network access",
+      "pair with Bluetooth devices",
+      "prevent device from sleeping",
+      "view network connections"
+    ],
+    "Uncategorized": [
+      "receive data from Internet"
+    ]
+  },
+  "reviews_data": null
+}

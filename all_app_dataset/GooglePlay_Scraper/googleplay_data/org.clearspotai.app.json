@@ -1,0 +1,86 @@
+{
+  "pkg_name": "org.clearspotai.app",
+  "appId": "org.clearspotai.app",
+  "title": "ClearSpot-Inspections with DJI",
+  "developer": "CLEARSPOT ARTIFICIAL INTELLIGENCE",
+  "developer_id": "CLEARSPOT+ARTIFICIAL+INTELLIGENCE",
+  "developer_email": "clearspotcloud@gmail.com",
+  "developer_website": "https://clearspot.ai/",
+  "developer_address": null,
+  "category": "Tools",
+  "category_id": "TOOLS",
+  "content_rating": "Everyone",
+  "score": 0,
+  "ratings": 0,
+  "reviews_count": 0,
+  "installs": "1,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://clearspot.ai/legal-privacy",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "The perfect app for DJI drone pilots. Experience smarter, more intelligent, and powerful flying with ClearSpot. Our technology enables DJI drones to perform complex tasks effortlessly, unlocking your drone's full potential and spotting problems in minutes, not hours.\r\n\r\nWith AI Computer Vision and Artificial Intelligence capabilities, ClearSpot offers drone pilots unmatched features and functionalities, including:\r\n\r\n* Universal Compatibility: Seamlessly integrates with all major drones.\r\n* Plug and Play: Effortless functionality for streamlined operation.\r\n* Advanced Features: From real-time object detection to advanced mapping.\r\n\r\nUse Cases\r\n\r\n1.Weed Detection:\r\n\r\n* Purpose: Identify and classify weeds in agricultural fields for targeted herbicide application.\r\n* How it Works: Drones or ground-based cameras capture images, analyzed by machine learning to detect and classify weeds.\r\n\r\n2. Search and Rescue:\r\n\r\n* Purpose: Locate missing persons in challenging terrains or disaster areas.\r\n* How it Works: High-resolution imagery from drones or satellites is analyzed to detect human shapes or heat signatures.\r\n\r\n3. Solar Panel Crack Detection:\r\n\r\n* Purpose: Identify cracks in solar panels to maintain efficiency and lifespan.\r\n* How it Works: Drones capture high-resolution images, analyzed to detect cracks based on surface patterns and anomalies.\r\n\r\n4.Solar Panel Dirt Detection:\r\n\r\n* Purpose: Detect dirt or debris on solar panels that reduce energy output.\r\n* How it Works: Images are analyzed to identify dirt spots by detecting changes in texture and color.\r\n\r\n5. Oil Pipeline Infrastructure Crack Detection:\r\n\r\n* Purpose: Detect cracks in oil pipelines to prevent leaks and hazards.\r\n* How it Works: Drones or robots capture images of pipelines, analyzed to identify cracks based on visual characteristics.\r\n\r\n6.Oil Pipeline Infrastructure Leak Detection:\r\n\r\n* Purpose: Detect leaks in oil pipelines to prevent environmental damage.\r\n* How it Works: Infrared cameras or sensors detect anomalies like temperature changes or gas emissions, pinpointed by machine learning.\r\n\r\n7. Wind Turbine Inspection:\r\n\r\n* Purpose: Inspect wind turbines for structural damage or wear and tear.\r\n* How it Works: Drones capture detailed images, analyzed to identify damage or wear.\r\n\r\n8.Helmet Detection:\r\n\r\n* Purpose: Ensure workers in hazardous environments wear helmets for safety.\r\n* How it Works: Surveillance cameras detect helmet presence in real-time, generating alerts if a worker is without a helmet.\r\n\r\n\r\n\r\nHow We Support Drone Pilots\r\n\r\n* 24/7 Availability: Round-the-clock technical support.\r\n* Personalized Solutions: Tailored assistance for specific needs.\r\n* Instant Resolution: Quick and efficient support for minimal downtime.\r\n* Expert Assistance: Access to seasoned professionals for problem-solving.\r\n* Global Coverage: Comprehensive support across time zones.\r\n* Proactive Monitoring: Early issue detection with proactive system monitoring.\r\n* Transparent Communication: Timely updates and informed support process.\r\n* Diverse Industries: Applications in surveillance, search and rescue, agriculture, and more.\r\n\r\nDownload the ClearSpot drone app that supports DJI drones and experience the difference.\r\n\r\nSupported Drones:\r\n\r\n1.  DJI Mavic 3 Enterprise \r\n2. DJI Mavic 3 Enterprise Multispectral  \r\n3. DJI Mavic 3 Enterprise Thermal\r\n4. DJI Mini 3 Pro\r\n5. DJI Matrice 30\r\n6. DJI Matrice 30T\r\n\r\nSupported Controllers: \r\n\r\nWithout Screen:\r\n\r\n1. RC N1\r\n2. RC N2\r\n\r\nWith Screen:\r\n\r\n1. RC pro\r\n2. Smart Controller\r\n3. RC Plus",
+  "descriptionHTML": "The perfect app for DJI drone pilots. Experience smarter, more intelligent, and powerful flying with ClearSpot. Our technology enables DJI drones to perform complex tasks effortlessly, unlocking your drone&#39;s full potential and spotting problems in minutes, not hours.<br><br>With AI Computer Vision and Artificial Intelligence capabilities, ClearSpot offers drone pilots unmatched features and functionalities, including:<br><br>* Universal Compatibility: Seamlessly integrates with all major drones.<br>* Plug and Play: Effortless functionality for streamlined operation.<br>* Advanced Features: From real-time object detection to advanced mapping.<br><br>Use Cases<br><br>1.Weed Detection:<br><br>* Purpose: Identify and classify weeds in agricultural fields for targeted herbicide application.<br>* How it Works: Drones or ground-based cameras capture images, analyzed by machine learning to detect and classify weeds.<br><br>2. Search and Rescue:<br><br>* Purpose: Locate missing persons in challenging terrains or disaster areas.<br>* How it Works: High-resolution imagery from drones or satellites is analyzed to detect human shapes or heat signatures.<br><br>3. Solar Panel Crack Detection:<br><br>* Purpose: Identify cracks in solar panels to maintain efficiency and lifespan.<br>* How it Works: Drones capture high-resolution images, analyzed to detect cracks based on surface patterns and anomalies.<br><br>4.Solar Panel Dirt Detection:<br><br>* Purpose: Detect dirt or debris on solar panels that reduce energy output.<br>* How it Works: Images are analyzed to identify dirt spots by detecting changes in texture and color.<br><br>5. Oil Pipeline Infrastructure Crack Detection:<br><br>* Purpose: Detect cracks in oil pipelines to prevent leaks and hazards.<br>* How it Works: Drones or robots capture images of pipelines, analyzed to identify cracks based on visual characteristics.<br><br>6.Oil Pipeline Infrastructure Leak Detection:<br><br>* Purpose: Detect leaks in oil pipelines to prevent environmental damage.<br>* How it Works: Infrared cameras or sensors detect anomalies like temperature changes or gas emissions, pinpointed by machine learning.<br><br>7. Wind Turbine Inspection:<br><br>* Purpose: Inspect wind turbines for structural damage or wear and tear.<br>* How it Works: Drones capture detailed images, analyzed to identify damage or wear.<br><br>8.Helmet Detection:<br><br>* Purpose: Ensure workers in hazardous environments wear helmets for safety.<br>* How it Works: Surveillance cameras detect helmet presence in real-time, generating alerts if a worker is without a helmet.<br><br><br><br>How We Support Drone Pilots<br><br>* 24/7 Availability: Round-the-clock technical support.<br>* Personalized Solutions: Tailored assistance for specific needs.<br>* Instant Resolution: Quick and efficient support for minimal downtime.<br>* Expert Assistance: Access to seasoned professionals for problem-solving.<br>* Global Coverage: Comprehensive support across time zones.<br>* Proactive Monitoring: Early issue detection with proactive system monitoring.<br>* Transparent Communication: Timely updates and informed support process.<br>* Diverse Industries: Applications in surveillance, search and rescue, agriculture, and more.<br><br>Download the ClearSpot drone app that supports DJI drones and experience the difference.<br><br>Supported Drones:<br><br>1.  DJI Mavic 3 Enterprise <br>2. DJI Mavic 3 Enterprise Multispectral  <br>3. DJI Mavic 3 Enterprise Thermal<br>4. DJI Mini 3 Pro<br>5. DJI Matrice 30<br>6. DJI Matrice 30T<br><br>Supported Controllers: <br><br>Without Screen:<br><br>1. RC N1<br>2. RC N2<br><br>With Screen:<br><br>1. RC pro<br>2. Smart Controller<br>3. RC Plus",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/ksgwzutd-w-Grx-V6UNoRuE4PLuD7USFsePhUJvRjD5Wgt11wsW4zO4sVx1DbzfJ-Q",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/R691r_ZYUzp0khm5VRtLN0tZd5LxvLuSxZrU5Exo8kUY3L8t4OSTTXFYJXeyUI7jCQ",
+    "https://play-lh.googleusercontent.com/qby6VeEXJhNn25l17npYOoDnlQZvAR2f-POd-iCH0oVn3BqX8TJqRxOXhyawMfwgT5o",
+    "https://play-lh.googleusercontent.com/Mec-u_nH4HnVEJ-JFC_QhZIxi255wM6vU8NR3QCRPkAkZWwZ0Utriz2qWlzw4p0kY38",
+    "https://play-lh.googleusercontent.com/vRkSOqKEe7cQXXVpM2aq2H3pm_3wfldNneRbAw7WxAnedLrQnMRH3aQ3eJOeH4UiPw",
+    "https://play-lh.googleusercontent.com/xCZZ71qKBzFVKGIdmkaepM49bvHbD_FG8_VwUtYGnCF6HM3f8F0jnDIuinsIwRPvrQ",
+    "https://play-lh.googleusercontent.com/84XNgZiGQM2Jh-IzP90aRkKlOYqvSBgj2PXdyULrKdVhaGkfKlnqYodMvpt90fk4fw"
+  ],
+  "video": "https://www.youtube.com/embed/q6c1lfkeAzA?vq=large&rel=0&autohide=1&showinfo=0",
+  "video_image": "https://play-lh.googleusercontent.com/C6dCQZGszsZ_cXTI5IfInydNKRfXxw5FKfqAldNy8JF1M-1_y0G2f9luCBCDLV7RJUQ",
+  "header_image": "https://play-lh.googleusercontent.com/C6dCQZGszsZ_cXTI5IfInydNKRfXxw5FKfqAldNy8JF1M-1_y0G2f9luCBCDLV7RJUQ",
+  "permissions": {
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Phone": [
+      "read phone status and identity"
+    ],
+    "Photos/Media/Files": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Camera": [
+      "take pictures and videos"
+    ],
+    "Microphone": [
+      "record audio"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Device ID & call information": [
+      "read phone status and identity"
+    ],
+    "Other": [
+      "access Bluetooth settings",
+      "change system display settings",
+      "close other apps",
+      "control vibration",
+      "draw over other apps",
+      "full network access",
+      "modify system settings",
+      "pair with Bluetooth devices",
+      "prevent device from sleeping",
+      "read Google service configuration",
+      "view network connections"
+    ],
+    "Uncategorized": [
+      "receive data from Internet"
+    ]
+  },
+  "reviews_data": null
+}

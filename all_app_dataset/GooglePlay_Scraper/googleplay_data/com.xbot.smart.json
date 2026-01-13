@@ -1,0 +1,88 @@
+{
+  "pkg_name": "com.xbot.smart",
+  "appId": "com.xbot.smart",
+  "title": "AI-Bot",
+  "developer": "AI-Bot Dev Team",
+  "developer_id": "AI-Bot+Dev+Team",
+  "developer_email": "poolrobot@fairlandgroup.com",
+  "developer_website": null,
+  "developer_address": null,
+  "category": "Tools",
+  "category_id": "TOOLS",
+  "content_rating": "Everyone",
+  "score": null,
+  "ratings": null,
+  "reviews_count": null,
+  "installs": "5,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "http://ai-bot.x-warrior-service.com/",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "Main functions:\r\n1. Smart connection, multi-device management.\r\n2. Share with your family, a more relaxed lifestyle.\r\n3. Support OTA remote upgrade.\r\n4.Duration\r\nThe working time of the Robotic Pool Cleaner can be set.\r\n5. Timer\r\nSet the delay start time of the Robotic Pool Cleaner.\r\n6. Wall Clean\r\nClick \"Wall Clean\" to turn on and off the pool wall cleaning function.\r\n7. ECO\r\nClick \"ECO\" to enable and disable ECO mode.\r\n8. Power display\r\nAutomatically sync.",
+  "descriptionHTML": "Main functions:<br>1. Smart connection, multi-device management.<br>2. Share with your family, a more relaxed lifestyle.<br>3. Support OTA remote upgrade.<br>4.Duration<br>The working time of the Robotic Pool Cleaner can be set.<br>5. Timer<br>Set the delay start time of the Robotic Pool Cleaner.<br>6. Wall Clean<br>Click &quot;Wall Clean&quot; to turn on and off the pool wall cleaning function.<br>7. ECO<br>Click &quot;ECO&quot; to enable and disable ECO mode.<br>8. Power display<br>Automatically sync.",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/7REWwztr4DH702lm9Icq1D0jInTMaH4FwxerbzAIajzoicgZc7Zj4epwA0UiKkNVXy8",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/BI2CMwvZpuqbR6JrJsRTsd4-0TqnyZmjouRGV_Og690pFtGojk7xWd5xbMqZTg5VuQ",
+    "https://play-lh.googleusercontent.com/c8Qe341BFw_oCzEr8NAvNLYSF4e0cqSCNi_jdJaRYI29BurYaAjVedWWSh6ZuOQPQco",
+    "https://play-lh.googleusercontent.com/igl2e-O5pHKOH72fMOiYnmjxPTdEqqYPJaKK0byrwVxmT_aXuuN8ZP29JC8hxxG2AOI",
+    "https://play-lh.googleusercontent.com/jbx4smYwaahFC9ANVqueQXo9ar0I5Vby3pTX2ZKHfK49_SNGH0C1979Z-7yDnCH03XI",
+    "https://play-lh.googleusercontent.com/y8SbD5jYFjq-aDGm-yMx5uLFhSuQZkBnoicG4RbrsSmiQ9dTz3r--386sTHjTjAG0fM",
+    "https://play-lh.googleusercontent.com/inbJgiTL6NXYTIMivqc46mAr7TzkKhve2YFi5Atjp-epe232fmNaJVCHb7SvD_7zG8rB",
+    "https://play-lh.googleusercontent.com/6LQjsf6epT1viI_b6z5RqRVrRLFRSYQ3ea0RUUZjJ2nPd_wKrFwrGyKxjRw7nY26Z47i",
+    "https://play-lh.googleusercontent.com/dHugj2UpXqqvlxMeh8Js-21wp4ZjNv7B7Eq88Z537_i7t8g6c8pb3vgqQaK9IueGOftP",
+    "https://play-lh.googleusercontent.com/wveOPunhXEVLmwvfDRnP16GBo7SwZIVIr6nwzu0hHatS-yIDXKqh7b5iQiRkGtbvM2o",
+    "https://play-lh.googleusercontent.com/BkOjH_9o4ecCyqtjlYiITnV-RGNeCeQAa1Ddq0xzd-tzybAXT2eTwn2Yv3YiK3_-F6_1"
+  ],
+  "video": "https://www.youtube.com/embed/YY2XA1YdxEE?vq=large&rel=0&autohide=1&showinfo=0",
+  "video_image": "https://play-lh.googleusercontent.com/6Fr09Kq3q7qe2FyW8BToZI0qEJsBnHWaxfLkcu5Aw_CCBiijTxpMoZIfdybObOKmngW4",
+  "header_image": "https://play-lh.googleusercontent.com/6Fr09Kq3q7qe2FyW8BToZI0qEJsBnHWaxfLkcu5Aw_CCBiijTxpMoZIfdybObOKmngW4",
+  "permissions": {
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Photos/Media/Files": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Camera": [
+      "take pictures and videos"
+    ],
+    "Microphone": [
+      "record audio"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Other": [
+      "Google Play license check",
+      "access Bluetooth settings",
+      "allow Wi-Fi Multicast reception",
+      "change network connectivity",
+      "change your audio settings",
+      "connect and disconnect from Wi-Fi",
+      "control vibration",
+      "full network access",
+      "install shortcuts",
+      "pair with Bluetooth devices",
+      "prevent device from sleeping",
+      "reorder running apps",
+      "run at startup",
+      "set wallpaper",
+      "view network connections"
+    ],
+    "Uncategorized": [
+      "receive data from Internet"
+    ]
+  },
+  "reviews_data": null
+}

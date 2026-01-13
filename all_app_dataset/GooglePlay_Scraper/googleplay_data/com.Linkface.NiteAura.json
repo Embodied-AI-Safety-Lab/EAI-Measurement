@@ -1,0 +1,70 @@
+{
+  "pkg_name": "com.Linkface.NiteAura",
+  "appId": "com.Linkface.NiteAura",
+  "title": "NiteAura",
+  "developer": "Linkface Co., Ltd.",
+  "developer_id": "Linkface+Co.,+Ltd.",
+  "developer_email": "dev001linkface@gmail.com",
+  "developer_website": "http://linkface.co/",
+  "developer_address": null,
+  "category": "Health & Fitness",
+  "category_id": "HEALTH_AND_FITNESS",
+  "content_rating": "Everyone",
+  "score": null,
+  "ratings": null,
+  "reviews_count": null,
+  "installs": "100+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://linkface1.notion.site/PrivacyPolicy-f7a45b47dc19423f9401579b70ff1fe4",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "NiteAura - Smart Sleep Tracking & ComfortAir Mask Control\r\n\r\nSleep deeper, breathe better, wake refreshed.\r\nNiteAura is the ultimate companion app for your NiteAura ComfortAir Mask, combining advanced sleep tracking with personalized comfort control.\r\n\r\nApp Features\r\n\r\n- Smart Sleep Tracking\r\nMonitor your breathing patterns, sleep cycles, and environment in real-time. Gain insights into your sleep quality with detailed reports every morning.\r\n- ComfortAir Mask Control\r\nEasily adjust your mask's settings for optimal temperature and humidity. Create the perfect breathing environment for deeper, uninterrupted sleep.\r\n- AI-Powered Sleep Optimization\r\nNiteAura learns your sleep habits and automatically adjusts settings to enhance comfort and support healthier sleep.\r\n- Sleep Reports & Insights\r\nUnderstand your nightly rest with comprehensive data on respiratory rate, breath humidity, and abnormal breathing events.\r\n- Custom Sleep Modes\r\nChoose from Relax Mode, Deep Sleep Mode, or let AI handle everything for you.\r\n\r\nWhy NiteAura + ComfortAir Mask?\r\n\r\n- Breathable, Cloud-Like Comfort\r\nUltra-soft Air Mesh keeps you cool and comfortable all night.\r\n- Perfect Fit for Every Sleeper\r\nAdjustable strap ensures a secure, pressure-free fit.\r\n\r\nHow It Works\r\n\r\n1. Connect your NiteAura ComfortAir Mask via Bluetooth.\r\n2. Select your preferred sleep mode in the app.\r\n3. Track your sleep and breathing effortlessly.\r\n4. Wake up to personalized sleep insights.\r\n\r\nTransform your nights with NiteAura where smart technology meets ultimate comfort.\r\nBetter sleep starts here.\r\n\r\nNote: This app requires the NiteAura ComfortAir Mask for full functionality.",
+  "descriptionHTML": "NiteAura - Smart Sleep Tracking &amp; ComfortAir Mask Control<br><br>Sleep deeper, breathe better, wake refreshed.<br>NiteAura is the ultimate companion app for your NiteAura ComfortAir Mask, combining advanced sleep tracking with personalized comfort control.<br><br>App Features<br><br>- Smart Sleep Tracking<br>Monitor your breathing patterns, sleep cycles, and environment in real-time. Gain insights into your sleep quality with detailed reports every morning.<br>- ComfortAir Mask Control<br>Easily adjust your mask&#39;s settings for optimal temperature and humidity. Create the perfect breathing environment for deeper, uninterrupted sleep.<br>- AI-Powered Sleep Optimization<br>NiteAura learns your sleep habits and automatically adjusts settings to enhance comfort and support healthier sleep.<br>- Sleep Reports &amp; Insights<br>Understand your nightly rest with comprehensive data on respiratory rate, breath humidity, and abnormal breathing events.<br>- Custom Sleep Modes<br>Choose from Relax Mode, Deep Sleep Mode, or let AI handle everything for you.<br><br>Why NiteAura + ComfortAir Mask?<br><br>- Breathable, Cloud-Like Comfort<br>Ultra-soft Air Mesh keeps you cool and comfortable all night.<br>- Perfect Fit for Every Sleeper<br>Adjustable strap ensures a secure, pressure-free fit.<br><br>How It Works<br><br>1. Connect your NiteAura ComfortAir Mask via Bluetooth.<br>2. Select your preferred sleep mode in the app.<br>3. Track your sleep and breathing effortlessly.<br>4. Wake up to personalized sleep insights.<br><br>Transform your nights with NiteAura where smart technology meets ultimate comfort.<br>Better sleep starts here.<br><br>Note: This app requires the NiteAura ComfortAir Mask for full functionality.",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/r3PV88ElhFpNkeruk4cLoFbi5l6TUaT64hTFMdPkNV6W29vBS1wUgbRcNMBuZTlvjw",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/qPKwDViVu-qgxM4KBYXR8CKT-2_IYnchHb-0e9j4O9hJKhAgfzoIHL-n0arJ8qz-sLc",
+    "https://play-lh.googleusercontent.com/pozIg7JfycDUWnsO5Lp-qYh8n0quRdpiboRnnqqc8U6GcOzy9v6Ko7QyFNHVvijNDQ",
+    "https://play-lh.googleusercontent.com/8TaiW-PYTJyonazGO0dqDLZ8MqGVMvQ1LUo2KL_Vg_qZ_udZU9tcD0PWwQUMMXOaF6k",
+    "https://play-lh.googleusercontent.com/2t8ePPKzqW9H3vEJX0GEe-DJP-DjvWzM5fsbgg5DaWFPwWAPT0NOcaKkqdtS66LNdA",
+    "https://play-lh.googleusercontent.com/BmUb6TxQDd-NIlPFWGjn2fHY_X5fzMX4LFD70rMW2g4gCGLAIHokMyxPa2Dc-ItnWfo",
+    "https://play-lh.googleusercontent.com/shypyLm8BhKM0H1OnxNm3HFizYtDLs-STAT0MaxsxPGCWmN4BF-6FBMo42GxUyHt4UN7",
+    "https://play-lh.googleusercontent.com/5do9FKbhklcAwlr9XwTO1AtZpVPdcYUDXq_0dPlegBd03_YSlDXr1d-kd9Q-cdniNXE",
+    "https://play-lh.googleusercontent.com/_dSAVqwmSNyMTt5uiZScvqjwqdCoSh_bjymRs6kUqjvyY8SsSL_sdxOsPNB2yABHUJI",
+    "https://play-lh.googleusercontent.com/p5oFnIR8snSDI0lt56U_SKrM_oTxksoQy9ILv7DcNK8oRw-1Fi51zzZ-ypYNWd7ZFj4",
+    "https://play-lh.googleusercontent.com/Y9jQbYsygdVcfXORvRdutKG6pnNmv-JqRWFhxU30jU2EGOBEDj2F3755uwbEV4Bs1bk",
+    "https://play-lh.googleusercontent.com/VsJmCb-zoUI2VMjBWHQQ5-Q9U5qB-csLWp2al4p19eDbK6hfVjVxdH82vHybvC84ITg",
+    "https://play-lh.googleusercontent.com/H3qZhmuTx8BcEPiWwPu1SxsoVhngfjJxF0uwuxzdOQFjbfR0t02t3zQL4wG_ucIooSZ2",
+    "https://play-lh.googleusercontent.com/e2bY8x8O7nzzPdengYMT3KZEPXcPKP82Olr8Ng0RDeoh0XVQsuy2ZHPjpniDOaoBdIA",
+    "https://play-lh.googleusercontent.com/4TJbBDvuts3kVNiUQCfD0cJR4j-Y9i5bl15UDWLR-VGTgYscMkpq7wt6YFNr1V1kLws",
+    "https://play-lh.googleusercontent.com/s__dFMhdEegbSE0RZiJZwbZfzqxPnnc-3rePWUZ45FZLSw6mDbveHNyKKf1S5ggK_ro",
+    "https://play-lh.googleusercontent.com/c5Cvjyd90qrWZnsczfX-CS-XArNk8z2LIMAFdDhljGfdor531GmfYOKiN_ruUZ6bfQ",
+    "https://play-lh.googleusercontent.com/a5uPfi9GjWRw0n-MEmr-veryaLtl7FHePQEamSDoQl4l4S7Ay6-fPdwHO3ZzwAbuiQ",
+    "https://play-lh.googleusercontent.com/CIPvCiw2FgNHagcnoiXbaiRapCJclFfXqCTdtoSK_iGqOQXofpvX7AeQzEvXKQtJRrbF"
+  ],
+  "video": "https://www.youtube.com/embed/HxiFoLpf6cQ?vq=large&rel=0&autohide=1&showinfo=0",
+  "video_image": "https://play-lh.googleusercontent.com/zeaQyfG_AmtTmYujIK_rRHt-EC9Iq547VHRbQpXfYdiko1zV-6_T0r8fK4_dV_a3qOfa",
+  "header_image": "https://play-lh.googleusercontent.com/zeaQyfG_AmtTmYujIK_rRHt-EC9Iq547VHRbQpXfYdiko1zV-6_T0r8fK4_dV_a3qOfa",
+  "permissions": {
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Photos/Media/Files": [
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "read the contents of your USB storage"
+    ],
+    "Other": [
+      "access Bluetooth settings",
+      "full network access",
+      "pair with Bluetooth devices"
+    ]
+  },
+  "reviews_data": null
+}

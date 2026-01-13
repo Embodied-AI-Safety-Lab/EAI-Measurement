@@ -1,0 +1,84 @@
+{
+  "pkg_name": "com.rainbow.drone.v5",
+  "appId": "com.rainbow.drone.v5",
+  "title": "Rainbow for DJI Mini3/Mini4",
+  "developer": "Prodlder",
+  "developer_id": "Prodlder",
+  "developer_email": "rainbow.feedback@hotmail.com",
+  "developer_website": null,
+  "developer_address": null,
+  "category": "Photography",
+  "category_id": "PHOTOGRAPHY",
+  "content_rating": "Everyone",
+  "score": 3.1052632,
+  "ratings": 154,
+  "reviews_count": 13,
+  "installs": "10,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": true,
+  "contains_ads": false,
+  "privacy_policy": "https://www.flydji.net/privacy.html",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "Support DJI Mini4Pro/Mini3/Mini3 Pro, M30, M4T/M4E Mavic 3E/3T, M300 and other industrial models.\r\n.\r\nApp to unleash the full potential of your DJI drone (Phantom/Inspiration/Spark series), you can make your DJI drone shoot better with Rainbow.\r\n\r\nfunction points:\r\n\r\n* Stable, smooth operation, no lag\r\n* Waypoint support, you can customize your own automatic flight, support mission continuation, save, restore, specify the starting navigation point of the flight, support navigation point actions (shooting, steering, gimbal adjustment, stop, video recording).\r\n* Support panorama shooting\r\n* Support orthophoto shooting, missions can be saved, continued flight, timed, isometric, hovering multiple shooting modes.\r\n* Support aerial belt shooting, suitable for orthophotos in rivers, roads and other belt states\r\n* Support oblique photography, cross oblique, surround oblique and other modeling shooting\r\n* Support stereo surround 3D shooting of a single building\r\n* Support Kml and Kml multi-region import.\r\n* Support Shp import\r\n* Support camera pointing in waypoint mode.\r\n* Support tracking mode. Track the target and run around it, automatically track the target.\r\n* Rich camera and aircraft settings.\r\n* Rich map support, such as Gaode, Mapbox, and switchable satellite images.\r\n* Rich setting support, such as IMU correction, compass correction, flight record, remote control multiple settings, home point update, aircraft search\r\n* Flight voice prompts and warning support.\r\n* A variety of help documents and interactive help guides.\r\n\r\n\r\n\r\nIf you have any suggestions or questions, please submit them through the feedback function in the software, or send them directly to email   for customer support!",
+  "descriptionHTML": "Support DJI Mini4Pro/Mini3/Mini3 Pro, M30, M4T/M4E Mavic 3E/3T, M300 and other industrial models.<br>.<br>App to unleash the full potential of your DJI drone (Phantom/Inspiration/Spark series), you can make your DJI drone shoot better with Rainbow.<br><br>function points:<br><br>* Stable, smooth operation, no lag<br>* Waypoint support, you can customize your own automatic flight, support mission continuation, save, restore, specify the starting navigation point of the flight, support navigation point actions (shooting, steering, gimbal adjustment, stop, video recording).<br>* Support panorama shooting<br>* Support orthophoto shooting, missions can be saved, continued flight, timed, isometric, hovering multiple shooting modes.<br>* Support aerial belt shooting, suitable for orthophotos in rivers, roads and other belt states<br>* Support oblique photography, cross oblique, surround oblique and other modeling shooting<br>* Support stereo surround 3D shooting of a single building<br>* Support Kml and Kml multi-region import.<br>* Support Shp import<br>* Support camera pointing in waypoint mode.<br>* Support tracking mode. Track the target and run around it, automatically track the target.<br>* Rich camera and aircraft settings.<br>* Rich map support, such as Gaode, Mapbox, and switchable satellite images.<br>* Rich setting support, such as IMU correction, compass correction, flight record, remote control multiple settings, home point update, aircraft search<br>* Flight voice prompts and warning support.<br>* A variety of help documents and interactive help guides.<br><br><br><br>If you have any suggestions or questions, please submit them through the feedback function in the software, or send them directly to email   for customer support!",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/JMbX-SJI5Pqu34D2rrrpItyEEBM7iXpQIl1cXI2w82QeqgvBjz8WKN2WIUY6bQ-wHCg",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/bubaRnPGl33R2ebRZ4-I3HLrrfKBZuX2no_RB7juRkz8QQBpKClgVnxGG-1zuZh7jsI",
+    "https://play-lh.googleusercontent.com/yHR4TQUAyKvXGAYS1Y-vtj7rQYBMC2aWDpNcsYfaHpcvC5gFUxMBZlQ8H8hyp1yAcB0m",
+    "https://play-lh.googleusercontent.com/A6LUcGdNUsCayPlxAp_TpTfQf9oC8VkKoiD8dYvXi3g_2gQk24BqfuzG2_lQ6831LA",
+    "https://play-lh.googleusercontent.com/g0LkI9TZEVLkgWzZU2cTwjufexn6HIGGdf550bggmfEw9hYyl5p_9Sb5g-iCNR092UQ",
+    "https://play-lh.googleusercontent.com/dZyGiTRfzy05W9CjlKDzv5QeTWi6OEx20yovf-IOEVTENTVpFbobHDrh34SY0ijR4rg",
+    "https://play-lh.googleusercontent.com/IF636EOfhOs0Cnv7UOfpmvQblg4pmcaU0ZfbUphQFHBSZQjsahKSAxKxQZrzlH_OzSo",
+    "https://play-lh.googleusercontent.com/QYYkAury3wKsitAe3M1aoMWXRel0LdJ_-timYcoa1aohF7EVEdcm9LV7F0-y3XZO-RPA",
+    "https://play-lh.googleusercontent.com/rYZS2NOAlZUkhKsJ6R091fgHGkLXikrJ8v8JTCh6oyZp3qIzVfi6ZFXooLdF-EsGUA"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/7lexq-PN3zBLOokIYox8oCKHVPmium0obsAojtnPzwgoQhlEa61Iq8_0uuGuOXs6AGY",
+  "permissions": {
+    "Location": [
+      "access extra location provider commands",
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Phone": [
+      "read phone status and identity"
+    ],
+    "Photos/Media/Files": [
+      "access USB storage filesystem",
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Camera": [
+      "take pictures and videos"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Device ID & call information": [
+      "read phone status and identity"
+    ],
+    "Other": [
+      "access Bluetooth settings",
+      "change system display settings",
+      "close other apps",
+      "connect and disconnect from Wi-Fi",
+      "control vibration",
+      "draw over other apps",
+      "full network access",
+      "modify system settings",
+      "pair with Bluetooth devices",
+      "prevent device from sleeping",
+      "view network connections"
+    ]
+  },
+  "reviews_data": null
+}

@@ -1,0 +1,89 @@
+{
+  "pkg_name": "com.piceacorp.dm4pro.airbot_new",
+  "appId": "com.piceacorp.dm4pro.airbot_new",
+  "title": "Airbot X40",
+  "developer": "Shenzhen PICEA Robotics Co., Ltd",
+  "developer_id": "Shenzhen+PICEA+Robotics+Co.,+Ltd",
+  "developer_email": "service@airbot-tech.com",
+  "developer_website": "https://airbot.sg/",
+  "developer_address": null,
+  "category": "House & Home",
+  "category_id": "HOUSE_AND_HOME",
+  "content_rating": "Everyone",
+  "score": null,
+  "ratings": null,
+  "reviews_count": null,
+  "installs": "1,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://cn-allaiot-oss.3irobotix.net/prod/agreements-manage/20240718/1721282081295807.html",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "Welcome to the world of Airbot, where smart living meets simplicity. As a devoted homemaker, I've found the perfect partner in keeping my home spotless and my family happy - the Airbot App. Let me share my delightful journey with you.\r\n\r\nImagine a home where your chores are effortlessly managed, giving you more time to cherish moments with your loved ones. The Airbot App is designed for families like ours, who value cleanliness and convenience. \r\n\r\nHere's why I absolutely love the Airbot App:\r\n\r\n    Effortless Control: With just a tap, I can control and monitor my Airbot devices from anywhere. It's like having a personal assistant for my home!\r\n\r\n    Robotic Vacuum Cleaner Magic: Our Airbot robotic vacuum cleaner, paired with its intelligent dock station, has been a game-changer. The dock features a clean water tank, dirty water tank, and dust bag, allowing the robot to self-wash its mop cloth, empty its dust bin, and dry its mop cloth automatically. It's like having a self-sufficient cleaning buddy!\r\n\r\n    Smart Scheduling: The app lets me set schedules for our robotic vacuum cleaner. I can plan different cleaning tasks for specific times, ensuring our home is always in top shape without lifting a finger.\r\n\r\n    Stay Updated: The app keeps us informed with the latest device updates, ensuring our Airbot appliances are always running at their best.\r\n\r\n    Family Sharing: Sharing is caring! The Airbot App allows me to share access and control of our devices with my family and friends. It's wonderful knowing everyone can pitch in, making home management a collective effort.\r\n\r\nIn a world where time is precious, the Airbot App has become an indispensable part of our home. It has transformed the way we manage our household, giving us more time to enjoy the little moments that matter most.\r\n\r\nDownload the Airbot App today and experience the joy of smart living. Let’s make home life easier and more enjoyable, one smart device at a time!",
+  "descriptionHTML": "Welcome to the world of Airbot, where smart living meets simplicity. As a devoted homemaker, I&#39;ve found the perfect partner in keeping my home spotless and my family happy - the Airbot App. Let me share my delightful journey with you.<br><br>Imagine a home where your chores are effortlessly managed, giving you more time to cherish moments with your loved ones. The Airbot App is designed for families like ours, who value cleanliness and convenience. <br><br>Here&#39;s why I absolutely love the Airbot App:<br><br>    Effortless Control: With just a tap, I can control and monitor my Airbot devices from anywhere. It&#39;s like having a personal assistant for my home!<br><br>    Robotic Vacuum Cleaner Magic: Our Airbot robotic vacuum cleaner, paired with its intelligent dock station, has been a game-changer. The dock features a clean water tank, dirty water tank, and dust bag, allowing the robot to self-wash its mop cloth, empty its dust bin, and dry its mop cloth automatically. It&#39;s like having a self-sufficient cleaning buddy!<br><br>    Smart Scheduling: The app lets me set schedules for our robotic vacuum cleaner. I can plan different cleaning tasks for specific times, ensuring our home is always in top shape without lifting a finger.<br><br>    Stay Updated: The app keeps us informed with the latest device updates, ensuring our Airbot appliances are always running at their best.<br><br>    Family Sharing: Sharing is caring! The Airbot App allows me to share access and control of our devices with my family and friends. It&#39;s wonderful knowing everyone can pitch in, making home management a collective effort.<br><br>In a world where time is precious, the Airbot App has become an indispensable part of our home. It has transformed the way we manage our household, giving us more time to enjoy the little moments that matter most.<br><br>Download the Airbot App today and experience the joy of smart living. Let’s make home life easier and more enjoyable, one smart device at a time!",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/oHpb_XuWWIYq0LENLyGwOuhsZnBz0XZLTKWvhRHGUMqt4DITLcwoMSoEHDumPJU6ZME",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/KbX8gmAH1BrFAA-wzJpTzGqM7CUTVHozk6B2QtDvc_boTEFhUHjeGrRA7Ko95I5Uhvo",
+    "https://play-lh.googleusercontent.com/hIOzd6LPp9GwKQmX9Q0QeeHX6wEtwYlHQzCEbyI--3j9jMiJ_Yf1cAYTRCQwls4kC3vb",
+    "https://play-lh.googleusercontent.com/IRdRDD4NU-bHzoiZ8AL-ZCqZegGIqy4tmfaaFqjq5fZazVFGjJVM7L7saQLEolI3jg",
+    "https://play-lh.googleusercontent.com/FfApgfVEyGmml52OHOxlznT07GFww3mo6QIu8_HpPYjFHdKZr5pyl8h67qg9vw0MWQY",
+    "https://play-lh.googleusercontent.com/0JNjmfFl4hYfuZLaHN-DonWvZ5y17lB4FAFhItLQ5qVGJfFDDosKofBY1rf1oLLdFBqn",
+    "https://play-lh.googleusercontent.com/wd4C3j3WElT7nrdK0lYdlJT9NwPpjjfiSdOHjuOVXBL3Oapw1IIjyhu96uAHGAUlfQ",
+    "https://play-lh.googleusercontent.com/WFdTdAmA2y2hgElIXBkIb25GGFJ3PF0FGUAfiagWFhe5k2PLSlo8AlY0bqNS3Tg8Kg",
+    "https://play-lh.googleusercontent.com/GFqkeQw14UZUZiUV-Gh6PwAD736SsR-AH27oB24YQ-BJ6uP7nHzOcEsoC3IfFH_kfcQ",
+    "https://play-lh.googleusercontent.com/xcc6uUCXJyuoRcOTJOCJHQI9Dh40SVCMh0xBGLAd2dbXUBXfuT-3NLs8ghgo8Kek250P",
+    "https://play-lh.googleusercontent.com/5qrrCqNrS6a63aA3IlmtM1Oa1iKhyVax6VMJjbYoQn2R2vXYNr2sYiEoVLcfKwvgZWw",
+    "https://play-lh.googleusercontent.com/iVsEAthexazOjxlG6i6wDruPHHHyRxx-Yj6pn3HhWNP7KKooeUqknRJm0J5cFNcR9bI",
+    "https://play-lh.googleusercontent.com/9x6eBk9q8p2I9AS6mXfyoHjDssGjUPGHRZoKW7nA98Amz5LCqGI8mCIg9hSm0wm66Q8"
+  ],
+  "video": "https://www.youtube.com/embed/r62_jckMR6k?vq=large&rel=0&autohide=1&showinfo=0",
+  "video_image": "https://play-lh.googleusercontent.com/vJ6y7BoGtMffLsPAobM5h6LMUJNqGDWE073xqWbKYw0-fOittqvneByAigQBZs627kF9",
+  "header_image": "https://play-lh.googleusercontent.com/vJ6y7BoGtMffLsPAobM5h6LMUJNqGDWE073xqWbKYw0-fOittqvneByAigQBZs627kF9",
+  "permissions": {
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Phone": [
+      "read phone status and identity"
+    ],
+    "Photos/Media/Files": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Camera": [
+      "take pictures and videos"
+    ],
+    "Microphone": [
+      "record audio"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Device ID & call information": [
+      "read phone status and identity"
+    ],
+    "Other": [
+      "access Bluetooth settings",
+      "change network connectivity",
+      "change your audio settings",
+      "connect and disconnect from Wi-Fi",
+      "draw over other apps",
+      "full network access",
+      "modify system settings",
+      "pair with Bluetooth devices",
+      "prevent device from sleeping",
+      "read terms you added to the dictionary",
+      "view network connections"
+    ]
+  },
+  "reviews_data": null
+}

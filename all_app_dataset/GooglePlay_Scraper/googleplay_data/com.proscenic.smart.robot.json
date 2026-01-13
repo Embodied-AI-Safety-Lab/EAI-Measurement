@@ -1,0 +1,109 @@
+{
+  "pkg_name": "com.proscenic.smart.robot",
+  "appId": "com.proscenic.smart.robot",
+  "title": "Proscenic",
+  "developer": "Shenzhen Ultenic Technology Co., Ltd.",
+  "developer_id": "Shenzhen+Ultenic+Technology+Co.,+Ltd.",
+  "developer_email": "tj@proscenic.cn",
+  "developer_website": "https://www.proscenic.com/",
+  "developer_address": null,
+  "category": "Tools",
+  "category_id": "TOOLS",
+  "content_rating": "Everyone",
+  "score": 2.4320989,
+  "ratings": 2403,
+  "reviews_count": 57,
+  "installs": "100,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://appadmin-hk.proscenic.com/app-admin/privacypolicy/PrivacyPolicy.html",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "\"The Proscenic App is a mobile phone application that connects Proscenic smart products. You can control the functions of the product and monitor your product in real-time through the application. Here, you can control the product anytime and anywhere, and you can also streamline communication between smart devices. Intercommunication makes the product more portable and smart during use.\r\n\r\nLinkage control, easy to use\r\nWe want you to experience a smarter and more portable lifestyle. The app is simple to operate and you can quickly add a variety of home appliances while performing linkage operations to interconnect smart devices.\r\n\r\nShare your joy with just one-click \r\nWe want to add more fun to your life. With simple one-click sharing, you can share your device with family and friends, manage it remotely, experience convenience, and enjoy the fun of science and technology together.\r\n\r\nConnect to the Internet in no time\r\nAfter connecting to your smart device, you can\r\n(1) Start and pause your robot remotely\r\n(2) View the cleaning map and understand the robot cleaning area\r\n(3) Set the cleaning mode you want to track cleaning tasks\r\n\r\nDownload now and experience this house cleaning \"\"beast\"\" by Proscenic.\"",
+  "descriptionHTML": "&quot;The Proscenic App is a mobile phone application that connects Proscenic smart products. You can control the functions of the product and monitor your product in real-time through the application. Here, you can control the product anytime and anywhere, and you can also streamline communication between smart devices. Intercommunication makes the product more portable and smart during use.<br><br>Linkage control, easy to use<br>We want you to experience a smarter and more portable lifestyle. The app is simple to operate and you can quickly add a variety of home appliances while performing linkage operations to interconnect smart devices.<br><br>Share your joy with just one-click <br>We want to add more fun to your life. With simple one-click sharing, you can share your device with family and friends, manage it remotely, experience convenience, and enjoy the fun of science and technology together.<br><br>Connect to the Internet in no time<br>After connecting to your smart device, you can<br>(1) Start and pause your robot remotely<br>(2) View the cleaning map and understand the robot cleaning area<br>(3) Set the cleaning mode you want to track cleaning tasks<br><br>Download now and experience this house cleaning &quot;&quot;beast&quot;&quot; by Proscenic.&quot;",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/4Ve7m0A9RN4w-6AMn9427qHzS2GxVrTCMLNUJES48BbIOgm43Xs6PfwuDjJLNAiIVw",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/SepkHF6EW2P4Y-OyULqZpz00YbN8Lv6bC6OxKZYuXvvA_adTPGaESfo8McT8ot8wIRE",
+    "https://play-lh.googleusercontent.com/KDRqRVi32O8ZdsDhDZblrlXJZ3KhQfjzzE4-F7gdX_3L_Fa0DSTOyOYfFcdj_seI7g",
+    "https://play-lh.googleusercontent.com/Qf8oDGwBkqJGWIxjWlHFgmoThxWTNNvnhUPqTUXJ648x15wC6C8gSkVQoiK385cGjqaa",
+    "https://play-lh.googleusercontent.com/loEzQqDu8MTu-X8CwXtbfJA4oI7dm6AB-LryMFCQ4b0x22k3cq4xJerFz2y-uIXHaKM",
+    "https://play-lh.googleusercontent.com/7brZKoHQg5-7PWkpeGAnhSPgTa-50NCMqT8EqwNXOCqyALlxU4gMg1CaAa6hqRKeN5Y",
+    "https://play-lh.googleusercontent.com/TcJqvCFN55MLUFUT3P4vRfR51Pigb9niDvN6CEC7Nv3r-WiPHJK5hKp6nagWkFqknQ",
+    "https://play-lh.googleusercontent.com/8LpB9Od29aJo0rXHDvhldQ3glHUkugDFf87dib4BkJ4oG_kHcfi6gFVbd3B2DVuuuE8",
+    "https://play-lh.googleusercontent.com/uEHj6rCKVQCJiX93xAHwllCX51tGpDYhGI0YcjM5VeaVfObO-9eZAdoP5_PtrNRKsKs",
+    "https://play-lh.googleusercontent.com/gOOc8AzZSkrR2H_rbfxH0CRMFx9JqBHCKUZAncPTH98ixfHywadN3paRtIgKuHXYGBRe",
+    "https://play-lh.googleusercontent.com/Vp41BdZDBqHROiJZZhQ6UvqOOeS2f7k98rHeqDRCYMI_DdLYvuRreIAlx9K2cThe40Y",
+    "https://play-lh.googleusercontent.com/yW94vKEGz96NmrJHMA0s6Q7uNLhA2lFtw4SNh20fm0ljLJ8n-9NhevMx1DFeLGcrX5o",
+    "https://play-lh.googleusercontent.com/Awsp8Aw4B3P5uka_cdIUxJI8X5ZKerBYq1CLwCiaPIila3uGx8zjNayioqHjfOe9R2om"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/b_NZl6n4SOkzzp_lvmfOUzzJWP9zs7XE4a4OPHXUieWuSBC6eKbIsBoAvUyz0TYp1Ak",
+  "permissions": {
+    "Device & app history": [
+      "read your Web bookmarks and history"
+    ],
+    "Contacts": [
+      "read your contacts"
+    ],
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Phone": [
+      "read phone status and identity"
+    ],
+    "Photos/Media/Files": [
+      "access USB storage filesystem",
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Camera": [
+      "take pictures and videos"
+    ],
+    "Microphone": [
+      "record audio"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Device ID & call information": [
+      "read phone status and identity"
+    ],
+    "Other": [
+      "Google Play license check",
+      "access Bluetooth settings",
+      "allow Wi-Fi Multicast reception",
+      "change network connectivity",
+      "change your audio settings",
+      "connect and disconnect from Wi-Fi",
+      "control flashlight",
+      "control vibration",
+      "draw over other apps",
+      "full network access",
+      "install shortcuts",
+      "modify system settings",
+      "pair with Bluetooth devices",
+      "prevent device from sleeping",
+      "reorder running apps",
+      "run at startup",
+      "set wallpaper",
+      "uninstall shortcuts",
+      "view network connections"
+    ],
+    "Uncategorized": [
+      "read Home settings and shortcuts",
+      "receive data from Internet",
+      "write Home settings and shortcuts"
+    ]
+  },
+  "reviews_data": null
+}

@@ -1,0 +1,76 @@
+{
+  "pkg_name": "com.ursrobot.nexmowapp",
+  "appId": "com.ursrobot.nexmowapp",
+  "title": "NEXMOW",
+  "developer": "URSrobot Inc.",
+  "developer_id": "URSrobot+Inc.",
+  "developer_email": "app.developer@ur-srobot.com",
+  "developer_website": "https://www.ur-srobot.com/index.php",
+  "developer_address": null,
+  "category": "Productivity",
+  "category_id": "PRODUCTIVITY",
+  "content_rating": "Everyone",
+  "score": 0,
+  "ratings": 0,
+  "reviews_count": 0,
+  "installs": "100+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://pages.flycricket.io/supermow-app/privacy.html",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "Unlock business growth with NEXMOW! URSROBOT's cutting-edge robotic mower. Say goodbye to laborious mowing tasks and hello to enhanced efficiency. Whether solo or in a fleet, NEXMOW effortlessly handles expansive landscapes, freeing up your crew's time for impactful projects. Enjoy hassle-free operation with wire-free freedom, thanks to NEXMOW's boundary wire elimination. Plus, with satellite and 4G connectivity, achieve precise outdoor navigation with an unrivaled 2 cm accuracy, revolutionizing precision mowing.\r\n\r\nNEXMOW key features include:\r\n\r\n4G LTE & RTK Precision Remote Control\r\nProfessional-grade systematic mowing patterns boosts productivity.\r\nReal-Time Remote Control with GPS tracking, productivity reports, and machine monitoring.\r\nCloud-Based Fleet Collaboration Management\r\nMap large, complex fields or entire city parks with ease using our technology.\r\nDeploy up to 10 mowers for 10X productivity, guided by AI for optimal patterns.\r\nAutomatic Safety Sensor\r\nMultiple sensors enable obstacle avoidance, trigger alerts, and stop blades.\r\nSecurity device tracks via GPS, alerts app on theft.",
+  "descriptionHTML": "Unlock business growth with NEXMOW! URSROBOT&#39;s cutting-edge robotic mower. Say goodbye to laborious mowing tasks and hello to enhanced efficiency. Whether solo or in a fleet, NEXMOW effortlessly handles expansive landscapes, freeing up your crew&#39;s time for impactful projects. Enjoy hassle-free operation with wire-free freedom, thanks to NEXMOW&#39;s boundary wire elimination. Plus, with satellite and 4G connectivity, achieve precise outdoor navigation with an unrivaled 2 cm accuracy, revolutionizing precision mowing.<br><br>NEXMOW key features include:<br><br>4G LTE &amp; RTK Precision Remote Control<br>Professional-grade systematic mowing patterns boosts productivity.<br>Real-Time Remote Control with GPS tracking, productivity reports, and machine monitoring.<br>Cloud-Based Fleet Collaboration Management<br>Map large, complex fields or entire city parks with ease using our technology.<br>Deploy up to 10 mowers for 10X productivity, guided by AI for optimal patterns.<br>Automatic Safety Sensor<br>Multiple sensors enable obstacle avoidance, trigger alerts, and stop blades.<br>Security device tracks via GPS, alerts app on theft.",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/_uzuocYpg11Da70f39iDj3lxnMoEUZJwYLfqKi9Ka1rGIyC-WXUOJAnukjU4FoeromE",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/xMSZ2M7ZkB_D9zaU82pZX43hxCwPhT8NNKjyOeEz1TI9bouA127XaYXByNiU8l6mmQEH",
+    "https://play-lh.googleusercontent.com/WkFj-c7MgcMK0cGdgt81yDjdJvEAJy7f6oaPGO-MYJSxpK5AAeZ5xffaxNBKbskjx9Qo",
+    "https://play-lh.googleusercontent.com/B1hLPTET9OTF9hnL82fpJfQlwK4DsCrD3SY0RUcPMIXhJxkM76hAsm3w3b0BaF5Aqg",
+    "https://play-lh.googleusercontent.com/dyYWMv0_hRUXkyHpOjQs7yjqkNEGyHhTo3sQFtHGOKTkMEzTtt5VjO5sh0lwOH3z6Kfp",
+    "https://play-lh.googleusercontent.com/AEK7qxc2DFij2glzL7Q9e8LaeIrLBpDJMDtA265o1LYzcVbE7yvKaL-9gwu8OgDEQBWg"
+  ],
+  "video": "https://www.youtube.com/embed/Bp8eqEZIuyw?vq=large&rel=0&autohide=1&showinfo=0",
+  "video_image": "https://play-lh.googleusercontent.com/DUQBUjLWfTaD3USBiKfbTQwScHcQ1DO0XoihsG_aMCN_FfYq9T-GUB1i81Avi8-SFwg",
+  "header_image": "https://play-lh.googleusercontent.com/DUQBUjLWfTaD3USBiKfbTQwScHcQ1DO0XoihsG_aMCN_FfYq9T-GUB1i81Avi8-SFwg",
+  "permissions": {
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Photos/Media/Files": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Camera": [
+      "take pictures and videos"
+    ],
+    "Microphone": [
+      "record audio"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Other": [
+      "change your audio settings",
+      "control vibration",
+      "draw over other apps",
+      "full network access",
+      "prevent device from sleeping",
+      "read Google service configuration",
+      "run at startup",
+      "view network connections"
+    ],
+    "Uncategorized": [
+      "receive data from Internet"
+    ]
+  },
+  "reviews_data": null
+}

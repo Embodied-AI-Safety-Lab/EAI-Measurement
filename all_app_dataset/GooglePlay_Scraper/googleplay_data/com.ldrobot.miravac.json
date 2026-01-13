@@ -1,0 +1,101 @@
+{
+  "pkg_name": "com.ldrobot.miravac",
+  "appId": "com.ldrobot.miravac",
+  "title": "My MIRAVAC",
+  "developer": "松騰實業有限公司 MATSUTEK Co., LTD.",
+  "developer_id": "%E6%9D%BE%E9%A8%B0%E5%AF%A6%E6%A5%AD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8+MATSUTEK+Co.,+LTD.",
+  "developer_email": "service@miravac.com",
+  "developer_website": "https://www.miravac.com/",
+  "developer_address": null,
+  "category": "Tools",
+  "category_id": "TOOLS",
+  "content_rating": "Everyone",
+  "score": null,
+  "ratings": null,
+  "reviews_count": null,
+  "installs": "100+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://www.miravac.com/pages/privacy-policy",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "Download Miravac's free app “My MIRAVAC” from the App Store or Google Play to enjoy a new app-controlled cleaning experience. Connect to Wi-Fi and complete pairing to control cleaning from your smartphone using advanced features such as mapping, virtual wall zoning, scheduling, charging and so much more!",
+  "descriptionHTML": "Download Miravac&#39;s free app “My MIRAVAC” from the App Store or Google Play to enjoy a new app-controlled cleaning experience. Connect to Wi-Fi and complete pairing to control cleaning from your smartphone using advanced features such as mapping, virtual wall zoning, scheduling, charging and so much more!",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/j8BaYioOjk1dQf6pEpaBzUGLxzlfPdrOucHpHw0k72UdOUSkKKUGmNhuirbZisX3rA",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/NZe6VfvgKjx42YceSGpqx5hyFpUG-pfyeidJmKgtP78qv3lVzrp7vBWeVA3KKYO4CQ",
+    "https://play-lh.googleusercontent.com/p4UxTAGSqL7MVOIAluPgvncUK9ja5yQHBOBRQdnZ9u4bzN3dI_ZsYIuCbeAJysyCH04",
+    "https://play-lh.googleusercontent.com/u8Ny7t6M-x77o2bFK_-Xqhs8WZWwP9983OIUHn2UhdRKrtJENvlOSFIlBd5MtfnCmE0",
+    "https://play-lh.googleusercontent.com/XLOWZLgRVSmpJWeOf9FlyAexIvJG5U0Zs34laVics5yQCaAx_ZFApZG1gncpDBJG-ACK",
+    "https://play-lh.googleusercontent.com/vuo-_jWjiu0eGUQV--Y1pJHTWQDhH-BWHECMGEK-px3I5Lxx1PeoDdiNZbLKv6lCfw",
+    "https://play-lh.googleusercontent.com/KajI4Oo89Qj1X0fj7211e8eY_2OVCTcvBwiFxqBX2KiBbmTYI9B0_lywGD44FZrpibo",
+    "https://play-lh.googleusercontent.com/3ut2ZY7qnHHNpk2rHxpqje-XmwLTl_zIXI3mzbdUmGucxwxZgiXDi6PURdjsyF-01JU",
+    "https://play-lh.googleusercontent.com/R8MKi02YGnTjkDBgPsNbhXpqgmT2C_BehG2wBogK-0MLlFNskC4kvSLxqb0ckFOhnptv",
+    "https://play-lh.googleusercontent.com/4jmLGhHeq9zpuhsP2T-A0bBvhC-IpLyDkD7K-xTrlHI6wtSvAhn1WJkvzYfhh7iSGys",
+    "https://play-lh.googleusercontent.com/4prvnR03bQq5ppOMSD7yDaBdocFsgjonYH2xFk2eYwlL8yq5LnSB-L2YeQmNQEFQ6w",
+    "https://play-lh.googleusercontent.com/NNQgmPhWtM9xaZIFJaBD5fe2KOrzEW4T11vD-l9I2DAMcyxrcHL1HvD6JgXvSmn8dw",
+    "https://play-lh.googleusercontent.com/6VUY1V6JZY6m88LXBRMBAievkpqeZl1Ln2evRl87HL56B2nAPRM1P25yrTexQ9Jj1UA",
+    "https://play-lh.googleusercontent.com/yg8btElj92yu3jHxDw9UIsNBApZoIkBwEP8s0J9aVbnwcnik-3IhdYgwnXbTNBpTWgI",
+    "https://play-lh.googleusercontent.com/PiDV8s-N6cwppWpN6-YDZqrh10DdKjLm4c0y5Lx3A-HbJP599-q029YkrS_6PpNTIXE",
+    "https://play-lh.googleusercontent.com/QMjdzCQcLR5eDdkC_Q57fMj5vHViQCAw94lF6HGLeCQtjDt8P5ok56iL44XhwtAtZqga",
+    "https://play-lh.googleusercontent.com/ZtT_1wRrDh3xehzr-9mEUJRMGXM4l1W3vNntX6tsbjBdTccPdVjYHjBBiZWwH8p1Tjs",
+    "https://play-lh.googleusercontent.com/1ekYFkFDaScCNHGf8DJ3wyvxZkbU_1YHqEuZM9E4Y-IAckcJYQ7gFqf4mj_ZdANDe0YF",
+    "https://play-lh.googleusercontent.com/LVYr1HOCtNmSURAHuaOVGv5Y2ZYh6rRZoUIIhcjGxq2GjTdwBfs02SJl-ymqXOES3hI",
+    "https://play-lh.googleusercontent.com/xGyTkgOWGb6PlHYHSxC9C4hZqKf2ezjbrI3ifWHNMzwNA8pTWjw83BaeqZV4XCl5eqI",
+    "https://play-lh.googleusercontent.com/ngC_RrhH0DE_Td-DC_Of9pHAmYg0Pbsr-toWq5nXEu2pzxj-FQp0K4aWFTYyhqZOSQ",
+    "https://play-lh.googleusercontent.com/o_P6YBHHzPw4KBTMonCjFJ09JWbWY84FtgvDPLTrUTa7kbu2YOCoExvjxmYJ5GneqG7v",
+    "https://play-lh.googleusercontent.com/Zfv20s5OBjqmY-nYh1aVEdHioNw_8n2FVuWs_oqmJO-Lrt2JGau_sVeCPv2Nw-PvTnk",
+    "https://play-lh.googleusercontent.com/2gWvtPR2NKAwstANWsO4ULWmhHjtxHEMLmmwDYM3xMSbhYJ84ZGGedIOSE1N48wW_RM",
+    "https://play-lh.googleusercontent.com/5BocpmCDiNAaAfU7L6Dw4DAaaRXBzqgIgMbzBxV8BBXn6xff3-_AURfP6KiqDd6CFi0"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/OTrlfgo8zoYwh-xlX3R91LqtEJutOP2twid3N1rhIJ9klg99rtnjz5bZnUDsS_YNvA",
+  "permissions": {
+    "Device & app history": [
+      "retrieve running apps"
+    ],
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Phone": [
+      "read phone status and identity"
+    ],
+    "Photos/Media/Files": [
+      "access USB storage filesystem",
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Camera": [
+      "take pictures and videos"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Device ID & call information": [
+      "read phone status and identity"
+    ],
+    "Other": [
+      "allow Wi-Fi Multicast reception",
+      "change network connectivity",
+      "close other apps",
+      "connect and disconnect from Wi-Fi",
+      "control vibration",
+      "full network access",
+      "modify system settings",
+      "pair with Bluetooth devices",
+      "prevent device from sleeping",
+      "view network connections"
+    ]
+  },
+  "reviews_data": null
+}

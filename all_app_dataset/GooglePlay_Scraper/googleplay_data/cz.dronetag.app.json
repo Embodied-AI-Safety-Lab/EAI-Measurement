@@ -1,0 +1,69 @@
+{
+  "pkg_name": "cz.dronetag.app",
+  "appId": "cz.dronetag.app",
+  "title": "Dronetag",
+  "developer": "Dronetag",
+  "developer_id": "Dronetag",
+  "developer_email": "support@dronetag.cz",
+  "developer_website": "http://www.dronetag.cz/en",
+  "developer_address": null,
+  "category": "Tools",
+  "category_id": "TOOLS",
+  "content_rating": "Everyone",
+  "score": 2.357143,
+  "ratings": 63,
+  "reviews_count": 16,
+  "installs": "10,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://dronetag.cz/privacy-policy/",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "With Dronetag, all drones fly safe & compliant. Our app helps everyone to receive and read drone identification data and offers a wide range of professional features to owners of Dronetag remote identification devices. We create a world where all drones can access airspace without the need to worry about accidents.\r\n\r\nDronetag Mini and Dronetag Beacon are add-on devices for remote identification designed and manufactured by us. They can be attached to any drone, making it digitally visible via Remote ID standards to all air traffic participants. \r\n\r\n- Dronetag Mini - \r\nWeighs 32 grams, offers up to 14-hour battery life, and supports both Direct & Network Remote ID technologies (DRI & NRI) via Bluetooth and LTE.\r\n\r\n- Dronetag Beacon -\r\nWeighs only 16 grams, offers up to 16-hour battery life, and supports Direct Remote ID technology (DRI only) via Bluetooth broadcasting.\r\n\r\nConnect your device to the Dronetag app and enjoy the following features:\r\n- Airspace scanner displaying all participants with Remote ID (available even without Dronetag device)\r\n- Remote identification for your drone compliant with EU & US regulations\r\n- Option to add and manage an unlimited number of unmanned aircraft\r\n- Map of restricted zones such as airports within the whole EU & US\r\n- Flight planning, including the time and altitude\r\n- Flight tracker with a real-time position on the map and notifications\r\n- Journal feature to save and export flight data of all your drones\r\n- Full-text search: locations, restricted zones, aircraft, and Dronetag devices\r\n\r\nConnect with the Dronetag team\r\nLet’s chat about drones, flying, and tech. Send us your feedback or questions to: support@dronetag.cz",
+  "descriptionHTML": "With Dronetag, all drones fly safe &amp; compliant. Our app helps everyone to receive and read drone identification data and offers a wide range of professional features to owners of Dronetag remote identification devices. We create a world where all drones can access airspace without the need to worry about accidents.<br><br>Dronetag Mini and Dronetag Beacon are add-on devices for remote identification designed and manufactured by us. They can be attached to any drone, making it digitally visible via Remote ID standards to all air traffic participants. <br><br>- Dronetag Mini - <br>Weighs 32 grams, offers up to 14-hour battery life, and supports both Direct &amp; Network Remote ID technologies (DRI &amp; NRI) via Bluetooth and LTE.<br><br>- Dronetag Beacon -<br>Weighs only 16 grams, offers up to 16-hour battery life, and supports Direct Remote ID technology (DRI only) via Bluetooth broadcasting.<br><br>Connect your device to the Dronetag app and enjoy the following features:<br>- Airspace scanner displaying all participants with Remote ID (available even without Dronetag device)<br>- Remote identification for your drone compliant with EU &amp; US regulations<br>- Option to add and manage an unlimited number of unmanned aircraft<br>- Map of restricted zones such as airports within the whole EU &amp; US<br>- Flight planning, including the time and altitude<br>- Flight tracker with a real-time position on the map and notifications<br>- Journal feature to save and export flight data of all your drones<br>- Full-text search: locations, restricted zones, aircraft, and Dronetag devices<br><br>Connect with the Dronetag team<br>Let’s chat about drones, flying, and tech. Send us your feedback or questions to: support@dronetag.cz",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/jD-wgEck3ToOOcOdC-bE8mgeVJSbDYO93dEKG7-SJ8std7witu8JYF2zxMIH8pmwKA",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/T392vKd0LSDetqcb89wml6q6VQ88F-YnjeY6BI9iB8xTVCM4gFjjBKn0isdGDL7IBw",
+    "https://play-lh.googleusercontent.com/--VCZRmFd1DxtQ_-gbOJN6IHoAgTxZxa7fDIilJb8xEMWqTgeQ11pJ6omDPjUr_mtw",
+    "https://play-lh.googleusercontent.com/VXHX70RC2ixX-ygAy_yFhsiQCq4UZmkVQV9qhePVhzfA6DJF-Z6atr54rhw3iUqGUC2Q",
+    "https://play-lh.googleusercontent.com/JuGNvYuJU5Noozv-T_i_ZUp0oZQv1BKY8l7Pi-Ba1IJW9wMqNcWL2EDHuMJgeUo9GXo"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/DXS39rHtSN1lDzr4dqcB_LZptpGQh3vZGDmsQV-yV90BM5OB7mkuJL2qy-R_vRqMR-Y",
+  "permissions": {
+    "Location": [
+      "access extra location provider commands",
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Photos/Media/Files": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Other": [
+      "access Bluetooth settings",
+      "connect and disconnect from Wi-Fi",
+      "full network access",
+      "pair with Bluetooth devices",
+      "prevent device from sleeping",
+      "reorder running apps",
+      "view network connections"
+    ],
+    "Uncategorized": [
+      "receive data from Internet"
+    ]
+  },
+  "reviews_data": null
+}

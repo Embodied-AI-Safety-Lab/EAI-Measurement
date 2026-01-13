@@ -1,0 +1,66 @@
+{
+  "pkg_name": "com.xygps.rxdrone",
+  "appId": "com.xygps.rxdrone",
+  "title": "VTI 360 Skyview 2",
+  "developer": "睿兴实业",
+  "developer_id": "%E7%9D%BF%E5%85%B4%E5%AE%9E%E4%B8%9A",
+  "developer_email": "eng7_ruixing@ruixingtech.com",
+  "developer_website": "https://rx-drone.666forum.com/",
+  "developer_address": null,
+  "category": "Tools",
+  "category_id": "TOOLS",
+  "content_rating": "Everyone",
+  "score": 2.94,
+  "ratings": 204,
+  "reviews_count": 113,
+  "installs": "10,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "http://blog.csdn.net/johndevelop/article/details/50990178",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "This is the drone control APP.  It can control uav flight and take photos and video through WiFi.  Apps let you have fun with drones.",
+  "descriptionHTML": "This is the drone control APP.  It can control uav flight and take photos and video through WiFi.  Apps let you have fun with drones.",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/mTjNfAGA9P4qPR-kaACbiSV_wRiMp1LYHMskV_RYiDX5c1L2gCNhJo_vFp1ThXHI9Wgm",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/aL5CgPpzBTln7ks1bn9bxm-w53C8bmO59ObRM8BThU4e71NzxFFK01F7NtuzCksWFCc",
+    "https://play-lh.googleusercontent.com/3RMbSRka0mlbNfiYsKPb18V2UPbFTYyGTCfhM4Hm7N7OzqlbOjDY_uYSgbPKxrlYtzI",
+    "https://play-lh.googleusercontent.com/yo1-jcgA552ko0cJ_EbxEv51xiNjYSQNcutqJppBthjOhwRFze7HVGW8x9laJ-BR1VE"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/Qfdov9hLICjWxl-iHe1B1LE-2amMLvq-Jg0C7W6qLHkDaaDjLIYYijU8jE-uNl8Z9Q",
+  "permissions": {
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Photos/Media/Files": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Camera": [
+      "take pictures and videos"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Other": [
+      "access Bluetooth settings",
+      "change network connectivity",
+      "connect and disconnect from Wi-Fi",
+      "full network access",
+      "pair with Bluetooth devices",
+      "view network connections"
+    ]
+  },
+  "reviews_data": null
+}

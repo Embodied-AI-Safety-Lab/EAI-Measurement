@@ -1,0 +1,76 @@
+{
+  "pkg_name": "com.technisat.android",
+  "appId": "com.technisat.android",
+  "title": "TECHNIMAX",
+  "developer": "TechniSat Digital GmbH",
+  "developer_id": "TechniSat+Digital+GmbH",
+  "developer_email": "support@technisat.de",
+  "developer_website": "https://www.technisat.de",
+  "developer_address": null,
+  "category": "Lifestyle",
+  "category_id": "LIFESTYLE",
+  "content_rating": "Everyone",
+  "score": null,
+  "ratings": null,
+  "reviews_count": null,
+  "installs": "1,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "http://de.privacy.iot.robart.cc/",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "Virtual no-go zones\r\nWith virtual no-go zones, the robot can be kept away from living areas or entire rooms. Simply define arbitrarily large exclusion zones.\r\n\r\narea cleaning\r\nIn addition to the entire apartment, individual rooms and areas can also be cleaned. Furthermore, these can be named personally and the suction power can be set individually for each room / area.\r\n\r\n\r\nremote access\r\nStart or stop the cleaning at any time while on the move or track the cleaning progress in real time.\r\n\r\ncalendar\r\nThe regular cleaning can be easily adjusted via a calendar. Choose the time and the days - the robot will automatically clean at the scheduled time.\r\n\r\nNotifications\r\nThe TECHNIMAX app offers the possibility of displaying the current status of the robot, eg B a full dust container or a blocked brush to retrieve. In addition to this information, the app also provides appropriate solutions to all sorts of issues that can be reported directly through the app.\r\n\r\nWIRELESS INTERNET ACCESS\r\nThe connection between the robot and the TECHNIMAX app takes place via the home network and requires a standard WLAN router with a 2.4 GHz band.",
+  "descriptionHTML": "Virtual no-go zones<br>With virtual no-go zones, the robot can be kept away from living areas or entire rooms. Simply define arbitrarily large exclusion zones.<br><br>area cleaning<br>In addition to the entire apartment, individual rooms and areas can also be cleaned. Furthermore, these can be named personally and the suction power can be set individually for each room / area.<br><br><br>remote access<br>Start or stop the cleaning at any time while on the move or track the cleaning progress in real time.<br><br>calendar<br>The regular cleaning can be easily adjusted via a calendar. Choose the time and the days - the robot will automatically clean at the scheduled time.<br><br>Notifications<br>The TECHNIMAX app offers the possibility of displaying the current status of the robot, eg B a full dust container or a blocked brush to retrieve. In addition to this information, the app also provides appropriate solutions to all sorts of issues that can be reported directly through the app.<br><br>WIRELESS INTERNET ACCESS<br>The connection between the robot and the TECHNIMAX app takes place via the home network and requires a standard WLAN router with a 2.4 GHz band.",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/ysLsEiXB5n-1te1Xvdmqyu0CD8p34fY5rwdeGWaTVz7zvjKjqWMwc7X9FKIvIw9fUas",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/CE1ZNMQh6L8G18BIkIRdmVAzTwQirK77iyOtS357MUnGNQkoLT8KCJMGm5xlcmGaKQ",
+    "https://play-lh.googleusercontent.com/hyEyQ2HfOML39SKW_uNS8gokpCkiHRfkFJ30V0SQIh0MtqZgmmuyr0GWAm64RgituCA",
+    "https://play-lh.googleusercontent.com/K8WoI1ose4yAf1vZRXZlcRUNyNE1O7M9hPf4iTZyxA6Che4SKqgHqXGRBV0ck_PhXw",
+    "https://play-lh.googleusercontent.com/jq-ioKpOXUkpC8qtgSNB-EJnwA_xu36Xa4wayIWivhA1rzNUSv4NlU6h7wWwWGwdHPr5",
+    "https://play-lh.googleusercontent.com/w6QNrFdHVx2bHH4r_t1QUsx7_B3mMC_tnVKSQlp220UYZlWjqxE828KFJMMmlE8s-f4",
+    "https://play-lh.googleusercontent.com/nD0xgfKnIR5VfLZdYXsApZjl0qSiuRX6pH3aU1gaqze7Q8LxnrooWx_C5m4DEMO9AQA",
+    "https://play-lh.googleusercontent.com/dpF1B_jmZyi2D58ibD1ZxOf5DzL6GI99nqvE8WkT_u3TLFERpQohgKBoYNDEZqR8qI8",
+    "https://play-lh.googleusercontent.com/_YJjZR1eOUho9SF6GHK09hZwpIohd-4CkBme_EAOx-Rc31FOSOlPLxF1aglwEfi2xHA"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/4UppPE8RKY344_l8n49y1uVCbyvnOXoK-iElbgzPv6ny6nPbvCj_r-6caJ43nDcZDUY",
+  "permissions": {
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Photos/Media/Files": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Camera": [
+      "take pictures and videos"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Other": [
+      "access Bluetooth settings",
+      "allow Wi-Fi Multicast reception",
+      "change network connectivity",
+      "connect and disconnect from Wi-Fi",
+      "full network access",
+      "pair with Bluetooth devices",
+      "prevent device from sleeping",
+      "view network connections"
+    ],
+    "Uncategorized": [
+      "receive data from Internet"
+    ]
+  },
+  "reviews_data": null
+}

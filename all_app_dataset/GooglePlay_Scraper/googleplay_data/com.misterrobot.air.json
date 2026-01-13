@@ -1,0 +1,83 @@
+{
+  "pkg_name": "com.misterrobot.air",
+  "appId": "com.misterrobot.air",
+  "title": "Mister Robot Air",
+  "developer": "M.M. Global Trade Company Limited",
+  "developer_id": "M.M.+Global+Trade+Company+Limited",
+  "developer_email": "misterrobotcleaner@gmail.com",
+  "developer_website": "http://misterrobotcleaner.com",
+  "developer_address": null,
+  "category": "Tools",
+  "category_id": "TOOLS",
+  "content_rating": "Everyone",
+  "score": null,
+  "ratings": null,
+  "reviews_count": null,
+  "installs": "5,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://drive.google.com/file/d/1n2qHGi_fh9ywIRImbdYHW2DqyHVdi9s5/view",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "Live Differently with Mister Robot\r\n1. Remote control: control air purifier from anywhere\r\n2. Simultaneously control: control multiple devices with one App\r\n3. Monitoring: monitor current air quality of devices location\r\n4. Device sharing: One tap to share devices among family members\r\n5. Easy connection: easily and quickly connect App to devices",
+  "descriptionHTML": "Live Differently with Mister Robot<br>1. Remote control: control air purifier from anywhere<br>2. Simultaneously control: control multiple devices with one App<br>3. Monitoring: monitor current air quality of devices location<br>4. Device sharing: One tap to share devices among family members<br>5. Easy connection: easily and quickly connect App to devices",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/Dn5r4DZyCWJd7nOGy7oyXxIbSrFbhqDmrn1ImIn3rb6SqSaJ5PbgtoEgb5Eg9xVZT7o",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/aubBPZYWNU09UnpO_fs8Eh0vdOPr0vT7KSGanx_rNxYCQeYDH0JZ2xDniIIVCZZARrE",
+    "https://play-lh.googleusercontent.com/qt3085KXzZJyYTNxwyIAVDNTPojQA3yHd-YIbisrUVvb3jAsu_Gm_EaJ4PWcYEceyhHt",
+    "https://play-lh.googleusercontent.com/aeBlDAQ1hCGvowzagDQP4GTvCmPAkLUwkbzuDUjaMdBTi__8HG4KRI_BZmyPrfMSbGBJ",
+    "https://play-lh.googleusercontent.com/m6m8C4EPP-oNhXkQ35so0C6lu4bgYljOiQxkcUNpOKIi8WNU6A14pj-nBRPuxRABrzA",
+    "https://play-lh.googleusercontent.com/6yX8IsjtaQmG0pIdWSrr_GX0_Md6Xs6Ddz61UODpDue_cKN9MrQNDS68YzNyS-94UyE"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/3RLBtUTOw5od2FY0euetdvVT2AiUt7ZQj9_IHfv3SX1hyn4rgi0Q-q_JLdgxy05hTQ",
+  "permissions": {
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Photos/Media/Files": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Camera": [
+      "take pictures and videos"
+    ],
+    "Microphone": [
+      "record audio"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Other": [
+      "Google Play license check",
+      "access Bluetooth settings",
+      "allow Wi-Fi Multicast reception",
+      "change network connectivity",
+      "change your audio settings",
+      "connect and disconnect from Wi-Fi",
+      "control vibration",
+      "full network access",
+      "install shortcuts",
+      "pair with Bluetooth devices",
+      "prevent device from sleeping",
+      "reorder running apps",
+      "run at startup",
+      "set wallpaper",
+      "view network connections"
+    ],
+    "Uncategorized": [
+      "receive data from Internet"
+    ]
+  },
+  "reviews_data": null
+}

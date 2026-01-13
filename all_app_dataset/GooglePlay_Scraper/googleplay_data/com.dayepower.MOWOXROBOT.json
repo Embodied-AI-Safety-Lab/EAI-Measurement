@@ -1,0 +1,80 @@
+{
+  "pkg_name": "com.dayepower.MOWOXROBOT",
+  "appId": "com.dayepower.MOWOXROBOT",
+  "title": "Mowox",
+  "developer": "NINGBO DAYE GARDEN MACHINERY CO.,LTD",
+  "developer_id": "NINGBO+DAYE+GARDEN+MACHINERY+CO.,LTD",
+  "developer_email": "dayemachinery@gmail.com",
+  "developer_website": "http://www.dayepower.com",
+  "developer_address": null,
+  "category": "Tools",
+  "category_id": "TOOLS",
+  "content_rating": "Everyone",
+  "score": null,
+  "ratings": null,
+  "reviews_count": null,
+  "installs": "500+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "http://agreement.icarole.cn/English.html",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "Applications designed for smart grass cutters allow users to easily control and manage the work of cutting machines through smartphones to bring users a convenient and efficient grass -cut experience.",
+  "descriptionHTML": "Applications designed for smart grass cutters allow users to easily control and manage the work of cutting machines through smartphones to bring users a convenient and efficient grass -cut experience.",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/gnRyl_irRm6tDiQQ8CAWNnpjCeHl2L9nYs0vFWkSqO5IwRnt6LevHRp7hwQLZaukIGc",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/aR5vFnI3LEZVPWzo7GK1wM_ZEBpoXqnoko5FltU_8NjxSUS2hBr9O7wMriRjgK8qmQ",
+    "https://play-lh.googleusercontent.com/hapjUXrCegZPi48ZuTiuyfypK-HMtzF_iAP-ZofjOUGCNfZQ7f9oR6mEYRJi_1_7hd0",
+    "https://play-lh.googleusercontent.com/zyFhFuZVuH2_gc8HpKZSdYzsFRRPeO07fx3UfHWzRmP1fTJN_M0Pn5tXsLLfloM7MUA",
+    "https://play-lh.googleusercontent.com/ng2NHADEUKLJbnWvBpG8hR_KNWNUMeRU02ttJvY9A2zK1adMKARbrc2pRyFeLpD1PyE",
+    "https://play-lh.googleusercontent.com/qVs7atarUZq8Vvc0opOqst-MSZr78D3Al52c8SpFhMtYVEiT-wIXp3wZlNHJh-SV9HM",
+    "https://play-lh.googleusercontent.com/A0gZdJDe1_Is_1KT0PpgfMFjQr5xCLzMz4iToO_H1wS0kXXuCFmDi81bzAfoGU-Lpfs",
+    "https://play-lh.googleusercontent.com/7A4MWC5zAQsIEJsK9OwwsRuSduXj_J0G9zWBCnNC_0V3jmNM1FNPpMaIHE8Ml93JeGQ",
+    "https://play-lh.googleusercontent.com/mLV7OEd_7OFbCxUaL7mOqMbHdICaS_d73eHtxovs2z0plpErzL3rtN5I13Sm8cInT8E",
+    "https://play-lh.googleusercontent.com/CRHgzmLBY3pYk8LFmWZ5YII1iSIADYzpYRupp8ktsTRHzK3GQtaFDI65TMbyiXkchA",
+    "https://play-lh.googleusercontent.com/Bm5qx1ArB6pnXMYTl3atZdh2QY3NFhdGDp0NdCcsoPbSHxE--bsy-QsV2fLlIbUeg1w",
+    "https://play-lh.googleusercontent.com/sfatljc7hevxL3uPHHflXxx7Oq4uX0Wz5WCE_POPWn-8zSYDr-mG_8eEhRKj4525kQ",
+    "https://play-lh.googleusercontent.com/j5pnpX4T7e6HFZkcj-C3LwNSRS82iWRFok5hXeA3xkUqsQJbuu2j40AVqD3_YgldvA",
+    "https://play-lh.googleusercontent.com/TYizVKGotw-MNRtPaVN1pN-Tj89-HnSLMy8xEapEXiuHVzgVtdRx-pfugbB1orAUYxA"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/4z1Y4nbGBOKRVjGZP2skEPrU3ThyW0bh_BhULp8rx3UlujkisE02n4iLHKNKb2fYf2Y",
+  "permissions": {
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Phone": [
+      "read phone status and identity"
+    ],
+    "Photos/Media/Files": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Device ID & call information": [
+      "read phone status and identity"
+    ],
+    "Other": [
+      "Google Play license check",
+      "access Bluetooth settings",
+      "allow Wi-Fi Multicast reception",
+      "connect and disconnect from Wi-Fi",
+      "full network access",
+      "pair with Bluetooth devices",
+      "view network connections"
+    ]
+  },
+  "reviews_data": null
+}

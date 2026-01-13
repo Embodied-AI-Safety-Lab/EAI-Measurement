@@ -1,0 +1,84 @@
+{
+  "pkg_name": "com.irobot.home.prime",
+  "appId": "com.irobot.home.prime",
+  "title": "Roomba Home",
+  "developer": "iRobot",
+  "developer_id": "iRobot",
+  "developer_email": "appteam@irobot.com",
+  "developer_website": "http://global.irobot.com",
+  "developer_address": null,
+  "category": "Lifestyle",
+  "category_id": "LIFESTYLE",
+  "content_rating": "Everyone",
+  "score": 4.588957,
+  "ratings": 5789,
+  "reviews_count": 588,
+  "installs": "500,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://www.irobot.com/legal/privacy-policy",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "The Roomba® Home App is compatible with Roomba® 100, 200, 400, 500 and 700 series robots sold after March 2025. For other models, please download the iRobot Home (Classic) app.\r\n\r\nGet ready to elevate your cleaning game with the intuitive Roomba® Home app! Easily start, stop, or schedule your robot, adjust cleaning settings, customize detailed maps of your home, and create personalized cleaning routines. Dirty rooms are noted based upon previous cleaning jobs to help you clean more effectively without having to think about it. See where and how your robot is cleaning in real-time, proactive product maintenance, and seamless smart home integrations. From setup to daily use, the Roomba® Home app offers intelligent recommendations and a user-friendly experience to keep your home spotless with minimal effort.\r\n\r\n• Easy, Seamless Setup: Easy-to-follow onboarding guides you from unboxing to your first cleaning run with helpful tips along the way.\r\n\r\n• Cleaning Routines: Effortlessly create cleaning routines with Routine Builder. Select which rooms to clean, adjust settings, and turn on advanced scrubbing to clean just the way you like.\r\n\r\n• Schedules: Easily adjust the days and times your robot cleans so it runs when it’s most convenient for you.\r\n\r\n• Cleaning Settings: Choose to vacuum, mop or both, and adjust settings like suction & mopping liquid levels, number of cleaning passes and turn on advanced scrubbing to clean each room just the way you like.\r\n\r\n• Maps: Save up to 5 maps, label rooms, add zones and furniture for more targeted cleaning control, and start cleaning specific areas with a click.\r\n\r\n• Real-Time Insights: See where and how your robot is cleaning and manage it along the way with real-time controls.\r\n\r\n• Voice Control: Hands full? No need to stop what you're doing. Alexa, Siri or Google Assistant-enabled* compatibility allows you to clean with a simple command.\r\n\r\n• Robot Maintenance & Health Dashboard: Keep your robot operating smoothly and in tip-top shape with a list of maintenance and troubleshooting suggestions, while the Health Dashboards monitors robot and accessories health.\r\n\r\n\r\nNote: Roomba® 100 series products require a 2.4 GHz Wi-Fi® network. Not compatible with 5GHz Wi-Fi® networks.\r\n\r\n\r\n*Works with Alexa, Siri, and Google Assistant-enabled devices. Alexa and all related logos are trademarks of Amazon.com or its affiliates. Google and Google Home are trademarks of Google LLC. Siri is a registered trademark of Apple Inc., registered in the U.S. and other countries and regions.",
+  "descriptionHTML": "The Roomba® Home App is compatible with Roomba® 100, 200, 400, 500 and 700 series robots sold after March 2025. For other models, please download the iRobot Home (Classic) app.<br><br>Get ready to elevate your cleaning game with the intuitive Roomba® Home app! Easily start, stop, or schedule your robot, adjust cleaning settings, customize detailed maps of your home, and create personalized cleaning routines. Dirty rooms are noted based upon previous cleaning jobs to help you clean more effectively without having to think about it. See where and how your robot is cleaning in real-time, proactive product maintenance, and seamless smart home integrations. From setup to daily use, the Roomba® Home app offers intelligent recommendations and a user-friendly experience to keep your home spotless with minimal effort.<br><br>• Easy, Seamless Setup: Easy-to-follow onboarding guides you from unboxing to your first cleaning run with helpful tips along the way.<br><br>• Cleaning Routines: Effortlessly create cleaning routines with Routine Builder. Select which rooms to clean, adjust settings, and turn on advanced scrubbing to clean just the way you like.<br><br>• Schedules: Easily adjust the days and times your robot cleans so it runs when it’s most convenient for you.<br><br>• Cleaning Settings: Choose to vacuum, mop or both, and adjust settings like suction &amp; mopping liquid levels, number of cleaning passes and turn on advanced scrubbing to clean each room just the way you like.<br><br>• Maps: Save up to 5 maps, label rooms, add zones and furniture for more targeted cleaning control, and start cleaning specific areas with a click.<br><br>• Real-Time Insights: See where and how your robot is cleaning and manage it along the way with real-time controls.<br><br>• Voice Control: Hands full? No need to stop what you&#39;re doing. Alexa, Siri or Google Assistant-enabled* compatibility allows you to clean with a simple command.<br><br>• Robot Maintenance &amp; Health Dashboard: Keep your robot operating smoothly and in tip-top shape with a list of maintenance and troubleshooting suggestions, while the Health Dashboards monitors robot and accessories health.<br><br><br>Note: Roomba® 100 series products require a 2.4 GHz Wi-Fi® network. Not compatible with 5GHz Wi-Fi® networks.<br><br><br>*Works with Alexa, Siri, and Google Assistant-enabled devices. Alexa and all related logos are trademarks of Amazon.com or its affiliates. Google and Google Home are trademarks of Google LLC. Siri is a registered trademark of Apple Inc., registered in the U.S. and other countries and regions.",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/xwxFeFO99YLbjxMb1ECpewCgp5hb2dSXpTgB9bK32VaDBX2SEyuVVqilf9qG9BM7vJA",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/6seIL3JQa7v1XRSdkipM80a3o4zv9EHAw0ZAFCL3hjb3VX5Sek1m6uHzauck1fRpY_sqZUYNd1OEHqR_J8Ob7g",
+    "https://play-lh.googleusercontent.com/sApu4e_9IiWBlQCTmEuYC5vv0xu7rhplvYMKWR1MUuld9ya8nlxlDAr_ttrDD4dcfN_uu8Lr-4CI8xu0kmpj_Q",
+    "https://play-lh.googleusercontent.com/Qe0sny8RUyCMufLi0ZA4cxhvLXWxWh1JhX9ECKQGSZBShUYKBxbYg4c5XIYERRmEHx9e48u46tan2Hdm_6vK",
+    "https://play-lh.googleusercontent.com/Cddq5jL4zcESNqLpG7OZtx-iQpjj6NolezVLdDrJUT2U0VzTqRNLS2bAPLh4xcnOa6AcnSwsSFJdW3CIJ8Talg",
+    "https://play-lh.googleusercontent.com/4OWkhB64wFa0BMMP-fFuI4lIU_zvoWFjFvE3y2mcpHvpTW8sr0ISAY3GglPDtVjslxvXvWNsJP9whfUIxiv4IaA",
+    "https://play-lh.googleusercontent.com/D61b1I4k5QFs4RJj4Lg7oDL8SuTSM23x68187ud1BWSHzTsLYRz9sbX4aTV92p34x9cLVJvQoc6P71WiLN_Mew"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/21cFkddf8SK0dOAi42m8lLN_lSfS5xIMlxetElmOQW6yJh5aOJjpNTfNHjCtCG84WoE",
+  "permissions": {
+    "Identity": [
+      "add or remove accounts",
+      "find accounts on the device"
+    ],
+    "Contacts": [
+      "find accounts on the device"
+    ],
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Photos/Media/Files": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Camera": [
+      "take pictures and videos"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Other": [
+      "access Bluetooth settings",
+      "change network connectivity",
+      "connect and disconnect from Wi-Fi",
+      "control vibration",
+      "create accounts and set passwords",
+      "full network access",
+      "pair with Bluetooth devices",
+      "prevent device from sleeping",
+      "run at startup",
+      "use accounts on the device",
+      "view network connections"
+    ],
+    "Uncategorized": [
+      "receive data from Internet"
+    ]
+  },
+  "reviews_data": null
+}

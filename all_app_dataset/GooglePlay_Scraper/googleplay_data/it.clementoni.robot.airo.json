@@ -1,0 +1,73 @@
+{
+  "pkg_name": "it.clementoni.robot.airo",
+  "appId": "it.clementoni.robot.airo",
+  "title": "AIRO",
+  "developer": "Clementoni S.p.A.",
+  "developer_id": "7481325896989786351",
+  "developer_email": "tablet.clementoni@gmail.com",
+  "developer_website": "http://www.clementoni.com",
+  "developer_address": null,
+  "category": "Educational",
+  "category_id": "GAME_EDUCATIONAL",
+  "content_rating": "Everyone",
+  "score": null,
+  "ratings": null,
+  "reviews_count": null,
+  "installs": "10,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://clemworld.clementoni.com/en/privacy-policy-of-airo-app/",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "AIRO is a free app that uses Bluetooth® technology to allow you to interact with AIRO using lots of different functions: Training, Real Time, Coding, Dance, Games.\r\n\r\nIn Training mode you will see how AIRO uses artificial intelligence to recognise and imitate your gestures. \r\n\r\nAIRO can also memorise them and you can ask it to repeat the gestures using the associated voice commands.\r\n\r\nIn Real Time mode you can control AIRO using the controller and voice commands, or through gestures.\r\n\r\nYou can use the camera built into your device to shoot videos and take photos while the robot moves and executes your commands.\r\n\r\nWith the Dance mode you can create videos of yourself and AIRO dancing the same choreography together. \r\nBy performing a series of steps you will be able to create a video to share with anyone you like. Don't forget that it is your job to teach AIRO your dance steps!\r\n\r\nIn the Coding section you can learn the basics of coding (or programming) and create command sequences to send to your robot.\r\n\r\nWhat are you waiting for? Download the APP and start having fun!",
+  "descriptionHTML": "AIRO is a free app that uses Bluetooth® technology to allow you to interact with AIRO using lots of different functions: Training, Real Time, Coding, Dance, Games.<br><br>In Training mode you will see how AIRO uses artificial intelligence to recognise and imitate your gestures. <br><br>AIRO can also memorise them and you can ask it to repeat the gestures using the associated voice commands.<br><br>In Real Time mode you can control AIRO using the controller and voice commands, or through gestures.<br><br>You can use the camera built into your device to shoot videos and take photos while the robot moves and executes your commands.<br><br>With the Dance mode you can create videos of yourself and AIRO dancing the same choreography together. <br>By performing a series of steps you will be able to create a video to share with anyone you like. Don&#39;t forget that it is your job to teach AIRO your dance steps!<br><br>In the Coding section you can learn the basics of coding (or programming) and create command sequences to send to your robot.<br><br>What are you waiting for? Download the APP and start having fun!",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/pQvWqxTriqLj4_HAXkyQJhq_ExXFM2GQ1pWRNAcv7yHyXtbtKjK8x6o6tqmbDlJmfCc",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/QhwT6j1ZXk22mRrJg-C4qL-GW6bNyCjaIettoxezTPtSvopbE23XBeHCjQZErt7GHB9w",
+    "https://play-lh.googleusercontent.com/bvV8DF2o8THlb3PVO5vXhELNHW-Stm2wS3X6MI1TjDP1-gMX_m1maMTtK1X6T3ExLTM",
+    "https://play-lh.googleusercontent.com/eHQNbl2RyUB70xAucAWmkU4g0OcEb7BYo_cZtr_wbVUnDSiIqLnPj1R5eNm_F1ulS2Rf",
+    "https://play-lh.googleusercontent.com/ixMKalq7KuOLrJPfq3BQC3ylnIlg7At74077FIgovcEyBJxseBEMIzs0akVeHKeJ8uM",
+    "https://play-lh.googleusercontent.com/xISn2uLbGCntl1M-MsV7lMRnJ29M9WDns0XFcpVVzOMn1_D6vooBffYEFMtsktMkAEM",
+    "https://play-lh.googleusercontent.com/T4KVIv_6RtFtuwWfCAfwZ5O6foi7hIZq0LNi_vraR7_udt9kc5_KAXz1tALXdd-rpw",
+    "https://play-lh.googleusercontent.com/rzPNE2_X1S5EpGogchspYonE_1v7X_TjWe0VftO1p2Q8_762tSMy4G9ZhnoULVEmTxg",
+    "https://play-lh.googleusercontent.com/1d3bfAwQl6dQoRC9J8JHR0x9j3jKZKdF8Bxn3St2u4HWoahU8MpcZcCDptGjrQPZ3w",
+    "https://play-lh.googleusercontent.com/H3ybFhOvbZOL6ZuDR7vhku0beOwCz01QsVyiZ2xG0ZvcQbrYBzCyKrboIaYFDYfOrm8",
+    "https://play-lh.googleusercontent.com/PRosfT2BD13r7ni0aM-4oqW3RFpSOgKTko9axquo_mh_jFQcaOHCPMZ81tO0DTW4KWM",
+    "https://play-lh.googleusercontent.com/-tNxHr0_ldblBA8jNo6yoTAYoG6nU08VKbnETNRRWgCtSR6k6a-aVhAkw3sUtanJJg",
+    "https://play-lh.googleusercontent.com/j8PkqjJYV214wFCCyYUbueL0vyswh_m0dG7pxK5OwcESVlgPMK_ieGpAxLt34fXlsA"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/Ccp7InRLaGeitS0bpEbPX4eU-RS3fwnhGNuMJRmYiCEOS7eRdEMrbd5aS9zmUWckwe4",
+  "permissions": {
+    "Location": [
+      "precise location (GPS and network-based)"
+    ],
+    "Photos/Media/Files": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Camera": [
+      "take pictures and videos"
+    ],
+    "Microphone": [
+      "record audio"
+    ],
+    "Other": [
+      "access Bluetooth settings",
+      "change your audio settings",
+      "full network access",
+      "pair with Bluetooth devices",
+      "view network connections"
+    ]
+  },
+  "reviews_data": null
+}

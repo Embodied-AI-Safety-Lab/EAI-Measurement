@@ -1,0 +1,70 @@
+{
+  "pkg_name": "com.gx_df_drone",
+  "appId": "com.gx_df_drone",
+  "title": "DF Drone",
+  "developer": "guanxukeji",
+  "developer_id": "guanxukeji",
+  "developer_email": "goodstevechan2@gmail.com",
+  "developer_website": null,
+  "developer_address": null,
+  "category": "Entertainment",
+  "category_id": "ENTERTAINMENT",
+  "content_rating": "Everyone",
+  "score": null,
+  "ratings": null,
+  "reviews_count": null,
+  "installs": "10,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "http://goodstevechan.blogspot.com/2017/02/our-apps-privacy-policy.html",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "This APP can control the 4-axis aircraft by WiFi on the Android smartphone, and also can get the real time video from the aircraft, and take the photo and save the video .",
+  "descriptionHTML": "This APP can control the 4-axis aircraft by WiFi on the Android smartphone, and also can get the real time video from the aircraft, and take the photo and save the video .",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/FHlu2o21uaXKju_8zjq4GYw2uOCd49taLO50oB4na2-s_DJBCRsIqADshEk1dua8L9g",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/a5rYP12TZ_WDU-L6GIUnxgnbozNnrbTguDYAyrdiLhijJbuxAvwtVFdl534JTxqkZyA",
+    "https://play-lh.googleusercontent.com/zCBw34lfBSJz7Kx9nWkspCaYW80mexu9jqW1jpe19neRONwUb7VfyqzyzDa9nxH1Eyw",
+    "https://play-lh.googleusercontent.com/e00_P4hZjterjPLFVxjo8gI6qAKo8ysWMUgZc13WCBdgVlkOhlTXv-aCEhy5ROr-cT0",
+    "https://play-lh.googleusercontent.com/o_l12hj_Svo2nxOd4Ha0EEqCfqxHS7znigxAHWa42BPvsJTFRwHwFRVqHo8pFU7_bN2g"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/thULjseY7Lgjub7yxLRpu4SG2PVbEVZyS6aatcCXfVoUnHLER3dWxqgQuNZvvi6H1g",
+  "permissions": {
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Photos/Media/Files": [
+      "access USB storage filesystem",
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Camera": [
+      "take pictures and videos"
+    ],
+    "Microphone": [
+      "record audio"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Other": [
+      "connect and disconnect from Wi-Fi",
+      "disable your screen lock",
+      "full network access",
+      "prevent device from sleeping",
+      "view network connections"
+    ]
+  },
+  "reviews_data": null
+}

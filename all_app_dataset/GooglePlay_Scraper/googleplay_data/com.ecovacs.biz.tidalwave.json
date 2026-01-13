@@ -1,0 +1,84 @@
+{
+  "pkg_name": "com.ecovacs.biz.tidalwave",
+  "appId": "com.ecovacs.biz.tidalwave",
+  "title": "ECOVACS PRO",
+  "developer": "ECOVACS ROBOTICS",
+  "developer_id": "ECOVACS+ROBOTICS",
+  "developer_email": "sh.niu@ecovacs.com",
+  "developer_website": "https://www.ecovacsb2b.com/",
+  "developer_address": null,
+  "category": "Tools",
+  "category_id": "TOOLS",
+  "content_rating": "Everyone",
+  "score": 0,
+  "ratings": 0,
+  "reviews_count": 0,
+  "installs": "10,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://hive.ecovacs.cn/systemLayout/previewH5?key=appPriAgr&platCode=bizapp",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "ECOVACS PRO App is a mobile application for connecting to ECOVACS commercial robots, supporting commercial cleaning robots such as DEEBOT PRO M1, K1 VAC, and other robot products. Through the app, you can view the robot status in real time, edit maps, schedule tasks, view robot cleaning reports, and more, to start a new commercial cleaning experience.\r\n\r\n\r\nBy connecting to ECOVACS PRO App, you can easily unlock more features:\r\n\r\n【Convenient Deployment】\r\n\r\n1. Multiple mapping methods.\r\n\r\n2. Intelligent optimization of maps.\r\n\r\n3. Path-based map editing.\r\n\r\n4. Efficient storage across multiple platforms.\r\n\r\n【Intelligent Remote Control】\r\n\r\n1. Comprehensive monitoring of robot status.\r\n\r\n2. Flexible task combinations.\r\n\r\n3. Multi-dimensional visualization of data.\r\n\r\n4. Convenient remote control.\r\n\r\n5. Unified management for multiple machines and roles.\r\n\r\n【Intelligent Scheduling】\r\n\r\n1. Interconnection of multiple machines.\r\n\r\n2. Data sharing.\r\n\r\n3. Centralized intelligent scheduling resources.\r\n\r\n4. Autonomous coordination.",
+  "descriptionHTML": "ECOVACS PRO App is a mobile application for connecting to ECOVACS commercial robots, supporting commercial cleaning robots such as DEEBOT PRO M1, K1 VAC, and other robot products. Through the app, you can view the robot status in real time, edit maps, schedule tasks, view robot cleaning reports, and more, to start a new commercial cleaning experience.<br><br><br>By connecting to ECOVACS PRO App, you can easily unlock more features:<br><br>【Convenient Deployment】<br><br>1. Multiple mapping methods.<br><br>2. Intelligent optimization of maps.<br><br>3. Path-based map editing.<br><br>4. Efficient storage across multiple platforms.<br><br>【Intelligent Remote Control】<br><br>1. Comprehensive monitoring of robot status.<br><br>2. Flexible task combinations.<br><br>3. Multi-dimensional visualization of data.<br><br>4. Convenient remote control.<br><br>5. Unified management for multiple machines and roles.<br><br>【Intelligent Scheduling】<br><br>1. Interconnection of multiple machines.<br><br>2. Data sharing.<br><br>3. Centralized intelligent scheduling resources.<br><br>4. Autonomous coordination.",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/OvGTaC5uXA3cQNGd8SWc4JFLvCxVtxctS5iLKkmKjxjjWvbjijo87di7G61oh4izVEs",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/11aTIkxn1uVgv_A7IS-ROM6_sN1T_PyL-FeXawHP-n7Ai30QMjM26Hd7Vn2n8Ny_OA",
+    "https://play-lh.googleusercontent.com/ZdK0zKgc2WPwxewntEX_boWKxZlRgcWEDxyK7wESbMUNje9Z1uqUzm1-6bCyiEEc-WU",
+    "https://play-lh.googleusercontent.com/TcBV6-6K3tCeBLogIHXDKl2k89EYGehSLQRpuBpCErlS2zNky2G0WezilqIWtmB4kuMN",
+    "https://play-lh.googleusercontent.com/WyQhOife9i1-ph2uo8XlfGgj7_AScEnqjkE6v_5BXstCVnXYVeC36mVYkTxBB-aZhtM",
+    "https://play-lh.googleusercontent.com/Hf37MCc7Nqv6BWtpxromKcE3AilUpoKJYd74dH5ZwtE82UblH29c5zFXhzJd8F9vP2w",
+    "https://play-lh.googleusercontent.com/P6413Eix3dZ8v7v9ME2AJk7_h5_P5xhZhRAithvDPLpxn-sh2AhpIirzpoNa_BiwECo",
+    "https://play-lh.googleusercontent.com/EBz9MoZvAPb-Nop9hDio6V888Eg9MsAyORlY9o6QDlQhXUp-l47klkBOhXqhwgtWOzM",
+    "https://play-lh.googleusercontent.com/nOuK8Yr58HU_EyG7f5GPjDfbqWhA7UxA1FV5d0-igZI21CN72U11m2D4WKQXNvIuhkM",
+    "https://play-lh.googleusercontent.com/gQmRxAZTkV1FzkYD9kO5ODb4RhZa70NKTkzFMCIJ2QJTnEe1rrw_CCEyYivWwnJLEk8",
+    "https://play-lh.googleusercontent.com/6WaGLT9_-ULG3AQzopf6yocQXQMQrgL0BSds67X-MVbN0I_ZzD5IRa6iA_fjWOc0rXTl"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/IEGLj8NtIuD-Fwxm3ilipfTeyAABuYdjL-N_Q8L2VeoN3b30D_qjArgAaaaQXngMIA",
+  "permissions": {
+    "Device & app history": [
+      "retrieve running apps"
+    ],
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Phone": [
+      "read phone status and identity"
+    ],
+    "Photos/Media/Files": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Camera": [
+      "take pictures and videos"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Device ID & call information": [
+      "read phone status and identity"
+    ],
+    "Other": [
+      "connect and disconnect from Wi-Fi",
+      "control vibration",
+      "full network access",
+      "prevent device from sleeping",
+      "view network connections"
+    ],
+    "Uncategorized": [
+      "receive data from Internet"
+    ]
+  },
+  "reviews_data": null
+}

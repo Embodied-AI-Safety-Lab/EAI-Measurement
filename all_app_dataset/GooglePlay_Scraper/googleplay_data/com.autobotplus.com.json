@@ -1,0 +1,88 @@
+{
+  "pkg_name": "com.autobotplus.com",
+  "appId": "com.autobotplus.com",
+  "title": "Autobot+",
+  "developer": "Autobot.dev",
+  "developer_id": "Autobot.dev",
+  "developer_email": "autobot.developer@gmail.com",
+  "developer_website": null,
+  "developer_address": null,
+  "category": "Tools",
+  "category_id": "TOOLS",
+  "content_rating": "Everyone",
+  "score": null,
+  "ratings": null,
+  "reviews_count": null,
+  "installs": "10,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://qin.tuyacn.com/app-agreement/en/1301967241/v1.1.1/1/smart/app/package/1301967241/privacyUrl_1606794413640.html",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "1. Control the Autobot device through the phone\r\n2. Set time to work the Autobot device\r\n3. Check the operation status of the Autobot device.\r\n4. Operate the device by voice\r\n5. Share devices within the family",
+  "descriptionHTML": "1. Control the Autobot device through the phone<br>2. Set time to work the Autobot device<br>3. Check the operation status of the Autobot device.<br>4. Operate the device by voice<br>5. Share devices within the family",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/_CpjwMzYG0z7vIz30wDNeYLF4wKkcQH4wEJasDXgWfqfqzx79JCJZ8uq70SFD4MSeTM",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/D1P0YzzYeiGEqaN41ZL6jC1ZtsRaaq5hWJ-iokxuma24lAyPBhk29ZWJl5F8J377gAk",
+    "https://play-lh.googleusercontent.com/tHATkNlrwaHIzZFe4TDeWivnpIfrRFthf8QAEOBJrsri0_ryFgUFI5czuR6w8PmHPJHo",
+    "https://play-lh.googleusercontent.com/MWFl6ROUqFoeG8EXXMEHIuNPUw9qyLk35_SU_e9PnvB0oVzn5TA7-hbcyhMMFNoPY1bD",
+    "https://play-lh.googleusercontent.com/ZzYxIdmEF9RKNqZzf-5EjuaISsbsITP_bePkJJ8x6ZlOojJ1MwhslilMPkGB4gF3Lndy",
+    "https://play-lh.googleusercontent.com/zN4XsFvCBp8B7Q1RIk66d14UNjJb_9_LXxJY1lMYJ5-bY2SZgC1pu0q1U6VsgIbNDA",
+    "https://play-lh.googleusercontent.com/dBxlqnwGuWcNwxiL4abgXiIXi-7nxg3VeaYH_pwrhgbLa-BMJvIcLeJPFcu6VkLaQA",
+    "https://play-lh.googleusercontent.com/fnzJHtWTXsSxJGIG1ADNhGBeK_E-hT8ZJsGxtJLKQrimJ_zGVL_uHb36GwU69erJ5MY",
+    "https://play-lh.googleusercontent.com/l9E0Jf_JQK5YMDk84S8IdACeJkbDV20Oj3nnL3h-akxbfrcUfcVxbMXmLphyo7cXBN-Y",
+    "https://play-lh.googleusercontent.com/UUIvhGQ4iu6U9hH5OYCgsgmgNBDCtsuptb9mi-LGQZapF7kdXlGi-nvh9-clY41qWKE",
+    "https://play-lh.googleusercontent.com/aNUAVvHrvb7MZlP-lr1hZvosUQtZcQSv0MLtN3sbRfLVKaYSXwYG8_Z4qeIb_OFOWg"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/USofkMcBIwTcnSr3MnQv_Mgg4hm6agmfqNgjvYmKFohGZKED2U4q7ov5YiEHLBrq4toY",
+  "permissions": {
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Photos/Media/Files": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Camera": [
+      "take pictures and videos"
+    ],
+    "Microphone": [
+      "record audio"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Other": [
+      "Google Play license check",
+      "access Bluetooth settings",
+      "allow Wi-Fi Multicast reception",
+      "change network connectivity",
+      "change your audio settings",
+      "connect and disconnect from Wi-Fi",
+      "control vibration",
+      "full network access",
+      "install shortcuts",
+      "pair with Bluetooth devices",
+      "prevent device from sleeping",
+      "reorder running apps",
+      "run at startup",
+      "set wallpaper",
+      "view network connections"
+    ],
+    "Uncategorized": [
+      "receive data from Internet"
+    ]
+  },
+  "reviews_data": null
+}

@@ -1,0 +1,111 @@
+{
+  "pkg_name": "com.robored.robot",
+  "appId": "com.robored.robot",
+  "title": "robored",
+  "developer": "DTS ELEKTRONIK SAN. TIC. LTD. STI.",
+  "developer_id": "DTS+ELEKTRONIK+SAN.+TIC.+LTD.+STI.",
+  "developer_email": "info@robored.com",
+  "developer_website": "https://robored.com",
+  "developer_address": null,
+  "category": "Tools",
+  "category_id": "TOOLS",
+  "content_rating": "Everyone",
+  "score": null,
+  "ratings": null,
+  "reviews_count": null,
+  "installs": "1,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://redline.com.tr/privacy_policy_robored.html",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "With this App, the user can remotely control the robot. It makes programming the cleaning schedules very easy. Also, it shows the map where the robot has cleaned to show where the robot has been. There are many more features, that can be explored after installing the app.",
+  "descriptionHTML": "With this App, the user can remotely control the robot. It makes programming the cleaning schedules very easy. Also, it shows the map where the robot has cleaned to show where the robot has been. There are many more features, that can be explored after installing the app.",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/76SWAJDPdUaTaW7_nlxcNiaojRPlDbvU-Z2C_ohdJdYEAMYJMtyNEb6FbE6mVhm0QQ",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/xMal5QwsWvQgdFqClvYHpBgwtPHdy1BpqubllHJPVIMlCOSv4wk10o5SQX4CchGajS0W",
+    "https://play-lh.googleusercontent.com/v1qDslQx0K2v3s1IbKxkWjGO8DDrkjNijrrNG12Ax7K-aToGFM8YU-gXvKj4SCN6QA",
+    "https://play-lh.googleusercontent.com/YBWr4pPx5FcTUM0RcjLAmWVB78wDHTNPSUSb-sHzuG4hIRjoHrwjKUvdAoXOI4cXyXen",
+    "https://play-lh.googleusercontent.com/ZEfn05ylpZAEoK12aSGb3yhqjITrj1upjd47Qs-CnYBeZcoIlxWUwG9KxGDdWzDZRV5v",
+    "https://play-lh.googleusercontent.com/aSEmEt9ldg9Sag1Zu-vJ-BCXDQgUhYT1_6WVuwqllF5VWvzNpvzecVtQ-ytPC_MPlkF5",
+    "https://play-lh.googleusercontent.com/2VyhfYa-PBX2YJrwIPv_wvEuKr2-8DUlkDbqzcuG1nPzDAhUDfhvevpkT_DbYwPPuFuj",
+    "https://play-lh.googleusercontent.com/p0BUgtks5FurRLNVmZnCzbPUTTib2tex0sHa0U7ShZwt_R9H1COfT4CM485YCd45aw",
+    "https://play-lh.googleusercontent.com/8YO5mgnnPfxtm6DOC8kWQv7sBE8Ws9fy8dORniwGBB1fHiE_ndZ30CSa6mL-N9f8LQ",
+    "https://play-lh.googleusercontent.com/WjuqcrrJCkLvMsZkbc8eLIL4TpuYFIrDUlxFPwAxS1av8vsH2qHN7yBCpVX4ezOUbA",
+    "https://play-lh.googleusercontent.com/wM9bB9W-WHxPuBhrru9CieaDxx7naMa6SMO4PHW9rKcvxR5UlWQVuym9_0GTjt1O9A",
+    "https://play-lh.googleusercontent.com/BIXtegspoFwywiM70bvnIos8vmayKu4TqcXW1kI1wxlkY2zrMFhaiBjyG7cpfup_v5qp",
+    "https://play-lh.googleusercontent.com/ZFqRE3v0ApRqf-ivps6SCffm4pOMbMJMgatU7-R9G9vHGxnAdhILQs6rhVMj8Cu579o",
+    "https://play-lh.googleusercontent.com/D00-vJ6A51QxvpzH3SEdykL_-e7ZNRg7nioJgNQtDygyRjjAd5R5_crQIY5N3RuA1Rrj",
+    "https://play-lh.googleusercontent.com/ispzuetKVNVgPTDRth_xMLbVoeN5MnKexiElPZDfYf7QjUtlQkp-t__AB90CfaOvKBNC",
+    "https://play-lh.googleusercontent.com/2QTz3zptGm5Xa5Uycxo-9rl4kIwfTsa8889jb80GZvxmWXmCZ7B2ibjIEI55VBemprO0",
+    "https://play-lh.googleusercontent.com/2rPYQUtcawL-vTPAiyWI2jyFmi3fGcgtgwfPz8RaW8f5ePb918eywmuXk4H_IhApdTQ",
+    "https://play-lh.googleusercontent.com/ZCKk2uJsP1yW8lsb5XtOeZR0pJ8M8Ryz4u67cO87k3wWfHAg-ZCBqzyPxJ3hXtjjisI",
+    "https://play-lh.googleusercontent.com/o1uzWgoOpDHXHsvSzUyjshHQstcngr9QAO9zZ_k688Tc6--_CD-ZaBOqCMmv2QXr6g",
+    "https://play-lh.googleusercontent.com/qYDCjjCS4H40f9Gtkv7q3n_I3XuNi2bn23h-vEtO3Njs9_dEfM5cjWdxbGrKonGZZg",
+    "https://play-lh.googleusercontent.com/9LZZ1TZ04NptZBH-uTAJ8-VjphLJmBgp_OcRTJ6yt-xdSHrL5S62V3oPPFIrUKLXHwk",
+    "https://play-lh.googleusercontent.com/a1QuMRljcZryaznFvnhp1MKFdkFRr2HMnFpMr6uz0MGw0-bcAeOlTpNx4vHgJ9QtcCw",
+    "https://play-lh.googleusercontent.com/g1k1dKBJVBtcgtMxXJK4qIbpLCnoS6ELRXTEQQUKtTtkJ3qk67c_6Kd5GhGyYA8a2A",
+    "https://play-lh.googleusercontent.com/PISoIh5Syp2zjZPd4Flq463rBl7THReA7RIuhNC4ky-yCgkORQbm6HypxhS3H6R2cVak",
+    "https://play-lh.googleusercontent.com/16oRm6dyqiUVIw7mi_lS0qbpzN9AgkaQMdQMBt8Af5TmOpocWwqMLRQHHc5Z6CLhQH0"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/gP-S3McSlTuI95NuhtpsTDs3Ke6EUqJ6IZIuRaIdicb9eT6z4udHjuhPnifsdtmGSw",
+  "permissions": {
+    "Device & app history": [
+      "read sensitive log data",
+      "retrieve running apps"
+    ],
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Phone": [
+      "directly call phone numbers",
+      "read phone status and identity"
+    ],
+    "Photos/Media/Files": [
+      "access USB storage filesystem",
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Camera": [
+      "take pictures and videos"
+    ],
+    "Microphone": [
+      "record audio"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Device ID & call information": [
+      "read phone status and identity"
+    ],
+    "Other": [
+      "allow Wi-Fi Multicast reception",
+      "change network connectivity",
+      "change system display settings",
+      "connect and disconnect from Wi-Fi",
+      "control flashlight",
+      "control vibration",
+      "draw over other apps",
+      "full network access",
+      "modify system settings",
+      "prevent device from sleeping",
+      "run at startup",
+      "view network connections"
+    ],
+    "Uncategorized": [
+      "receive data from Internet"
+    ]
+  },
+  "reviews_data": null
+}

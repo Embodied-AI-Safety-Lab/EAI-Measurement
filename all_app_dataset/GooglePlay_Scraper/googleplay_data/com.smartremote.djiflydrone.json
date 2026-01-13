@@ -1,0 +1,94 @@
+{
+  "pkg_name": "com.smartremote.djiflydrone",
+  "appId": "com.smartremote.djiflydrone",
+  "title": "Fly Go 4: Drone Camera Remote",
+  "developer": "Smart Remote Application",
+  "developer_id": "7718949507162129689",
+  "developer_email": "support@smartremotedev.com",
+  "developer_website": "http://smartremotedev.com",
+  "developer_address": null,
+  "category": "Tools",
+  "category_id": "TOOLS",
+  "content_rating": "Everyone",
+  "score": 4.437736,
+  "ratings": 13580,
+  "reviews_count": 385,
+  "installs": "1,000,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": true,
+  "contains_ads": true,
+  "privacy_policy": "http://www.smartremotedev.com/p/privacy",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "🌟 Unlock the skies with Fly Go 4 and take your drone experience to new heights! 🚀📈\r\n\r\n<b>Compatibility:</b>\r\n🛠️ Fly Go 4 is built on Mobile SDK v4.18, which supports a wide range of drones. There are 36 drone models supported in this version:\r\n\r\n🛩️ Air 2S  \r\n🛩️ Mini 2  \r\n🛩️ Mini SE  \r\n🚁 Mavic Air  \r\n🚁 Mavic Air 2  \r\n🚁 Mavic Mini  \r\n🚁 Mavic 2 Enterprise  \r\n🚁 Mavic 2 Enterprise Advanced  \r\n🚁 Mavic 2 Enterprise Dual  \r\n🚁 Mavic 2 Pro  \r\n🚁 Mavic 2 Zoom  \r\n🚁 Mavic Pro  \r\n🛸 Phantom 3 Standard  \r\n🛸 Phantom 3 Advanced  \r\n🛸 Phantom 3 Professional  \r\n🛸 Phantom 3 4K  \r\n🛸 Phantom 4  \r\n🛸 Phantom 4 Advanced  \r\n🛸 Phantom 4 Pro  \r\n🛸 Phantom 4 Pro V2  \r\n🛸 Phantom 4 RTK  \r\n🚀 Inspire 1  \r\n🚀 Inspire 1 Pro/Raw  \r\n🚀 Inspire 2  \r\n🛰️ Matrice 100  \r\n🛰️ Matrice 200  \r\n🛰️ Matrice 200 V2  \r\n🛰️ Matrice 210  \r\n🛰️ Matrice 210 V2  \r\n🛰️ Matrice 210 RTK  \r\n🛰️ Matrice 210 RTK V2  \r\n🛰️ Matrice 300 RTK  \r\n🛰️ Matrice 350 RTK  \r\n🛰️ Matrice 600  \r\n🛰️ Matrice 600 Pro  \r\n✨ Spark  \r\n\r\n⚠️ For Mavic users, there are some features our app hasn't supported yet ⚠️: \r\nLow Battery Warning 🔋⚠️, Critical Low Battery Warning 🚨🔋, Time to Discharge ⏳, Sync Gimbal with Aircraft Heading, Lock Gimbal When Shooting, Gimbal Mode. Play media, Preview media, On/Off Head LEDs & Camera Forward/Down (Mavic Air 2S: double tap is C2, 1-tap is C1).\r\n\r\n<b>📢 Disclaimer: </b> \r\n🚫 We want to clarify that this application is not an official app but a support app using the official Mobile SDK provided by the official manufacturer ✅. Still, this app can work perfectly with all drone models above and their RCs. ⚠️🔗Additionally, it is not affiliated with or endorsed by any mentioned company, it is not an official product of that company or its affiliates.\r\n\r\n🏆 Fly Go 4 is the ultimate companion app for your drones, designed to offer unparalleled control, ease of use, and a seamless flying experience. Whether a beginner 🐣 or a seasoned drone pilot 🎖️, Fly Go 4 provides the tools and features to explore the skies confidently and creatively 🌤️📸.\r\n\r\n<b>🚁 Why Choose Fly Go 4? ✨</b>\r\n\r\n<b>🖥️ Intuitive Interface:</b> Our user-friendly interface ensures easy drone operation, providing clear information for a smooth flying experience, whether you're a beginner 🐣 or an experienced pilot 🎖️.\r\n\r\n<b>🎮 Advanced Flight Controls:</b> Take full control of your drones with Fly Go 4's advanced flight features, which allow for precision and accuracy in complex maneuvers and effortless aerial shot capture 📸.\r\n\r\n<b>📹 Real-Time Video Transmission:</b> Experience real-time HD video transmission directly to your mobile device. With Fly Go 4, you can see exactly what your drone sees, allowing you to make quick decisions and adjustments for the best possible footage 📸✨.\r\n\r\n<b>🎯 Smart Flight Modes:</b> Capture professional-quality videos and photos with intelligent flight modes like 🏃‍♂️ ActiveTrack, 🎯 FocusTrack, 📍 Point of Interest , 🚀 QuickShot, 🔦 Spotlight,... It is ideal for dynamic action scenes or serene landscapes 🌄.\r\n\r\n<b>📊 Comprehensive Flight Data:</b> Keep track of all your flight details with in-depth flight data logging. Fly Go 4 records your drone's flight path, altitude, speed, and more, providing valuable insights to improve your flying skills 🚀.\r\n\r\n<b>📁 Easy Media Management:</b> Manage your photos and videos directly within the app with QuickTransfer 💾. Access, edit, and share your stunning aerial footage with friends and family, or upload it to social media to showcase your skills 🌟.\r\n\r\n<b>🛡️ Safe Flying:</b> Safety is our priority. Fly Go 4 includes built-in safety features like obstacle detection, return-to-home (RTH) 🏠🚁, and flight zone restrictions to ensure that your flights are safe and secure 🔒.\r\n\r\n🌤️ Take your drone experience to new heights! 🚀 Download Fly Go 4 now and explore endless aerial possibilities! 🌅📷",
+  "descriptionHTML": "🌟 Unlock the skies with Fly Go 4 and take your drone experience to new heights! 🚀📈<br><br><b>Compatibility:</b><br>🛠️ Fly Go 4 is built on Mobile SDK v4.18, which supports a wide range of drones. There are 36 drone models supported in this version:<br><br>🛩️ Air 2S  <br>🛩️ Mini 2  <br>🛩️ Mini SE  <br>🚁 Mavic Air  <br>🚁 Mavic Air 2  <br>🚁 Mavic Mini  <br>🚁 Mavic 2 Enterprise  <br>🚁 Mavic 2 Enterprise Advanced  <br>🚁 Mavic 2 Enterprise Dual  <br>🚁 Mavic 2 Pro  <br>🚁 Mavic 2 Zoom  <br>🚁 Mavic Pro  <br>🛸 Phantom 3 Standard  <br>🛸 Phantom 3 Advanced  <br>🛸 Phantom 3 Professional  <br>🛸 Phantom 3 4K  <br>🛸 Phantom 4  <br>🛸 Phantom 4 Advanced  <br>🛸 Phantom 4 Pro  <br>🛸 Phantom 4 Pro V2  <br>🛸 Phantom 4 RTK  <br>🚀 Inspire 1  <br>🚀 Inspire 1 Pro/Raw  <br>🚀 Inspire 2  <br>🛰️ Matrice 100  <br>🛰️ Matrice 200  <br>🛰️ Matrice 200 V2  <br>🛰️ Matrice 210  <br>🛰️ Matrice 210 V2  <br>🛰️ Matrice 210 RTK  <br>🛰️ Matrice 210 RTK V2  <br>🛰️ Matrice 300 RTK  <br>🛰️ Matrice 350 RTK  <br>🛰️ Matrice 600  <br>🛰️ Matrice 600 Pro  <br>✨ Spark  <br><br>⚠️ For Mavic users, there are some features our app hasn&#39;t supported yet ⚠️: <br>Low Battery Warning 🔋⚠️, Critical Low Battery Warning 🚨🔋, Time to Discharge ⏳, Sync Gimbal with Aircraft Heading, Lock Gimbal When Shooting, Gimbal Mode. Play media, Preview media, On/Off Head LEDs &amp; Camera Forward/Down (Mavic Air 2S: double tap is C2, 1-tap is C1).<br><br><b>📢 Disclaimer: </b> <br>🚫 We want to clarify that this application is not an official app but a support app using the official Mobile SDK provided by the official manufacturer ✅. Still, this app can work perfectly with all drone models above and their RCs. ⚠️🔗Additionally, it is not affiliated with or endorsed by any mentioned company, it is not an official product of that company or its affiliates.<br><br>🏆 Fly Go 4 is the ultimate companion app for your drones, designed to offer unparalleled control, ease of use, and a seamless flying experience. Whether a beginner 🐣 or a seasoned drone pilot 🎖️, Fly Go 4 provides the tools and features to explore the skies confidently and creatively 🌤️📸.<br><br><b>🚁 Why Choose Fly Go 4? ✨</b><br><br><b>🖥️ Intuitive Interface:</b> Our user-friendly interface ensures easy drone operation, providing clear information for a smooth flying experience, whether you&#39;re a beginner 🐣 or an experienced pilot 🎖️.<br><br><b>🎮 Advanced Flight Controls:</b> Take full control of your drones with Fly Go 4&#39;s advanced flight features, which allow for precision and accuracy in complex maneuvers and effortless aerial shot capture 📸.<br><br><b>📹 Real-Time Video Transmission:</b> Experience real-time HD video transmission directly to your mobile device. With Fly Go 4, you can see exactly what your drone sees, allowing you to make quick decisions and adjustments for the best possible footage 📸✨.<br><br><b>🎯 Smart Flight Modes:</b> Capture professional-quality videos and photos with intelligent flight modes like 🏃‍♂️ ActiveTrack, 🎯 FocusTrack, 📍 Point of Interest , 🚀 QuickShot, 🔦 Spotlight,... It is ideal for dynamic action scenes or serene landscapes 🌄.<br><br><b>📊 Comprehensive Flight Data:</b> Keep track of all your flight details with in-depth flight data logging. Fly Go 4 records your drone&#39;s flight path, altitude, speed, and more, providing valuable insights to improve your flying skills 🚀.<br><br><b>📁 Easy Media Management:</b> Manage your photos and videos directly within the app with QuickTransfer 💾. Access, edit, and share your stunning aerial footage with friends and family, or upload it to social media to showcase your skills 🌟.<br><br><b>🛡️ Safe Flying:</b> Safety is our priority. Fly Go 4 includes built-in safety features like obstacle detection, return-to-home (RTH) 🏠🚁, and flight zone restrictions to ensure that your flights are safe and secure 🔒.<br><br>🌤️ Take your drone experience to new heights! 🚀 Download Fly Go 4 now and explore endless aerial possibilities! 🌅📷",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/thcFllMcb-DRqu-zedShrXzVlUop7ae9QEBztAVVhv19V0b4ALgJEsG8bBjvne7uDb--",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/1-7mPd_oL8wS8bAdCRMJn_SWawP_kdx6_3ZRKXuHxetCEsNugvehjQN92CBujR-7FuCXc-2eBOOdKiMy-tAOsQ",
+    "https://play-lh.googleusercontent.com/8_Z4aaCdUNi2Zwv9gjuMVTnn29m-HYUl3hSxzBHyxWrFOsDj8yjjDNwalECCC6jC1A",
+    "https://play-lh.googleusercontent.com/DiveXNX7kS7Xwe1uXbtVo9U9qt6RDRr7J-wGaweojOxIHv64o6sf95kWdLXyzlckDF4",
+    "https://play-lh.googleusercontent.com/ax7bJfJkILHOQeWMYZgX20lZcUEXnXpUlAkjsuhD7reTEn8RsXqU4jLtJAYEjKsLIcqD",
+    "https://play-lh.googleusercontent.com/iuUB-9clrirt7zo54KYeAjftxfO4XE0CFA7g3fdG1tKoevIa8w8AffYavOoSk3namNw",
+    "https://play-lh.googleusercontent.com/ljF_2MQDB-vlkFVzqBfnN7StSkRmUl_pCcRAyo2gG3PoOakrj6omxO_3zNv5pOoiyQ",
+    "https://play-lh.googleusercontent.com/j0yLV9kUmgAjMDxza6BkPw6ClJ0PDOWEJUzeS5AJgqrA_KtdZtARjKaXpK4l8i3sNmg",
+    "https://play-lh.googleusercontent.com/yaFLh9HsTgctIt8UI4r7t4gyZD9SSdL9s2Cj8FtvarkGEHJ9AEYQIviwoJ25mvNVcmtU1HGMLW6fAh0Kbgw",
+    "https://play-lh.googleusercontent.com/paIGmhKXFLO2cWTko9PkiDhQ_PW-frWLnRFi0muwbEgOY3gDDjJp03gy9yo7-nLP3Ag-",
+    "https://play-lh.googleusercontent.com/kvE6E8AdFuE1LaC9I3d6_EgkbG7DnnhPqIHLpRoVKhQI-r70xKE165xfFgcymodKAw",
+    "https://play-lh.googleusercontent.com/LBQ-6Np5bOKUmIumY1AdGYYCNrCwNqaQGMY9bpq7CjLSGtdDDmE4xNUsUDGppDV8Ydk",
+    "https://play-lh.googleusercontent.com/du8_wqN1wvXFLAPfSQ5gHe21dB_12rJEwm00q5UFo1PfufsDmuJ-1o0A2aHJ9cDBNh3q",
+    "https://play-lh.googleusercontent.com/RJQOQZgU-4iiy6nGB3srvTH_NELIhSKh3I9by9pN9XlpBR41xlSHoEYnLy_v8951lrE",
+    "https://play-lh.googleusercontent.com/H_AV_fOwD1Qe50TiILlHEqVOyEhPe8rNa_QjF8EznBesw1iGeLypDjN5OxD96zKTmbw",
+    "https://play-lh.googleusercontent.com/yaFLh9HsTgctIt8UI4r7t4gyZD9SSdL9s2Cj8FtvarkGEHJ9AEYQIviwoJ25mvNVcmtU1HGMLW6fAh0Kbgw",
+    "https://play-lh.googleusercontent.com/aY2eEOiM_gJ9sqKXyLYqPmuFgaSf-hJOAbx5JbRS9dHbBNIf06XjLyY_3sWS1gkB8A8",
+    "https://play-lh.googleusercontent.com/ekfdy7Vkct5E0QcU-7YePiWWrk7B8nSw1DXYxqW8Sw5G0dY-fUUE-AZ0X0UWw9n0nUE",
+    "https://play-lh.googleusercontent.com/0scFhKIPmawiGgYuP4FE4FwwreW1_IXDfOHgJsRrRXYO80bFdI-V3Oxyu4thHFHoKp44",
+    "https://play-lh.googleusercontent.com/Czgjd7eFwxonoqFJgoDmxO8G8iIacXpEz685cuvZBzrV8f8ptEgids2DNWyazBQp_w",
+    "https://play-lh.googleusercontent.com/o0Ch43MfdS_YufPo5lColHcfNoQwSJa6bs9PJETesLAAgEDOuxmKw06Pvg0HVetegtIt",
+    "https://play-lh.googleusercontent.com/tI2eFSkvQSabBIUp0Npwjb6xIwIuYJ8RAW3Sa_X6ZHazZvtdzdYrg28VVTgR1YCZHk0"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/UHsAL00EJnWFPKqf5qs70bwmYzgUhKHb5eUKTRPQpPhZXYj-zcwGgTH46LINYgxEr56o",
+  "permissions": {
+    "Device & app history": [
+      "retrieve running apps"
+    ],
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Photos/Media/Files": [
+      "access USB storage filesystem",
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Other": [
+      "access Bluetooth settings",
+      "change network connectivity",
+      "close other apps",
+      "connect and disconnect from Wi-Fi",
+      "control vibration",
+      "draw over other apps",
+      "full network access",
+      "pair with Bluetooth devices",
+      "prevent device from sleeping",
+      "run at startup",
+      "view network connections"
+    ],
+    "Uncategorized": [
+      "full license to interact across users",
+      "receive data from Internet"
+    ]
+  },
+  "reviews_data": null
+}

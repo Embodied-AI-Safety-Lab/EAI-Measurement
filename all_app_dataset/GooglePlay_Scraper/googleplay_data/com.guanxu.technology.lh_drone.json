@@ -1,0 +1,63 @@
+{
+  "pkg_name": "com.guanxu.technology.lh_drone",
+  "appId": "com.guanxu.technology.lh_drone",
+  "title": "LH Drone",
+  "developer": "GuanZhi Technology Inc.",
+  "developer_id": "GuanZhi+Technology+Inc.",
+  "developer_email": "goodstevechan2@gmail.com",
+  "developer_website": "http://www.netopsun.com/",
+  "developer_address": null,
+  "category": "Photography",
+  "category_id": "PHOTOGRAPHY",
+  "content_rating": "Everyone",
+  "score": 0,
+  "ratings": 0,
+  "reviews_count": 0,
+  "installs": "5,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "http://netopsun.com/pages/lh_drone_privacy_policy.html",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "This APP can control the 4-axis aircraft by WiFi on the Android smartphone, and also can get the real time video from the aircraft, and take the photo and save the video .",
+  "descriptionHTML": "This APP can control the 4-axis aircraft by WiFi on the Android smartphone, and also can get the real time video from the aircraft, and take the photo and save the video .",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/bFDNdASa0gHlbPKfNUxGtsDUBjwqxkCoilXanMI8FHmr1B3KmhjtQqxWtiWCx8RUrKY",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/0zEBdg-q8WV1_CDofj8bcU5g6X0CGsaG2I0Ug1YFFuOmnXpBjwJMHAiYzO8PbxJHeZ0",
+    "https://play-lh.googleusercontent.com/Ulj_IhlwWhmZZKw6N_jC-mQoX5RwY8SHyjAyajco2iwAqQBco3cYFv1VUkukqW4AvQ",
+    "https://play-lh.googleusercontent.com/4dFijubm105vv8n1KCNC6pP0ajcGlLULHdAY6ltPc5TuHp1wPQPWCyBfSmwyg8k2bXaJ",
+    "https://play-lh.googleusercontent.com/uZ4DfUB_lsHh5R0FvFswhitlNthXcdHzX6Maj1oplAIwg0pE2g6jnQ8l7Bh9hwRpqg",
+    "https://play-lh.googleusercontent.com/6vvYjza8gqH2As9m4JkwAzPBt_c9xewwcGpLwgzeZu68nYcNAeYZQa3Vov3Owds92zM",
+    "https://play-lh.googleusercontent.com/T493f8oaO_CFYn64CGzVBmJ42zCC7ZuCZ2fp3F5DOlTq7v2orq3yyHhyGb6C1sbXdAJj"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/4oDuPQnLgZacYSWekyeuUYxflw7GUI96upGxljPHkuxE4Fxe6MhEm2clmy5G1xnGIw",
+  "permissions": {
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Photos/Media/Files": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Other": [
+      "change network connectivity",
+      "full network access",
+      "view network connections"
+    ]
+  },
+  "reviews_data": null
+}

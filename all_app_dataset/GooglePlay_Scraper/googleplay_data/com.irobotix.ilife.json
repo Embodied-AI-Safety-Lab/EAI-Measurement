@@ -1,0 +1,75 @@
+{
+  "pkg_name": "com.irobotix.ilife",
+  "appId": "com.irobotix.ilife",
+  "title": "ILIFE VAC",
+  "developer": "Shenzhen PICEA Robotics Co., Ltd",
+  "developer_id": "Shenzhen+PICEA+Robotics+Co.,+Ltd",
+  "developer_email": "sz3irobotics@gmail.com",
+  "developer_website": null,
+  "developer_address": null,
+  "category": "Tools",
+  "category_id": "TOOLS",
+  "content_rating": "Everyone",
+  "score": 2.142857,
+  "ratings": 36,
+  "reviews_count": 3,
+  "installs": "5,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "http://www.3irobotix.com/userPrivacy/userPrivacy.html",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "The ILIFE VAC APP allows you to remotely control the sweeping robot through your mobile phone. Whether at home or outside, you can let the robot perform daily cleaning tasks independently.All you need to do is appreciate its efficient cleaning function and enjoy a warm and clean home environment.\r\n\r\n1)View the real-time map, the robot builds the map in real time during the cleaning, allowing you to see its work at a glance.\r\n\r\n2)Remote cleaning, simple operation can remotely control all the functions of the machine, cleaning anytime, anywhere.\r\n\r\n3)Make an appointment for cleaning and set the time for daily cleaning work to meet your exclusive cleaning customization.\r\n\r\n4)Support multiple cleaning modes to switch easily.",
+  "descriptionHTML": "The ILIFE VAC APP allows you to remotely control the sweeping robot through your mobile phone. Whether at home or outside, you can let the robot perform daily cleaning tasks independently.All you need to do is appreciate its efficient cleaning function and enjoy a warm and clean home environment.<br><br>1)View the real-time map, the robot builds the map in real time during the cleaning, allowing you to see its work at a glance.<br><br>2)Remote cleaning, simple operation can remotely control all the functions of the machine, cleaning anytime, anywhere.<br><br>3)Make an appointment for cleaning and set the time for daily cleaning work to meet your exclusive cleaning customization.<br><br>4)Support multiple cleaning modes to switch easily.",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/Y_5puZqsdUGYO7YScIFLeFeNU9U_2fvateLzhf6ndxZZ0wrCgCtfKNitUYtlVIJzYv4",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/utZK-JcpiAGvZoBDAgFb8ZwAYW8jGYmL_-7vfUSIMezTizhc2M851c06KCuCZrGwGn9V",
+    "https://play-lh.googleusercontent.com/bPL-tcNTOi0z0ldG7MWKj6zt2hRfYgj2ZJZnDhZ9wymjZiKihJLWjDRSTYW-Y6jH5uU",
+    "https://play-lh.googleusercontent.com/bm7Jx70k4Y8USJkdquNrKWyeGOvr1PQYWvq67Ki9WyI_QQM8JKRJ5_3I1llAduQ_1nk"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/_S6vt3jHEZtA4PJyvH-X-hEIW2BxH86qJNPFX-ZDx_K482QpbORSQCNkvskjvM64QfBX",
+  "permissions": {
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Phone": [
+      "directly call phone numbers",
+      "read phone status and identity"
+    ],
+    "Photos/Media/Files": [
+      "access USB storage filesystem",
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Device ID & call information": [
+      "read phone status and identity"
+    ],
+    "Other": [
+      "access Bluetooth settings",
+      "allow Wi-Fi Multicast reception",
+      "change network connectivity",
+      "connect and disconnect from Wi-Fi",
+      "draw over other apps",
+      "full network access",
+      "pair with Bluetooth devices",
+      "prevent device from sleeping",
+      "read terms you added to the dictionary",
+      "view network connections"
+    ]
+  },
+  "reviews_data": null
+}

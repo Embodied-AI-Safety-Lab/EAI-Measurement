@@ -1,0 +1,81 @@
+{
+  "pkg_name": "com.shiftrobotics.android",
+  "appId": "com.shiftrobotics.android",
+  "title": "Shift Robotics",
+  "developer": "Shift Robotics",
+  "developer_id": "Shift+Robotics",
+  "developer_email": "support@shiftrobotics.io",
+  "developer_website": "https://www.shiftrobotics.io/",
+  "developer_address": null,
+  "category": "Health & Fitness",
+  "category_id": "HEALTH_AND_FITNESS",
+  "content_rating": "Everyone",
+  "score": 3,
+  "ratings": 10,
+  "reviews_count": 6,
+  "installs": "500+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://help.shiftrobotics.cn/privacyPolicy/en.html",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "At Shift, we understand that life moves fast, but not every moment should be a blur. Our innovative footwear allows you to accelerate at will, reaching the speed of a run with the ease of a stroll. Yet, unlike the insulated bubble of a car, Moonwalkers keep you connected to the world around you, letting you savor the subtle beauties that make each journey unique.",
+  "descriptionHTML": "At Shift, we understand that life moves fast, but not every moment should be a blur. Our innovative footwear allows you to accelerate at will, reaching the speed of a run with the ease of a stroll. Yet, unlike the insulated bubble of a car, Moonwalkers keep you connected to the world around you, letting you savor the subtle beauties that make each journey unique.",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/x37AAEYexqOcnRTzmhN3gpE3rcwFwvnK-NKOD6uIDQIQoMy1SrM9Esplkq7XbLXxl7o",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/EFq6B7HdjRmoZC19wE55mwDxQB0tGP2YA6PcOC_gs5YVHya3UobJoY80Lg2tSJTMjA",
+    "https://play-lh.googleusercontent.com/8eHSTATrM0-6o_FMKT33NKi0kvKfZT9EAzVT4-ufthpJafMQanIFuERdyBPpgeCEV30",
+    "https://play-lh.googleusercontent.com/civR8jNkCl-8V61zDhPq0qIADits4mEn3gYNhv77twzZAcf1nRgJn_pIvxwh72g8MKw",
+    "https://play-lh.googleusercontent.com/K0mPUDbRNJEM5ITRw9TRLhB32PEKM_FDU1X0VVP4tdizO94uKOLLXni5OGyjt5c38U8",
+    "https://play-lh.googleusercontent.com/Jl6ySFyEefAQ3Q95XbZLKPyeDwxmXTCIojEdyZpJ5HryTx4Y_s2kmx5oF6DX2aqnyk8",
+    "https://play-lh.googleusercontent.com/PUQDeUGBsbWClhpzFGhlDdTxfI5Ot7AgCLoI23T6-5nPs_9tjA9YDjRpygdUrdDeZsI",
+    "https://play-lh.googleusercontent.com/GtTFcvdKyvItbJikUNltbYZGVnbxjiYJLfgHIBkhXzwVOZ7evgJJugr2NSIDIoPCIQ",
+    "https://play-lh.googleusercontent.com/XFGFyvwkloJqDHAGMCn_k3edx6toaarYuLhKjDR8jQjbOiBcXfUMV-LO7aDNOeyKUw"
+  ],
+  "video": "https://www.youtube.com/embed/gBGugUpu8q0?vq=large&rel=0&autohide=1&showinfo=0",
+  "video_image": "https://play-lh.googleusercontent.com/PmkRnHpw81_zYWWyBWj-pFSeHe6KaI_c6kJP0eBMR6IzpN1HuOyjCq0u-BEbyQOSvw",
+  "header_image": "https://play-lh.googleusercontent.com/PmkRnHpw81_zYWWyBWj-pFSeHe6KaI_c6kJP0eBMR6IzpN1HuOyjCq0u-BEbyQOSvw",
+  "permissions": {
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Phone": [
+      "read phone status and identity"
+    ],
+    "Photos/Media/Files": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Camera": [
+      "take pictures and videos"
+    ],
+    "Microphone": [
+      "record audio"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Device ID & call information": [
+      "read phone status and identity"
+    ],
+    "Other": [
+      "access Bluetooth settings",
+      "full network access",
+      "modify system settings",
+      "pair with Bluetooth devices",
+      "prevent device from sleeping",
+      "read Google service configuration",
+      "view network connections"
+    ]
+  },
+  "reviews_data": null
+}

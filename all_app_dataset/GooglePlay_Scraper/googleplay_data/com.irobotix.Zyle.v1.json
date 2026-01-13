@@ -1,0 +1,82 @@
+{
+  "pkg_name": "com.irobotix.Zyle.v1",
+  "appId": "com.irobotix.Zyle.v1",
+  "title": "Zyle Robotics",
+  "developer": "Krinona",
+  "developer_id": "Krinona",
+  "developer_email": "sz3irobotics@gmail.com",
+  "developer_website": null,
+  "developer_address": null,
+  "category": "Tools",
+  "category_id": "TOOLS",
+  "content_rating": "Everyone",
+  "score": null,
+  "ratings": null,
+  "reviews_count": null,
+  "installs": "500+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "http://images.krinona.lt/_Privacy/userPrivacy_en.html",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "Zyle Robotics APP can control your LIDAR Cleaning Robot wherever you are, the robot will carry out the cleaning working automatically according to your instructions through the APP, you just need to hail its high-efficient cleaning performances, and enjoy your clean and cosy home.\r\n\r\nAPP Intelligent Control\r\n\tReal time map: the map will be created simultaneously when robot start cleaning, you could see the working situation clearly through the APP.\r\n\tControl anywhere, anytime: easy control all functions of robot through the APP, Cleaning at anywhere, anytime\r\n\tSchedule: make the reservation for day to day cleaning working, cater for your customized cleaning requirements.\r\n\tSoftware update: understand the robot’s updated status through APP prompt, keep your robot with best performance.\r\n\tMulti-purpose: Not only can start, stop, pause cleaning and recharging, but support switching for multiple cleaning modes—standard, turbo, eco",
+  "descriptionHTML": "Zyle Robotics APP can control your LIDAR Cleaning Robot wherever you are, the robot will carry out the cleaning working automatically according to your instructions through the APP, you just need to hail its high-efficient cleaning performances, and enjoy your clean and cosy home.<br><br>APP Intelligent Control<br>\tReal time map: the map will be created simultaneously when robot start cleaning, you could see the working situation clearly through the APP.<br>\tControl anywhere, anytime: easy control all functions of robot through the APP, Cleaning at anywhere, anytime<br>\tSchedule: make the reservation for day to day cleaning working, cater for your customized cleaning requirements.<br>\tSoftware update: understand the robot’s updated status through APP prompt, keep your robot with best performance.<br>\tMulti-purpose: Not only can start, stop, pause cleaning and recharging, but support switching for multiple cleaning modes—standard, turbo, eco",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/Mt9D1bPnqil6fRPTTud8fMeAOtw0sCAGcQe_74J-lmXJ2lExGKIybmKhEq0c6O8CSlj9",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/MQLFA2fEyCIib7yZP9Y-TDcam2eo83_-hPNUPoVK2rYYbSHy-ihJ9umDZvEiixzfblY",
+    "https://play-lh.googleusercontent.com/4ewzzdm3LjMPmaJTAdKZa4vHdbGv-8y3u3JJvH1j6w7jnPZWkrQ_muiNEr_RmMKq6EQ",
+    "https://play-lh.googleusercontent.com/Z16I-pqXCCaF-aRAcnrpBe_WHZ3UWVJt2kPtQffm7aww9Qu-RiJps9o1Dg0wPWck94A",
+    "https://play-lh.googleusercontent.com/F0n9gvR-JhQjGSIATBnX1Ru-CyNchV8eqVvA31v1EWQafwZ1zmIbnnUu0vmAlEwP_qo",
+    "https://play-lh.googleusercontent.com/ix2hJqX-Hx0HfZrxpoY-CeNo43gZeqANVg1cSmj3lt3AT-ToNJZgIJpJ5EXmzbx9Ow",
+    "https://play-lh.googleusercontent.com/FmygZsuRFH_Sx7Xdu2T65Q9XL_-V4hDMkQdyljLbbamKExF66i0uVF2lWb3iyILYt2Q",
+    "https://play-lh.googleusercontent.com/k3gxjf8z6WUmIMlMlkc-AubtMCPKa0lzBeoIjiYRYKxN5oDSHTD5TgEwkEhLx9bqdHs",
+    "https://play-lh.googleusercontent.com/LnT9XC0F6u2XK2oBOVl8urfQ92pu1gbgUsuTxpHd7BHkBS0pVEG8KO4g6Q0rVhQYkeqM",
+    "https://play-lh.googleusercontent.com/F858drD1w0yEslKjQWjXWvDvnTS10riBthEYlXLMvy0byuyMmb0VsnGoLVwSlIUPxvs"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/WwYT3Jqp6pN9kGqnU7BuWZUon4D7NV1ryDQ8Q_cXH_ui8zeUVTysIwL7TqhLiVg-Uw",
+  "permissions": {
+    "Device & app history": [
+      "read sensitive log data",
+      "retrieve running apps"
+    ],
+    "Location": [
+      "access extra location provider commands",
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Phone": [
+      "directly call phone numbers"
+    ],
+    "Photos/Media/Files": [
+      "access USB storage filesystem",
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Other": [
+      "change network connectivity",
+      "change system display settings",
+      "close other apps",
+      "connect and disconnect from Wi-Fi",
+      "control vibration",
+      "draw over other apps",
+      "full network access",
+      "prevent device from sleeping",
+      "read terms you added to the dictionary",
+      "view network connections"
+    ]
+  },
+  "reviews_data": null
+}

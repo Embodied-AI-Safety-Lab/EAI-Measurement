@@ -1,0 +1,63 @@
+{
+  "pkg_name": "com.kressrobotik.mission",
+  "appId": "com.kressrobotik.mission",
+  "title": "Kress Mission",
+  "developer": "Kress",
+  "developer_id": "Kress",
+  "developer_email": "app-support@positecgroup.com",
+  "developer_website": "https://www.kress-robotik.com",
+  "developer_address": null,
+  "category": "House & Home",
+  "category_id": "HOUSE_AND_HOME",
+  "content_rating": "Everyone",
+  "score": 0,
+  "ratings": 0,
+  "reviews_count": 0,
+  "installs": "50,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://id.kress.com/documents/privacy-policy",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "Your lawn at your fingertips.\r\n\r\nThe Kress Mission app features advanced tools to manage your lawn mowing effortlessly.\r\n\r\n\r\nOnce the size is known, the AutoSchedule function tells your Mission robot how long to work to ensure a perfectly manicured lawn all the time",
+  "descriptionHTML": "Your lawn at your fingertips.<br><br>The Kress Mission app features advanced tools to manage your lawn mowing effortlessly.<br><br><br>Once the size is known, the AutoSchedule function tells your Mission robot how long to work to ensure a perfectly manicured lawn all the time",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/u5ewEXNMbWAiv3QCSar-isOnr5A6S7C9MrMXxOk8fSXVWWdEcYsLjpaH4rRx0FikUH8",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/WN3xkLL7pnuatUjBzoSuuudF_W65_0cmap2XrpvaY4zTdmscgcVC5AcmHrNPF446bSY",
+    "https://play-lh.googleusercontent.com/M2oubwzwXTBK7i8CmLlzrGco-NF_F8VDg15wkfBV2NeZLS2FRFhB2NRdcjnN26SF1zM",
+    "https://play-lh.googleusercontent.com/ewS6iQxW4qgOs4EvsCQiCAOB0dcdApr4z7dI5c4dobmsyBVTVRrwA6MEjfMPZQhuGA",
+    "https://play-lh.googleusercontent.com/6En75bhxrIDuOZ7s-KqwuwmnZ_FsWk6Z8UWOSh504tgDciln5LGMdYHWawV1crWmh-C3"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/Q0UDebaspt0pJfc49_WHQH7xXf4TFmx5JE1eFNElSrksN8ipJhOH1ouIiWt56jtVFQ",
+  "permissions": {
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Camera": [
+      "take pictures and videos"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Other": [
+      "access Bluetooth settings",
+      "allow Wi-Fi Multicast reception",
+      "connect and disconnect from Wi-Fi",
+      "full network access",
+      "pair with Bluetooth devices",
+      "prevent device from sleeping",
+      "view network connections"
+    ],
+    "Uncategorized": [
+      "receive data from Internet"
+    ]
+  },
+  "reviews_data": null
+}

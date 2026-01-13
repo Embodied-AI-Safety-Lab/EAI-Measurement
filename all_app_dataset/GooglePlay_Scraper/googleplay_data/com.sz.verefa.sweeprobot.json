@@ -1,0 +1,100 @@
+{
+  "pkg_name": "com.sz.verefa.sweeprobot",
+  "appId": "com.sz.verefa.sweeprobot",
+  "title": "Verefa Life",
+  "developer": "浙江弥乐科技有限公司",
+  "developer_id": "8190677645593795163",
+  "developer_email": "support@verefalife.com",
+  "developer_website": null,
+  "developer_address": null,
+  "category": "Tools",
+  "category_id": "TOOLS",
+  "content_rating": "Everyone",
+  "score": 3,
+  "ratings": 36,
+  "reviews_count": 7,
+  "installs": "5,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://qin.tuyacn.com/app-agreement/zh/1422985145/v1.0.1/1/smart/app/package/1422985145/privacyUrl_1631003863739.html",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "*Due to different model configurations, the function experience is different\r\n\r\n[Scheduled cleaning]\r\nAdapting to your schedule it can set time; the robot will start to perform the task when the time comes. \r\n[Sweep where you point]\r\nIn response to sudden cleaning conditions, click the location to be cleaned in the map, and the Robot Vacuum will go to the selected location to start spot cleaning. \r\n[Room partition]\r\nFor different home environments, you can set areas, sequence, and frequency of cleaning, and the Robot Vacuum will perform the task according to the settings. \r\n[Consumables and maintenance]\r\nThe cost of accessories is known at a glance, and the experience is better if they are replaced on time.",
+  "descriptionHTML": "*Due to different model configurations, the function experience is different<br><br>[Scheduled cleaning]<br>Adapting to your schedule it can set time; the robot will start to perform the task when the time comes. <br>[Sweep where you point]<br>In response to sudden cleaning conditions, click the location to be cleaned in the map, and the Robot Vacuum will go to the selected location to start spot cleaning. <br>[Room partition]<br>For different home environments, you can set areas, sequence, and frequency of cleaning, and the Robot Vacuum will perform the task according to the settings. <br>[Consumables and maintenance]<br>The cost of accessories is known at a glance, and the experience is better if they are replaced on time.",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/3W_M8DYAAeBqW24OP2tdFBueGR-4aaTFJ6WxGPVZOSlahmsw7N3i3metGKrWx_IJaZY",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/SJMzXuFzOqFc8pWsX_AnN8niuFm02bkc9hzjt3IIaDmZmKEylQn7qatTw_XyN6-Shv53",
+    "https://play-lh.googleusercontent.com/gjf_DSL2-LYMon3hwpi1diryOTPIYutF6Lna-p-O8wDd92UvLAG1D5xcemctyjRLeCE",
+    "https://play-lh.googleusercontent.com/gPjN8Ug1b9BXCvXG7rNbN63GeNlnPI9vMLNT9L4XwLk3wB83UOhiTdtZDcwruo4aKtQ",
+    "https://play-lh.googleusercontent.com/QaIvl2NesOw-pK1FUenBTXb0Ur4A5a4sZrmZHIJ43NJOlX03LVGlg7BI6zgKV9VoHQ",
+    "https://play-lh.googleusercontent.com/ThowCb_Em8UgrVVXbFk_gESYPIcd--Rgm3mu3tPmOBNWLFfU396uF26idsrp_JfaK2KD",
+    "https://play-lh.googleusercontent.com/-4pO0c2Ewh3ZacElAj_EvdhHhC39t6VUmROuH6LhHhq3lvIw32lidvD71853L2Y0ng",
+    "https://play-lh.googleusercontent.com/kE3oX8tFYQUvql3wc9lvD46j4ip1UWt2QqaTkfE8uorFN9knkWpOkVHoYFbKefSTqg",
+    "https://play-lh.googleusercontent.com/LVeI3o4OcPwBXd6RE0Pf13cdbT8cwUXqbbs-ySjV7C9ah6zUvjHHgC0-gIjBK5jw1YI",
+    "https://play-lh.googleusercontent.com/Hkrml9YF2nXS9LZhWf-oMMKtsS-0ejWMFQr_LsOo1VRSTmuh2vjRAHzkN-jsDW7rWhg",
+    "https://play-lh.googleusercontent.com/9l3h5jGn92sTxjcP55mbrHI-FD_rZOFV6tHONucnUOkdtIVQJu9wraRT1jB_sIS4IQ",
+    "https://play-lh.googleusercontent.com/KQtKIPpsgZWdPEOD3sBx7RpYoScz9Ao1h_ZtAqcgXpQ-Ewu4SILlQvb_iuhOrYNG2ZA",
+    "https://play-lh.googleusercontent.com/3j39fatYPC3CGtY2PTv4LSoRrqqwe87STm5Np63qjmC_R_pgGaGG2cTL3DcsYrgl4eEU",
+    "https://play-lh.googleusercontent.com/TNZjRprXZ1-Y71L5Nk1Iw5S1MlPFPcQkdvn1NIgsT7hvRzThjmIZJkU6PmPXThKkQg",
+    "https://play-lh.googleusercontent.com/8d5avc1cjNry86fxxHhBA2bjrpTD2obOlND0yLUAm02ohlY5zYSLaj4xx1o0G0fDeA",
+    "https://play-lh.googleusercontent.com/9TvPl-y9l54fYyOG1q8UlS1e_wuCQ7NgUKSkAhF03wMJrjuVf5s3fQ9n8lbnnw2bPyQ",
+    "https://play-lh.googleusercontent.com/nUxUvyEoEqKbaK6-Misgi9U5K9uXY45fDyUfKlffSykMQMKgLu5HMxeZEl98UoPW0g",
+    "https://play-lh.googleusercontent.com/cEezhQfldhgUFvnIJ4Qvv3TRbNP1pvU0IyAEz0gYTV01pVFdjquKLZm9zbh0cLeLuA",
+    "https://play-lh.googleusercontent.com/cbeeVBF7KKbcY73uRL2R8jD0CrdplcEzkpE20NkMNvmwSsreluS1rbWBmIVz-OGR4Q-7"
+  ],
+  "video": "https://www.youtube.com/embed/UPa7-3HYfQI?vq=large&rel=0&autohide=1&showinfo=0",
+  "video_image": "https://play-lh.googleusercontent.com/118I2RQIMQMgRho2vg3ZMcFoSTjEq5XSKejks5kHm-koV9hqjC-uSGkrrsHghZoADQ",
+  "header_image": "https://play-lh.googleusercontent.com/118I2RQIMQMgRho2vg3ZMcFoSTjEq5XSKejks5kHm-koV9hqjC-uSGkrrsHghZoADQ",
+  "permissions": {
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Phone": [
+      "directly call phone numbers",
+      "read phone status and identity"
+    ],
+    "Photos/Media/Files": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Camera": [
+      "take pictures and videos"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Device ID & call information": [
+      "read phone status and identity"
+    ],
+    "Other": [
+      "access Bluetooth settings",
+      "allow Wi-Fi Multicast reception",
+      "change network connectivity",
+      "change your audio settings",
+      "close other apps",
+      "connect and disconnect from Wi-Fi",
+      "control flashlight",
+      "control vibration",
+      "draw over other apps",
+      "full network access",
+      "pair with Bluetooth devices",
+      "prevent device from sleeping",
+      "read Google service configuration",
+      "run at startup",
+      "view network connections"
+    ],
+    "Uncategorized": [
+      "receive data from Internet"
+    ]
+  },
+  "reviews_data": null
+}

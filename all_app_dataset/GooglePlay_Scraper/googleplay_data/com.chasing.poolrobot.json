@@ -1,0 +1,96 @@
+{
+  "pkg_name": "com.chasing.poolrobot",
+  "appId": "com.chasing.poolrobot",
+  "title": "Poolmate Bot",
+  "developer": "CHASING-INNOVATION TECHNOLOGY CO LTD",
+  "developer_id": "CHASING-INNOVATION+TECHNOLOGY+CO+LTD",
+  "developer_email": "support@chasing-innovation.com",
+  "developer_website": "https://www.chasing.com/",
+  "developer_address": null,
+  "category": "Tools",
+  "category_id": "TOOLS",
+  "content_rating": "Everyone",
+  "score": 1,
+  "ratings": 14,
+  "reviews_count": 5,
+  "installs": "5,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://www.chasing.com/zh/after-sale-service-policies.html",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "\"Intelligent Control with APP, Just Effort-Free\r\n   CHASING CM600 can be remotely controlled with the CHASING GO3 APP. The APP has functions such as scheduled cleaning (timer/delay), unattended operation, and one-key recycling. Other than the intelligent one-tap cleaning, you can also clean your pool using the lag-free manual mode.",
+  "descriptionHTML": "&quot;Intelligent Control with APP, Just Effort-Free<br>   CHASING CM600 can be remotely controlled with the CHASING GO3 APP. The APP has functions such as scheduled cleaning (timer/delay), unattended operation, and one-key recycling. Other than the intelligent one-tap cleaning, you can also clean your pool using the lag-free manual mode.",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/pfX7tZ0-ZWPpgES0a-7RHa-gynxa9Dmx_bLgGI2RggyeVhU85FXmDkMpCWDnIJZmBQ",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/Kruw7yjIXa9yF98R1wVZ-HkOvfHE2nH505MhENx7c36-_7PenkqUBgKxwmvCWf1xUg",
+    "https://play-lh.googleusercontent.com/GolUbH9QTOFCYWG7rsPj61ly6-uOlJfbVt5NaNdKh28G8U9WtmFiqx-wa8rvn9FYhVPp",
+    "https://play-lh.googleusercontent.com/abSqdWvvBzmkJ_FZHTTMW5s6iB-USg4BZw7Av80CA6DJqW7RFmHQYVhN_pQMF_jZOXr4",
+    "https://play-lh.googleusercontent.com/I3MlW3ruFFCr9ho-toRdMGefyVdZG2DlZfoep9ytyb4toPeicUUgwbd9MeCLiu2NHw",
+    "https://play-lh.googleusercontent.com/9dTgiipzq0Fc2OqMwFUg3lnkyJOXvOb1Rq2LVI4KaLVi-EW6Cev2FtN-_5ki_W7dynk",
+    "https://play-lh.googleusercontent.com/Lc_KaxkALBjmOAUtbrpl0eRuYi7qV5i7gu2hodcp27h7fTplZ6asJghKVOr-1wUXjuF7",
+    "https://play-lh.googleusercontent.com/NT67wwnptWEHT4jCd1EgR0pCvlX0eL2kO5XTI9uWxsFB9orXbButtQlvmac1oMTPLnBN",
+    "https://play-lh.googleusercontent.com/WjTn_hMtfwz6tQkcP6jBOjr1TwbdUq3MB7F9Ekzeh0ZaQVN6ynmtYhZVBFPO3I7YSYg",
+    "https://play-lh.googleusercontent.com/G5V80YGzyrEMwagMnkcP56YEX0CIB_E2Jv50EJg3J6apFkhyuZQ1ZSOHzCQErGMwQBg",
+    "https://play-lh.googleusercontent.com/KogUE_npUJ0SPImLGOp2W_SqRGKUKt1lDLvKgFOSFVOGdQlxJJlBykMhBhMd93nMkYA",
+    "https://play-lh.googleusercontent.com/iRqz8JbKnvGIfSA5mTWdUV5N9QvO2ooNi_rjw9L4VgiHnHUvdLAXb9XcNcubuix2IIo",
+    "https://play-lh.googleusercontent.com/x4ED8r5xlW0GY4-FMQYO-S7_D9oSPgSoNHVN75zga4ZzESmdtOCUM1GfmAQc7c6u3A"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/dqprbUn1OH600mQvDP-xSky4WY1pse7O_7ArIjCBGx9lCnXdCYOv4yEslD4zeCisdg",
+  "permissions": {
+    "Contacts": [
+      "read your contacts"
+    ],
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Phone": [
+      "read phone status and identity"
+    ],
+    "Photos/Media/Files": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Camera": [
+      "take pictures and videos"
+    ],
+    "Microphone": [
+      "record audio"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Device ID & call information": [
+      "read phone status and identity"
+    ],
+    "Other": [
+      "access Bluetooth settings",
+      "allow Wi-Fi Multicast reception",
+      "change network connectivity",
+      "change your audio settings",
+      "connect and disconnect from Wi-Fi",
+      "control vibration",
+      "full network access",
+      "modify system settings",
+      "pair with Bluetooth devices",
+      "prevent device from sleeping",
+      "run at startup",
+      "view network connections"
+    ],
+    "Uncategorized": [
+      "modify/delete internal media storage contents"
+    ]
+  },
+  "reviews_data": null
+}

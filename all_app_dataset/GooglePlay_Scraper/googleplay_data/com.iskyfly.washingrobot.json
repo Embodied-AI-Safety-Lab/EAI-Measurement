@@ -1,0 +1,80 @@
+{
+  "pkg_name": "com.iskyfly.washingrobot",
+  "appId": "com.iskyfly.washingrobot",
+  "title": "AllyBot",
+  "developer": "深圳市智绘科技有限公司",
+  "developer_id": "%E6%B7%B1%E5%9C%B3%E5%B8%82%E6%99%BA%E7%BB%98%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8",
+  "developer_email": "zhkj@iskyfly.com",
+  "developer_website": "http://www.iskyfly.com",
+  "developer_address": null,
+  "category": "Tools",
+  "category_id": "TOOLS",
+  "content_rating": "Everyone",
+  "score": null,
+  "ratings": null,
+  "reviews_count": null,
+  "installs": "100+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "http://18.139.0.220:28080/fleetapi/about/private?lang=en_US",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "AllyBot is an intelligent cleaning robot with autonomous positioning and navigation capabilities. It can automatically return to charge and continue to clean, and support cross-floor tasks by elevator and flexible task scheduling. You can control the robot in real time through phone, create and start cleaning tasks remotely, manage and schedule multiple devices. Convenient operation and management of the robot can easily be realized.\r\n· Multi-device management--Scan QR code or enter SN number to quickly add robot to manage.\r\n· Multiple cleaning modes—There are three cleaning modes, including vacuuming, scrubbing and dust wiping, and various strengths, such as silence, standard and power, etc.\r\n· Master robot at any time--Remotely monitor the real-time status of the robot: online/offline, working/ idle, charging, etc.\r\n· Scenario intelligent planning-- Multi-type zoning: Never go to the forbidden area, walk around the virtual wall, work lightly in the carpet area, walk slowly in the slope area, and set various marking points such as charging and taking the elevator.\r\n· Personalized Cleaning--Timed or quick tasks, multiple cleaning modes, and cross-floor tasks by elevator to meet different cleaning needs.\r\n· Automatically recharge --Robot will automatically recharge when the battery is low, and automatically continue to clean after it is fully charged.\r\n· Remote control--One-click switch to remote control mode, and control robot to move, map, clean or record planning.",
+  "descriptionHTML": "AllyBot is an intelligent cleaning robot with autonomous positioning and navigation capabilities. It can automatically return to charge and continue to clean, and support cross-floor tasks by elevator and flexible task scheduling. You can control the robot in real time through phone, create and start cleaning tasks remotely, manage and schedule multiple devices. Convenient operation and management of the robot can easily be realized.<br>· Multi-device management--Scan QR code or enter SN number to quickly add robot to manage.<br>· Multiple cleaning modes—There are three cleaning modes, including vacuuming, scrubbing and dust wiping, and various strengths, such as silence, standard and power, etc.<br>· Master robot at any time--Remotely monitor the real-time status of the robot: online/offline, working/ idle, charging, etc.<br>· Scenario intelligent planning-- Multi-type zoning: Never go to the forbidden area, walk around the virtual wall, work lightly in the carpet area, walk slowly in the slope area, and set various marking points such as charging and taking the elevator.<br>· Personalized Cleaning--Timed or quick tasks, multiple cleaning modes, and cross-floor tasks by elevator to meet different cleaning needs.<br>· Automatically recharge --Robot will automatically recharge when the battery is low, and automatically continue to clean after it is fully charged.<br>· Remote control--One-click switch to remote control mode, and control robot to move, map, clean or record planning.",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/sRPVhjWHb1Zxbnlp5HloSPvknqHhs0lE4zR59DI6YrHd7x4g4Gu1HdtEbhNXq6Ms8g",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/PfVntklK4Zym7BePTVfCrp7FWCdh9RqXOpqcAFMDzKueiUPaaxoma5_902Qyhc6xUFQo",
+    "https://play-lh.googleusercontent.com/2dvDiP-909_tnIMIpBd5ZPmcsvvMuZntCqZzh7zPXJi7Kpyx9f7FNiCqEW2VwkEDU9aA",
+    "https://play-lh.googleusercontent.com/0yIgipXLYBavIoCKxyfb3q4twU9SxRADyNoPyVZwM7Z-OJKGhKnu2PeYsWzrpZnapZ8B",
+    "https://play-lh.googleusercontent.com/9L2D74K3lKVVxESdMgHR7ob9mznK-gztfHk5o5vc4GsWm3ipfsBnrz43ribPIzlUcfHX",
+    "https://play-lh.googleusercontent.com/60mie3ytC8Ccbj3MD5pLPxOvoel5m0XxWXjeSNfwAv90ozR_xHQmFAbb5yK6-ECjQw",
+    "https://play-lh.googleusercontent.com/UZYfSbUhxZNKKwIP2XvSLgn0fa0HvnjJxPZ-dZhyBG0Ipl8CqX8m3FpYabQ4q9jGgw",
+    "https://play-lh.googleusercontent.com/TrTqllA14euGjC7j8Gxcf2_hbLR9AdmDEevUWFkw_mOH1-dHeTR9QjOUU-oS34QhE7E",
+    "https://play-lh.googleusercontent.com/ATwb332bu21d_9E_E55tiR4A3buEeiL7wU0WtIxTkpGLh-tZTf5XTDcy3DvcwW1xAGE",
+    "https://play-lh.googleusercontent.com/UVo9Q3X8xxsUulE3hGQ47g3wwRhq91_wLUzwDe0LWR2IS4Q38iAyp2eleuEEhvcNqQ",
+    "https://play-lh.googleusercontent.com/hNIMa2npV9IniCPZxbiY3EeJD6OoLJ2A_6WVDSoAYpmRUH1oPOQgk0J17kaDWcStQvg",
+    "https://play-lh.googleusercontent.com/q2Kte9ivKedRgOx0qvpesqVlonFbolTQeEdSgSl7KghpsYcZ2Ope-KRD8gPEsIsbmks",
+    "https://play-lh.googleusercontent.com/JrZjssfccIE8u23AOdASqYnlOfNRhfrtHf8aTzUWPOizNk4iMPEcYQRD-pJ3o0QVkjos",
+    "https://play-lh.googleusercontent.com/asNFLjpaFowGrFbMenw1JolMN0LSfxJz0DPZyZ-0377W2TjjCDXrtxjRYxK0R3Pi4IE",
+    "https://play-lh.googleusercontent.com/piFqP9unYMN-GGy7TbVmvYKsNDkCQhlqetCd2wbtA1Qnhn_Vme0Y6zSj3-XJdRlXJ2rc",
+    "https://play-lh.googleusercontent.com/hGLS61hPOsE9Dxbzu5ftwpUPhQRO9zThNHp-yf8t4dxSrTysHjU0g1uPl5It5lXJhAI"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/EP4asWgDy3WpvxXdZWvF2S1iHhvwiBrBiJB607-5-D9jc0efIo0_upJaxp_WlWkbno4",
+  "permissions": {
+    "Phone": [
+      "directly call phone numbers",
+      "read phone status and identity"
+    ],
+    "Photos/Media/Files": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Camera": [
+      "take pictures and videos"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Device ID & call information": [
+      "read phone status and identity"
+    ],
+    "Other": [
+      "change network connectivity",
+      "control flashlight",
+      "control vibration",
+      "full network access",
+      "view network connections"
+    ]
+  },
+  "reviews_data": null
+}

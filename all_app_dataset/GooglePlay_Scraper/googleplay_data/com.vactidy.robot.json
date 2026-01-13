@@ -1,0 +1,109 @@
+{
+  "pkg_name": "com.vactidy.robot",
+  "appId": "com.vactidy.robot",
+  "title": "Vactidy",
+  "developer": "Shenzhen Ultenic Technology Co., Ltd.",
+  "developer_id": "Shenzhen+Ultenic+Technology+Co.,+Ltd.",
+  "developer_email": "tj@proscenic.cn",
+  "developer_website": null,
+  "developer_address": null,
+  "category": "Tools",
+  "category_id": "TOOLS",
+  "content_rating": "Everyone",
+  "score": 3.5853658,
+  "ratings": 419,
+  "reviews_count": 21,
+  "installs": "100,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://appeu.vactidy.com/h5/vactidy.html",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "Explore the Vactidy App and Light Up Your Smart Life!\r\nThis amazing mobile application connects you with your smart devices, giving you effortless control over everything. Like magic, you can monitor and operate your devices in real time. No matter where you are, enjoy convenient control anytime, anywhere, and simplify interactions between smart devices.\r\n\r\nIntegrated Control for Greater Convenience!\r\nWe aim to provide you with a integrated and flexible lifestyle. With an intuitive and easy-to-use interface, you can effortlessly add appliances and enable seamless connections between smart devices, delivering unmatched convenience.\r\n\r\nShare Joy with One Tap—Endless Fun!\r\nOur goal is to bring more joy to your life. With a single tap, share devices with family and friends, manage them remotely, and fully embrace the fun of technology.\r\n\r\nConnect to the Internet and Enjoy Unparalleled Convenience!\r\nOnce connected to smart devices, you can easily:\r\n1. Start and pause your robot remotely.\r\n2. View the cleaning map to see the robot's cleaning progress.\r\n3. Set cleaning modes and track cleaning tasks.\r\n\r\nDownload now to experience the Vactidy cleaning \"beast\" and give your home a sparkling transformation!",
+  "descriptionHTML": "Explore the Vactidy App and Light Up Your Smart Life!<br>This amazing mobile application connects you with your smart devices, giving you effortless control over everything. Like magic, you can monitor and operate your devices in real time. No matter where you are, enjoy convenient control anytime, anywhere, and simplify interactions between smart devices.<br><br>Integrated Control for Greater Convenience!<br>We aim to provide you with a integrated and flexible lifestyle. With an intuitive and easy-to-use interface, you can effortlessly add appliances and enable seamless connections between smart devices, delivering unmatched convenience.<br><br>Share Joy with One Tap—Endless Fun!<br>Our goal is to bring more joy to your life. With a single tap, share devices with family and friends, manage them remotely, and fully embrace the fun of technology.<br><br>Connect to the Internet and Enjoy Unparalleled Convenience!<br>Once connected to smart devices, you can easily:<br>1. Start and pause your robot remotely.<br>2. View the cleaning map to see the robot&#39;s cleaning progress.<br>3. Set cleaning modes and track cleaning tasks.<br><br>Download now to experience the Vactidy cleaning &quot;beast&quot; and give your home a sparkling transformation!",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/QcQBMEqTsWdlN3Tt9ZnwsrPym26CwS-JZMWBgOI_ferIfLLDJRQvJAHF5taNxsD-9iA",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/N35w-PWgQka48qiH2SBDcWdhIwegRcLjSifbKjzqp_4LmDFqjg2A6AsJbdzm3JU4OEM",
+    "https://play-lh.googleusercontent.com/5H7HWkDFkMcorncDPPTOsfzWvWn7EcZE80j98BsclztyGZYSWowwQ_I1lc5UCjoAziE",
+    "https://play-lh.googleusercontent.com/aEH-wokr6dcfW6Z5JSZjfbBlhgqq1i8j7jPFiw_lPEjtHureKioU-GcqWwwLT43PNNk",
+    "https://play-lh.googleusercontent.com/d1UtdSFiLn4wP9bsbNJaucXJ7ZmH6y_kpbDGFg_pTzEKfh3dlOgvFW7Zhr_af8GDqw",
+    "https://play-lh.googleusercontent.com/dqK08GRPu7xoZfTtvmA1uErSgequXl-D7yyFJalvKbfOquUdPZgBxzZaTvBGgeu5y2c",
+    "https://play-lh.googleusercontent.com/14m-Xdo_SsR4T-gUnF8f22O5SNNyzjK9liUHTW7e-gdyu0FIQurnYGZKD7o1cr_TWg",
+    "https://play-lh.googleusercontent.com/9Hr4jdcFoful2MsOsCCQL7JYtDTqTYdKo-egZ6Uhbr_u9-j-wNRjd84g8NwtOoMkIA",
+    "https://play-lh.googleusercontent.com/LFUzJlwTwAwHcrt2dDZdeI8bPX03CxK_8Sh0Ng68EbjiRliAwvoXC3OAZziMB5cfKOgo",
+    "https://play-lh.googleusercontent.com/_wzhis4Em9_EHAe7V2_2YiAnnrCCgD39J_hQNKAqt_g_TIt4gg3PMzyTwxw80bRXF0U",
+    "https://play-lh.googleusercontent.com/Y3NxR_Q2njyrn8PC_5bOP-BTJXZq8g5qNRoP7xz1z7okpFxE0rdqQ-wVg1trLMYr7MuK",
+    "https://play-lh.googleusercontent.com/gY2XkzWCqJzrc9nbA0yHZTgVWlDxlLCIFs2snhm_r6n9XgfhuwNmO3cgHrI10KQjK_MS",
+    "https://play-lh.googleusercontent.com/eABZMxN_UqDBxrE-bxg142SERpJYMrQ_Xl1W8WFMGU-CxCv0-79zxSxMJZG7fSjNvJrs"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/yuU8bcw8slf7-9SYLpg0kAz4RBHwhfzD_dUircKF6jQe8b78I9vHii_BlKrI6KN4J6s",
+  "permissions": {
+    "Device & app history": [
+      "read your Web bookmarks and history"
+    ],
+    "Contacts": [
+      "read your contacts"
+    ],
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Phone": [
+      "read phone status and identity"
+    ],
+    "Photos/Media/Files": [
+      "access USB storage filesystem",
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Camera": [
+      "take pictures and videos"
+    ],
+    "Microphone": [
+      "record audio"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Device ID & call information": [
+      "read phone status and identity"
+    ],
+    "Other": [
+      "Google Play license check",
+      "access Bluetooth settings",
+      "allow Wi-Fi Multicast reception",
+      "change network connectivity",
+      "change your audio settings",
+      "connect and disconnect from Wi-Fi",
+      "control flashlight",
+      "control vibration",
+      "draw over other apps",
+      "full network access",
+      "install shortcuts",
+      "modify system settings",
+      "pair with Bluetooth devices",
+      "prevent device from sleeping",
+      "reorder running apps",
+      "run at startup",
+      "set wallpaper",
+      "uninstall shortcuts",
+      "view network connections"
+    ],
+    "Uncategorized": [
+      "read Home settings and shortcuts",
+      "receive data from Internet",
+      "write Home settings and shortcuts"
+    ]
+  },
+  "reviews_data": null
+}

@@ -1,0 +1,59 @@
+{
+  "pkg_name": "es.enaire.androiddrones",
+  "appId": "es.enaire.androiddrones",
+  "title": "ENAIRE Drones",
+  "developer": "ENAIRE",
+  "developer_id": "ENAIRE",
+  "developer_email": "ais@enaire.es",
+  "developer_website": "https://www.enaire.es/servicios/ais",
+  "developer_address": null,
+  "category": "Maps & Navigation",
+  "category_id": "MAPS_AND_NAVIGATION",
+  "content_rating": "Everyone",
+  "score": 0,
+  "ratings": 0,
+  "reviews_count": 0,
+  "installs": "100,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://www.enaire.es/Politica_de_privacidad",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "Plan your flight:\r\n\r\nThe ENAIRE Drones application offers help to pilots and operators of UAS and civil unmanned aircraft, making available to them information on the geographical areas of UAS collected in the DR. 517/2024, necessary to be able to carry out its operations safely. This application allows you to consult the restrictions, notices and NOTAMs that may affect your flight, quickly, easily and accessible, from your mobile phone or tablet.\r\n\r\nENAIRE Guarantee:\r\n\r\nWith the ENAIRE Drones application, you have the trust of ENAIRE, the company of the Ministry of Transport, Mobility and Urban Agenda, which manages air navigation in Spain, which ensures the maximum guarantee of compliance with current regulations.\r\n\r\nFor everyone's safety, remember that a drone is not a toy, it is an aircraft.",
+  "descriptionHTML": "Plan your flight:<br><br>The ENAIRE Drones application offers help to pilots and operators of UAS and civil unmanned aircraft, making available to them information on the geographical areas of UAS collected in the DR. 517/2024, necessary to be able to carry out its operations safely. This application allows you to consult the restrictions, notices and NOTAMs that may affect your flight, quickly, easily and accessible, from your mobile phone or tablet.<br><br>ENAIRE Guarantee:<br><br>With the ENAIRE Drones application, you have the trust of ENAIRE, the company of the Ministry of Transport, Mobility and Urban Agenda, which manages air navigation in Spain, which ensures the maximum guarantee of compliance with current regulations.<br><br>For everyone&#39;s safety, remember that a drone is not a toy, it is an aircraft.",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/XNt1gTEtDjJsrcWG8QEIzUzcwfSV9RoXZVutLn2VQPcipPbXXKoMpGb3_kRrgvF2wg",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/7R2QollzC-yjxHmNOIWe0KCIlhvrH9xkBu_jReqjGrf0T6DrlmhSXRFap0BHJOBAZPo",
+    "https://play-lh.googleusercontent.com/8q5dl6DThHx3WKlSLU8M1teruHBDwcQnPh_5_KjTCjivLGSzNTo8OcX_rotsZLK-30A",
+    "https://play-lh.googleusercontent.com/sOtaTx71f8RN7T3bhLczJ1LLvs9zP_J9rtUk5FvM3zplqiL1GG_wlOnomJb-HnaNArU",
+    "https://play-lh.googleusercontent.com/t9F-6fmptXszxp-ktlJDLieBjvc0UPJVuGoVx12iJwRS006MAAKfH0oPTgdlEiqufw",
+    "https://play-lh.googleusercontent.com/likBwdMHGpd7PiM_winBOj0IxaoJ1SBnFx1NVfVVwrO5CrVcI2zZ1f5XF2fnT1D9Y74"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/5wCQSg0pbElfFYHR-lKlu0dTJ5F-RC2xCv4uvwt0vCnGAqvyF-OrXFDmD-MBNid9IEA",
+  "permissions": {
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Photos/Media/Files": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Other": [
+      "full network access",
+      "prevent device from sleeping",
+      "view network connections"
+    ]
+  },
+  "reviews_data": null
+}

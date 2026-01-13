@@ -1,0 +1,75 @@
+{
+  "pkg_name": "com.xdrone.app",
+  "appId": "com.xdrone.app",
+  "title": "X-DRONE",
+  "developer": "Wu Jian",
+  "developer_id": "Wu+Jian",
+  "developer_email": "jameswu@mjxrc.com",
+  "developer_website": "http://www.mjxrc.net/",
+  "developer_address": null,
+  "category": "Entertainment",
+  "category_id": "ENTERTAINMENT",
+  "content_rating": "Everyone",
+  "score": 2.7373738,
+  "ratings": 493,
+  "reviews_count": 65,
+  "installs": "100,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://www.feilingda.com/PackSys/upload/appVer/MjxPrivacy.txt",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "This app is used for a set of GPS Drone flight control: it mainly has the following functions:\r\n 1. Real time image transmission\r\n 2. Capture and video\r\n 3. Image flipping and 3D VR split screen\r\n 4. GPS route flight, GPS following and GPS surround\r\n 5. Automatic return",
+  "descriptionHTML": "This app is used for a set of GPS Drone flight control: it mainly has the following functions:<br> 1. Real time image transmission<br> 2. Capture and video<br> 3. Image flipping and 3D VR split screen<br> 4. GPS route flight, GPS following and GPS surround<br> 5. Automatic return",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/gn5zlr3_Rm4bjtZjhozFrU7lZ6JHyR6l5b67EcECw4Y8Ekijk0LvgITfhPTxBPKL66s",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/eSJ1dPN1bhyF1lqAyi1ueIH_c9WyMBTBY08doc5sExTxLX4v3HW8I04Jxt-nLrGaq50",
+    "https://play-lh.googleusercontent.com/hgkBLiOAwnEQDGk1qKS9hoF9D4AKNiIzPrEqqgAMR8JO_9KcBgE6MQ8_cYjFHX9ryL4",
+    "https://play-lh.googleusercontent.com/1Ma8IenOaEgK-i-a_DbN9qL8xK2CB6RG6hnUmBWGtlddsoGiwDIvq9dJs8hYXlZd9g"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/SJqGhvcbZtU980fLbKWLlUMFZTJlbg6ppXl84fY_Wyx9ICFirpN6pB6zQxbe1GAmq64",
+  "permissions": {
+    "Device & app history": [
+      "retrieve running apps"
+    ],
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Phone": [
+      "directly call phone numbers",
+      "read phone status and identity"
+    ],
+    "Photos/Media/Files": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Device ID & call information": [
+      "read phone status and identity"
+    ],
+    "Other": [
+      "allow Wi-Fi Multicast reception",
+      "change network connectivity",
+      "connect and disconnect from Wi-Fi",
+      "control vibration",
+      "full network access",
+      "prevent device from sleeping",
+      "run at startup",
+      "view network connections"
+    ]
+  },
+  "reviews_data": null
+}

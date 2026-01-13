@@ -1,0 +1,54 @@
+{
+  "pkg_name": "com.microdrones.cockpit.easyone",
+  "appId": "com.microdrones.cockpit.easyone",
+  "title": "mdCockpit 2",
+  "developer": "microdrones",
+  "developer_id": "microdrones",
+  "developer_email": "android_apps@microdrones.com",
+  "developer_website": "http://www.microdrones.com",
+  "developer_address": null,
+  "category": "Tools",
+  "category_id": "TOOLS",
+  "content_rating": "Everyone",
+  "score": 0,
+  "ratings": 0,
+  "reviews_count": 0,
+  "installs": "100+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://www.iubenda.com/privacy-policy/8127625/full-legal",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "Microdrones UAV users will be thankful for this handy app designed for Android tablets.\r\n\r\nmdCockpit lets you quickly and easily plan, monitor, adjust, and analyze flights for Microdrones Surveying Equipment.\r\n\r\nPerfect for use on a job site, mdCockpit includes convenient features that help you tackle projects and deal with unexpected changes in the day's schedule.",
+  "descriptionHTML": "Microdrones UAV users will be thankful for this handy app designed for Android tablets.<br><br>mdCockpit lets you quickly and easily plan, monitor, adjust, and analyze flights for Microdrones Surveying Equipment.<br><br>Perfect for use on a job site, mdCockpit includes convenient features that help you tackle projects and deal with unexpected changes in the day&#39;s schedule.",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/UTt16sdhOJE1gE7Ru-rM_RapF-xE6yQ4WKw2Qov7igf3gqLv3pUFByXMPWE_R4lnpZg",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/V6EujXfK0JVlVuP1HqeB--RBdgD317ZEAH4jA-Y3zpEQ_cq-KPIUmdb2ZERBnDiDr_M",
+    "https://play-lh.googleusercontent.com/A1KAReRBJIzedgcR_P6qXLx89NbBz5mH1Xx7fyNoX5d00TeqrLdVki2fjTBSCWPAmg"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/eWW17D3eLyjLVBl4Dwstm5nkJZ_U-MrBQjO8dVzyhvzF2QkMpZoJGjERk9ttTM0yi3E",
+  "permissions": {
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Other": [
+      "access Bluetooth settings",
+      "change network connectivity",
+      "full network access",
+      "modify system settings",
+      "pair with Bluetooth devices",
+      "prevent device from sleeping",
+      "reorder running apps",
+      "run at startup",
+      "view network connections"
+    ]
+  },
+  "reviews_data": null
+}

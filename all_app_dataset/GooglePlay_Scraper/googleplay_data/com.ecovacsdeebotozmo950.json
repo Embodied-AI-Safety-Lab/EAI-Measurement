@@ -1,0 +1,59 @@
+{
+  "pkg_name": "com.ecovacsdeebotozmo950",
+  "appId": "com.ecovacsdeebotozmo950",
+  "title": "Ecovacs Deebot Ozmo 950 Guide",
+  "developer": "onlinecamdev",
+  "developer_id": "onlinecamdev",
+  "developer_email": "onli71302@gmail.com",
+  "developer_website": "https://onlinecamdev.github.io",
+  "developer_address": null,
+  "category": "Books & Reference",
+  "category_id": "BOOKS_AND_REFERENCE",
+  "content_rating": "Everyone",
+  "score": 3.3333333,
+  "ratings": 14,
+  "reviews_count": 1,
+  "installs": "1,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": true,
+  "privacy_policy": "https://onlinecamdev.github.io/privacy.html",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "Do you own Ecovacs Deebot Ozmo 950 Robot Vacuum Cleaner? In the content of this app, the following topics that may always be useful to you are explained;\r\n\r\n* About Ecovacs Deebot Ozmo 950 and it's features\r\n* Instructions Before Using This Appliance\r\n* About Operating and Programming\r\n* Product Diagram & Specifications\r\n* About Choosing a Suction Option\r\n* About Maintenance & Troubleshooting\r\n* Frequently Asked Questions \r\n\r\nThis app is a guide that should be at hand for anyone with Ecovacs Deebot Ozmo 950. It does not belong to an official brand.",
+  "descriptionHTML": "Do you own Ecovacs Deebot Ozmo 950 Robot Vacuum Cleaner? In the content of this app, the following topics that may always be useful to you are explained;<br><br>* About Ecovacs Deebot Ozmo 950 and it&#39;s features<br>* Instructions Before Using This Appliance<br>* About Operating and Programming<br>* Product Diagram &amp; Specifications<br>* About Choosing a Suction Option<br>* About Maintenance &amp; Troubleshooting<br>* Frequently Asked Questions <br><br>This app is a guide that should be at hand for anyone with Ecovacs Deebot Ozmo 950. It does not belong to an official brand.",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/iiZJA42mcBDa5tL7ypY7USBKXA3VKN-0AzuattP2CcbbpEW5nZp8tQCoJslmZGQ4-0s",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/vEVwLPrOIwKIxiNDrfUAvd0yq6lKRI_4gfdrfgrB-fPc1XPyUYQ9JP37l-KYwYz8elWj",
+    "https://play-lh.googleusercontent.com/KLhJL9XuWuVKhahmYNsG-WHiSnNmGxj_bPM2o-nvopKbltYQ6vgZJ4e8Ijq67EIni7JW",
+    "https://play-lh.googleusercontent.com/ALxKhMYC-Zdx4pfcLLSF9Eo4x0YTX6yf3E3DoIvwJInxDynOdHfQxvwaqrF-9KZ17w",
+    "https://play-lh.googleusercontent.com/mDu7DXutc79M0KSEdFmIA_ysiH00nAnGPQpZPpRtMsWKcFO8FiS2BfHGLtY4ZoM8deDq",
+    "https://play-lh.googleusercontent.com/Afz1M7Yhx9fXii7sKG6D10bu3FeYCod6P4LOEe00CrBO1BQ6BZdUgg_4w3OdzyOmCw",
+    "https://play-lh.googleusercontent.com/IyAtgk3baMZ06W8J584n1cTQ7HN9vuxdnLXNTRX2basFZKNWaQ5-nvIU-BzJijSTi2c",
+    "https://play-lh.googleusercontent.com/tkwIQMIaz_oCKGmsMf7Rm1mBbxqj8Z8cpsksZtexx52h01E23wOoeEgeWQomBLDVlMM",
+    "https://play-lh.googleusercontent.com/mwUqtzXj-L49q6S0OFQH8xnPjhsKpN99XW-K2R9BlvnAJ645TsCyZBjcc_e5ZnrhIMi2",
+    "https://play-lh.googleusercontent.com/NRRrgrotoYXKv2ydRhDdGO0T1xGr7GYZbKB024Bof3rSGTur1hSMkUH-EyXr9QqKVYGX"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/RLgHU2mD8ED5MdY76LdVqp59cKseMFKL5TK_CrXDTP3JVzuXCsL6XiJ0sM_c5Vlwmpo",
+  "permissions": {
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Other": [
+      "control vibration",
+      "full network access",
+      "prevent device from sleeping",
+      "run at startup",
+      "view network connections"
+    ],
+    "Uncategorized": [
+      "receive data from Internet"
+    ]
+  },
+  "reviews_data": null
+}

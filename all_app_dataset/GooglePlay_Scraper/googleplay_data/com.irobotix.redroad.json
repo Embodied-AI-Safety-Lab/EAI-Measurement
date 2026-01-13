@@ -1,0 +1,87 @@
+{
+  "pkg_name": "com.irobotix.redroad",
+  "appId": "com.irobotix.redroad",
+  "title": "Redroad",
+  "developer": "Mantolo Technology (Suzhou) Co., Ltd",
+  "developer_id": "Mantolo+Technology+(Suzhou)+Co.,+Ltd",
+  "developer_email": "info@redroadglobal.com",
+  "developer_website": "https://redroad.cc/",
+  "developer_address": null,
+  "category": "Tools",
+  "category_id": "TOOLS",
+  "content_rating": "Everyone",
+  "score": null,
+  "ratings": null,
+  "reviews_count": null,
+  "installs": "5,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://sites.google.com/view/redroad/%E9%A6%96%E9%A1%B5",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "The Redroad app has been designed to total control your robot, from home layout to cleaning schedules, cleaning strength, and more. Once you've set it up the way you want it, you can leave your robot to work.\r\n\r\n---- Feature Highlights ----\r\n\r\nSERIOUSLY SMART MAPPING\r\nAfter it's first run around your home, your Redroad robot will show you your floorplan and automatically divide your rooms, unlocking a world of customizations.\r\n\r\nADVANCED SCHEDULING\r\nSet multiple schedules from hourly to daily to weekly, hitting different rooms with each one. \r\n\r\nCUSTOMIZABLE CLEANING\r\nUsers can choose \"free\" and \"intelligent\" control of the App to switch the cleaning mode at will, helping users in complex environments (with children, pets, too many rooms, and many ground items), and in different areas (kitchen, bedroom, living room, toilet, etc.) to complete different modes of cleaning.\r\n\r\nZONE CLEANING\r\nDraw up to five zones when you want to tackle more stubborn dirt or just don't need the entire room cleaned.\r\n\r\nMULTI-LEVEL MAPPING\r\nSave up to five maps in your home and tailor cleaning to match each floor. Your robot will recognize the floor it's on automatically, so you can simply watch it work.\r\n\r\nContact Us\r\nCustomer Service Phone: +852-6647-3087\r\nE-mail: info@redroadglobal.com",
+  "descriptionHTML": "The Redroad app has been designed to total control your robot, from home layout to cleaning schedules, cleaning strength, and more. Once you&#39;ve set it up the way you want it, you can leave your robot to work.<br><br>---- Feature Highlights ----<br><br>SERIOUSLY SMART MAPPING<br>After it&#39;s first run around your home, your Redroad robot will show you your floorplan and automatically divide your rooms, unlocking a world of customizations.<br><br>ADVANCED SCHEDULING<br>Set multiple schedules from hourly to daily to weekly, hitting different rooms with each one. <br><br>CUSTOMIZABLE CLEANING<br>Users can choose &quot;free&quot; and &quot;intelligent&quot; control of the App to switch the cleaning mode at will, helping users in complex environments (with children, pets, too many rooms, and many ground items), and in different areas (kitchen, bedroom, living room, toilet, etc.) to complete different modes of cleaning.<br><br>ZONE CLEANING<br>Draw up to five zones when you want to tackle more stubborn dirt or just don&#39;t need the entire room cleaned.<br><br>MULTI-LEVEL MAPPING<br>Save up to five maps in your home and tailor cleaning to match each floor. Your robot will recognize the floor it&#39;s on automatically, so you can simply watch it work.<br><br>Contact Us<br>Customer Service Phone: +852-6647-3087<br>E-mail: info@redroadglobal.com",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/KA5j3S8C9OkZMlgFHiMMJzp-mHFAioHaTkgL4aHKQSHVTjCsr5CFjtV9xzg4pHOS1JA",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/oQIKkrIh1R8L90MfXAOK2eSFL11uBYE9up9Z8uk6epTDAaqKPuv_adnkN0Iu84vyAN0",
+    "https://play-lh.googleusercontent.com/HNriTfBVqa9gC95P9GKS8HqL_KSgGKPBiJA4t1K6Tg4N_Kf9QzphdDRvcyZUycsEy7U",
+    "https://play-lh.googleusercontent.com/_RBtQ0eksiRK17cnSDxE22_ZZdlM4m5NB-Yh1iiWCu1rkjIIeW_ltdwPijL4IUxwOQ",
+    "https://play-lh.googleusercontent.com/0iWQ-sWGHhIBmgW7rQ2uir45qljZ2pn_-gA0Q-oavHminRa-cdwQwn807WIS5vSx_ag",
+    "https://play-lh.googleusercontent.com/tOmVX3nRiGQxaLJd1h9tbxKwt0l58oe89OGYk0yOepznDJnnAg_au7eOxE0BhQ1iiQ",
+    "https://play-lh.googleusercontent.com/_6AaiiP0mEW_wEBmkIE60cypSNECadCKtASngU4i1ujy3gqbGRyF5-tjgvhlb1quBm0",
+    "https://play-lh.googleusercontent.com/_9fdcvtPhKHC1DsA2X3cmAMtwlJ8FBLe1S_5GNxdXIRGWeqsvIURNTXefN6UkaEOSIs9",
+    "https://play-lh.googleusercontent.com/INPcysQKZH9vlzQA4b0rLa_kET-9w51ks9PhXX4X-Oy3rioPts_Aqumlrqu5-xJkSGkK",
+    "https://play-lh.googleusercontent.com/P-mxmNbb7a1nQgkPdQ1xY5ejw6SYQb1m8Qzjuv9SuxXbjprhLhmzomRwAvLFcpujOX0",
+    "https://play-lh.googleusercontent.com/abVBN0vhjIGfJMBVrni7ZhF4TJc6W3WZa-YBkR1l9OP7Ls9TGa-eI8P3ixbaUjpK-R0",
+    "https://play-lh.googleusercontent.com/Ao4OHJrpORy4LucjuG4EoR7PsYqCAHLy7voSVGfn0VqP2C4uJmR-A_MSrcAG5DJclRU",
+    "https://play-lh.googleusercontent.com/YEuDReAuoKj53BAagpm4IuMdlzaYR3SOVd1xxKDnGmjYIWD2Z14RtMKQLVRmRv4H9rk"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/ZSlUPbFH4SaxG8k4P0VgDR28oz6j3WKaZfnDCjLUmW9iGD4gUZeQWLNGJwMheAA5a-ls",
+  "permissions": {
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Phone": [
+      "directly call phone numbers",
+      "read phone status and identity"
+    ],
+    "Photos/Media/Files": [
+      "access USB storage filesystem",
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Camera": [
+      "take pictures and videos"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Device ID & call information": [
+      "read phone status and identity"
+    ],
+    "Other": [
+      "access Bluetooth settings",
+      "allow Wi-Fi Multicast reception",
+      "change network connectivity",
+      "connect and disconnect from Wi-Fi",
+      "draw over other apps",
+      "full network access",
+      "pair with Bluetooth devices",
+      "prevent device from sleeping",
+      "read terms you added to the dictionary",
+      "view network connections"
+    ]
+  },
+  "reviews_data": null
+}

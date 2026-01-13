@@ -1,0 +1,88 @@
+{
+  "pkg_name": "com.newal.newalrobot",
+  "appId": "com.newal.newalrobot",
+  "title": "Newal Robot",
+  "developer": "NEWAL",
+  "developer_id": "NEWAL",
+  "developer_email": "mobileapps@newal.com.tr",
+  "developer_website": null,
+  "developer_address": null,
+  "category": "Tools",
+  "category_id": "TOOLS",
+  "content_rating": "Everyone",
+  "score": null,
+  "ratings": null,
+  "reviews_count": null,
+  "installs": "500+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://doc-hosting.flycricket.io/newal-robot-privacy-policy/71cef0b4-983d-4ee2-b867-5efdee3afadd/privacy",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "Newal Robot is a mobile phone application of connecting the Newal cleaner robotic products, which supports the robotic customization products with WIFI function under the Newal brand. It can not only replace the traditional remote controller , but also can present more working data that cannot be displayed by the conventional remote controller. Through the APP, the user can remotely control and reserve robots for cleaning while away from home, making you to enjoy smart life anytime, anywhere.",
+  "descriptionHTML": "Newal Robot is a mobile phone application of connecting the Newal cleaner robotic products, which supports the robotic customization products with WIFI function under the Newal brand. It can not only replace the traditional remote controller , but also can present more working data that cannot be displayed by the conventional remote controller. Through the APP, the user can remotely control and reserve robots for cleaning while away from home, making you to enjoy smart life anytime, anywhere.",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/bWVaF-DLBTaHMYB6lG08SdxgddkpnizeRuYT0xXu5U4DL2Gwh1Yp9odghIGtI-9fXn8",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/zxP2z4YjEr78jF7BUiozVnbP5MzLwoFr7JmyvFE2eWbJomal8WfVa-4ksdb1LtOvsA",
+    "https://play-lh.googleusercontent.com/UmajKHhNFRHhe53zax1RWI_RQRQoWPCePGIfG0w4oO9QAgyRwT4eT4mkDsttftLlug",
+    "https://play-lh.googleusercontent.com/6Ok1v8cbNGoMiSb_ACKcRtxs7IJ2bDMs1nAsrDgE8hE9ObjLLH5CBA9vCw0KKsq6WA",
+    "https://play-lh.googleusercontent.com/WucFe4o9qEY58XaS3UK4gxbe3ZPo0YXispgYBZXs4uj4Zcixulw_O3CvfDYk_cRzQPt6"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/OP22I9fV7vfaF6K6r3sWpW2eDyc7CwzVDTieRSZOYoV5dZRihi9qERI-wWlPneaaAla-",
+  "permissions": {
+    "Device & app history": [
+      "read sensitive log data",
+      "retrieve running apps"
+    ],
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Phone": [
+      "directly call phone numbers",
+      "read phone status and identity"
+    ],
+    "Photos/Media/Files": [
+      "access USB storage filesystem",
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Camera": [
+      "take pictures and videos"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Device ID & call information": [
+      "read phone status and identity"
+    ],
+    "Other": [
+      "access Bluetooth settings",
+      "allow Wi-Fi Multicast reception",
+      "change network connectivity",
+      "connect and disconnect from Wi-Fi",
+      "control flashlight",
+      "control vibration",
+      "full network access",
+      "modify system settings",
+      "pair with Bluetooth devices",
+      "prevent device from sleeping",
+      "reorder running apps",
+      "view network connections"
+    ],
+    "Uncategorized": [
+      "receive data from Internet"
+    ]
+  },
+  "reviews_data": null
+}

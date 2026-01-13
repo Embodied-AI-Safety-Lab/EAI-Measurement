@@ -1,0 +1,87 @@
+{
+  "pkg_name": "com.ihome.robot",
+  "appId": "com.ihome.robot",
+  "title": "iHome Clean",
+  "developer": "Silver Point Technologies",
+  "developer_id": "Silver+Point+Technologies",
+  "developer_email": "support@silverpointtech.com",
+  "developer_website": "http://ihomeclean.com",
+  "developer_address": null,
+  "category": "Lifestyle",
+  "category_id": "LIFESTYLE",
+  "content_rating": "Everyone",
+  "score": 2.5,
+  "ratings": 520,
+  "reviews_count": 401,
+  "installs": "100,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": true,
+  "privacy_policy": "https://www.ihomeclean.com/support/privacy-policy",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "iHome Clean \r\n\r\nThe iHome Clean App gives you full control over your iHome AutoVac\r\n\r\nThe iHome Clean App will walk you through the steps to connect your iHome AutoVac to your 2.4G Wi-Fi for full access to the iHome Clean App’s Features:\r\n\r\nControl iHome AutoVac Cleaning\r\n- Start and Stop Cleaning from Anywhere\r\n- Set your Cleaning Schedule \r\n- Send your iHome AutoVac back to the Charging Base\r\n- View the Autovac cleaning path with Homemap Technology \r\n- Control the suction modes with the Hyperdrive Technology \r\n- View cleaning history - duration and floor area\r\n- Control your iHome AutoVac Manually w/ D-pad control\r\n- Manage Shared Users\r\n\r\n\r\nRequirements\r\n- Wi-Fi with 2.4GHz band support \r\n- Autovac Eclipse, Juno, Luna,  Nova, Halo or Orbita\r\n\r\nVisit iHomeClean.com for additional Support and Information.",
+  "descriptionHTML": "iHome Clean <br><br>The iHome Clean App gives you full control over your iHome AutoVac<br><br>The iHome Clean App will walk you through the steps to connect your iHome AutoVac to your 2.4G Wi-Fi for full access to the iHome Clean App’s Features:<br><br>Control iHome AutoVac Cleaning<br>- Start and Stop Cleaning from Anywhere<br>- Set your Cleaning Schedule <br>- Send your iHome AutoVac back to the Charging Base<br>- View the Autovac cleaning path with Homemap Technology <br>- Control the suction modes with the Hyperdrive Technology <br>- View cleaning history - duration and floor area<br>- Control your iHome AutoVac Manually w/ D-pad control<br>- Manage Shared Users<br><br><br>Requirements<br>- Wi-Fi with 2.4GHz band support <br>- Autovac Eclipse, Juno, Luna,  Nova, Halo or Orbita<br><br>Visit iHomeClean.com for additional Support and Information.",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/rwcOHMwuhIURwD3qANisfFuSMQPfl2y48O5j36XmIX8kQTcYPEzrSbvGXhiy3ydsQg",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/r3AAPb60nvsP4XpL-Ho2amRg6LqF8wkfCFhUDI8RCpOPnMvMHKAG_Aoj7Gia_eMCb2g",
+    "https://play-lh.googleusercontent.com/F4uUPNDQ_biXNK_JcDSVQbhz_ZlYhv_pcemHt9Thh7PMN9lYqL2cHjXx3Yd8x8qaH5o",
+    "https://play-lh.googleusercontent.com/e1mQDCxHK39kfAtmxZWSF4NO69joXd8nxOMBDxDkgXo0p3vXSMo4ga66S582CupDeg",
+    "https://play-lh.googleusercontent.com/u_CgkGRFqcE8d-Jwl7K49m3AWJpwuwvszSJtJOU7wrpmkTMqSxeSIV2nYH9I6_diVw",
+    "https://play-lh.googleusercontent.com/NxNBEZHI656GHUJhp1hFzw1CfwLpHmEq3vGV94MPXbF_k8PnQS3vqIozNspCrFkAwVQ"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/hiV355Io34khGPaayS9rYzd68ymETzv7GzPUpJIr2gBf5GiRiFhpJJtxnu4z0Ee44g",
+  "permissions": {
+    "Contacts": [
+      "read your contacts"
+    ],
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Phone": [
+      "read phone status and identity"
+    ],
+    "Photos/Media/Files": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Camera": [
+      "take pictures and videos"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Device ID & call information": [
+      "read phone status and identity"
+    ],
+    "Other": [
+      "access Bluetooth settings",
+      "allow Wi-Fi Multicast reception",
+      "change network connectivity",
+      "change your audio settings",
+      "connect and disconnect from Wi-Fi",
+      "control flashlight",
+      "control vibration",
+      "full network access",
+      "pair with Bluetooth devices",
+      "prevent device from sleeping",
+      "run at startup",
+      "set wallpaper",
+      "view network connections"
+    ],
+    "Uncategorized": [
+      "receive data from Internet"
+    ]
+  },
+  "reviews_data": null
+}

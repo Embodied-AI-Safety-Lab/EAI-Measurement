@@ -1,0 +1,56 @@
+{
+  "pkg_name": "com.luwu.xgo_robot",
+  "appId": "com.luwu.xgo_robot",
+  "title": "XGO",
+  "developer": "LuwuDynamics",
+  "developer_id": "LuwuDynamics",
+  "developer_email": "hello@xgorobot.com",
+  "developer_website": "https://www.xgorobot.com",
+  "developer_address": null,
+  "category": "Tools",
+  "category_id": "TOOLS",
+  "content_rating": "Everyone",
+  "score": 0,
+  "ratings": 0,
+  "reviews_count": 0,
+  "installs": "5,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://www.xgorobot.com/en.html",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "Quadruped robot XGO controller, using mobile phone Bluetooth to realize the function of robot control, set up a bridge to communicate with XGO! \r\n*It is suitable for Android mobile phone, with simple interface, rich functions and full of fun.",
+  "descriptionHTML": "Quadruped robot XGO controller, using mobile phone Bluetooth to realize the function of robot control, set up a bridge to communicate with XGO! <br>*It is suitable for Android mobile phone, with simple interface, rich functions and full of fun.",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/a5ZHPjwOgQkNBQLQ38EehWtHXazBG3n3_9vFNLFzp29N_sKz_k8PZ3oB-7vGk5dEjQ",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/N1dLZBSPpVSnFso3G6juvfA44kjkIVqQQdSIMpDw0uCudxUSnJTG-DuBFoVaCc8rzd8",
+    "https://play-lh.googleusercontent.com/6RSIytNPxAqbU2ZwWGFP28Y-HRKukbRBNugRBSH_ZfgB586rWgmtv9ENuv0A2c61cCE",
+    "https://play-lh.googleusercontent.com/xQLdzRTIrA6Jn-Hv3t-5bFtmEeZ1GzRENn8tBnvoargmgpi7PKck_-0OFo0DxGtc31Vk",
+    "https://play-lh.googleusercontent.com/fhEqrNFvVBpov-KJ0XkAEhiKRRFkkEjp_85f2m-g1WwLnl4uzW_ioinrq7LEXpfuD8c",
+    "https://play-lh.googleusercontent.com/8GdrH-6sBLhUE1XmFqPD4MBXNJUlT4m6vUR_UAI5uKgYFUGJFYuT91_ROVRs-3FeOgg",
+    "https://play-lh.googleusercontent.com/laDgVHYR2R3tVA6Dj1yUArQtzh9NbRAV83oazPM8koygMh2MF01JPDPKHC9ZSKnuerM",
+    "https://play-lh.googleusercontent.com/IuRB9sJcMVwOza_aR91N4r7LlS7QFI9SpgMFDGrjQVYw_KWAwTNoTj5Zr4bGVq7WcJRF",
+    "https://play-lh.googleusercontent.com/fqUH93KpzTZzBrTasU_nuG6w0iyfzhk9p0ZL2yP503zEaROPwhRPB5uiQ2cMCaKukw",
+    "https://play-lh.googleusercontent.com/aQZVJS054aKY2nl5_fIv8t0HjiWtxrVDTga35vqA-UBG5q4ZlHeCoUvMpvSY_ePO5Q",
+    "https://play-lh.googleusercontent.com/7OOsZSIwgBzYiYWTNNXtbICn3VBOFDed9xdkgMBDVTR9dV_nCynlVNw9UVY_6grQWQ"
+  ],
+  "video": "https://www.youtube.com/embed/RKZAkLX4cqk?vq=large&rel=0&autohide=1&showinfo=0",
+  "video_image": "https://play-lh.googleusercontent.com/TB1Pe1qG9ZR_dzPVB7rnavcTGEHHCrxdD74Il3Dm3UqtLa3N9wvCDWPq8w1l1GeQ8pNM",
+  "header_image": "https://play-lh.googleusercontent.com/TB1Pe1qG9ZR_dzPVB7rnavcTGEHHCrxdD74Il3Dm3UqtLa3N9wvCDWPq8w1l1GeQ8pNM",
+  "permissions": {
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Other": [
+      "access Bluetooth settings",
+      "control vibration",
+      "pair with Bluetooth devices"
+    ]
+  },
+  "reviews_data": null
+}

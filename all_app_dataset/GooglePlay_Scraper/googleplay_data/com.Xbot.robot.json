@@ -1,0 +1,98 @@
+{
+  "pkg_name": "com.Xbot.robot",
+  "appId": "com.Xbot.robot",
+  "title": "Xbot Home",
+  "developer": "Xbot",
+  "developer_id": "Xbot",
+  "developer_email": "xbot2021@gmail.com",
+  "developer_website": null,
+  "developer_address": null,
+  "category": "House & Home",
+  "category_id": "HOUSE_AND_HOME",
+  "content_rating": "Everyone",
+  "score": null,
+  "ratings": null,
+  "reviews_count": null,
+  "installs": "1,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "http://www.utenic.com/xbot/xbot.html",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "The mobile phone app connects Xbot products to the phone with Wi-Fi function.\r\n\r\nUsing the App, you replace the traditional remote control with an intelligent robot control.\r\n\r\nThe Application provides registration, initial setup, software update, cleaning control, management and receiving information from the robot vacuum cleaner.\r\n\r\nYou can adapt the robot to your lifestyle:\r\n\r\n- make an individual cleaning schedule;\r\n\r\n- mark contaminated and restricted areas;\r\n\r\n- customize local cleaning and cleaning zones in specific rooms;\r\n\r\n- adjust the cleaning modes;\r\n\r\n- Get information about the charge level, cleaning report and error messages.",
+  "descriptionHTML": "The mobile phone app connects Xbot products to the phone with Wi-Fi function.<br><br>Using the App, you replace the traditional remote control with an intelligent robot control.<br><br>The Application provides registration, initial setup, software update, cleaning control, management and receiving information from the robot vacuum cleaner.<br><br>You can adapt the robot to your lifestyle:<br><br>- make an individual cleaning schedule;<br><br>- mark contaminated and restricted areas;<br><br>- customize local cleaning and cleaning zones in specific rooms;<br><br>- adjust the cleaning modes;<br><br>- Get information about the charge level, cleaning report and error messages.",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/WpHawQ4NQl_1SY1WaCErGavDWE6FuBT2w-F2cZZdA57lVHmkU07x_JnnK_S-NoGwmw",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/a-P_logRG3mTp9nZ7z0En_rvAf9Hl27TUR9qc_BnOF3bjfCC960J9waxcx64yWqAVrbC",
+    "https://play-lh.googleusercontent.com/RwjFCfSehmFWhtO4LDFuOiFoNankEogFc5tO7klBGOnQevj3e8kw4vYG1u3VYxu0etkn",
+    "https://play-lh.googleusercontent.com/rHwVu7F-8sNiaQdVKvaKXi_f0YvlHHGJ_nyu3L1fAsZkEI6qdrA8tcC8lRB3mK7ZwLQ",
+    "https://play-lh.googleusercontent.com/71fujYy_EOb98zwhA9bUJ6usy5zOJy0Qo-Y6dsWAYohRgtI3PCdFNYeJWNlh78tCEdY",
+    "https://play-lh.googleusercontent.com/tQsyfOk_Om7ZcCFAvcb6aP2PIaNNmZSRZ3iHhTwu7kD-D3T07HeNvfJbfYDL_IZg3oxU",
+    "https://play-lh.googleusercontent.com/fnEM23t8cxPoDGx--wUmZZvbQFD6-T-LUUNLehLLpbYN02RIH_JTgQ3h80MyNjOyZ7C0",
+    "https://play-lh.googleusercontent.com/EEaVnWsdVyi4gXjaEERJYrlp5a-7B44WhW0Bq2bQpirdrVEz2hOFXHINCndGiQroaI8",
+    "https://play-lh.googleusercontent.com/OM1dwx1dbXGhssXCzP50VHhGTi2nd8_KXSRvZ23yTtpy4zuz53rKww5BBBsiewCcX6A",
+    "https://play-lh.googleusercontent.com/ayZ3715cETJaZkKTKt_7t64XBpBleDy0uAThxZpLKkEW1he0DhIeNPdr7nYRR12oGjo",
+    "https://play-lh.googleusercontent.com/QmTxlrF_I6LBXH8tWOhyzpCXeXTLhHoySWJcC-5A9cOQuEsZu4fN9vUTg1rHG4Nh7M9r",
+    "https://play-lh.googleusercontent.com/FyzsoVU44xornVzqRw3-C9mCu3pPbXyDrHXCixQM0VIvH-s18AJFw1jKffCvE0iO-tZM",
+    "https://play-lh.googleusercontent.com/0Ji-8Mu0HhiI6w28NJyv7Yt4WcrDH8WHHyTrzt8Bb5wYl2enUYPWe98pidcB0-Hgdg"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/IMisKp-ICk4lDFhrkrBtRwMPA-83Jw1yv1guiZvgSkmsIDmmNicMWo2uVgVGrBGR3Af-",
+  "permissions": {
+    "Device & app history": [
+      "read your Web bookmarks and history",
+      "retrieve running apps"
+    ],
+    "Contacts": [
+      "read your contacts"
+    ],
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Phone": [
+      "read phone status and identity"
+    ],
+    "Photos/Media/Files": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Camera": [
+      "take pictures and videos"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Device ID & call information": [
+      "read phone status and identity"
+    ],
+    "Other": [
+      "access Bluetooth settings",
+      "allow Wi-Fi Multicast reception",
+      "change network connectivity",
+      "close other apps",
+      "connect and disconnect from Wi-Fi",
+      "control flashlight",
+      "control vibration",
+      "draw over other apps",
+      "full network access",
+      "pair with Bluetooth devices",
+      "prevent device from sleeping",
+      "set wallpaper",
+      "view network connections"
+    ],
+    "Uncategorized": [
+      "receive data from Internet"
+    ]
+  },
+  "reviews_data": null
+}

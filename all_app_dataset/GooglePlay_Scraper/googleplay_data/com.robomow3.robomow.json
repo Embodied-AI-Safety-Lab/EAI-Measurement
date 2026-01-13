@@ -1,0 +1,80 @@
+{
+  "pkg_name": "com.robomow3.robomow",
+  "appId": "com.robomow3.robomow",
+  "title": "Robomow 3.0",
+  "developer": "Stanley Black & Decker Inc",
+  "developer_id": "Stanley+Black+%26+Decker+Inc",
+  "developer_email": "app_feedback@mtdproducts.com",
+  "developer_website": "https://www.robomow.com/",
+  "developer_address": null,
+  "category": "Lifestyle",
+  "category_id": "LIFESTYLE",
+  "content_rating": "Everyone",
+  "score": 2.8,
+  "ratings": 428,
+  "reviews_count": 4,
+  "installs": "50,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://www.stanleyblackanddecker.com/privacy-policy/global-privacy-policy",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "The Robomow App 3.0 supports the RK and RT models.\r\n\r\nInteract with your mower, take full control of your lawn and access all the latest updates, items and settings in a single swipe!\r\n\r\n* Stay updated *\r\n   -- Get a quick summary of mower’s state, the next planned operation and the history of recent operations.\r\n\r\n* Interact from a distance *\r\n   -- Send to mow, return to base, disable automatic depart and program your mowing schedule in a snip.\r\n\r\n* Enjoy the drive *\r\n   -- Navigate from one garden to the other – effortlessly.",
+  "descriptionHTML": "The Robomow App 3.0 supports the RK and RT models.<br><br>Interact with your mower, take full control of your lawn and access all the latest updates, items and settings in a single swipe!<br><br>* Stay updated *<br>   -- Get a quick summary of mower’s state, the next planned operation and the history of recent operations.<br><br>* Interact from a distance *<br>   -- Send to mow, return to base, disable automatic depart and program your mowing schedule in a snip.<br><br>* Enjoy the drive *<br>   -- Navigate from one garden to the other – effortlessly.",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/9tJ3t7pBTDO8CldhJvM9dmuamjWsIPAJU5LKti1d17dKBhS66ZoHeR7VIS6TS1-M2w",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/XlH-MfI1BJ6_DgdpgU4-aNBBXKYi5DMKoMbnXRJBenxQ58FJMAEpnZC8FyVmrJo69A",
+    "https://play-lh.googleusercontent.com/rOG48Hl6B8VkYJncFCHNPQlS_pss9g_7lwiWO1pJi1XCe9iVW2hW3CZnrQqwqYnxBR9A",
+    "https://play-lh.googleusercontent.com/DZxyUsM2IrJpZVAnMbG9KP4pHq8DIOp8L0v-rMFZNOuH7l5HVYh6x2m4pmfJKM_DPC4e",
+    "https://play-lh.googleusercontent.com/dfjKKNP2bpcmKrYJuZOgwvIBhIaHJSG9GYmQ7oZVntlIenECUy1Dp15BUiWCb5vewkw",
+    "https://play-lh.googleusercontent.com/tlNqpWLUTYcUz1T2wYEQvYoSsYebosDq4m3y8GWenAhbNxyutyZYBUekPA9ryqcmp1U",
+    "https://play-lh.googleusercontent.com/skGQIR8FdeCa7lfyQ-7268yvgualFeqpAgYS-3IFV7LUDlU2gsv-3U9lb1LSfK6aIlVu",
+    "https://play-lh.googleusercontent.com/1xHy-L0aPexBgxWFnVlAUVlu9E4-Glufc-QxXoIvrIX8lNCSoL8fUnXaZ8QjCyrhag",
+    "https://play-lh.googleusercontent.com/EqOTlUGXJUUhVUfQyqZCn2lya3BiJAU79a6MMsIry0Ae_-Lvh7bi-UpCwW9Fll10DoGe",
+    "https://play-lh.googleusercontent.com/_USrchAGdP03pcO2-2dIKy5zy74Xnxc8BtGKzgxcmp1SJ1HBs9-WOn_AdorjUStsHg",
+    "https://play-lh.googleusercontent.com/lZRJa-hiNZrLZKWmgclM-0AbYmqBUba-ERdvTt4c_pk1rQH9qHzcpewcvdeygQQtxcRP",
+    "https://play-lh.googleusercontent.com/jpHBQBTFdTRywVRIkUS5D01Z96y1AmCVOrNzZEcaK4CA5Xdre-WQlIY1ofLCuOnb2g8",
+    "https://play-lh.googleusercontent.com/eegzWY4pQM8lohYklfQPzpxcYD7JV-8qHmXPBrA56RgAK9lrQTl1L9kM4AZMVrKsn1Q",
+    "https://play-lh.googleusercontent.com/93w7xC8ps9hJ4ieqgbUfIXTH1q2AYYLZVESuchraF3NgiwsfBqRoUR0LmJFNznTHRQ",
+    "https://play-lh.googleusercontent.com/4QKCtM-6I5wxeOobIEaODCfAiLOBJKcAEKos6fInw-q_ZbRVIMUEN9b3hGN7whju0TGD",
+    "https://play-lh.googleusercontent.com/yrGgSkG-0N-SB1bAGmzK7s83hBe6xD1_5y65BWVKQIHg6tmYzibdmulS99g_wsnApQ",
+    "https://play-lh.googleusercontent.com/SdnKiht7ElDUz4xWcXuLUhEnbSFo4-PgPoqKNHFVKUzSBNC5WRUxzZGuQi6fmw4fhJxw",
+    "https://play-lh.googleusercontent.com/E0aIw-X_TPFRi8J0DRK6LGFlfIBufhz0d_9-ao3qm4aFbH0Q2k_UGtTNAlZVI8NH02A",
+    "https://play-lh.googleusercontent.com/uuoiBM8wGthNnBq_Y-3GWbsL9T5Xvyv9i3Irx4pwLkgFGT4UzhZ3OY0c_A1qwzxQLA",
+    "https://play-lh.googleusercontent.com/rrB7GH7vf2w7dw9LxigZkMTME-D-wGVOmN5AkUW4Usz4JPKcY5dV2_Ba6NPye715Rt4",
+    "https://play-lh.googleusercontent.com/KFsHdmWHqBfG26oUj-1S3pUJc46-14B9cMHAh1hjQb7A4CBe6S5KwuZ7jdEYfwU7aL8h",
+    "https://play-lh.googleusercontent.com/KCWqq6K-IDy8WWlAVcH0zEa2eZpLdJM6ULtMTK5dY6yjY2CKU6kMr9i5ndkQcs5wKNy-",
+    "https://play-lh.googleusercontent.com/GwviIiWRnuOwn7D54dMnjmh-mvGq2xmHisbM32peMugGp0PoXf235BnK24TR047JMAs",
+    "https://play-lh.googleusercontent.com/bK6jQpJaI5QNaxHnVVwSdtYY3FLkbTwmNQvnXhERjwOiMIE5hOx8ZA4oD1d-WzKhg54",
+    "https://play-lh.googleusercontent.com/PTU6lD_CDrbsKCny37w29dnolowQY935isEYhVmWe3cHMXCqhm3Z894ZaXrfpB_8e7Om"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/NUt8vT46omLitI9qbCyPVCesOWRrEEFgctx-cC6kDlJabghHZW3kWOV8vU4KI5NTZQ",
+  "permissions": {
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Camera": [
+      "take pictures and videos"
+    ],
+    "Other": [
+      "access Bluetooth settings",
+      "control vibration",
+      "full network access",
+      "pair with Bluetooth devices",
+      "prevent device from sleeping",
+      "run at startup",
+      "view network connections"
+    ],
+    "Uncategorized": [
+      "receive data from Internet"
+    ]
+  },
+  "reviews_data": null
+}

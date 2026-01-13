@@ -1,0 +1,52 @@
+{
+  "pkg_name": "com.itonsoft.unlockseauto",
+  "appId": "com.itonsoft.unlockseauto",
+  "title": "Unlock Seauto Robot",
+  "developer": "Safesky",
+  "developer_id": "Safesky",
+  "developer_email": "support@seautorobots.com",
+  "developer_website": "http://seautorobots.com/",
+  "developer_address": null,
+  "category": "Tools",
+  "category_id": "TOOLS",
+  "content_rating": "Everyone",
+  "score": 2.5522387,
+  "ratings": 113,
+  "reviews_count": 55,
+  "installs": "10,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://note.youdao.com/s/lcqBV3J",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "Unlock Seauto Robot APP is for unlock and switch modes of Seauto new pool cleaer Crab. Connect the cleaner through Bluetooth, after unlocking, the cleaner can switch modes by pressing the button, as well as by setting on the APP in your phone.",
+  "descriptionHTML": "Unlock Seauto Robot APP is for unlock and switch modes of Seauto new pool cleaer Crab. Connect the cleaner through Bluetooth, after unlocking, the cleaner can switch modes by pressing the button, as well as by setting on the APP in your phone.",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/kkdL5isoGMFKmcGf57GoKkqyx2kgr_M3rNy6pm9tiRChS-4yLsHWNme-atgC11jgXYs",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/W1NghRQzdU4CeE5fMk_oi-kRmwv84oJbuTwq7rI2M1-un6ZOYI1Us-Y4bA0QRn_VR3s",
+    "https://play-lh.googleusercontent.com/c9biJOloWMmJi9IEtfXFryV3LcwgpZq77dYa276SjfSIv8O7ub2MuS9NJVAUFUt2Oy4",
+    "https://play-lh.googleusercontent.com/2YGQJT7BFVnPh_JRiAm6K0H_UAqb1FcYV8nXB7ZiLjmENCZa26MixqRMGT49oQBopI4",
+    "https://play-lh.googleusercontent.com/Le6V4HNzAz8J0xHGRRY7g9gHZxoq3Kg4W9MOyaWJuHEfj1diNBFXSIgdZ3dkw519cxKR",
+    "https://play-lh.googleusercontent.com/Ao-P1bYm43GJ2Z_D5ONkJdmx3vsEnALiTPxSrvAsUk4w7WDRXRzVnqr277rSVFG8BGo",
+    "https://play-lh.googleusercontent.com/nQRriTKKRYxocFba47IJQfOmHkcvx9Bs518Q53wD93kG5DvWqCiDx-WQpLj5sgh55W8"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/1NjZdRMCgDZfyGWB0fwlSEMnfCFdINpL-mqjvSzQHpTbEKH4Olpa2uPanpElbX4iog",
+  "permissions": {
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Other": [
+      "access Bluetooth settings",
+      "full network access",
+      "pair with Bluetooth devices"
+    ]
+  },
+  "reviews_data": null
+}

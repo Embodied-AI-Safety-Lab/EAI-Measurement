@@ -1,0 +1,83 @@
+{
+  "pkg_name": "com.eurocat.zigma",
+  "appId": "com.eurocat.zigma",
+  "title": "Zigma",
+  "developer": "Euro Cat GmbH",
+  "developer_id": "Euro+Cat+GmbH",
+  "developer_email": "yugongdev@gmail.com",
+  "developer_website": null,
+  "developer_address": null,
+  "category": "Lifestyle",
+  "category_id": "LIFESTYLE",
+  "content_rating": "Everyone",
+  "score": 0,
+  "ratings": 0,
+  "reviews_count": 0,
+  "installs": "10,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": true,
+  "contains_ads": true,
+  "privacy_policy": "https://www.grit-cfg.com/app/Zigma/rel/Agreement_Policy/html/agreement/agreement.html",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "Connecting to the Zigma APP you can unlock the following functions.\r\nDevice information: You can display information about device functions, working status, fault exceptions, consumables life, etc. \r\nHouse map: By building a floor cleaning house map, you can personalize the name, zone, and set the rooms and areas you want to clean.\r\nSuction power level: Four levels of suction power can be switched to personalize the level you need according to the dirtiness of the area you are cleaning.\r\nAppointment cleaning: You can personalize the time and number of times the machine works according to your living habits and cleaning needs.\r\nFirmware upgrade: With OTA technology, you can constantly upgrade the firmware version of your robot to experience smarter continuous improvement.",
+  "descriptionHTML": "Connecting to the Zigma APP you can unlock the following functions.<br>Device information: You can display information about device functions, working status, fault exceptions, consumables life, etc. <br>House map: By building a floor cleaning house map, you can personalize the name, zone, and set the rooms and areas you want to clean.<br>Suction power level: Four levels of suction power can be switched to personalize the level you need according to the dirtiness of the area you are cleaning.<br>Appointment cleaning: You can personalize the time and number of times the machine works according to your living habits and cleaning needs.<br>Firmware upgrade: With OTA technology, you can constantly upgrade the firmware version of your robot to experience smarter continuous improvement.",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/cel79lr0a1_DpkLa9xHYKmSApmxmSupJhGPgSlpeMqZsprUQWOxA90jwINwglMZ2gheb",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/xd_rRjnXeU0v4lQqpNKrSxyuob0JXl6DVH4okJUVc3ZHxMBktFZLj-eh0dHXYSFLibM",
+    "https://play-lh.googleusercontent.com/hWQ0xkkrsSeoDfj_u_qmUOSrhHnVr9c9aW1QuZ_TOzQPGRKy1VJBGFGQ_BVSd5SNRni4",
+    "https://play-lh.googleusercontent.com/a4hSZDICkCRrTpTrjAA-gUUuwT-mZ8qgthc_uiCtgmVmt8JXlN69DUvNp02uVJvSxGfs",
+    "https://play-lh.googleusercontent.com/On3c_76vsCFJAm8Aj37hdOxI_JvqorIOyL3Paafto6_ipg0IM59Rluzvi07kJZTI8L-q",
+    "https://play-lh.googleusercontent.com/7WHgmPu_6_g7cPzwJi75tDnW8saTlDqijCNrKIhWTY7DmX71PONYMIg74kFOsbiW0cw"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/n4gGM0xWMgfc4db8tOjtGKcuijqTmae8o2cJP-TQLsrC9LXFuniSy_5TjTKoPcW4IRTE",
+  "permissions": {
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Phone": [
+      "read phone status and identity"
+    ],
+    "Photos/Media/Files": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Camera": [
+      "take pictures and videos"
+    ],
+    "Microphone": [
+      "record audio"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Device ID & call information": [
+      "read phone status and identity"
+    ],
+    "Other": [
+      "access Bluetooth settings",
+      "allow Wi-Fi Multicast reception",
+      "change network connectivity",
+      "change your audio settings",
+      "connect and disconnect from Wi-Fi",
+      "full network access",
+      "pair with Bluetooth devices",
+      "prevent device from sleeping",
+      "view network connections"
+    ],
+    "Uncategorized": [
+      "receive data from Internet"
+    ]
+  },
+  "reviews_data": null
+}

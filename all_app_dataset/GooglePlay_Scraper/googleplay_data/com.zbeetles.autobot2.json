@@ -1,0 +1,86 @@
+{
+  "pkg_name": "com.zbeetles.autobot2",
+  "appId": "com.zbeetles.autobot2",
+  "title": "AUTOBOT ULTRA",
+  "developer": "Autobot.dev",
+  "developer_id": "Autobot.dev",
+  "developer_email": "app@zbeetle.com",
+  "developer_website": "http://www.zbeetle.com",
+  "developer_address": null,
+  "category": "Tools",
+  "category_id": "TOOLS",
+  "content_rating": "Everyone",
+  "score": null,
+  "ratings": null,
+  "reviews_count": null,
+  "installs": "1,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://autobot.zbeetle.com/h5/en/2.html",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "1. \"Individual cleaning settings\": deep or silent cleaning It all depends on you. 2. \"Family Sharing\": One Xiao Wu. The whole family can have fun together , \"Real-time route display\": show the route through honestly And going through that is all new.",
+  "descriptionHTML": "1. &quot;Individual cleaning settings&quot;: deep or silent cleaning It all depends on you. 2. &quot;Family Sharing&quot;: One Xiao Wu. The whole family can have fun together , &quot;Real-time route display&quot;: show the route through honestly And going through that is all new.",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/B3duLWxOfYjeEU0Xd4enddcdoGL6P-mqv3LB5kS2TvYHyRjVFf6rfQ9hsclmVxHFLS0",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/UzeJrhhh5yTny_peB4i6i3PBzggv6_E8NAdHNcuXaiRqXM0PmaMkKlbBZPi3qWqkgQ",
+    "https://play-lh.googleusercontent.com/Y7gPwz3JKFcyqZMPB_d-YFoo9-CiatWK31QdzQHBzT5hlK68uUxiRewMYX6GRa8q36U",
+    "https://play-lh.googleusercontent.com/ngkVfpaiR8VD1mGoli4e_pTWL-ecUz-u0KkJ4OG0SlWYE9amwGmc5VV6gP3Hsx7D0Q",
+    "https://play-lh.googleusercontent.com/5uZGAl8_9PFIvvFz8Vwu06MFLHR4jhcZM5o6YuprDYbOe-99KWlYFDhkkToamhe-4Q"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/DuBaImt9kBS_XT_z665Eu9ZrEXbiBxogWrguveFWhB75OAgRhOwzLGi9EN5TxRYRGOg",
+  "permissions": {
+    "Device & app history": [
+      "read sensitive log data",
+      "retrieve running apps"
+    ],
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Phone": [
+      "read phone status and identity"
+    ],
+    "Photos/Media/Files": [
+      "access USB storage filesystem",
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Camera": [
+      "take pictures and videos"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Device ID & call information": [
+      "read phone status and identity"
+    ],
+    "Other": [
+      "access Bluetooth settings",
+      "allow Wi-Fi Multicast reception",
+      "change network connectivity",
+      "connect and disconnect from Wi-Fi",
+      "control vibration",
+      "full network access",
+      "modify system settings",
+      "pair with Bluetooth devices",
+      "prevent device from sleeping",
+      "reorder running apps",
+      "view network connections"
+    ],
+    "Uncategorized": [
+      "receive data from Internet"
+    ]
+  },
+  "reviews_data": null
+}

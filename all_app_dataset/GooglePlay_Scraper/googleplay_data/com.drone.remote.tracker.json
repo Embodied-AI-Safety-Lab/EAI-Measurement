@@ -1,0 +1,48 @@
+{
+  "pkg_name": "com.drone.remote.tracker",
+  "appId": "com.drone.remote.tracker",
+  "title": "Drone Remote Controller",
+  "developer": "zeecoder",
+  "developer_id": "5977741248918603522",
+  "developer_email": "zeecoder.dev@gmail.com",
+  "developer_website": "https://zeecoder.blogspot.com/",
+  "developer_address": null,
+  "category": "Libraries & Demo",
+  "category_id": "LIBRARIES_AND_DEMO",
+  "content_rating": "Everyone",
+  "score": 4.32,
+  "ratings": 63,
+  "reviews_count": 9,
+  "installs": "5,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": true,
+  "privacy_policy": "https://zeecoder.blogspot.com/2023/05/privacy-policy.html",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "Can I use my phone as a remote for a drone?\r\n\r\nUse a smartphone to fly a drone with our Drone Remote Control app. is exactly the same as RC Drone. Do you want to take control of your friends' drones? now you can do it with Drone Remote Control, that's when the real fun will start to happen\r\n\r\nIs there an app that can control any drone?\r\n\r\nyou can control drone with camera with Drone universal remote control for all. Try this amazing and Free Universal Drone Remote Control Application to turn your android device to a remote for drones.\r\n\r\nCan you control a drone remotely?\r\n\r\nWhy remote control? You can control drones remotely through our mobile application over the internet. Enables your commercial drones to be remote-ready.\r\n\r\nuse your smartphone as Remote control drones . Using a phone to fly a drone with our Drone Remote Control Application. Drone Remote Control for All DRONE\r\n\r\nCompatible with latest drones and Not Compatible with some old Hardware:\r\n- Easily make flight plans on any device\r\n- Automate takeoff, flight, image capture and landing\r\n- Live stream First Person View (FPV)\r\n- Disable auto-flight and resume control with a single tap\r\n- Easily continue non-interrupted flights to map large areas\r\n- Drone Controller With Video.\r\n- Drone Controller With capture FPS\r\n- Use the application to connect the WiFi camera device, you will be able to receive the camera view and take pictures ,Record videos,control drone.\r\n\r\nWhat if you can control all your drones with your Android device? Try this amazing and Free Drone Remote Control App for Quadcopter to turn your android device into a drone remote control drone. This app is going to make your phone as best Drone remote control apps. This app is really easy to configure for your drone and is really easy-to-use for drone remote control. The “Drone Remote Control App” will allow you a real drone remote experience.",
+  "descriptionHTML": "Can I use my phone as a remote for a drone?<br><br>Use a smartphone to fly a drone with our Drone Remote Control app. is exactly the same as RC Drone. Do you want to take control of your friends&#39; drones? now you can do it with Drone Remote Control, that&#39;s when the real fun will start to happen<br><br>Is there an app that can control any drone?<br><br>you can control drone with camera with Drone universal remote control for all. Try this amazing and Free Universal Drone Remote Control Application to turn your android device to a remote for drones.<br><br>Can you control a drone remotely?<br><br>Why remote control? You can control drones remotely through our mobile application over the internet. Enables your commercial drones to be remote-ready.<br><br>use your smartphone as Remote control drones . Using a phone to fly a drone with our Drone Remote Control Application. Drone Remote Control for All DRONE<br><br>Compatible with latest drones and Not Compatible with some old Hardware:<br>- Easily make flight plans on any device<br>- Automate takeoff, flight, image capture and landing<br>- Live stream First Person View (FPV)<br>- Disable auto-flight and resume control with a single tap<br>- Easily continue non-interrupted flights to map large areas<br>- Drone Controller With Video.<br>- Drone Controller With capture FPS<br>- Use the application to connect the WiFi camera device, you will be able to receive the camera view and take pictures ,Record videos,control drone.<br><br>What if you can control all your drones with your Android device? Try this amazing and Free Drone Remote Control App for Quadcopter to turn your android device into a drone remote control drone. This app is going to make your phone as best Drone remote control apps. This app is really easy to configure for your drone and is really easy-to-use for drone remote control. The “Drone Remote Control App” will allow you a real drone remote experience.",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/nmWrHpGFVNAo2e5tXuqHECI3BN3Lz5d20CXB4bP5fAel1OSKUpvTRhi8Zeg5bp_SDQ",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/Q3XhHYmT3MqNorKU5bX_zoYo-LIMPHmn8kQzfLbGgP9LNt0kvDr8s-3UGoqi-RgqOA",
+    "https://play-lh.googleusercontent.com/DXWHdLPsfsWSuyZaIX-K-sQ4zVxvUHIVVM6ESU-rfjCORFZzLyandAdvIcdEE6Uulq8",
+    "https://play-lh.googleusercontent.com/fKDuoUdWGeEz0eok-uBvDVyrZZjjNvew_9Der9M7FH5QxRmBbJRn9Nafzyst60SHmBQu"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/vGFsrtrrS3GXJhQJNLViCU8BeaxDn9iNkcqnj5Buv09oDSiNnGgGfB7KhfqCVfQo2Q",
+  "permissions": {
+    "Camera": [
+      "take pictures and videos"
+    ],
+    "Other": [
+      "full network access",
+      "prevent device from sleeping",
+      "view network connections"
+    ]
+  },
+  "reviews_data": null
+}

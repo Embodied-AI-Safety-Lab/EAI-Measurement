@@ -1,0 +1,82 @@
+{
+  "pkg_name": "com.mzbots.android.powerbot",
+  "appId": "com.mzbots.android.powerbot",
+  "title": "POWERbot-S",
+  "developer": "Samsung Electronics Co.,  Ltd.",
+  "developer_id": "5200379633052405703",
+  "developer_email": "daapp@samsung.com",
+  "developer_website": null,
+  "developer_address": null,
+  "category": "Tools",
+  "category_id": "TOOLS",
+  "content_rating": "Everyone",
+  "score": 3.857143,
+  "ratings": 183,
+  "reviews_count": 2,
+  "installs": "10,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://api-ca.midea.com/v1/app2pro/licence?appId=1304&type=privacy&lang=en",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "POWERbot-S APP just helps you to release your hands from housework. You can only control you robot vacuum via app, to get started, go back to docking station or other controls.",
+  "descriptionHTML": "POWERbot-S APP just helps you to release your hands from housework. You can only control you robot vacuum via app, to get started, go back to docking station or other controls.",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/mEzh9_FTKANFPYw8PrtKjugDiODFvBznP1bO0HwQ7YxCwmJ9jHwhmGzxEO9-3m8xYiNP",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/gzh5hCpzx-rXL-ujUY5QK66rShQMqJgMViO9SosuU6woUi0UyZvJ1830ZvhdlXa8aSY",
+    "https://play-lh.googleusercontent.com/NAzqLTky03nU-xOOnXJ-bf5OxMabGrOuptPk_NhWO2MI2yKGFZ703lpm3AUAMpoWbHY",
+    "https://play-lh.googleusercontent.com/smogH323PnSZupB1hitzpS4n8BRuoWHi6u0Q2PbsPcPxA8zaYPmE4lIpj1Rg8CsxQ70",
+    "https://play-lh.googleusercontent.com/Ll3jfJJMa1kJnDmk8qTzKnHTfiaC_F7zd5Vwbi2kRt5c_jfo6nYDFiyioSBajY1uM2o",
+    "https://play-lh.googleusercontent.com/rxNmiD4P-AObsuMOKq60wh_CpKK5DR49EC7Arh1VCJkdq6jtz-2XPXwIsa3uo50sLHs",
+    "https://play-lh.googleusercontent.com/9uaSk38JXxCzGQgman_0qxmL63dkYEgyBf_IzZEY1KnCHwfPTka1V6laFc-9HDqiBV0"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/y6X7bvvsaMsJKpALNRQcL1D-iOTSMcHxdV-BBmfZFv8DD4y3Hr-7qD14kClTk5Pe0g",
+  "permissions": {
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Phone": [
+      "read phone status and identity"
+    ],
+    "Photos/Media/Files": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Camera": [
+      "take pictures and videos"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Device ID & call information": [
+      "read phone status and identity"
+    ],
+    "Other": [
+      "access Bluetooth settings",
+      "allow Wi-Fi Multicast reception",
+      "change network connectivity",
+      "connect and disconnect from Wi-Fi",
+      "control flashlight",
+      "control vibration",
+      "full network access",
+      "pair with Bluetooth devices",
+      "prevent device from sleeping",
+      "view network connections"
+    ],
+    "Uncategorized": [
+      "receive data from Internet"
+    ]
+  },
+  "reviews_data": null
+}

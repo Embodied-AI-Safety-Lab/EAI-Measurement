@@ -1,0 +1,120 @@
+{
+  "pkg_name": "com.dji.GSDemo.InspectionSpecialist",
+  "appId": "com.dji.GSDemo.InspectionSpecialist",
+  "title": "DroneMagic",
+  "developer": "Computer Golf Software Inc.",
+  "developer_id": "Computer+Golf+Software+Inc.",
+  "developer_email": "support@computergolf.com",
+  "developer_website": "http://computergolf.com",
+  "developer_address": null,
+  "category": "Tools",
+  "category_id": "TOOLS",
+  "content_rating": "Everyone",
+  "score": 3.9512196,
+  "ratings": 52,
+  "reviews_count": 9,
+  "installs": "10,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": true,
+  "privacy_policy": "http://www.computergolf.com/wp-content/privacy_policy.html",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "The DroneMagic Autonomous Flight Solution\r\n\r\nhttps://www.youtube.com/channel/UCc0jPPUJCDjViXmzQxK54uA/\r\n\r\nDroneMagic is an innovative and comprehensive autonomous drone operating application to support unmanned aerial vehicle (UAV) drone missions using DJI commercial drones including the Mavic, Phantom, Inspire and Matrice series. Each flight includes tools for planning, mission-based flight, data capture and post-flight analysis.  DroneMagic is ideal for commercial implementations for roof inspections, real estate, agriculture, golf courses and more.\r\nThe software’s intuitive Android-based Google Maps interface is used to easily and quickly create single, multi-point and orthomosaic mapping mission plans. The DroneMagic App includes four (4) mission operating modes: \r\n1. Waypoint Missions – Designed with safe takeoff and return home features, Waypoint pilotless flights are configurable to any number of pre-selected map locations that includes named waypoints to optimize flight data for post-mission analysis. \r\n2. NEW Mapping Missions with post-flight orthomosaic map rendering - DroneMagic includes an innovative tool to rapidly create a mapping flight grid with pre-calculated path overlap.  Mapping missions generate high-res 2D orthomosaic maps, 3D models, thermal maps and surface elevation graphics.  Post-flight photo-based ortho processing is included.  \r\n3. Hotpoint Missions – Hotpoint flights navigate a circumference around a pre-specified geographical target. They are automated, line of sight missions that occur within remote controller range.   \r\n4. QuickPoint Missions – QuickPoint flights are fully autonomous for beyond visual line of sight missions that have FAA Part 107 approval.  QuickPoint allows for a single point, rapid set-up, fully autonomous Hotpoint aerial drone mission (see above) \r\n\r\nDroneMagic Operating Features\r\nGoogle Maps interface - Visualize flight plans on Google Maps with automatic screenshot capture for each mission. A hybrid integration provides satellite view with street details to optimize waypoint placement. \r\nMapping - Rapidly auto-create a mapping-mission grid overlay by touching the Google Maps interface to create a four-point boundary. DroneMagic will auto-fill the mapping route based on pre-selected flight parameters.\r\nSafety - Drone damage and loss prevention features are standard through a safe height collision and obstacle avoidance system with an optimized safe go-home height.  DroneMagic will pre-detect a safe home location before allowing takeoff.\r\nBattery Management - Battery sensors are auto-configured based on flight plan with ability to check drone battery lifetime left.  \r\nData Management - Post-mission photo data transfer includes a wireless transfer option of photos from drone to a tablet’s storage and/or a hard-wired transfer to any device with USB connectivity. Storage-ready flight logs, imagery, photos, video, and uploaded files.  Google Drive storage integration with Waypoint Missions.  \r\nWeb Integration - Auto-update a website with mission media content. System will compress photos into a web-optimized format with upload to Google Drive storage.  \r\nVideo -  A satellite-detected home waypoint is automatically set.  Stream live via YouTube (applies to LOS flights)\r\nOrtho Processing - Export and integrate with DroneMagic mapping software to generate orthomosaics, digital surface models, NDVI maps, plant health graphics and contour maps.  \r\n\r\nWarranty Notification – \r\nTHE DRONEMAGIC SOFTWARE APPLICATION IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANT-ABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.",
+  "descriptionHTML": "The DroneMagic Autonomous Flight Solution<br><br>https://www.youtube.com/channel/UCc0jPPUJCDjViXmzQxK54uA/<br><br>DroneMagic is an innovative and comprehensive autonomous drone operating application to support unmanned aerial vehicle (UAV) drone missions using DJI commercial drones including the Mavic, Phantom, Inspire and Matrice series. Each flight includes tools for planning, mission-based flight, data capture and post-flight analysis.  DroneMagic is ideal for commercial implementations for roof inspections, real estate, agriculture, golf courses and more.<br>The software’s intuitive Android-based Google Maps interface is used to easily and quickly create single, multi-point and orthomosaic mapping mission plans. The DroneMagic App includes four (4) mission operating modes: <br>1. Waypoint Missions – Designed with safe takeoff and return home features, Waypoint pilotless flights are configurable to any number of pre-selected map locations that includes named waypoints to optimize flight data for post-mission analysis. <br>2. NEW Mapping Missions with post-flight orthomosaic map rendering - DroneMagic includes an innovative tool to rapidly create a mapping flight grid with pre-calculated path overlap.  Mapping missions generate high-res 2D orthomosaic maps, 3D models, thermal maps and surface elevation graphics.  Post-flight photo-based ortho processing is included.  <br>3. Hotpoint Missions – Hotpoint flights navigate a circumference around a pre-specified geographical target. They are automated, line of sight missions that occur within remote controller range.   <br>4. QuickPoint Missions – QuickPoint flights are fully autonomous for beyond visual line of sight missions that have FAA Part 107 approval.  QuickPoint allows for a single point, rapid set-up, fully autonomous Hotpoint aerial drone mission (see above) <br><br>DroneMagic Operating Features<br>Google Maps interface - Visualize flight plans on Google Maps with automatic screenshot capture for each mission. A hybrid integration provides satellite view with street details to optimize waypoint placement. <br>Mapping - Rapidly auto-create a mapping-mission grid overlay by touching the Google Maps interface to create a four-point boundary. DroneMagic will auto-fill the mapping route based on pre-selected flight parameters.<br>Safety - Drone damage and loss prevention features are standard through a safe height collision and obstacle avoidance system with an optimized safe go-home height.  DroneMagic will pre-detect a safe home location before allowing takeoff.<br>Battery Management - Battery sensors are auto-configured based on flight plan with ability to check drone battery lifetime left.  <br>Data Management - Post-mission photo data transfer includes a wireless transfer option of photos from drone to a tablet’s storage and/or a hard-wired transfer to any device with USB connectivity. Storage-ready flight logs, imagery, photos, video, and uploaded files.  Google Drive storage integration with Waypoint Missions.  <br>Web Integration - Auto-update a website with mission media content. System will compress photos into a web-optimized format with upload to Google Drive storage.  <br>Video -  A satellite-detected home waypoint is automatically set.  Stream live via YouTube (applies to LOS flights)<br>Ortho Processing - Export and integrate with DroneMagic mapping software to generate orthomosaics, digital surface models, NDVI maps, plant health graphics and contour maps.  <br><br>Warranty Notification – <br>THE DRONEMAGIC SOFTWARE APPLICATION IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANT-ABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/VykAVAKuKCTyfXruvF-6nc32poxz8dOHhHOyqGn3SsWuJZ1bZ4DtCaMAAGNQUg-CFhIW",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/6a1i3f2PTnpxHaDXPVOGGmntDikK7WSKh4_xfG0sGHPlQEOvEAWCN7gGmusW3YQe0A",
+    "https://play-lh.googleusercontent.com/8pEbi8YOCSbzuaDGEaIpmfONRZnmOhbamIboj9mBfNkyBJZ2EUfnxjlUwqydpyP3GA",
+    "https://play-lh.googleusercontent.com/Ujfg_LZZHug56gJZmcBmFLOaH-UyDtX58JL2EJ-jO8drdSd034GGxsqD1hyar34Ht1E",
+    "https://play-lh.googleusercontent.com/kvXhZSpY2I6Bb2QQPq2AwkvBZg5iGWKgfGPG4o2f0stVuDyDrF_ghAy3FU2GHJCd21w",
+    "https://play-lh.googleusercontent.com/PwtpPehz3z7gHLToFkZZo76opv3Gc7pVkWP-4V6SHfS3-QX3a6-IDS-EYY-KPvwRnaI",
+    "https://play-lh.googleusercontent.com/9dZI6jF1vzZInLLqaEXcj4Y6a8nQl9n_mgmbgezId31FYBsdHuyxBV_lvCGVdDFczKPM",
+    "https://play-lh.googleusercontent.com/ADntzn08ETVlfLoJpXdr0T0qzo94QFMMYPQRPiwrFsnAnqDpfg9evYmUkrCv9zIkow",
+    "https://play-lh.googleusercontent.com/eEy0Voi7tUjqf2KwCAJk5KGeTrMngFLArdENOF9vlkvtELIAFIrKmXukBeWZWyNrpgFo",
+    "https://play-lh.googleusercontent.com/Vq_83nPkg8trGiOF06v9BRTx_SZDEkDm7kXSll2jBRXiBw37xIf7LzTFbemrgzTlBQ6M",
+    "https://play-lh.googleusercontent.com/POFQaqnqlklGDFKu4DIsr_HbRrXA4mt_2W9BYIhfTyAYDqOIDBoOY2M4E1ZR4dKKC40",
+    "https://play-lh.googleusercontent.com/66M-RvgB0u1WmaTdYV73x5ik_y26DKwoJdY4y-jB0Q5hJMfUv-TVjFurrvbufTfW1w",
+    "https://play-lh.googleusercontent.com/rbrAvAarSV9S3YymC7dkpWqTVe7Sxz4xO0hGnA-hEW9kr1MfRdGlBlzmkPyAzpK_Ew",
+    "https://play-lh.googleusercontent.com/WQeqZlsxsH3W2epevLG2vfWR0KNdexQxyoIw9tQ4cBqVOFwTG6SaUQZK2qC0xIpxcdM",
+    "https://play-lh.googleusercontent.com/5DpbA4IG_gPp_Cw_8_9mqt2H5ZpO2gshT4sobh-xckHp_ISB3nyVVZd9IPfgmnARJw",
+    "https://play-lh.googleusercontent.com/e7ZsYVgomjIQk5H8yttxyDLq8o5R3GNbaOOOc_5CVE_y5DJXBkrl8pM1hdOC3hCdZNRD",
+    "https://play-lh.googleusercontent.com/etTm_jE7hJD4xG34XTYP4QOAU91hfHWOa5l9T56pnd_1ZqozW0_GWHY9_nFkot7X1A4",
+    "https://play-lh.googleusercontent.com/RBXBOon9uR4R5Kv443SDhbMz-nzeyUpmjOXh6g9vjhagweFM1YH2yp-Ci-0F8v1EjbrB",
+    "https://play-lh.googleusercontent.com/NdOL1K8O-fHSUr4m2gN32NxPN1eGsAraD96-dm43W_32Fx1aFI1wfu6U9yUuq8wnJBc",
+    "https://play-lh.googleusercontent.com/QwcAMgnQOEbEiaQms6DyG4RNQenbalMPYxvTPBvcbyVTboy9yvc3xOMZd42BPnczMA",
+    "https://play-lh.googleusercontent.com/3-YzLWsSleUp9GgUuZuy1hhnFLtJwMSYPN1fvreJOmhw49Znv88qaiAtTm4SGl2Ujiw",
+    "https://play-lh.googleusercontent.com/KWn480qR8a6ui4u9L87KuPMA2YSUsiwr-90i9RKWcymGLRcWYCrm-urq1Vj9GzHiJNM",
+    "https://play-lh.googleusercontent.com/7BrNZMgDl4woP223y_1RzgVmOUMFjNAHpoobLq8PfVRAoAGbJ0xlkxLcpTNObuyxJ_o"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/UnV2ufdo2Sx_Qf6UCv9Iw0C2n8P_Q4L6oEjNf4UdSaK4UG_xbaoeV5EydgX0z3M30-_r",
+  "permissions": {
+    "Device & app history": [
+      "read sensitive log data",
+      "retrieve running apps"
+    ],
+    "Identity": [
+      "add or remove accounts",
+      "find accounts on the device"
+    ],
+    "Contacts": [
+      "find accounts on the device"
+    ],
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Phone": [
+      "read phone status and identity"
+    ],
+    "Photos/Media/Files": [
+      "access USB storage filesystem",
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Camera": [
+      "take pictures and videos"
+    ],
+    "Microphone": [
+      "record audio"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Device ID & call information": [
+      "read phone status and identity"
+    ],
+    "Other": [
+      "access Bluetooth settings",
+      "add words to user-defined dictionary",
+      "change network connectivity",
+      "change system display settings",
+      "close other apps",
+      "connect and disconnect from Wi-Fi",
+      "control vibration",
+      "draw over other apps",
+      "full network access",
+      "modify system settings",
+      "pair with Bluetooth devices",
+      "prevent device from sleeping",
+      "read Google service configuration",
+      "run at startup",
+      "send sticky broadcast",
+      "use accounts on the device",
+      "view network connections"
+    ],
+    "Uncategorized": [
+      "full license to interact across users"
+    ]
+  },
+  "reviews_data": null
+}

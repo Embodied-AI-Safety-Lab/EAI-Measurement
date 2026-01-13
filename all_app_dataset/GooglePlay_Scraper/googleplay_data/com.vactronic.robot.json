@@ -1,0 +1,97 @@
+{
+  "pkg_name": "com.vactronic.robot",
+  "appId": "com.vactronic.robot",
+  "title": "Vactronic",
+  "developer": "VACTRONIC",
+  "developer_id": "VACTRONIC",
+  "developer_email": "lukasz@eposejdon.pl",
+  "developer_website": "https://vactronic.eu/",
+  "developer_address": null,
+  "category": "House & Home",
+  "category_id": "HOUSE_AND_HOME",
+  "content_rating": "Everyone",
+  "score": null,
+  "ratings": null,
+  "reviews_count": null,
+  "installs": "500+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://vactronic.eu/app-privacy-policy/",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "\"The Vactronic App is a mobile phone application that connects Vactronic smart products. You can control the functions of the product and monitor your product in real-time through the application. Here, you can control the product anytime and anywhere, and you can also streamline communication between smart devices. Intercommunication makes the product more portable and smart during use.\r\n\r\n\r\nLinkage control, easy to use\r\nWe want you to experience a smarter and more portable lifestyle. The app is simple to operate and you can quickly add a variety of home appliances while performing linkage operations to interconnect smart devices.\r\n\r\nShare your joy with just one-click \r\nWe want to add more fun to your life. With simple one-click sharing, you can share your device with family and friends, manage it remotely, experience convenience, and enjoy the fun of science and technology together.\r\n\r\nConnect to the Internet in no time\r\nAfter connecting to your smart device, you can\r\n(1) Start and pause your robot remotely\r\n(2) View the cleaning map and understand the robot cleaning area\r\n(3) Set the cleaning mode you want to track cleaning tasks\r\n\r\nDownload now and experience this house cleaning \"\"beast\"\" by Vactronic.\"",
+  "descriptionHTML": "&quot;The Vactronic App is a mobile phone application that connects Vactronic smart products. You can control the functions of the product and monitor your product in real-time through the application. Here, you can control the product anytime and anywhere, and you can also streamline communication between smart devices. Intercommunication makes the product more portable and smart during use.<br><br><br>Linkage control, easy to use<br>We want you to experience a smarter and more portable lifestyle. The app is simple to operate and you can quickly add a variety of home appliances while performing linkage operations to interconnect smart devices.<br><br>Share your joy with just one-click <br>We want to add more fun to your life. With simple one-click sharing, you can share your device with family and friends, manage it remotely, experience convenience, and enjoy the fun of science and technology together.<br><br>Connect to the Internet in no time<br>After connecting to your smart device, you can<br>(1) Start and pause your robot remotely<br>(2) View the cleaning map and understand the robot cleaning area<br>(3) Set the cleaning mode you want to track cleaning tasks<br><br>Download now and experience this house cleaning &quot;&quot;beast&quot;&quot; by Vactronic.&quot;",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/k2FKDiQLzVbv2aOPC_jFt7rI-inEvf5skkfdZVM15k3T4GorUT0ttRyj3QnYWY-kofU",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/afkluhOIZ1OgXvmDz9WamxT2a5afpU085yMCcyeVxJzflmscbbx9_LUYLL7PAjWYJRnb",
+    "https://play-lh.googleusercontent.com/XpOCPl3EG-A6FMrv6dJL6cVsCWinppR6bndQCHeyOmuznGZ5XYJCeFjl3r3AjDXntw",
+    "https://play-lh.googleusercontent.com/U2Fbi1hxbeoPmfyjrlhdMVBB1pPY0Ka1kN4UicIalnKyX0r2o-9f62oEigbkmzh54g",
+    "https://play-lh.googleusercontent.com/QFgqy2ArqZ_3xvQ5cj5DfS9AHmRKxjA9r5E47HPgsKRVCJOPVCFftzsYW2IVMxHyTPOp",
+    "https://play-lh.googleusercontent.com/H8WQuzatwpIpVlROUJreNdWAs2rqiA2qOgfUY_9oN7od7gk74KHu6XkZ9cYt5p5I7Fo",
+    "https://play-lh.googleusercontent.com/Vw28Ey_dM5TiJPacljxVR38nSJDwhZdRW76bmBcSBv0EHPWRqf_4622TY1en_JdoOQYm",
+    "https://play-lh.googleusercontent.com/-QRpXAdvOw6Tozj85fZURJfHvWiFSw_RxoDYaoTAV1naxn0VIOjI37X-RC3TFy7tFY4",
+    "https://play-lh.googleusercontent.com/g-Mq9rR5RxR4Qxi75hnCES-X7QClC0Y9dmaZ_lc2GbafkAzaakudWkEM-EGqAygUOCs",
+    "https://play-lh.googleusercontent.com/i7beRnTKkIzcguX0c2-u76BPJKoKl-tkfBYrAJgWVeYuB3DeLty9evXB6hl7ILLjlHQ",
+    "https://play-lh.googleusercontent.com/GWtClIEmNbFzXvzqbR9bRsi0YnkB53-9s7K4b-NbJQscsciT8sl4EItJj8tePfWwX_Y",
+    "https://play-lh.googleusercontent.com/zcgU9Lkcnt-js3QoT55RtIAbwDh-28B0MjmKSN7oDl5wWr3vtpJMbPE5MnQ8fW7etdw",
+    "https://play-lh.googleusercontent.com/yyK8fLleICDjdOW0RlXoOr7MHH0xDf6H4tEN2Dtveuctu1E_22AVXlYs09YHW0Bx6aA"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/AN1eyhjUH4kb09brv0bTHvnZs8m6NPLXFGLeXIGJe__nqB4jFhCwhLt3PalxeXiySjs",
+  "permissions": {
+    "Device & app history": [
+      "read your Web bookmarks and history",
+      "retrieve running apps"
+    ],
+    "Contacts": [
+      "read your contacts"
+    ],
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Phone": [
+      "read phone status and identity"
+    ],
+    "Photos/Media/Files": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Camera": [
+      "take pictures and videos"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Device ID & call information": [
+      "read phone status and identity"
+    ],
+    "Other": [
+      "access Bluetooth settings",
+      "allow Wi-Fi Multicast reception",
+      "change network connectivity",
+      "connect and disconnect from Wi-Fi",
+      "control flashlight",
+      "control vibration",
+      "full network access",
+      "pair with Bluetooth devices",
+      "prevent device from sleeping",
+      "run at startup",
+      "set wallpaper",
+      "view network connections"
+    ],
+    "Uncategorized": [
+      "receive data from Internet"
+    ]
+  },
+  "reviews_data": null
+}

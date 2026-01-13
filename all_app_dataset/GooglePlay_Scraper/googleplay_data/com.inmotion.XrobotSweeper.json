@@ -1,0 +1,77 @@
+{
+  "pkg_name": "com.inmotion.XrobotSweeper",
+  "appId": "com.inmotion.XrobotSweeper",
+  "title": "Xrobot Sweeper",
+  "developer": "银星智能",
+  "developer_id": "%E9%93%B6%E6%98%9F%E6%99%BA%E8%83%BD",
+  "developer_email": "platform-public@yxrobot.com",
+  "developer_website": "http://www.yxrobot.com/",
+  "developer_address": null,
+  "category": "House & Home",
+  "category_id": "HOUSE_AND_HOME",
+  "content_rating": "Everyone",
+  "score": null,
+  "ratings": null,
+  "reviews_count": null,
+  "installs": "50+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://intermachine.scvrobot.com/api/en/getUserProtocol?companyId=3",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "This is an one-stop management platform for artificial intelligence device of XRobot, it can be used for control of XRobot floor cleaning robot, providing online real-time view of the track, setting up restricted areas and cleaning areas, spot cleaning, scheduled cleaning, etc. Unlock more amazing features, all in Xrobot Sweeper.You can get simple operation, convenient interaction and excellent experience indeed.",
+  "descriptionHTML": "This is an one-stop management platform for artificial intelligence device of XRobot, it can be used for control of XRobot floor cleaning robot, providing online real-time view of the track, setting up restricted areas and cleaning areas, spot cleaning, scheduled cleaning, etc. Unlock more amazing features, all in Xrobot Sweeper.You can get simple operation, convenient interaction and excellent experience indeed.",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/s_hKsthaxqjST8fw8EeF29G4HeWDDUkcnSO5YPxm5HVm4gRjXMaACAif-7cgayAalSo",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/-7o-6lCeh03zd61aK7jasX3bncmBsLj7G4ALHZlo-6IwlynoyTQV97FlDXu2LN_ZaA",
+    "https://play-lh.googleusercontent.com/4NhgmoPchRFRVSp_Zfe1ZOFsnJxAWL0pTq78ymQXCmJpgfrBrrTZFkoqPnoNuyWFQkk"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/0walgEI8whBQPN_2mTkjkrs6ywjYCqw0OgtGRs2GXqltBUTzqnCpJUj75q1sb-hrJQ",
+  "permissions": {
+    "Device & app history": [
+      "retrieve running apps"
+    ],
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Phone": [
+      "read phone status and identity"
+    ],
+    "Photos/Media/Files": [
+      "access USB storage filesystem",
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Camera": [
+      "take pictures and videos"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Device ID & call information": [
+      "read phone status and identity"
+    ],
+    "Other": [
+      "allow Wi-Fi Multicast reception",
+      "change network connectivity",
+      "connect and disconnect from Wi-Fi",
+      "control vibration",
+      "full network access",
+      "modify system settings",
+      "pair with Bluetooth devices",
+      "view network connections"
+    ]
+  },
+  "reviews_data": null
+}

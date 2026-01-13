@@ -1,0 +1,62 @@
+{
+  "pkg_name": "it.centrosistemi.marlin",
+  "appId": "it.centrosistemi.marlin",
+  "title": "Marlin",
+  "developer": "Zucchetti Centro Sistemi S.p.A.",
+  "developer_id": "Zucchetti+Centro+Sistemi+S.p.A.",
+  "developer_email": "idealab@centrosistemi.it",
+  "developer_website": "http://www.marlinrobot.com",
+  "developer_address": null,
+  "category": "Tools",
+  "category_id": "TOOLS",
+  "content_rating": "Everyone",
+  "score": 0,
+  "ratings": 0,
+  "reviews_count": 0,
+  "installs": "1,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "http://www.marlinrobot.com/it/privacy-policy",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "Developed App for Marlin, the revolutionary wireless, autonomous, safe and always in water pool-cleaning robot!\r\nMarlin Remote offers the possibility to consult the user manual, set the settings of the robot , download and install software updates.\r\nPool cleaning has never been so easy and relaxing !",
+  "descriptionHTML": "Developed App for Marlin, the revolutionary wireless, autonomous, safe and always in water pool-cleaning robot!<br>Marlin Remote offers the possibility to consult the user manual, set the settings of the robot , download and install software updates.<br>Pool cleaning has never been so easy and relaxing !",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/fLePkwNTguJdhNFx0gDjT_1v9ltqYvN1d6F2k07azY8XB6K01l6VNZJoDWqQ_KHBekM",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/HfygJwDbSo9dksENlx5U2_9ocifF_jPCUAotlnARRcj5DpnKTda2zgz-pbDD5HgCiw",
+    "https://play-lh.googleusercontent.com/o3icXKMz4jpNT1jMS9_xHEyf31CePzujfJD7epgdU7CXnkMwmIyJ6quVOkBYBFHpkh0",
+    "https://play-lh.googleusercontent.com/KQ8antQljOykNfGNzqguBTrvaksOQo0lcJOXFlAPhth3Bu4qflmALZhG108zBTJ_8WI"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/C5EHU90Y1GghTvMj64EniHCB-R2vJw-RdtIIgX2TjtSqH02Anw3jK7O9l0pnq9puPEaH",
+  "permissions": {
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Phone": [
+      "read phone status and identity"
+    ],
+    "Device ID & call information": [
+      "read phone status and identity"
+    ],
+    "Other": [
+      "access Bluetooth settings",
+      "control vibration",
+      "full network access",
+      "pair with Bluetooth devices",
+      "prevent device from sleeping",
+      "run at startup",
+      "view network connections"
+    ],
+    "Uncategorized": [
+      "receive data from Internet"
+    ]
+  },
+  "reviews_data": null
+}

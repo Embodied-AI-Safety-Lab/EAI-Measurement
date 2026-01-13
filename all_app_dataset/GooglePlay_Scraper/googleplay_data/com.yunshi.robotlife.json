@@ -1,0 +1,90 @@
+{
+  "pkg_name": "com.yunshi.robotlife",
+  "appId": "com.yunshi.robotlife",
+  "title": "Lefant",
+  "developer": "Included User Muanual",
+  "developer_id": "Included+User+Muanual",
+  "developer_email": "lefantlife@lefant.com",
+  "developer_website": "http://www.lefant.com",
+  "developer_address": null,
+  "category": "Tools",
+  "category_id": "TOOLS",
+  "content_rating": "Everyone",
+  "score": 3.12,
+  "ratings": 1602,
+  "reviews_count": 144,
+  "installs": "500,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://mobile.useerobot.com/#/pages/center/agreement/agreement?lang=en-US&privacy=0",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "*T series and M500 series are not currently supported, coming soon\r\n\r\n[Check Routine] \r\nCheck your cleaning task anytime you want, with whole routine record and \r\nkeep your space always clean\r\n[Remote Control] \r\nWherever you are, schedule your cleaning task with no worries, enjoy your fresh space when you get home\r\n[Fast update] \r\nOne-click firmware update for better experience\r\n[Customer Service]\r\nBuilt-in support functions help you solve any problems you may encounter. Purchase our products with no worries.We are sincerely grateful for your support",
+  "descriptionHTML": "*T series and M500 series are not currently supported, coming soon<br><br>[Check Routine] <br>Check your cleaning task anytime you want, with whole routine record and <br>keep your space always clean<br>[Remote Control] <br>Wherever you are, schedule your cleaning task with no worries, enjoy your fresh space when you get home<br>[Fast update] <br>One-click firmware update for better experience<br>[Customer Service]<br>Built-in support functions help you solve any problems you may encounter. Purchase our products with no worries.We are sincerely grateful for your support",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/3XfoCkR7PPiOaNhyqlCI9piddEjXjzHyDaY0N8Yeu6mVgGMT6NJAneAjHRZb_06mLqYw",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/otZRTtwhS3TNorAl3f585Nhz0DgjIwD21jL0W23r5IJEneqIx6dTEkd3rsYYFG-Jxw",
+    "https://play-lh.googleusercontent.com/1Qy2h-esIQkb15-MTkZ13vuhNhFVCaiXeS-dP_Qk1jexjwbS67UchCP-jEH-puBnCdPz",
+    "https://play-lh.googleusercontent.com/K2nVe_jiWEo3sa7JHM4plqF3_VaeUGxS37_32FcHiBADYhWluieuwtoONzEiBM4cag",
+    "https://play-lh.googleusercontent.com/lIiBSSwTcPZ_XRGrwJw8ISgXxZjzLUQ6eFRvSl8FM9Tehgb1WXe26r1qTJuYJ3O7lEut",
+    "https://play-lh.googleusercontent.com/6nahumeW5vinHosIwyCOijENTIlhQaGsgEBReiZuSNVIxOvpMfOBnl3vd4sxzuEYRaI"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/xc9G1sHQIGH5j1ecib1U9DuVuK3HAEDpTgnALls6A0eVJR_fG9ZCZ4SvUoLXXKvMNlg",
+  "permissions": {
+    "Device & app history": [
+      "retrieve running apps"
+    ],
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Phone": [
+      "read phone status and identity"
+    ],
+    "Photos/Media/Files": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Camera": [
+      "take pictures and videos"
+    ],
+    "Microphone": [
+      "record audio"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Device ID & call information": [
+      "read phone status and identity"
+    ],
+    "Other": [
+      "access Bluetooth settings",
+      "allow Wi-Fi Multicast reception",
+      "change network connectivity",
+      "change your audio settings",
+      "connect and disconnect from Wi-Fi",
+      "control vibration",
+      "disable your screen lock",
+      "full network access",
+      "modify system settings",
+      "pair with Bluetooth devices",
+      "prevent device from sleeping",
+      "set wallpaper",
+      "view network connections"
+    ],
+    "Uncategorized": [
+      "receive data from Internet"
+    ]
+  },
+  "reviews_data": null
+}

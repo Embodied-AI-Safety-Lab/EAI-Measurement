@@ -1,0 +1,72 @@
+{
+  "pkg_name": "com.irobotix.thailand",
+  "appId": "com.irobotix.thailand",
+  "title": "Robotmaker",
+  "developer": "Shenzhen PICEA Robotics Co., Ltd",
+  "developer_id": "Shenzhen+PICEA+Robotics+Co.,+Ltd",
+  "developer_email": "sz3irobotics@gmail.com",
+  "developer_website": "http://www.3irobotix.com",
+  "developer_address": null,
+  "category": "Tools",
+  "category_id": "TOOLS",
+  "content_rating": "Everyone",
+  "score": null,
+  "ratings": null,
+  "reviews_count": null,
+  "installs": "1,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "http://www.3irobotix.com/userPrivacy/userPrivacy.html",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "Robotmaker  APP can control your LiDAR Cleaning Robot wherever you are, the robot will carry out the cleaning working automatically according to your instructions through the APP, you just need to hail its high-efficient cleaning performances, and enjoy your clean and cosy home.\r\n\r\nAPP Intelligent Control\r\n\tReal time map: the map will be created simultaneously when robot start cleaning, you could see the working situation clearly through the APP.\r\n\tControl anywhere, anytime: easy control all functions of robot through the APP, Cleaning at anywhere, anytime\r\n\tSchedule: make the reservation for day to day cleaning working, cater for your customized cleaning requirements.\r\n\tSoftware update: understand the robot’s updated status through APP prompt, keep your robot with best performance.\r\n\tMulti-purpose: Not only can start, stop, pause cleaning and recharging, but support switching for multiple cleaning modes—standard, turbo, eco",
+  "descriptionHTML": "Robotmaker  APP can control your LiDAR Cleaning Robot wherever you are, the robot will carry out the cleaning working automatically according to your instructions through the APP, you just need to hail its high-efficient cleaning performances, and enjoy your clean and cosy home.<br><br>APP Intelligent Control<br>\tReal time map: the map will be created simultaneously when robot start cleaning, you could see the working situation clearly through the APP.<br>\tControl anywhere, anytime: easy control all functions of robot through the APP, Cleaning at anywhere, anytime<br>\tSchedule: make the reservation for day to day cleaning working, cater for your customized cleaning requirements.<br>\tSoftware update: understand the robot’s updated status through APP prompt, keep your robot with best performance.<br>\tMulti-purpose: Not only can start, stop, pause cleaning and recharging, but support switching for multiple cleaning modes—standard, turbo, eco",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/OOoKyey9tM6HY8WD6S7VqYtyMKMnrgHDpYxdoTJKeiTPFoUjrfzOQbJ2gLJvw2AdtG4",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/JS-TC284nMyuUwi2wb8RAjumSn1Y_rghiCpvkMDQC4rGEHnvccxApuqex2L9Sd0S-Q",
+    "https://play-lh.googleusercontent.com/t9N2AzH5uammnQa_Vrm_IojtFHpUzan_PAaMhiQiQRX3vltT0UWrx2MMnG2wRyHFMg0",
+    "https://play-lh.googleusercontent.com/nxZg2xwbi_ooDX9oBhZRpeyck7V7ThcZ97CrL4k7fpMSpnAuXhwDt56S2ZBXBJTfg7HE"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/p_Vm5ywMxweOkc7GisPGH6pODH1JpNGbsA1-asE0MqHG1u-j8CKlpitcjdBn00uQeSg",
+  "permissions": {
+    "Device & app history": [
+      "read sensitive log data"
+    ],
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Phone": [
+      "directly call phone numbers"
+    ],
+    "Photos/Media/Files": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Other": [
+      "change network connectivity",
+      "change system display settings",
+      "close other apps",
+      "connect and disconnect from Wi-Fi",
+      "draw over other apps",
+      "full network access",
+      "prevent device from sleeping",
+      "read terms you added to the dictionary",
+      "view network connections"
+    ]
+  },
+  "reviews_data": null
+}

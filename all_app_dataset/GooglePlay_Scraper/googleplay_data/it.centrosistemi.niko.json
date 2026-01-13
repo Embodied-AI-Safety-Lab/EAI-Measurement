@@ -1,0 +1,95 @@
+{
+  "pkg_name": "it.centrosistemi.niko",
+  "appId": "it.centrosistemi.niko",
+  "title": "My Robot Wiper",
+  "developer": "Zucchetti Centro Sistemi S.p.A.",
+  "developer_id": "Zucchetti+Centro+Sistemi+S.p.A.",
+  "developer_email": "info@nikocompany.com",
+  "developer_website": "http://www.wiperecorobot.it",
+  "developer_address": null,
+  "category": "Tools",
+  "category_id": "TOOLS",
+  "content_rating": "Everyone",
+  "score": 0,
+  "ratings": 0,
+  "reviews_count": 0,
+  "installs": "10,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://privacy-app-consumer-zcs.web.app",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "My Robot Wiper, it’s easy and fun!\r\n\r\nMy Robot Wiper is specifically created for Wiper Robot customers, to let them have a useful and fun experience with their lawn mower.\r\n\r\nEASY SETTING – easily set up all the settings directly from your smartphone. (Now available only for the model Yard L400)\r\n\r\nHAVE FUN – drive Wiper Robot manually through your garden and play with your family and friends!\r\n\r\nBE UPDATED – stay tuned with the latest updates and upgrade your Wiper Robot directly through your app.\r\n\r\n** IMPORTANT **\r\nThe Update function is not available for all mower.",
+  "descriptionHTML": "My Robot Wiper, it’s easy and fun!<br><br>My Robot Wiper is specifically created for Wiper Robot customers, to let them have a useful and fun experience with their lawn mower.<br><br>EASY SETTING – easily set up all the settings directly from your smartphone. (Now available only for the model Yard L400)<br><br>HAVE FUN – drive Wiper Robot manually through your garden and play with your family and friends!<br><br>BE UPDATED – stay tuned with the latest updates and upgrade your Wiper Robot directly through your app.<br><br>** IMPORTANT **<br>The Update function is not available for all mower.",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/nv2kKL_vW6y7kdjgaZDjjZwBqxDV8RiCH8hivWr23W3qQ27ievQFLyeGPgHR7evoSnpS",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/nLBpzT2MHrXpzAn9ida_ER4sIxD1mhPDYSpmvVCAFmDukEdaCMmRd9RmsWZho9Sn0zw",
+    "https://play-lh.googleusercontent.com/2EYVWRDv_cgUtdCnbXoFmEp3QAlPkLYuUOXBGMu7-XQS0du7ERgyRuu4_b05CtECjw",
+    "https://play-lh.googleusercontent.com/noAWETtiNo8IIlyaXM_qmzbfuDBiBm_l2AbIWLsVD0tx3-WNJpEBcMbJdnqd1zU4j8g",
+    "https://play-lh.googleusercontent.com/l4lleW4i74J5CBKV2h6n8jTfgsqJQC31EHanNwm79lciBCSOnJBszYcMNMv8Hoq8qAw",
+    "https://play-lh.googleusercontent.com/vGRT6j6zwpQHp_le7XTuclnkWvFSqGEUpU7Mcw8OyTga-zCDwdk7DaOPBJxhpVpHag",
+    "https://play-lh.googleusercontent.com/DV7DAFzDMC5UMbM_23X3QWlSwQDcEwuCmFDWyIHufrdMBUTkiIzmxkxz953KH_FJhb4",
+    "https://play-lh.googleusercontent.com/RIYzow21DiH9SMVJhaBI5XTS1P9oylMTeNLe6P_Mxby4dPMCRHk9fwReaK751zrBr6w",
+    "https://play-lh.googleusercontent.com/VCPXYkF9ocJ9D2lIgi1bnEcBSJhtz-Z-B--g5nGAkP5b3fFcW3GiMGD-i-YtWK_p6Q"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/21k_ta0GPnKdSDhM0wonBVFtg8t30jfxPMUR0AvPvFBIDJebDjmf2mftlu5llrIekICl",
+  "permissions": {
+    "Identity": [
+      "find accounts on the device"
+    ],
+    "Contacts": [
+      "find accounts on the device",
+      "read your contacts"
+    ],
+    "Location": [
+      "access extra location provider commands",
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Phone": [
+      "directly call phone numbers",
+      "read phone status and identity"
+    ],
+    "Photos/Media/Files": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Camera": [
+      "take pictures and videos"
+    ],
+    "Microphone": [
+      "record audio"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Device ID & call information": [
+      "read phone status and identity"
+    ],
+    "Other": [
+      "access Bluetooth settings",
+      "control vibration",
+      "full network access",
+      "pair with Bluetooth devices",
+      "prevent device from sleeping",
+      "read Google service configuration",
+      "run at startup",
+      "view network connections"
+    ],
+    "Uncategorized": [
+      "allow Bluetooth pairing by Application",
+      "receive data from Internet"
+    ]
+  },
+  "reviews_data": null
+}

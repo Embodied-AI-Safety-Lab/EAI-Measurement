@@ -1,0 +1,54 @@
+{
+  "pkg_name": "com.robot.meteer",
+  "appId": "com.robot.meteer",
+  "title": "Meteer",
+  "developer": "Duchongyang Trading Co., Ltd",
+  "developer_id": "Duchongyang+Trading+Co.,+Ltd",
+  "developer_email": "rockey@zzcxrobot.com",
+  "developer_website": null,
+  "developer_address": null,
+  "category": "Tools",
+  "category_id": "TOOLS",
+  "content_rating": "Everyone",
+  "score": null,
+  "ratings": null,
+  "reviews_count": null,
+  "installs": "100+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://docs.google.com/document/d/1gCb0X1mRKgdCJ7MM1Wr7eCxVRIW_WnkSxahbOhOe52U/edit?usp=sharing",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "This is a control tool for the Meteer robot. It can be connected to the Meteer robot through Bluetooth data. The orientation control, expression display, and action display of the Meteer robot can be managed via the remote control page. Moreover, it can assist the Meteer robot in establishing a network connection through the WiFi networking page",
+  "descriptionHTML": "This is a control tool for the Meteer robot. It can be connected to the Meteer robot through Bluetooth data. The orientation control, expression display, and action display of the Meteer robot can be managed via the remote control page. Moreover, it can assist the Meteer robot in establishing a network connection through the WiFi networking page",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/ZddDqEIUFUA78ng-MWYeDSi0Cvu2i8saNXp0N99jUNXjOXIRZOx1Tuzew7VoKnIHM6w",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/Ru8ww_GuyKynXvWdd-frq2svbewTDDEgCfdJIfjuwl66nVRQX-UFfifaYBylwhgkKhM",
+    "https://play-lh.googleusercontent.com/fLDVJ1T7UKxwEiXW8VWVA-LiKjwzN2QzPJkEHwAWrVwoqexP6B3qwvj0qBqrcKULIRs",
+    "https://play-lh.googleusercontent.com/03QqW27nONias_VCSvXhbU53pNrsNuTh-iVqmPDKSic2iuMVR1uef2F_vKwPZtF4ArLC",
+    "https://play-lh.googleusercontent.com/TQ2Ysqs-V8BjhndJiDnBsKFMSge_ymEJ6g9wB5SmqtSis27l59MAx1i_Xz2PIMcvsA"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/GQHliskUQ9Gx4CEn07q7GaDC27nnIH6cBhoo5Zya8560SeE7K6okRxz_jtOSVIsf_Q",
+  "permissions": {
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Other": [
+      "access Bluetooth settings",
+      "full network access",
+      "pair with Bluetooth devices",
+      "view network connections"
+    ]
+  },
+  "reviews_data": null
+}

@@ -1,0 +1,58 @@
+{
+  "pkg_name": "com.hiwonder.wonderros",
+  "appId": "com.hiwonder.wonderros",
+  "title": "WonderROS",
+  "developer": "Hiwonder",
+  "developer_id": "Hiwonder",
+  "developer_email": "support@hiwonder.com",
+  "developer_website": "https://www.hiwonder.com",
+  "developer_address": null,
+  "category": "Tools",
+  "category_id": "TOOLS",
+  "content_rating": "Everyone",
+  "score": null,
+  "ratings": null,
+  "reviews_count": null,
+  "installs": "1,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://www.hiwonder.com/pages/app-privacy",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "This app is used to control Hiwonder's robots,support AiNex,ROSLander,ROSpug,ROSpider",
+  "descriptionHTML": "This app is used to control Hiwonder&#39;s robots,support AiNex,ROSLander,ROSpug,ROSpider",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/j8gr3cb1eOgKa5Zs6OL_IoHgX9mfGg71zbMuRJia57zMCdqwWacTuTn9t4e4bAIVbTA",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/zbqf9sSzBcEUwHsbTl4dU8ZfJHCdRyXfMwfTL7iPlaMUit8C8AxgUcxpDVp6ERLpTA",
+    "https://play-lh.googleusercontent.com/BAZJydi1KZWs6R4T7TfpHBlLt1PAbJQUprHL0UWwKaESrUQQxDM_5k1vMaTk3ilnG3o",
+    "https://play-lh.googleusercontent.com/UVZNUM74wu1aETe5YqZ-vxrghLdg1BpXtB_AS4h6RD0C_ER9VIs9svKjA7GO4xH6QxzC",
+    "https://play-lh.googleusercontent.com/9VuKQEWJeb2M01xwPYv36nx_S1de-bDVaeHifd66QqopysVy4dP_KZ4AKMvfoJl30ko",
+    "https://play-lh.googleusercontent.com/wuJBnEbYbep75LnjdtL9U_K9__fvjw3H3r9LBTGO1sllI1XCpF68zSXthxUtBXss5V4"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/maoPK4EyVsGbbiU6-xkjfc8PTgfs17QfZ1nF0NZaSFhDnHGl_r4hOnfGUyn2-r4uRAk",
+  "permissions": {
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Other": [
+      "allow Wi-Fi Multicast reception",
+      "change network connectivity",
+      "connect and disconnect from Wi-Fi",
+      "control vibration",
+      "full network access",
+      "prevent device from sleeping",
+      "view network connections"
+    ]
+  },
+  "reviews_data": null
+}

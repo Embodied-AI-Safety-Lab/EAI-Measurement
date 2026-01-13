@@ -1,0 +1,78 @@
+{
+  "pkg_name": "com.lcfld.aerodrone",
+  "appId": "com.lcfld.aerodrone",
+  "title": "Aerodrone",
+  "developer": "LcForever",
+  "developer_id": "LcForever",
+  "developer_email": "logicxxh@gmail.com",
+  "developer_website": null,
+  "developer_address": null,
+  "category": "Tools",
+  "category_id": "TOOLS",
+  "content_rating": "Everyone",
+  "score": 4.8,
+  "ratings": 11,
+  "reviews_count": 1,
+  "installs": "1,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://www.jianshu.com/p/fa44fc36aacc",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "1.3D Scattering Screen.\r\n2.Real-time video streaming transmission.\r\n3.Real-time remote sensing control.\r\n4.Gravity Induction Manipulation.\r\n5.Trajectory control.\r\n6.Image filter and multi split screen, recording specified music while recording video.\r\n7.Gesture capture/video.\r\n8.Some models support palm control and figure following.",
+  "descriptionHTML": "1.3D Scattering Screen.<br>2.Real-time video streaming transmission.<br>3.Real-time remote sensing control.<br>4.Gravity Induction Manipulation.<br>5.Trajectory control.<br>6.Image filter and multi split screen, recording specified music while recording video.<br>7.Gesture capture/video.<br>8.Some models support palm control and figure following.",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/yM7xfIMMU7cQ1WtB6xZuNgjXmXv8jvHDV3SMig07su-ffFghvuIjNrlUrlDB6Fu9wfQ",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/Jv2iYed5hqU1Q4HnarGoQ_L8bs2vHiXDl3ykYOHxCnj9BTq03o2YcCNcys1CVkn2u7Nf",
+    "https://play-lh.googleusercontent.com/Wb8uDjo7rE7d34w5V-7wrzt8XlTRpbS-f2psNSlup66b3hk07f_aqKE_kCY9aNysguke",
+    "https://play-lh.googleusercontent.com/1KKr3Qj4AXz5tJB1VmUGsuRVqHXklV1KNsr9ogycX39zZvj8Kp6awCvEzO9LlfDT3Lo",
+    "https://play-lh.googleusercontent.com/BBUPui6tTnRzl_xrAnpbDWJOZAGZa7hplQX3eLdDRMWMDHWeanTF90F6ZVECbxSpVL4"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/CzzGjftqOS33LO9UNcp4vaCWenGWOrDoM6i17HrF5scU2XW9DNAsQ0FddgjVBVGASLA5",
+  "permissions": {
+    "Device & app history": [
+      "retrieve running apps"
+    ],
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Phone": [
+      "read phone status and identity"
+    ],
+    "Photos/Media/Files": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Microphone": [
+      "record audio"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Device ID & call information": [
+      "read phone status and identity"
+    ],
+    "Other": [
+      "allow Wi-Fi Multicast reception",
+      "change network connectivity",
+      "connect and disconnect from Wi-Fi",
+      "control vibration",
+      "full network access",
+      "prevent device from sleeping",
+      "run at startup",
+      "view network connections"
+    ]
+  },
+  "reviews_data": null
+}

@@ -1,0 +1,109 @@
+{
+  "pkg_name": "com.flyexo.drone",
+  "appId": "com.flyexo.drone",
+  "title": "Fly EXO 2",
+  "developer": "EXO Drones",
+  "developer_id": "7946911500899627921",
+  "developer_email": "charlie.cannon@exodrones.com",
+  "developer_website": "https://exodrones.com/",
+  "developer_address": null,
+  "category": "Entertainment",
+  "category_id": "ENTERTAINMENT",
+  "content_rating": "Everyone",
+  "score": 3.2962964,
+  "ratings": 28,
+  "reviews_count": 13,
+  "installs": "5,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://exodrones.com/pages/privacy-policy",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "-Watch your drone camera real-time, in HD.\r\n-Enjoy 10+ smart-fly modes and automated shots\r\n-Exact GPS locationing\r\n-Up to a 4 mile image range\r\n\r\n& too many other bullet points to list. Enjoy our most epic drone to date, and reach out to support at exodrones.com with any questions you may have!",
+  "descriptionHTML": "-Watch your drone camera real-time, in HD.<br>-Enjoy 10+ smart-fly modes and automated shots<br>-Exact GPS locationing<br>-Up to a 4 mile image range<br><br>&amp; too many other bullet points to list. Enjoy our most epic drone to date, and reach out to support at exodrones.com with any questions you may have!",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/J9VQa1MwAkcG3oOjb1v8GPnlQws8SBHv2_DWxwSGz0PuhMyEYlXXfEWcs76qqvpYL-iv",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/s81cBKKEo7Hm6caSBDr446BYAWg8bEpSu5LfketsQ8l-2ZQWpubhNC8VPykBfzFIXUg",
+    "https://play-lh.googleusercontent.com/MyrdKWTizCR5CCyNEZrnZjk4m0JtzuHpCvOxNxAcdI0UgfQPSqXVq5Iadc9OZfCnGw",
+    "https://play-lh.googleusercontent.com/5Mr5ZgD5qf-s1sb6gnsUVxASmyWdD-Kba7jhnrJGga4cDOGV2ESi4o_N8Ymt4i19_38",
+    "https://play-lh.googleusercontent.com/_5iCp8BjzDo5nFZv09LnTuDOW76Hsf52Oel65EVmWUVZ4qRanxDYMdQvYE0LeDQylzoD",
+    "https://play-lh.googleusercontent.com/wdWXli9DPWsgToYkgeYYG4uNoVpOtF4Z6xijoUcFqZuRSQeO8Bf4DcC8dyIOPCzAPdw",
+    "https://play-lh.googleusercontent.com/jTDunz6AQQxjkfCIgpNPXOK0PS7ipvjgUXE0eTdnLmum0tAISSDjhsUZX_t3cliMUg",
+    "https://play-lh.googleusercontent.com/qfrH-g0oZkfelMwG-OMPyWcswC2LqHZtaoXRkcwaUTQKeYVbBFySEY1Hn1dfJFOQ4w",
+    "https://play-lh.googleusercontent.com/zZM8MBD8TlUdAFUdvaizJt98wzmnQ2QgiWC-xtCKgdCNN0-s_pUJGerg1TN22wWgTzs",
+    "https://play-lh.googleusercontent.com/RjfBDcQ6uY2hBKp9djIcBqhB6_ocUFQpj1Exq4XN1vIhnM3FLKd5XtkbgZKFtG9kKJk",
+    "https://play-lh.googleusercontent.com/NqkemZWQ_cGzbCxPp9HIdce1jvZlQvvaC7JQ-1HTtEOPsIaW_N0EgnFDY9YTpLc0tg"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/FZGlLUId2ykwFJ4UHMHNkpqWbrX4FcXVVTmaTofvlyjSrj-fJrJoOdvBP1POTfl0T2k",
+  "permissions": {
+    "Device & app history": [
+      "retrieve running apps"
+    ],
+    "Identity": [
+      "add or remove accounts",
+      "find accounts on the device"
+    ],
+    "Contacts": [
+      "find accounts on the device"
+    ],
+    "Location": [
+      "access extra location provider commands",
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Phone": [
+      "read phone status and identity"
+    ],
+    "Photos/Media/Files": [
+      "access USB storage filesystem",
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Camera": [
+      "take pictures and videos"
+    ],
+    "Microphone": [
+      "record audio"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Device ID & call information": [
+      "read phone status and identity"
+    ],
+    "Other": [
+      "access Bluetooth settings",
+      "change network connectivity",
+      "change system display settings",
+      "close other apps",
+      "connect and disconnect from Wi-Fi",
+      "control flashlight",
+      "control vibration",
+      "draw over other apps",
+      "enable app debugging",
+      "full network access",
+      "modify system settings",
+      "pair with Bluetooth devices",
+      "prevent device from sleeping",
+      "read Google service configuration",
+      "run at startup",
+      "set wallpaper",
+      "use accounts on the device",
+      "view network connections"
+    ],
+    "Uncategorized": [
+      "update component usage statistics"
+    ]
+  },
+  "reviews_data": null
+}

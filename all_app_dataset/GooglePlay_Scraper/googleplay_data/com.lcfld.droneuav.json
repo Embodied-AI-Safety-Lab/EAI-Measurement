@@ -1,0 +1,74 @@
+{
+  "pkg_name": "com.lcfld.droneuav",
+  "appId": "com.lcfld.droneuav",
+  "title": "DRONE-UAV",
+  "developer": "LcForever",
+  "developer_id": "LcForever",
+  "developer_email": "logicxxh@gmail.com",
+  "developer_website": null,
+  "developer_address": null,
+  "category": "Entertainment",
+  "category_id": "ENTERTAINMENT",
+  "content_rating": "Everyone",
+  "score": 3.7662337,
+  "ratings": 126,
+  "reviews_count": 33,
+  "installs": "10,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://www.jianshu.com/p/fa44fc36aacc",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "1. Connect the drone through WIFI and browse the image transmission screen of the drone.\r\n2. The flight attitude and movement of drone can be controlled through the control page.\r\n3. You can capture and record video on the transport stream.",
+  "descriptionHTML": "1. Connect the drone through WIFI and browse the image transmission screen of the drone.<br>2. The flight attitude and movement of drone can be controlled through the control page.<br>3. You can capture and record video on the transport stream.",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/TyJg30q7l97paRA7vBGC5qJiNrMmVJX5H9WNVx1POA98LS7W1NboUevFhWrfsGXkLIL8",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/4zrwZnDnenILqw0VcbVbPvzLcu0t5ubXD9ytzTo80La9mYorrsl4vU95WAhqpNEJm8NL",
+    "https://play-lh.googleusercontent.com/j9MeMWcXoFoqYbtVBpROAx57hEmgRdJOFbdY710oEIDYXAAgUYq5rzfcuuFZKPmjHg",
+    "https://play-lh.googleusercontent.com/zcpCWbwWpHOStHMNW7fKFRT8Lz2efo61zMrJ8pWBkvCwXgrvAJ8zfTcln79jFFJJa-8"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/veFeUQp6m41mKX36W9G61OCi2WxqPyhucglo2QE_UCAS8z9Q9U0O3GKb0l2PtNkrc6Y",
+  "permissions": {
+    "Device & app history": [
+      "retrieve running apps"
+    ],
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Phone": [
+      "read phone status and identity"
+    ],
+    "Photos/Media/Files": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Device ID & call information": [
+      "read phone status and identity"
+    ],
+    "Other": [
+      "allow Wi-Fi Multicast reception",
+      "change network connectivity",
+      "connect and disconnect from Wi-Fi",
+      "control vibration",
+      "full network access",
+      "prevent device from sleeping",
+      "run at startup",
+      "view network connections"
+    ]
+  },
+  "reviews_data": null
+}

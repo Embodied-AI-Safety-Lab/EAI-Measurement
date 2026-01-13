@@ -1,0 +1,82 @@
+{
+  "pkg_name": "com.haiereurope.hg4",
+  "appId": "com.haiereurope.hg4",
+  "title": "HG Robots",
+  "developer": "Smart Home Haier Europe",
+  "developer_id": "Smart+Home+Haier+Europe",
+  "developer_email": "support.hgrobots@haier-europe.com",
+  "developer_website": null,
+  "developer_address": null,
+  "category": "Tools",
+  "category_id": "TOOLS",
+  "content_rating": "Everyone",
+  "score": null,
+  "ratings": null,
+  "reviews_count": null,
+  "installs": "10,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://qin.tuyacn.com/app-agreement/en/766088709/v1.0.0/1/smart/app/package/766088709/privacyUrl_1689832945361.html",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "Through the Hoover  HG Robots App you'll be able to:\r\n• Control your robot in an easy and intuitive way\r\n• Activate the cleaning process from anywhere\r\n• Carry out settings and daily scheduling\r\n• Choose between different cleaning modes",
+  "descriptionHTML": "Through the Hoover  HG Robots App you&#39;ll be able to:<br>• Control your robot in an easy and intuitive way<br>• Activate the cleaning process from anywhere<br>• Carry out settings and daily scheduling<br>• Choose between different cleaning modes",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/lza1FS2E76CVK13_Xj7wOrDPXIM-jhcG6yMdVklKF2fAuMqwNEAdMKufdu6EzX5-PTrV",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/4An3dg4REdHr_AQwsmGQ75ERIoiAAizm41tgSwPtM5cLHHh6wAEjSzavt4yzkbmP1w",
+    "https://play-lh.googleusercontent.com/sO3Y7QjA33sa4x5x9gceRgDODJRT_qw_jKq1ZW2XGS9r8BLUkaBcbhinpch4oe7bzY8",
+    "https://play-lh.googleusercontent.com/7vtJbhvijkxUgXJWDKloWzF80uaFY3LJqSXVajNENaT8AQ0N4HKeDpZHFu_0Hc3SaS0",
+    "https://play-lh.googleusercontent.com/nKz2_tSBEu_AEg5JrK1NZD2vbpWlSe2JDf-Kp9sQ2bwa9VRSfx9g28Be73SwhJ7VTA"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/MVkp53yGPMA2jPK-NcHAVHgP1-valr2b-m9n37E2yoKvvhcV9qlmqXVffnnJCdKsmGRj",
+  "permissions": {
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Photos/Media/Files": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Camera": [
+      "take pictures and videos"
+    ],
+    "Microphone": [
+      "record audio"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Other": [
+      "Google Play license check",
+      "access Bluetooth settings",
+      "allow Wi-Fi Multicast reception",
+      "change network connectivity",
+      "change your audio settings",
+      "connect and disconnect from Wi-Fi",
+      "control vibration",
+      "full network access",
+      "install shortcuts",
+      "pair with Bluetooth devices",
+      "prevent device from sleeping",
+      "reorder running apps",
+      "run at startup",
+      "set wallpaper",
+      "view network connections"
+    ],
+    "Uncategorized": [
+      "receive data from Internet"
+    ]
+  },
+  "reviews_data": null
+}

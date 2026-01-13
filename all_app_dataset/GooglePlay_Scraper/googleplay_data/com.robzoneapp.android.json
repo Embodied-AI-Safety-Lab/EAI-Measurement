@@ -1,0 +1,82 @@
+{
+  "pkg_name": "com.robzoneapp.android",
+  "appId": "com.robzoneapp.android",
+  "title": "RobZone Robot",
+  "developer": "Robzone",
+  "developer_id": "Robzone",
+  "developer_email": "info@robzone.cz",
+  "developer_website": null,
+  "developer_address": null,
+  "category": "Tools",
+  "category_id": "TOOLS",
+  "content_rating": "Everyone",
+  "score": null,
+  "ratings": null,
+  "reviews_count": null,
+  "installs": "5,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://qin.tuyacn.com/app-agreement/en/640697424/v1.0.0/1/smart/app/package/640697424/privacyUrl_1700671462072.html",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "1. Robzone robotic vacuum cleaners controling app.\r\n2. Intuitive control.\r\n3. Saved maps edit.\r\n4. Sharing robot with other family members.\r\n5. Easy pairing.",
+  "descriptionHTML": "1. Robzone robotic vacuum cleaners controling app.<br>2. Intuitive control.<br>3. Saved maps edit.<br>4. Sharing robot with other family members.<br>5. Easy pairing.",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/0rJGJwTjOX5a1ReRSoSaAijQXh5jjVwYWSnKmodGxI40TQbJVaykCEUH0r1XA8TziBqK",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/oXDs1ECjMx1ZOnviesvHG0dqijrpSTR_G79IaqvA8TbnjyFlq5zoZpIWw2ObKXLiKw",
+    "https://play-lh.googleusercontent.com/4jnsMWbl9uNQpg2B6ccsiJV2MdYSawiWyX5YiCHGjOPLguPqA8FBMjdSBVpuBOjPwXE",
+    "https://play-lh.googleusercontent.com/gRTCQLgDOPBMYl1XDIsv1ZX-CCQJ3J6YoqAAforZO25tYUn6bcqCVh8u3jr9ay446N4",
+    "https://play-lh.googleusercontent.com/myGxtvd_0uh6gbQPjMWraplIQxHfnq5MEEWVcdx2m6bwc2zupTSeSg3zTazv4w71Og"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/CzDPMul-wEEMZexwJVaeTGQMydzMeRjDLAPDyU-k4zV8KA87d0zsvpofqzJyb-becLU",
+  "permissions": {
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Photos/Media/Files": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Camera": [
+      "take pictures and videos"
+    ],
+    "Microphone": [
+      "record audio"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Other": [
+      "Google Play license check",
+      "access Bluetooth settings",
+      "allow Wi-Fi Multicast reception",
+      "change network connectivity",
+      "change your audio settings",
+      "connect and disconnect from Wi-Fi",
+      "control vibration",
+      "full network access",
+      "install shortcuts",
+      "pair with Bluetooth devices",
+      "prevent device from sleeping",
+      "reorder running apps",
+      "run at startup",
+      "set wallpaper",
+      "view network connections"
+    ],
+    "Uncategorized": [
+      "receive data from Internet"
+    ]
+  },
+  "reviews_data": null
+}

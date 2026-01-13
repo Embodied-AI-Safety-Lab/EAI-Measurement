@@ -1,0 +1,113 @@
+{
+  "pkg_name": "com.ultenic.robot",
+  "appId": "com.ultenic.robot",
+  "title": "Ultenic",
+  "developer": "Shenzhen Ultenic Technology Co., Ltd.",
+  "developer_id": "Shenzhen+Ultenic+Technology+Co.,+Ltd.",
+  "developer_email": "data_component@ultenic.com",
+  "developer_website": "https://www.ultenic.com/",
+  "developer_address": null,
+  "category": "House & Home",
+  "category_id": "HOUSE_AND_HOME",
+  "content_rating": "Everyone",
+  "score": 2.5,
+  "ratings": 1502,
+  "reviews_count": 30,
+  "installs": "100,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://www.ultenic.com/",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "\"With the Ultenic App, you can easily connect and control all of Ultenic smart products! \r\n\r\nYou can control and monitor all intelligent functions of Ultenic product through the app anytime and even if you are not at home. \r\nThe Ultenic App is configurable on any smartphone.\r\n\r\nConnecting your mobile phone to Ultenic intelligent product has never been easier! The Ultenic App is simple to use and quickly configure all your appliances and have them communicate with each other in a smart way. You can live in a smarter lifestyle at your fingertips.\r\n\r\nHave fun while your Ultenic app work for you!\r\nShare your device with your family and friends.\r\nYou can control your Ultenic device even if you're not at home, even if you're on the other side of the world.\r\n\r\nConnect your Ultenic app to your Wi-Fi network in no time!\r\nAfter connecting to your Ultenic device, you can\r\n(1) Remotely start and pause your device\r\n(2) Monitor the cleaning status and view the cleaning maps\r\n(3) Set the cleaning mode you want to tackle cleaning tasks",
+  "descriptionHTML": "&quot;With the Ultenic App, you can easily connect and control all of Ultenic smart products! <br><br>You can control and monitor all intelligent functions of Ultenic product through the app anytime and even if you are not at home. <br>The Ultenic App is configurable on any smartphone.<br><br>Connecting your mobile phone to Ultenic intelligent product has never been easier! The Ultenic App is simple to use and quickly configure all your appliances and have them communicate with each other in a smart way. You can live in a smarter lifestyle at your fingertips.<br><br>Have fun while your Ultenic app work for you!<br>Share your device with your family and friends.<br>You can control your Ultenic device even if you&#39;re not at home, even if you&#39;re on the other side of the world.<br><br>Connect your Ultenic app to your Wi-Fi network in no time!<br>After connecting to your Ultenic device, you can<br>(1) Remotely start and pause your device<br>(2) Monitor the cleaning status and view the cleaning maps<br>(3) Set the cleaning mode you want to tackle cleaning tasks",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/uS7Q221kNQzJFMjC6F6Cvb4ZMg5EIx57gwlqbFePLfpq8niVRAD7o0zvOn769_DUe1SW",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/vEcsIrA8ceyZlrYxblrjDgXVUgPJ53ML0r3mzXLFPsH-uyfe_gIrdXVosB1vFWGTnKX8",
+    "https://play-lh.googleusercontent.com/ivY-38hO8_yBY2oVcS_73pkvdpS5leojiIVp9yYp9oRwBQBlx7hVJnbRWr_KlDXO3v0",
+    "https://play-lh.googleusercontent.com/4OMPnzIA6ljFW_tlvYe4t64d3q2TtRr0vtOiJoqr_-P3Oci74_u8iFF_UVgcjgCshiJK",
+    "https://play-lh.googleusercontent.com/gvJE-gZwKeuQ4HIg9sEBUzVirV9obORwF3zWUnrGq1yDZDbeBb5IEliPDw672qfGp3I",
+    "https://play-lh.googleusercontent.com/kaivaTQ7VroJflfur8jxc6_hLzV5PyTNl19TgxCOf3bScO1Wta06Dttr0pLaEbGhoe0",
+    "https://play-lh.googleusercontent.com/v24Aye7pN9KISekyjNtmV46GZDeDQJzcCv0A9KJniTv9chQQ6a2Kjch1cVMC4g7YjSo",
+    "https://play-lh.googleusercontent.com/NeOc2UM-fL-izrluciG2J3w4OPc7SAxpe_EmwjlxqCCgRLtHN-McNzP_15DO9bwoKXey",
+    "https://play-lh.googleusercontent.com/05Y4n5_Q_cm6YRznL8WtxO_nHH9JnOxBbu0Jmu5MBydF5p_ZEn3qBCfgU9ru6JMlow",
+    "https://play-lh.googleusercontent.com/I9EnNl-XJbSFmGUxNSWqjteTMzQVqEoFjNP_eMNtyyCtWbv3QvSHhq0ZpyTKkH_wYww",
+    "https://play-lh.googleusercontent.com/Lq4Ja8zhwv-EuNpuq52BTV5MYycV201l-V3Chgwz-OYvENof8EoSVfmgGT6xAZpZDeYf",
+    "https://play-lh.googleusercontent.com/j2ysCQI6_Gr25lOyX3nOC6qY6xPHrJwvi9YehdMDfGKr6Eshuld-uvSjKaf-Di5k2Q",
+    "https://play-lh.googleusercontent.com/aarpoRMu23zvtzNR2QxwCfhgq1tfMb8jquhWcc_4Yw1XyWohW94XVPoBEipGT08EE78",
+    "https://play-lh.googleusercontent.com/e8AG6LyDWHfBHLfMK2Or1oLIwkzq4YNyLYiCKTdPYlGfO-XCWvcBwCxS_ZqzGMNwa2U",
+    "https://play-lh.googleusercontent.com/ljzyjvEu-b-fsHHuIevOaCbYlr4zuxBxOVJoWnVSRgMlhsPtfMolAF2ahIb6ys0h7fo",
+    "https://play-lh.googleusercontent.com/Xp6PI5966nURboq2_qPfyToal9XDSi9VaM1__U5StqQSgH_xkN3PJtsvMb4LtcymQNo"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/adXtv0O7_5i4J4CwXisusYDReRNA6G2NJhJLAaANlkMIx_HYrDNyAFZVvS6uVAOxic3d",
+  "permissions": {
+    "Device & app history": [
+      "read your Web bookmarks and history",
+      "retrieve running apps"
+    ],
+    "Contacts": [
+      "read your contacts"
+    ],
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Phone": [
+      "read phone status and identity"
+    ],
+    "Photos/Media/Files": [
+      "access USB storage filesystem",
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Camera": [
+      "take pictures and videos"
+    ],
+    "Microphone": [
+      "record audio"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Device ID & call information": [
+      "read phone status and identity"
+    ],
+    "Other": [
+      "Google Play license check",
+      "access Bluetooth settings",
+      "allow Wi-Fi Multicast reception",
+      "change network connectivity",
+      "change your audio settings",
+      "connect and disconnect from Wi-Fi",
+      "control flashlight",
+      "control vibration",
+      "draw over other apps",
+      "full network access",
+      "install shortcuts",
+      "modify system settings",
+      "pair with Bluetooth devices",
+      "prevent device from sleeping",
+      "reorder running apps",
+      "run at startup",
+      "set wallpaper",
+      "uninstall shortcuts",
+      "view network connections"
+    ],
+    "Uncategorized": [
+      "read Home settings and shortcuts",
+      "receive data from Internet",
+      "write Home settings and shortcuts"
+    ]
+  },
+  "reviews_data": null
+}

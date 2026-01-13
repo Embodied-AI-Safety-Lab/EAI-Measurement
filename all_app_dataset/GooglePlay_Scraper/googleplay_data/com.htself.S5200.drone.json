@@ -1,0 +1,73 @@
+{
+  "pkg_name": "com.htself.S5200.drone",
+  "appId": "com.htself.S5200.drone",
+  "title": "S5200  Drone",
+  "developer": "dronesky",
+  "developer_id": "dronesky",
+  "developer_email": "dvripc@gmail.com",
+  "developer_website": "http://www.htoe.com.cn",
+  "developer_address": null,
+  "category": "Entertainment",
+  "category_id": "ENTERTAINMENT",
+  "content_rating": "Everyone",
+  "score": 3.1111112,
+  "ratings": 11,
+  "reviews_count": 4,
+  "installs": "1,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "http://www.htoe.com.cn/g7717.aspx",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "1. Real-time receiving of images captured by camera\r\n2. Supporting mobile app and remote control to capture video\r\n3. Supporting local storage of snapshots and videos on mobile phones\r\n4. Supporting mobile phones to view snapshots and play video screens",
+  "descriptionHTML": "1. Real-time receiving of images captured by camera<br>2. Supporting mobile app and remote control to capture video<br>3. Supporting local storage of snapshots and videos on mobile phones<br>4. Supporting mobile phones to view snapshots and play video screens",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/31pxaYTkM9LDfIKuu-NWck4WinklBONJjLhKOtli3fMO9dsLCXfLJ3msG2qPGdzKsZo",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/ZNGUBi125gemGGer6RTVD4EDOVWjrbKAp8W00Zn6iHYxkAVYadnGQkElpliK_iyhfQ",
+    "https://play-lh.googleusercontent.com/DKGvglTxGa3QZTqXR9DcursUe1Bd4BTdCO77RgjG_nilq6_UZKA56mqCFJAOn9FSmH0B",
+    "https://play-lh.googleusercontent.com/ZxkdKpAR22H_WChd84n3c_QbNP1PWPp3Zyjia4xmexDrf927Rq5JYvaLtEBaRwzxd1A",
+    "https://play-lh.googleusercontent.com/3Mc0WUkKkdU-tWSR998k6Audc1WhcUsCRstQ77T-I3zrTZdkSPkSu95yOumzFSMOVQ"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/96Sj0_iV6IqpsJ5R3SCrDzyefQP0OWFKeEDBZ5CRw9YJ9FUqtdLb0iCucJMhZVs6cg",
+  "permissions": {
+    "Device & app history": [
+      "read sensitive log data"
+    ],
+    "Phone": [
+      "read phone status and identity"
+    ],
+    "Photos/Media/Files": [
+      "access USB storage filesystem",
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Microphone": [
+      "record audio"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Device ID & call information": [
+      "read phone status and identity"
+    ],
+    "Other": [
+      "allow Wi-Fi Multicast reception",
+      "change network connectivity",
+      "connect and disconnect from Wi-Fi",
+      "full network access",
+      "prevent device from sleeping",
+      "view network connections"
+    ]
+  },
+  "reviews_data": null
+}

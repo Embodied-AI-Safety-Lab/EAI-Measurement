@@ -1,0 +1,66 @@
+{
+  "pkg_name": "com.appzeeinc.micro_drone_remote_control_app",
+  "appId": "com.appzeeinc.micro_drone_remote_control_app",
+  "title": "Drone Controller App Micro XDU",
+  "developer": "AppZeeInc",
+  "developer_id": "AppZeeInc",
+  "developer_email": "zakari.maaroufi@gmail.com",
+  "developer_website": "https://l81e87f5d.app-ads-txt.com",
+  "developer_address": null,
+  "category": "Tools",
+  "category_id": "TOOLS",
+  "content_rating": "Everyone",
+  "score": 3.65,
+  "ratings": 255,
+  "reviews_count": 4,
+  "installs": "100,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": true,
+  "privacy_policy": "https://sites.google.com/view/micro-drone-remote-control-app/accueil",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "Take Full Control of Your XDU Micro Drones with the Drone Controller XDU Micro App!\r\n\r\nTurn your Android smartphone into a powerful, responsive remote control for XDU micro and mini quadcopters using Bluetooth Low Energy (LE). Whether you're new to drones or an experienced pilot, this app provides seamless, precise control, real-time flight feedback, and multiple configuration options to elevate your flying experience.\r\n\r\nThis free drone controller app supports most XDU Micro Quadcopter models and is designed to work specifically with Bluetooth 4.0+ (LE) enabled Android devices running Android 4.3 and above.\r\n🚀 Key Features of Drone Controller XDU Micro:\r\n\r\n✅ Universal Drone Controller\r\nEasily control a wide range of XDU Micro Drones directly from your smartphone. The app is optimized for seamless performance with XDU’s micro quadcopters.\r\n\r\n✅ Bluetooth 4.0 LE Connectivity\r\nEstablish a secure and low-latency connection to your drone via Bluetooth Low Energy. This ensures quick command response and stable communication during flight. No need for pairing in Bluetooth settings—connect directly through the app!\r\n\r\n✅ User-Friendly Touch Controls\r\nFly with precision using intuitive on-screen controls for Yaw, Pitch, Roll, and Throttle. Experience real-time response and easy maneuverability, ideal for both beginners and advanced users.\r\n\r\n✅ Multiple Flight Modes\r\nSwitch between different control modes, including:\r\n\r\n    Headfree Mode\r\n\r\n    Altitude Hold\r\n\r\n    IMU Calibration\r\n\r\n    Unarm/Launch Functions\r\n\r\n✅ Customizable Sensitivity & Control Settings\r\nAdjust your drone’s responsiveness to match your flying style. Choose from various control configurations and fine-tune sensitivity for smoother flights.\r\n\r\n✅ Real-Time Flight Feedback\r\nMonitor live flight data such as:\r\n\r\n    Pitch Angle (PitchAng)\r\n\r\n    Roll Angle (RollAng)\r\n\r\n    Yaw Angle (YawAng)\r\n\r\n    Altitude\r\n\r\n    Flight Distance\r\n\r\n    Battery Voltage\r\n\r\n✅ Built-in Flight Simulator\r\nTrain your flying skills in a safe virtual environment before piloting your actual drone. Perfect for new users who want to get comfortable before takeoff.\r\n\r\n✅ Mini Drone Optimized\r\nEspecially built for smaller drones like the XDU Micro Quadcopter. Experience responsive handling even in tight spaces.\r\n📱 How to Use the XDU Drone Remote Controller App:\r\n\r\n    Ensure Bluetooth is enabled on your Android device.\r\n\r\n    Power on your XDU Micro Quadcopter.\r\n\r\n    Open the app and search for available drones using Bluetooth.\r\n\r\n    Select your drone from the list and connect.\r\n\r\n    Begin flying using the on-screen controls.\r\n\r\n📌 Important Note:\r\nDo NOT pair the drone manually from the system Bluetooth settings. Connection must be done directly via the app to ensure compatibility and proper function.\r\n🎯 Why Choose Drone Controller XDU Micro?\r\n\r\n    100% Free to Use\r\n\r\n    No external controller hardware needed\r\n\r\n    Lightweight and optimized for fast performance\r\n\r\n    Regular updates to improve support and add new features\r\n\r\n    Works with a wide variety of XDU micro drones\r\n\r\n    Built for all skill levels—from beginners to pros\r\n\r\nWhether you're just starting out or already a drone enthusiast, Drone Controller XDU Micro offers a powerful and simple way to get your drone in the air. With advanced features, intuitive touch controls, and complete compatibility with XDU Micro Quadcopters, it's the perfect app for any drone pilot.\r\n📥 Download Now and Take Off!\r\n\r\nStart flying today with the ultimate mobile controller for XDU drones. Download Drone Controller XDU Micro and experience smooth, stable, and powerful drone control—right from your Android device.\r\n\r\nDon't forget to rate and review our app! Your feedback helps us improve and support more drone models in the future.",
+  "descriptionHTML": "Take Full Control of Your XDU Micro Drones with the Drone Controller XDU Micro App!<br><br>Turn your Android smartphone into a powerful, responsive remote control for XDU micro and mini quadcopters using Bluetooth Low Energy (LE). Whether you&#39;re new to drones or an experienced pilot, this app provides seamless, precise control, real-time flight feedback, and multiple configuration options to elevate your flying experience.<br><br>This free drone controller app supports most XDU Micro Quadcopter models and is designed to work specifically with Bluetooth 4.0+ (LE) enabled Android devices running Android 4.3 and above.<br>🚀 Key Features of Drone Controller XDU Micro:<br><br>✅ Universal Drone Controller<br>Easily control a wide range of XDU Micro Drones directly from your smartphone. The app is optimized for seamless performance with XDU’s micro quadcopters.<br><br>✅ Bluetooth 4.0 LE Connectivity<br>Establish a secure and low-latency connection to your drone via Bluetooth Low Energy. This ensures quick command response and stable communication during flight. No need for pairing in Bluetooth settings—connect directly through the app!<br><br>✅ User-Friendly Touch Controls<br>Fly with precision using intuitive on-screen controls for Yaw, Pitch, Roll, and Throttle. Experience real-time response and easy maneuverability, ideal for both beginners and advanced users.<br><br>✅ Multiple Flight Modes<br>Switch between different control modes, including:<br><br>    Headfree Mode<br><br>    Altitude Hold<br><br>    IMU Calibration<br><br>    Unarm/Launch Functions<br><br>✅ Customizable Sensitivity &amp; Control Settings<br>Adjust your drone’s responsiveness to match your flying style. Choose from various control configurations and fine-tune sensitivity for smoother flights.<br><br>✅ Real-Time Flight Feedback<br>Monitor live flight data such as:<br><br>    Pitch Angle (PitchAng)<br><br>    Roll Angle (RollAng)<br><br>    Yaw Angle (YawAng)<br><br>    Altitude<br><br>    Flight Distance<br><br>    Battery Voltage<br><br>✅ Built-in Flight Simulator<br>Train your flying skills in a safe virtual environment before piloting your actual drone. Perfect for new users who want to get comfortable before takeoff.<br><br>✅ Mini Drone Optimized<br>Especially built for smaller drones like the XDU Micro Quadcopter. Experience responsive handling even in tight spaces.<br>📱 How to Use the XDU Drone Remote Controller App:<br><br>    Ensure Bluetooth is enabled on your Android device.<br><br>    Power on your XDU Micro Quadcopter.<br><br>    Open the app and search for available drones using Bluetooth.<br><br>    Select your drone from the list and connect.<br><br>    Begin flying using the on-screen controls.<br><br>📌 Important Note:<br>Do NOT pair the drone manually from the system Bluetooth settings. Connection must be done directly via the app to ensure compatibility and proper function.<br>🎯 Why Choose Drone Controller XDU Micro?<br><br>    100% Free to Use<br><br>    No external controller hardware needed<br><br>    Lightweight and optimized for fast performance<br><br>    Regular updates to improve support and add new features<br><br>    Works with a wide variety of XDU micro drones<br><br>    Built for all skill levels—from beginners to pros<br><br>Whether you&#39;re just starting out or already a drone enthusiast, Drone Controller XDU Micro offers a powerful and simple way to get your drone in the air. With advanced features, intuitive touch controls, and complete compatibility with XDU Micro Quadcopters, it&#39;s the perfect app for any drone pilot.<br>📥 Download Now and Take Off!<br><br>Start flying today with the ultimate mobile controller for XDU drones. Download Drone Controller XDU Micro and experience smooth, stable, and powerful drone control—right from your Android device.<br><br>Don&#39;t forget to rate and review our app! Your feedback helps us improve and support more drone models in the future.",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/icvMDbTXuYpZftAzMI4Wn00himrY9EQiBP0c14me_t4VCQhIz6e92x-zsDdmtl8gqg",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/wTOesHNFTiQnuqZNEYUMcwBfI2SPzbLjsVI2Dy0BhKbB926-V4ggAGBkqFdbdt_kKI0",
+    "https://play-lh.googleusercontent.com/vpeoiNUCamZEDwfcb9e5TxfpiQw7oabri60ozTG191tycgIH9XTflk4FGzJkJ19K-38",
+    "https://play-lh.googleusercontent.com/fgiPmkpSm6YB6E0SIdVq8pZhah9U1OQeJKTAsieCXI5Zm4NwGDjYwncDJCYmnjsbW6Y",
+    "https://play-lh.googleusercontent.com/t_mweqFGn6JmKsyV2viIwHC4hBeB5FZhV2iHQYHF6Cxkd2l1zOsLxbNZ-ZFVBVHY_Wc",
+    "https://play-lh.googleusercontent.com/UkazqmBUthMMfJnjowkryl_KklvLvWNW4h62OODD9pgE-V32Um6A1huBdvwhSDjkEsk",
+    "https://play-lh.googleusercontent.com/nJnYGRxeyTtifjsYSHSIl-YqlqbFcQE1-J69uKNn0WjQYEEYR7APIDGBJ_Dlne0_Aqo",
+    "https://play-lh.googleusercontent.com/a8Ik3af3yfkhkGTSIyWrgegq_0DQuIkBvNeiY3oaUTHVp8vkep6HR-Y07pgzz9tVRfmE",
+    "https://play-lh.googleusercontent.com/gHq_DrzVRTnzew7MnK5fm31nEcVVUaQIsFxo-oy25g8gHV3yYpc6dv3GxP2NoPqYt7ER",
+    "https://play-lh.googleusercontent.com/p_1fs4dcB9-cYk4D7WGZAZ7Fs0HUEV3Cx-VktFbFpEQdfWEi7hs6XqIsJsNOmh0NMjw",
+    "https://play-lh.googleusercontent.com/lL5ahUphx_rZ2ct2-diAYkZ7ndavG9Wfd3lQ3SnOJQZKShfD7aEzHwWopwmfyRSqVPM",
+    "https://play-lh.googleusercontent.com/x-ih593CJPr_JdvW6SHgnfnJ8kNLlkjZjxS16LAEPJfMEsfKy3uqQd5saCoV53dw9QI3",
+    "https://play-lh.googleusercontent.com/HfkuNflNNfKvH84oxudIF21-w0_xvGQ_Z8e_B7nBX-uyRT8xCA8BjxlK_C9tMS_QbBu5",
+    "https://play-lh.googleusercontent.com/NJgTKJCHWHCSru2y9PSSI7amqJ9Ix3wkDsAaVl-f7W_Gllzkson1dRJ-itlkHrOlDcY"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/U48R93H4PCxD0NVR1AzYGN28Hssbzgadw-MpUnXj2DkIQ1oNlnZT2sGKH4ZmIIsV2Nw",
+  "permissions": {
+    "Photos/Media/Files": [
+      "access USB storage filesystem",
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Other": [
+      "access Bluetooth settings",
+      "full network access",
+      "pair with Bluetooth devices",
+      "prevent device from sleeping",
+      "view network connections"
+    ]
+  },
+  "reviews_data": null
+}

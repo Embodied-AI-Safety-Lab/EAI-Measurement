@@ -1,0 +1,87 @@
+{
+  "pkg_name": "com.taurus.homeland",
+  "appId": "com.taurus.homeland",
+  "title": "Homeland",
+  "developer": "Engineering and Technology for Life",
+  "developer_id": "8178750779303058451",
+  "developer_email": "soporte@taurus.es",
+  "developer_website": "https://taurus-home.com/",
+  "developer_address": null,
+  "category": "Productivity",
+  "category_id": "PRODUCTIVITY",
+  "content_rating": "Everyone",
+  "score": 0,
+  "ratings": 0,
+  "reviews_count": 0,
+  "installs": "10,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://images.tuyacn.com/smart/app/package/ay15542765875241gQX6/privacyUrl_1601972753887.html",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "With the Homeland app you can connect your robot vacuum cleaner to your home Wi-Fi and control it from your Smartphone.\r\n\r\nThis app is compatible with all Homeland models that have a Wi-Fi connection. Includes customizable cleaning modes so you can choose the one that suits your needs at all times. With the Homeland app you can program your vacuum cleaner on a daily or weekly basis and keep your house always clean. You can also modify the power parameters when you need it most.\r\n\r\nHomeland, elegance made robot.",
+  "descriptionHTML": "With the Homeland app you can connect your robot vacuum cleaner to your home Wi-Fi and control it from your Smartphone.<br><br>This app is compatible with all Homeland models that have a Wi-Fi connection. Includes customizable cleaning modes so you can choose the one that suits your needs at all times. With the Homeland app you can program your vacuum cleaner on a daily or weekly basis and keep your house always clean. You can also modify the power parameters when you need it most.<br><br>Homeland, elegance made robot.",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/lMYmTpJpdq5OAKlS5XSLUB8Vorc-gqpXFgQrA_hwmITZe3iYhLmaHt0mLf-3HfJu8z4",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/HMw1mdyT_UKeMF85lfhjOMiTl29_MLWrdJSOOP9sQNn8pz-TkIqFYbzZ0JP67W9Wba8",
+    "https://play-lh.googleusercontent.com/H0U7zVlDpisPHUDAhdZHWNR9oZ8yyuYhH429di_FVFfezFR_WlxTx4l-FXvtzGHQ73U",
+    "https://play-lh.googleusercontent.com/J2b77hDXysO7Q6aS7WAkG0EX5THYMfvaeibd-HpLsGGtSxJW6-_zD8Q7BWEu5U-N-yU",
+    "https://play-lh.googleusercontent.com/heNKyWl6sc4n4XgMoZett8wiJAb1q-lkR4B6aav14u2pjijEBA5_eqNlXrqIReqej74",
+    "https://play-lh.googleusercontent.com/05LwJNehg1wfAWQdf36W9I5HMZlh5e2FjF8b-e8gjP3x2mUU6vkBTP3d6_1Btyl__f8",
+    "https://play-lh.googleusercontent.com/SY9VhveE_T3t91Tc9JjCr0B0HAxOT2txG391wTXn5QF7mFvzyv-4xHZ9xMOOUp0Vlg",
+    "https://play-lh.googleusercontent.com/2Mji46bR3StBtLnnV5q6mAGBum4mXqyBiN28WmZOl_apmk8nT2rp3lFbDm5gucIPhks",
+    "https://play-lh.googleusercontent.com/iOj5kDuLgvA5j-azOvbkDao-0VHuhxfvIsFPZXu64wUSEqnWwAT_1o-2TTGuZ9nJ_uk",
+    "https://play-lh.googleusercontent.com/OOHwPzAowUdkaWin5gUEhSor2qKDmsNT1KC4eqxP-MYdhyNcxcEl0MLnztq7MOlb2A"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/tWVhYCGcxiywU4rXku8jmcGQP378hwuYwWhX8kTcEQ0eV3JDrM1brSnhn7BHQLlzQvw",
+  "permissions": {
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Photos/Media/Files": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Camera": [
+      "take pictures and videos"
+    ],
+    "Microphone": [
+      "record audio"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Other": [
+      "Google Play license check",
+      "access Bluetooth settings",
+      "allow Wi-Fi Multicast reception",
+      "change network connectivity",
+      "change your audio settings",
+      "connect and disconnect from Wi-Fi",
+      "control vibration",
+      "full network access",
+      "install shortcuts",
+      "pair with Bluetooth devices",
+      "prevent device from sleeping",
+      "reorder running apps",
+      "run at startup",
+      "set wallpaper",
+      "view network connections"
+    ],
+    "Uncategorized": [
+      "receive data from Internet"
+    ]
+  },
+  "reviews_data": null
+}

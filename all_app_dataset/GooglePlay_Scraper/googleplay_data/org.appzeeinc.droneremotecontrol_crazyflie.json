@@ -1,0 +1,71 @@
+{
+  "pkg_name": "org.appzeeinc.droneremotecontrol_crazyflie",
+  "appId": "org.appzeeinc.droneremotecontrol_crazyflie",
+  "title": "Crazyflie Drone Remote Control",
+  "developer": "AppZeeInc",
+  "developer_id": "AppZeeInc",
+  "developer_email": "zakari.maaroufi@gmail.com",
+  "developer_website": "https://l81e87f5d.app-ads-txt.com",
+  "developer_address": null,
+  "category": "Tools",
+  "category_id": "TOOLS",
+  "content_rating": "Everyone",
+  "score": 3.5384614,
+  "ratings": 49,
+  "reviews_count": 2,
+  "installs": "10,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": true,
+  "privacy_policy": "https://sites.google.com/view/droneremotecontrolforcrazyflie/accueil",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "Take command of the skies with Drone Remote Controller App for Crazyflie! Our app is designed for both novice and experienced drone pilots, this app provides an immersive FPV (First-Person View) experience, making drone flying more exciting and accessible with high  precision control and an immersive flying experience. \r\n\r\nConvert your smartphone into a remote control drone easily with using this FREE Drone Remote Control For Quadcopter Crazyflie app. Lost your Drone remote by  or it's not functioning properly? Don't worry.. Download this free drone remote control app & turn your android device into Drone Remote Control for Crazyflie quadcopter drones for free.The Connection is established using either the Crazyradio USB dongle or over Bluetooth LE (Crazyflie 2.0 only).\r\n\r\nTake control over drones -Crazyflie now, you can do that with Drone Remote Control For Crazyflie It's fun.Remote control for drone is a tool which can replace your physical drone RC. you can control drone with camera with Drone universal remote control for all crazyflie drones.\r\n\r\nDrone Remote Control For Crazyflie Drones Features:\r\n\r\n👍 Intuitive Controls: Easily navigate and control your Crazyflie drone with our user-friendly interface.\r\n\r\n👍 Real-Time Feedback: Get instant feedback on your drone's status and  performance for a seamless flying experience.\r\n\r\n👍 Customizable Settings: Tailor your flying experience with customizable control settings and options.\r\n\r\n 👍 Flight Modes: Switch between different flight modes to suit your skill level and flying style.\r\n\r\n 👍 Safety Features: Built-in safety protocols to ensure safe and secure flights.\r\n\r\n👍 Control Crazyflie & Crazyflie 2.0 with Crazyradio on  USB OTG device\r\n👍 Control Crazyflie 2.0 using Bluetooth LE 4.0\r\n👍 Control mode configurable\r\n👍 Control sensitivity configurable\r\n👍 Axis and button mapping configurable (only for game pad)\r\n👍 Control Crazyflie using touch controls\r\n👍 Control Crazyflie using game pad (connected via USB or Bluetooth)\r\n👍 Control Crazyflie using the device's gyroscope\r\n👍 Control LED ring effects (requires Crazyflie 2.0 and optional LED ring deck)\r\n👍 Play the Imperial March melody on the buzzer deck (requires Crazyflie 2.0)\r\n👍 Update Crazyflie using Crazyradio\r\n\r\nWith Drone Remote Control For Crazyflie Drones you can connect to Crazyflie 2.0 using Bluetooth low energy and both the original Crazyflie and Crazyflie 2.0 using the USB Crazyradio dongle connected with a USB OTG cable.\r\n\r\nWhy Choose Drone Remote Control - Crazyflie?\r\n\r\nCompatibility: Designed specifically for Crazyflie drones, ensuring perfect synchronization.\r\n\r\nPerformance: Optimized for high performance and low latency, giving you real-time control.\r\n\r\nHow To Use The Crazyflie Drone Remote Control :\r\n\r\n1. The list of firmwares should automatically be filled\r\n➡️make sure you have a network connection\r\n\r\n2. Select a firmware\r\n➡️ Select the right one depending on which Crazyflie you want to update (CF1 or CF2).\r\n\r\n3. Flash firmware\r\n➡️ for Crazyflie 1, click on \"Flash firmware\" and switch on the Crazyflie during the next 10 seconds.\r\n\r\n➡️ for Crazyflie 2, press the ON/OFF switch of the Crazyflie longer than 1.5 second until one blue LED blinks. Then release the button and both blue LEDs should blink. Then click on \"Flash firmware\"\r\n\r\n4. After a successful flash the Crazyflie will automatically restart in firmware mode and is ready to use.\r\n\r\nPlease note:\r\n\r\nThis app is designed to control Crazyflie and Crazyflie 2.0. It requires either a Crazyradio, Crazyradio PA or a Bluetooth LE 4.0 compatible device running Android 4.4+. Only Crazyflie 2.0 can be controlled with Bluetooth LE.\r\nDo not pair the Crazyflie via Bluetooth settings!\r\n\r\nWhether you're a beginner learning to fly or an experienced pilot looking to hone your skills, the Drone Remote Control Crazyflie app offers everything you need for an unparalleled drone flying experience. Download now and take to the skies!& don't forget to rate us Thank you...",
+  "descriptionHTML": "Take command of the skies with Drone Remote Controller App for Crazyflie! Our app is designed for both novice and experienced drone pilots, this app provides an immersive FPV (First-Person View) experience, making drone flying more exciting and accessible with high  precision control and an immersive flying experience. <br><br>Convert your smartphone into a remote control drone easily with using this FREE Drone Remote Control For Quadcopter Crazyflie app. Lost your Drone remote by  or it&#39;s not functioning properly? Don&#39;t worry.. Download this free drone remote control app &amp; turn your android device into Drone Remote Control for Crazyflie quadcopter drones for free.The Connection is established using either the Crazyradio USB dongle or over Bluetooth LE (Crazyflie 2.0 only).<br><br>Take control over drones -Crazyflie now, you can do that with Drone Remote Control For Crazyflie It&#39;s fun.Remote control for drone is a tool which can replace your physical drone RC. you can control drone with camera with Drone universal remote control for all crazyflie drones.<br><br>Drone Remote Control For Crazyflie Drones Features:<br><br>👍 Intuitive Controls: Easily navigate and control your Crazyflie drone with our user-friendly interface.<br><br>👍 Real-Time Feedback: Get instant feedback on your drone&#39;s status and  performance for a seamless flying experience.<br><br>👍 Customizable Settings: Tailor your flying experience with customizable control settings and options.<br><br> 👍 Flight Modes: Switch between different flight modes to suit your skill level and flying style.<br><br> 👍 Safety Features: Built-in safety protocols to ensure safe and secure flights.<br><br>👍 Control Crazyflie &amp; Crazyflie 2.0 with Crazyradio on  USB OTG device<br>👍 Control Crazyflie 2.0 using Bluetooth LE 4.0<br>👍 Control mode configurable<br>👍 Control sensitivity configurable<br>👍 Axis and button mapping configurable (only for game pad)<br>👍 Control Crazyflie using touch controls<br>👍 Control Crazyflie using game pad (connected via USB or Bluetooth)<br>👍 Control Crazyflie using the device&#39;s gyroscope<br>👍 Control LED ring effects (requires Crazyflie 2.0 and optional LED ring deck)<br>👍 Play the Imperial March melody on the buzzer deck (requires Crazyflie 2.0)<br>👍 Update Crazyflie using Crazyradio<br><br>With Drone Remote Control For Crazyflie Drones you can connect to Crazyflie 2.0 using Bluetooth low energy and both the original Crazyflie and Crazyflie 2.0 using the USB Crazyradio dongle connected with a USB OTG cable.<br><br>Why Choose Drone Remote Control - Crazyflie?<br><br>Compatibility: Designed specifically for Crazyflie drones, ensuring perfect synchronization.<br><br>Performance: Optimized for high performance and low latency, giving you real-time control.<br><br>How To Use The Crazyflie Drone Remote Control :<br><br>1. The list of firmwares should automatically be filled<br>➡️make sure you have a network connection<br><br>2. Select a firmware<br>➡️ Select the right one depending on which Crazyflie you want to update (CF1 or CF2).<br><br>3. Flash firmware<br>➡️ for Crazyflie 1, click on &quot;Flash firmware&quot; and switch on the Crazyflie during the next 10 seconds.<br><br>➡️ for Crazyflie 2, press the ON/OFF switch of the Crazyflie longer than 1.5 second until one blue LED blinks. Then release the button and both blue LEDs should blink. Then click on &quot;Flash firmware&quot;<br><br>4. After a successful flash the Crazyflie will automatically restart in firmware mode and is ready to use.<br><br>Please note:<br><br>This app is designed to control Crazyflie and Crazyflie 2.0. It requires either a Crazyradio, Crazyradio PA or a Bluetooth LE 4.0 compatible device running Android 4.4+. Only Crazyflie 2.0 can be controlled with Bluetooth LE.<br>Do not pair the Crazyflie via Bluetooth settings!<br><br>Whether you&#39;re a beginner learning to fly or an experienced pilot looking to hone your skills, the Drone Remote Control Crazyflie app offers everything you need for an unparalleled drone flying experience. Download now and take to the skies!&amp; don&#39;t forget to rate us Thank you...",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/zrgFnh57Qpy5sT8C8u-swtBzBDXFzMcWZhzH7DbXxPobBwSEfiYi6hIPPEZ2_RTiI5eH",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/JHxhX7TxcXAPX-6kV4LU8sOPFdkQIH_nICEX7QuT7-OPNfyVa26LqeFa3yERUSJZFA",
+    "https://play-lh.googleusercontent.com/cFmRD-h_wRICjQlbUo5xwjOVkwTjGwHMKsZGHcKa6dGkrsDsxDNVnSK2vzg8ixcMBw",
+    "https://play-lh.googleusercontent.com/kauz8YMgGryOeTxr5on4ZA5S4TUp_j49PlDsA1am_ilo3w01JZjDd_O4YFsxuU52B2k",
+    "https://play-lh.googleusercontent.com/8dpTLGDs88rg0_lTH3uaA1X11zX3Do1c02HWI9slxBf1pM_P0lORz7nKktvSGBnfDKc",
+    "https://play-lh.googleusercontent.com/7CLvj9hRFCmzhRc_WGDJgmRd3r5kiqI-5q4usIcpE74zDK8LnCx4SQ3jtr845tRESR8",
+    "https://play-lh.googleusercontent.com/nyu7pRucg8tVlQwZCEQbz3IgwfllR4rCB1AwAzbdFwIcd0e2H0-5vnics_iL3vHfgmeL",
+    "https://play-lh.googleusercontent.com/IZP_Ec57JOSA4ZeTCTVZgL8i0ls-xw61rgMNWJpzZ9T3B4u4YuantSf-bn5Ms1Q46RnH",
+    "https://play-lh.googleusercontent.com/1NzFQXC972rHRoTlbWw920qUYxmkxNyIFhnRnSbw4Ky_SZ6vZI7IQZKI8WaBA3g2hqI",
+    "https://play-lh.googleusercontent.com/gqJ8RL63OltfANuAL1PCxxV_ZrwSOKHuFraQEKslpmdF16aWJfSSmjjVVMmrITQEuaAV",
+    "https://play-lh.googleusercontent.com/__ODB608NzKlwB2Nv9DHHx7pBdtGx3CbktQ_Nwe_1G1wICUL_v_s1W3UqCryB--Pj9k",
+    "https://play-lh.googleusercontent.com/JbYvoKMt8nTDeS9y6b7gf1T0ftMGZXx6PCHux9eUlPmN7MvSTmmFkbNRWN8uN5sxJmfa",
+    "https://play-lh.googleusercontent.com/-JbO3Iqgni4J7AjXxbeNhjr3KosCWoSCVuRW84SUhTOd-7Yu6c6nxU85Q84ou3Ocw3Yt",
+    "https://play-lh.googleusercontent.com/40s7QwC-8-BEa50H8wwTw_5nFSDd-Thv9RufgbdGwVf0J5Cb2AVScDLBIWXkF6xPQfBN"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/GfCD5FI7f6tcNTo-RVGQ0YOUkWdFftOPfICAQpUDTFUg4-SE0Zph_hh67KVlKX7HMT0",
+  "permissions": {
+    "Location": [
+      "approximate location (network-based)"
+    ],
+    "Photos/Media/Files": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Other": [
+      "access Bluetooth settings",
+      "full network access",
+      "pair with Bluetooth devices",
+      "prevent device from sleeping",
+      "view network connections"
+    ],
+    "Uncategorized": [
+      "download files without notification"
+    ]
+  },
+  "reviews_data": null
+}

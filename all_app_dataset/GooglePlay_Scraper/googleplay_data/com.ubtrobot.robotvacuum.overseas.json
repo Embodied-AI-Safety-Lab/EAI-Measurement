@@ -1,0 +1,64 @@
+{
+  "pkg_name": "com.ubtrobot.robotvacuum.overseas",
+  "appId": "com.ubtrobot.robotvacuum.overseas",
+  "title": "U Vacuum",
+  "developer": "Ubtech Robotics Corp Ltd",
+  "developer_id": "Ubtech+Robotics+Corp+Ltd",
+  "developer_email": "aftersales@ubtrobot.com",
+  "developer_website": "https://www.ubtrobot.com",
+  "developer_address": null,
+  "category": "Tools",
+  "category_id": "TOOLS",
+  "content_rating": "Everyone",
+  "score": 3.1111112,
+  "ratings": 31,
+  "reviews_count": 8,
+  "installs": "1,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://ucsp-oversea.ubtrobot.com/v1/static-file/v1/24010005/en/privacy",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "U Vacuum is an advanced technology-driven application that will lead you into an unprecedented smart home cleaning experience. As the central control system for the V10 robot vacuum, U Vacuum focus on providing intuitive and comprehensive operational services, allowing you to easily enjoy a smart cleaning journey at your fingertips.\r\n\r\nBy downloading and installing U Vacuum, you will be able to remotely control and track the working status of the V10 anytime, anywhere. With just one click, you can activate a super strong suction mode up to 10 times higher or customize various cleaning plans. Whether it's setting up cleaning restricted areas, virtual walls, achieving selective area cleaning, freely dividing cleaning areas, or even flexibly adjusting the cleaning sequence, everything can be done as you wish to meet the different cleaning needs of various functional areas in your home.\r\n\r\nU Vacuum always pays attention to the operation status of the V10 robot vacuum,  providing you with feedback on the device's status to ensure it is always in optimal condition. This ensures that efficient cleaning and worry-free use go hand in hand, jointly building your ideal smart living space.",
+  "descriptionHTML": "U Vacuum is an advanced technology-driven application that will lead you into an unprecedented smart home cleaning experience. As the central control system for the V10 robot vacuum, U Vacuum focus on providing intuitive and comprehensive operational services, allowing you to easily enjoy a smart cleaning journey at your fingertips.<br><br>By downloading and installing U Vacuum, you will be able to remotely control and track the working status of the V10 anytime, anywhere. With just one click, you can activate a super strong suction mode up to 10 times higher or customize various cleaning plans. Whether it&#39;s setting up cleaning restricted areas, virtual walls, achieving selective area cleaning, freely dividing cleaning areas, or even flexibly adjusting the cleaning sequence, everything can be done as you wish to meet the different cleaning needs of various functional areas in your home.<br><br>U Vacuum always pays attention to the operation status of the V10 robot vacuum,  providing you with feedback on the device&#39;s status to ensure it is always in optimal condition. This ensures that efficient cleaning and worry-free use go hand in hand, jointly building your ideal smart living space.",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/wD6Z3_CsUKZZu0Qr778sPVfmkWEFYQBkmV7zKxrnXL9wyZHLjaUoMa8LX_Mw3jP9Z7Q",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/QDCcrYAnwHKhEl3Hn2t6iFFegjAse_8DNOkDH_ZgFMumaMmNlsjR_8NcQg_fjRbJGKc",
+    "https://play-lh.googleusercontent.com/kVefmCnfJi6ja1SIeiJRYDoWHxqrZzg5KfPQiq6Xs-1LnbsydjXw0D_83i1oBW0u64Q",
+    "https://play-lh.googleusercontent.com/wHpHwcTtfu-BpzYG6wpi0ETQma7AlJDosEPwITxtZSI1Dd4vMGSKLta609wZbsyfmdM",
+    "https://play-lh.googleusercontent.com/BN3Zv6dYDBe4A8U4Kb1NgSboIr4uOUvkgkJpuLHpntxjt2RpiTLV8xS45Xd4bw2JeVo"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/FBqSBf67AkKRsXgwFYLTpaszQAUzHdnxPAIJtxNEzuOZBvaukFuPfMBZngY6rkC62n1i",
+  "permissions": {
+    "Device & app history": [
+      "retrieve running apps"
+    ],
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Other": [
+      "access Bluetooth settings",
+      "connect and disconnect from Wi-Fi",
+      "control vibration",
+      "full network access",
+      "pair with Bluetooth devices",
+      "prevent device from sleeping",
+      "reorder running apps",
+      "view network connections"
+    ],
+    "Uncategorized": [
+      "receive data from Internet"
+    ]
+  },
+  "reviews_data": null
+}

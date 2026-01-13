@@ -1,0 +1,59 @@
+{
+  "pkg_name": "nl.lvnl.godrone",
+  "appId": "nl.lvnl.godrone",
+  "title": "GoDrone",
+  "developer": "Luchtverkeersleiding Nederland",
+  "developer_id": "Luchtverkeersleiding+Nederland",
+  "developer_email": "communications@lvnl.nl",
+  "developer_website": "https://www.godrone.nl",
+  "developer_address": null,
+  "category": "Maps & Navigation",
+  "category_id": "MAPS_AND_NAVIGATION",
+  "content_rating": "Everyone",
+  "score": 0,
+  "ratings": 0,
+  "reviews_count": 0,
+  "installs": "50,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://aa-cdn-www.azureedge.net/www/policies/general_privacy_latest.htm",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "The GoDrone app, provided by LVNL and Altitude Angel in partnership, supports recreational drone flying by letting you know where and how you can fly your drone.\r\n \r\nPlease note that GoDrone app only provides airspace information for the Netherlands. \r\n\r\nGoDrone provides location-based information on areas of airspace to avoid or in which extreme caution should be exercised, as well as on ground hazards that may pose safety, security or privacy risks. \r\nThis app will help you to abide by those rules, providing a tool to assist you in enjoying flying your drone whilst protecting your safety and the safety of other airspace users.\r\n \r\nFeatures\r\nView areas of controlled airspace, such as airfields and airports, where flying a drone could be hazardous or prohibited.\r\nView ground hazards, such as schools, overhead power lines and sports venues, flying close to which may raise security, privacy or safety concerns and could breach NL rules on drone flying.",
+  "descriptionHTML": "The GoDrone app, provided by LVNL and Altitude Angel in partnership, supports recreational drone flying by letting you know where and how you can fly your drone.<br> <br>Please note that GoDrone app only provides airspace information for the Netherlands. <br><br>GoDrone provides location-based information on areas of airspace to avoid or in which extreme caution should be exercised, as well as on ground hazards that may pose safety, security or privacy risks. <br>This app will help you to abide by those rules, providing a tool to assist you in enjoying flying your drone whilst protecting your safety and the safety of other airspace users.<br> <br>Features<br>View areas of controlled airspace, such as airfields and airports, where flying a drone could be hazardous or prohibited.<br>View ground hazards, such as schools, overhead power lines and sports venues, flying close to which may raise security, privacy or safety concerns and could breach NL rules on drone flying.",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/WaDtlm_KEOAJcmn4HQ5p5d2fs4BAh6-fqQohWhRML1gra8JlV9CbcDNlXi6A8jWOeRk",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/WHreZ_ejNEpudCC0-hvxT_7-56sbKT_sufx7iRRHDkKvG69TAYugJ55iF9LSfJ_48Lk",
+    "https://play-lh.googleusercontent.com/rj_Utrh9E0V886b3HdHxtfO7AwcqKtEeqktX2WseFNxrUrRZU57KbtqQIorAF0M9goI3",
+    "https://play-lh.googleusercontent.com/Uj23DZDKXbjvdeSzi_TdUB5Zs9hJekjvTB_T-0AjIvXSqyOfImk9AetPqUBZT6EVEQ",
+    "https://play-lh.googleusercontent.com/ouoXb0CPjOmVb7td5sORbsKiV5DK94dWwEoiXgHC0VqAn7LYvLSKzLCllwJHtYBIa-M",
+    "https://play-lh.googleusercontent.com/o8W6-NSaJL7cbdJVH4uoUIzPUfjxPTKmpZed0MC-zv2L-WmaNs0cJzSgRDaSLZ-XMg",
+    "https://play-lh.googleusercontent.com/7BSlD0fH2Dh6RpGCR3ANkLMd-G8pnxjy8pLmA6AX-bT03NVCClePOvPgBe-TuVxwNQ"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/MRAfMmyC9JHvQNj-80nQCKKPwII8sSiRr0O3_y_6eXjusULYMzn0pkhAVWbw3XBMhdTv",
+  "permissions": {
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Other": [
+      "full network access",
+      "prevent device from sleeping",
+      "reorder running apps",
+      "view network connections"
+    ],
+    "Uncategorized": [
+      "receive data from Internet"
+    ]
+  },
+  "reviews_data": null
+}

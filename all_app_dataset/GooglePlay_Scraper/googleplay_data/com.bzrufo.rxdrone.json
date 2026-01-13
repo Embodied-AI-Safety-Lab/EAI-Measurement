@@ -1,0 +1,64 @@
+{
+  "pkg_name": "com.bzrufo.rxdrone",
+  "appId": "com.bzrufo.rxdrone",
+  "title": "BZR DRONE",
+  "developer": "Begzar",
+  "developer_id": "Begzar",
+  "developer_email": "eng7_ruixing@ruixingtech.com",
+  "developer_website": null,
+  "developer_address": null,
+  "category": "Tools",
+  "category_id": "TOOLS",
+  "content_rating": "Everyone",
+  "score": 2.6666667,
+  "ratings": 15,
+  "reviews_count": 5,
+  "installs": "1,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://writer.zoho.com.cn/writer/open/dfpvf7967375122b5460b9ca6304dfb70197a",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "BZR DRONE is an APP specifically designed to connect BZR drones, providing users who have purchased corresponding drones can use this APP to view images and control drone flight.",
+  "descriptionHTML": "BZR DRONE is an APP specifically designed to connect BZR drones, providing users who have purchased corresponding drones can use this APP to view images and control drone flight.",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/u81JW_-emgAOTKc8nyQlj5qHcuqXhlPTGEoXuem_0-ih7CBCxI8BaJV8hM1i7H2hSk0",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/OiyxOtpKdAg1MoTELHcJTBm7NsY-LwwYbxNTvBrkZbauI_hQ1CtuGXyQPKUHY9yVcg",
+    "https://play-lh.googleusercontent.com/aogqIJxLfGXKdrPEsxQ617bSCAB-B2NLKFHt_pHNT76qEJ3yQUNygQEva8LJdJYNlLM",
+    "https://play-lh.googleusercontent.com/f4bIIEnlXDyMF7315WWu6KBBhlEKLfwtsYuucBuxAFjetf7ulKjDrlk_iJmfNsh4-MU",
+    "https://play-lh.googleusercontent.com/kSQZg13fax1-zizCHFTbijRu9wAT60MIJZDNtwsrSJACLt_L2VbNqXHS7HqpfI_9NVq_",
+    "https://play-lh.googleusercontent.com/OdqKi_qp2h0Qx6Is_5U7uptuwB5Pyg4OgPOfWy3iHRO59u_ZJwyrLL86RDSDPTB1KFh7"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/g4Ym8Welim1aA7I3EMU-Crh_3HqWc-R8yRWslY7MFjn2O6SwZr8P8v_kw8JXKnK5ZE0",
+  "permissions": {
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Photos/Media/Files": [
+      "access USB storage filesystem",
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Other": [
+      "change network connectivity",
+      "connect and disconnect from Wi-Fi",
+      "full network access",
+      "view network connections"
+    ]
+  },
+  "reviews_data": null
+}

@@ -1,0 +1,69 @@
+{
+  "pkg_name": "com.fakir.robot",
+  "appId": "com.fakir.robot",
+  "title": "Fakir Robot",
+  "developer": "Fakir",
+  "developer_id": "Fakir",
+  "developer_email": "info@fakir.com.tr",
+  "developer_website": "http://www.fakir.com.tr",
+  "developer_address": null,
+  "category": "Tools",
+  "category_id": "TOOLS",
+  "content_rating": "Everyone",
+  "score": 3.5714285,
+  "ratings": 424,
+  "reviews_count": 3,
+  "installs": "100,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "http://fakir.com.tr/fakir-robot-gizlilik-bildirimi",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "Connect your Robert R1 vacuum from anywhere using the Fakir robot App.",
+  "descriptionHTML": "Connect your Robert R1 vacuum from anywhere using the Fakir robot App.",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/3OcSNxGzTuIQN7k0V7HWEq3mRYzEZCvi0PhEiXqEERdQ-R4pXDkgzmXojWoKvBvwm1x3",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/bklLPvwVtrxI9i1-yfGVwLXcBJVIBdXmulnfYbpXLbUsHl6391Xv0zVRkVEtV3LgUZLA",
+    "https://play-lh.googleusercontent.com/5HWBvNaqy0zU5lGi12LzLND4eWY-caXr4XShuWDi5xmoM-sGumMJrEX0_AQOe9Upog",
+    "https://play-lh.googleusercontent.com/jttzY7ldb2gSfFsUiw-V4XPfEeR5QHHnfsVF0PdeG6aR9ww3LEeeqaHQu5J2yKSImQ",
+    "https://play-lh.googleusercontent.com/l_aclcgGSfCsFnBmQDt9HynSJdWhcka9DitB8b2iJ2XLjalmsus3NooczILrLUCzysg",
+    "https://play-lh.googleusercontent.com/Q_66uFZJ1p9sRIAFQpO61NSxEku8--x2R3f_uYytwkxB_B71_p9BzSwT6nAyTKmBnA",
+    "https://play-lh.googleusercontent.com/_ed59U-IaSNW8I9C7i8b3xdZYf88mXj1yxRrdVv5-MuiLO7hK_jwCAd_jt9f2i4QiSw",
+    "https://play-lh.googleusercontent.com/IJYm2VMT1xzcNMy0djzPP6mGJcbKybv3In7-DTAGxKTUaSNz4eON6KZacOGs1TzgDbM",
+    "https://play-lh.googleusercontent.com/Hih98B6dhcOL29wDkk1enErJb78fAKe4w1EwOylkVmeJjSZ64gBggVaxYyw_uBadT7M",
+    "https://play-lh.googleusercontent.com/bLdzOmZRmEU-i0EdeZVvdQzqlWwbbstB3AtsC98m7KmqzRZ8WOHuBnZFGkSW49pzcFY1",
+    "https://play-lh.googleusercontent.com/hsjMpwxM4H6MZPdSsccYeoEpo4w8Pu2fq7Rg-1yiMBUyH-q7ZHS2vZu4QFjt4-Pbviqi",
+    "https://play-lh.googleusercontent.com/XuyxIeS31jNn2W4XEbk84J8i3YuIgnJS5PI-OFSR1dEujJ2O3SQPegWVPgNphQtWYSM",
+    "https://play-lh.googleusercontent.com/NeM49-05Z8GUOihKBySaictbsk2rqyrNm7FAjIaZA1OZOt-o67Bs6_d01_70FFELbJ4"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/iquf1HIS-5Cw21WfJ7cJSOah58KXmJQNwMpDQt4t2_jpelKseM8qw0T-bseSWFl3CQ",
+  "permissions": {
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Other": [
+      "access Bluetooth settings",
+      "change network connectivity",
+      "connect and disconnect from Wi-Fi",
+      "control vibration",
+      "full network access",
+      "pair with Bluetooth devices",
+      "prevent device from sleeping",
+      "view network connections"
+    ],
+    "Uncategorized": [
+      "receive data from Internet"
+    ]
+  },
+  "reviews_data": null
+}

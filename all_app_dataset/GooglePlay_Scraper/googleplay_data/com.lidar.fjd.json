@@ -1,0 +1,84 @@
+{
+  "pkg_name": "com.lidar.fjd",
+  "appId": "com.lidar.fjd",
+  "title": "FJD Trion Scan",
+  "developer": "FJDynamics Europe Spzoo",
+  "developer_id": "4810577147554172842",
+  "developer_email": "rongnian.wang1@gmail.com",
+  "developer_website": null,
+  "developer_address": null,
+  "category": "Tools",
+  "category_id": "TOOLS",
+  "content_rating": "Everyone",
+  "score": 0,
+  "ratings": 0,
+  "reviews_count": 0,
+  "installs": "5,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://scanner.fjdac.cn/privacy/privacyPolicy-en.html",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "Used to connect and control FJDynamics 3D LIDAR Scanner for visualization work:\r\n1. Real-time calculation and display of point cloud data and scanning trajectories during the scanning process;\r\n2. Manage project files in the scanner device;\r\n3. Update and upgrade the scanner firmware version.",
+  "descriptionHTML": "Used to connect and control FJDynamics 3D LIDAR Scanner for visualization work:<br>1. Real-time calculation and display of point cloud data and scanning trajectories during the scanning process;<br>2. Manage project files in the scanner device;<br>3. Update and upgrade the scanner firmware version.",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/Q1jG4Qfc0Neim2LPrAcUTGXVtL2IjNPdMfty-yo9486eYlzODfrJcsn1iEOHtrywMJw",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/mUy9_0-rUPcTnbt_fV-MC3jjv1ZjAH0IT2CdpX254CztRSIdrOlEBULpt3kUWu1lJfU",
+    "https://play-lh.googleusercontent.com/lICPsALHONn0k-Yr4NgUeFFYM0wS16Pebkn38kxA-g1VQd8EuHcVYA6uP9tpp8dy8Q",
+    "https://play-lh.googleusercontent.com/22VatZThwpGxNYAJLgJE-SmRlXOmM-wIUMjd8Qvt89KrHSzeTs1HipGs1TWL92QQR5Y",
+    "https://play-lh.googleusercontent.com/HZW3ZI2JNdJGw23jQL6My2uO8_pEjvOICh2erjT5arnDwzXBA904moXDd1-yaWqceMZQ",
+    "https://play-lh.googleusercontent.com/kyz1D6BTuyaT3H46vDmKH8nxma_4mDJEfNyxH3riazzMyzhHI1sqxmtGhdHB9IHpYPrF",
+    "https://play-lh.googleusercontent.com/X5rWMDFXw7NWJ1Od0Fae_jd3idCGRL4IQawNJqACRw_0ePUr3kD32ctfqV5uXN-agMY",
+    "https://play-lh.googleusercontent.com/Y2B95bGl4sOOqlGM0kmIaME47Q1w5oySdgESEAvn3oT9uqZl0BbfL_3iy2tb13bnU_4",
+    "https://play-lh.googleusercontent.com/9L5xjk7FEqxCc8Ks2oKl4qVoEzqNFJ62uhsdDRLR_9p08Dvp78YnQ3r-RyJBwludvw",
+    "https://play-lh.googleusercontent.com/-zc9tG4Sb6dKS24X9UuRIbdFN6-4UZjKlIzLU8wV2WQEvBdDtcwN7Ydx-LtNZ1P9mYE",
+    "https://play-lh.googleusercontent.com/x0jq5dqXLT73hWeszx1hg5DvaTeb7CQI4aTgB2jBefZlwE67LLnJ3BV3g8mBGfoVjlA",
+    "https://play-lh.googleusercontent.com/9Q9lZx0c0Wv2swR-t1o1BEsyweh8dS3kXKlPSTtdQJjLZzZIwLcN3gbUOBE5C3awn_Sv",
+    "https://play-lh.googleusercontent.com/sVipXg5YX6t-pdU0oqYBc5dKlNXnywzUZLuBqPEZeJRMUyGqOUOLzLVXcwqqBu-s1A",
+    "https://play-lh.googleusercontent.com/tIuHr0L0jCvKqfFS6LGl4pXqq87-0DlGJocH2Kjz_BTmuFUUBBu1ylLMcUspeI2zm38",
+    "https://play-lh.googleusercontent.com/GENIBtk0bvtG4CpO_ePkJwOEkGpGTnCkrxxhrKpOPqWa3bLtypM9JrHTPvP-X63tojY",
+    "https://play-lh.googleusercontent.com/jva_KJOHz6KjG-hI7shtqCizKq0B932H26BXS1l6K_Zxv5HqSeIdtlWgkRppOUDf2k8",
+    "https://play-lh.googleusercontent.com/XIgdEHLyPdF86gkfB9e9jqS5i-q-OLdcncAlu7-v5p4oRUhT1Yuy_PVgOsg2Z5g0PqH6",
+    "https://play-lh.googleusercontent.com/wYcKWYKiX3Ur7JWWUvOf3Zu7vOYkxERyttzgPVvyQ21FowUycrS8PwUSl2ld9bPL0w",
+    "https://play-lh.googleusercontent.com/NqncPw0QlpRU8_oSyB2RLZJki_wbuPYEOb-aqDH-uKtqIuvoqQ4vajNlobsfBWJJqXU",
+    "https://play-lh.googleusercontent.com/KAZEG-dndpboXPRxl7FD5InaCdqnoh-MGwQeufnJFnzX6RY9Irzfou9Kc1wc-ef88os",
+    "https://play-lh.googleusercontent.com/aFIIi4S15l-PId_jsRhvkV7iUu3hKAF9lbNj81qjt2tPKV-t_Gp2yKMjjoB-rRPo-tG6",
+    "https://play-lh.googleusercontent.com/T6anMFMykB3t3rEjuELduV5Fi_lTx9Al_0iFm-Nckb8b4S7Se78-Xti_o0F1x5pdfbQ"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/5YnxwVQwo4OB8nHQ1j5D1NVw-xz7pnM_qihtX1ZTC64rzOlPcgSRHdelPQCCBKV0eA",
+  "permissions": {
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Photos/Media/Files": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Other": [
+      "access Bluetooth settings",
+      "change network connectivity",
+      "connect and disconnect from Wi-Fi",
+      "full network access",
+      "modify system settings",
+      "pair with Bluetooth devices",
+      "prevent device from sleeping",
+      "run at startup",
+      "view network connections"
+    ]
+  },
+  "reviews_data": null
+}

@@ -1,0 +1,58 @@
+{
+  "pkg_name": "com.companyname.ALLUXRemoteController",
+  "appId": "com.companyname.ALLUXRemoteController",
+  "title": "Remote Control App for ALLUX2",
+  "developer": "Nabtesco Corporation",
+  "developer_id": "Nabtesco+Corporation",
+  "developer_email": "welfare@nabtesco.com",
+  "developer_website": "http://welfare.nabtesco.com/prosthesis/",
+  "developer_address": null,
+  "category": "Communication",
+  "category_id": "COMMUNICATION",
+  "content_rating": "Everyone",
+  "score": 0,
+  "ratings": 0,
+  "reviews_count": 0,
+  "installs": "500+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://www.nabtesco.com/privacypolicy.html",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "Please note that this app is a dedicated app used only by ALLUX user, certified prosthetists in charge of the ALLUX user and also who have attended the Nabtesco ALLUX certification seminar.\r\n\r\nUsing the ALLUX remote control app, ALLUX user can easily switch to 5 different walking\r\nmodes according to the situation on daily life of each user.\r\n\r\nThis app consists of the following functions (1) to (5), and ALLUX user can freely use without any restrictions.\r\n\r\n(1) Changes to 5 different walking mode\r\n(2) Display on remaining battery level\r\n(3) Reference to ALLUX data\r\n(4) Bluetooth reconnection setting\r\n(5) Changes to the name on each walking mode\r\n\r\nThe display of this app supports Japanese and English. In the future, we plan to support\r\nmultiple languages other than Japanese and English.\r\n\r\nFor details of this app, see the instruction manual of the Remote Control App.\r\nThe Remote Control App instruction manual is a PDF format instruction manual, so you need to install Adobe Acrobat Reader separately.\r\n\r\nManufacturer: Nabtesco Corporation https://www.nabtesco.com/",
+  "descriptionHTML": "Please note that this app is a dedicated app used only by ALLUX user, certified prosthetists in charge of the ALLUX user and also who have attended the Nabtesco ALLUX certification seminar.<br><br>Using the ALLUX remote control app, ALLUX user can easily switch to 5 different walking<br>modes according to the situation on daily life of each user.<br><br>This app consists of the following functions (1) to (5), and ALLUX user can freely use without any restrictions.<br><br>(1) Changes to 5 different walking mode<br>(2) Display on remaining battery level<br>(3) Reference to ALLUX data<br>(4) Bluetooth reconnection setting<br>(5) Changes to the name on each walking mode<br><br>The display of this app supports Japanese and English. In the future, we plan to support<br>multiple languages other than Japanese and English.<br><br>For details of this app, see the instruction manual of the Remote Control App.<br>The Remote Control App instruction manual is a PDF format instruction manual, so you need to install Adobe Acrobat Reader separately.<br><br>Manufacturer: Nabtesco Corporation https://www.nabtesco.com/",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/GhAReT8tKyOSMPEydNgxGv3AqAyLSUKo0R-XCPAzA2wRe8yT0rTg1-lIf_I0W9UWWMvl",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/W9uBa2URKHmZQPNfvCbbx8ECBHMZ0NPY9IvWl56cVFuAB38aivtQRpTdZkGiEozwUYqwwCR38IOxS40BLVnk2g",
+    "https://play-lh.googleusercontent.com/591KoeyBPda1lSlO8lzp2qXVzqWZb4_CfC5vlJTmz_eTtmVLXaWHlCClnWS2gmdVzvKrUtPh3oyzkoGSFTbg1IU"
+  ],
+  "video": "https://www.youtube.com/embed/fd0nhY_lsys?vq=large&rel=0&autohide=1&showinfo=0",
+  "video_image": "https://play-lh.googleusercontent.com/t6k_FX6Y-EK55S9S4rpgAMzy6utTYmVAYkwyd3MDrRfcHvF3dNrmKKfUldzNMCskRz8",
+  "header_image": "https://play-lh.googleusercontent.com/t6k_FX6Y-EK55S9S4rpgAMzy6utTYmVAYkwyd3MDrRfcHvF3dNrmKKfUldzNMCskRz8",
+  "permissions": {
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Photos/Media/Files": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Other": [
+      "access Bluetooth settings",
+      "full network access",
+      "install shortcuts",
+      "pair with Bluetooth devices",
+      "view network connections"
+    ]
+  },
+  "reviews_data": null
+}

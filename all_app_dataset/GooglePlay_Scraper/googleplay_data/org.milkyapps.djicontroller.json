@@ -1,0 +1,101 @@
+{
+  "pkg_name": "org.milkyapps.djicontroller",
+  "appId": "org.milkyapps.djicontroller",
+  "title": "Fly Go 4: Drone Controller App",
+  "developer": "Flourix Apps",
+  "developer_id": "Flourix+Apps",
+  "developer_email": "admin@milkyapps.org",
+  "developer_website": "https://milkyapps.org/",
+  "developer_address": null,
+  "category": "Photography",
+  "category_id": "PHOTOGRAPHY",
+  "content_rating": "Everyone",
+  "score": 4.326923,
+  "ratings": 1870,
+  "reviews_count": 8,
+  "installs": "100,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": true,
+  "contains_ads": true,
+  "privacy_policy": "https://milkyapps.org/privacy-policy",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "Take full control of your DJI™ drone with Go Fly for DJI™ Drone Controller - the ultimate remote controller app designed for over 40 popular DJI™ drone models! Whether you're a beginner or a pro pilot, Go Fly delivers an intuitive interface, advanced flight controls, and real-time HD video streaming to elevate your flying experience🚀📷\r\n\r\n⚠️ Disclaimer:\r\nGo Fly is an independent third-party app developed using DJI’s official Mobile SDK. It is not affiliated with, endorsed by, or an official product of DJI or its subsidiaries. This work has not been authorized, sponsored, or otherwise approved by DJI.\r\n\r\n⚠️Drone Compatibility: this Go Fly with Drone Controller app is built on DJI Mobile SDK v4.18, which supports 36+ DJI drones including:\r\n- Mini 2, Mini SE, Air 2S\r\n- Mavic™ Air, Mavic™ Air 2 & Mavic™ Mini\r\n- Mavic 2™ Enterprise (Pro, Advanced, Dual), Mavic 2 Zoom, Mavic 2 Pro & Mavic Pro, Mavic 2 series & Mavic Air\r\n- Phantom™ Series (3 Standard to 4 Pro V2, RTK variants)\r\n- Inspire™ Series (1, 1 Pro/Raw, 2)\r\n- Matrice™ Series (100, 200, 210, 300 RTK, 350 RTK, 600 & 600 Pro)\r\n- Spark™\r\n\r\nFor Mavic™ drone users, there are some features our app hasn't fully supported yet: Low Battery Warning, Critical Low Battery Warning, Time to Discharge, Lock Gimbal When Shooting, Sync Gimbal with Aircraft Heading, Gimbal Mode. Preview media, Play media, On/Off Head LEDs & Camera Forward/Down (Mavic™ Air2S: double tap is C2, 1-tap is C1)\r\n\r\n⭐ Key Features:\r\n\r\n1. Drone Panorama Photography: Effortlessly capture stunning panoramic photos and videos from your drone’s camera, streamed in real-time to your phone for breathtaking aerial footage.\r\n\r\n2. No-Fly Zone Map: Stay informed with instant alerts about restricted airspaces near airports, military zones, and sensitive locations to ensure safe and compliant flights.\r\n\r\n3. Waypoint Missions: Easily design and execute custom flight paths with our user-friendly waypoint mission planner—perfect for both beginners and experienced pilots.\r\n\r\n4. Media Export: Quickly transfer high-quality photos and videos to your device in popular formats like JPG, GeoTIFF, DXF/SHP, PDF, MOV, 4K, and MP4 for effortless sharing and editing.\r\n\r\n5. Find My Drone: Use the integrated GPS tracker to locate your drone in case of loss or emergencies, providing peace of mind during every flight.\r\n\r\n6. Home Point Setting: Save a designated home location, allowing your drone to automatically return safely in cases of signal loss or low battery.\r\n\r\n7. Focus Mode: Gain precise control over your drone’s yaw axis and gimbal to hone in on the perfect shot every time.\r\n\r\nAnd many more interesting features are waiting for you to try!\r\n\r\nWe are constantly striving to improve and evolve our app, and your feedback fuels our journey. Please share your thoughts or support requests at: support@milkyapps.org\r\nThank you for being part of our continuing efforts.\r\n\r\nPrivacy Policy: https://milkyapps.org/privacy-policy\r\nTerms of use: https://milkyapps.org/terms-of-service",
+  "descriptionHTML": "Take full control of your DJI™ drone with Go Fly for DJI™ Drone Controller - the ultimate remote controller app designed for over 40 popular DJI™ drone models! Whether you&#39;re a beginner or a pro pilot, Go Fly delivers an intuitive interface, advanced flight controls, and real-time HD video streaming to elevate your flying experience🚀📷<br><br>⚠️ Disclaimer:<br>Go Fly is an independent third-party app developed using DJI’s official Mobile SDK. It is not affiliated with, endorsed by, or an official product of DJI or its subsidiaries. This work has not been authorized, sponsored, or otherwise approved by DJI.<br><br>⚠️Drone Compatibility: this Go Fly with Drone Controller app is built on DJI Mobile SDK v4.18, which supports 36+ DJI drones including:<br>- Mini 2, Mini SE, Air 2S<br>- Mavic™ Air, Mavic™ Air 2 &amp; Mavic™ Mini<br>- Mavic 2™ Enterprise (Pro, Advanced, Dual), Mavic 2 Zoom, Mavic 2 Pro &amp; Mavic Pro, Mavic 2 series &amp; Mavic Air<br>- Phantom™ Series (3 Standard to 4 Pro V2, RTK variants)<br>- Inspire™ Series (1, 1 Pro/Raw, 2)<br>- Matrice™ Series (100, 200, 210, 300 RTK, 350 RTK, 600 &amp; 600 Pro)<br>- Spark™<br><br>For Mavic™ drone users, there are some features our app hasn&#39;t fully supported yet: Low Battery Warning, Critical Low Battery Warning, Time to Discharge, Lock Gimbal When Shooting, Sync Gimbal with Aircraft Heading, Gimbal Mode. Preview media, Play media, On/Off Head LEDs &amp; Camera Forward/Down (Mavic™ Air2S: double tap is C2, 1-tap is C1)<br><br>⭐ Key Features:<br><br>1. Drone Panorama Photography: Effortlessly capture stunning panoramic photos and videos from your drone’s camera, streamed in real-time to your phone for breathtaking aerial footage.<br><br>2. No-Fly Zone Map: Stay informed with instant alerts about restricted airspaces near airports, military zones, and sensitive locations to ensure safe and compliant flights.<br><br>3. Waypoint Missions: Easily design and execute custom flight paths with our user-friendly waypoint mission planner—perfect for both beginners and experienced pilots.<br><br>4. Media Export: Quickly transfer high-quality photos and videos to your device in popular formats like JPG, GeoTIFF, DXF/SHP, PDF, MOV, 4K, and MP4 for effortless sharing and editing.<br><br>5. Find My Drone: Use the integrated GPS tracker to locate your drone in case of loss or emergencies, providing peace of mind during every flight.<br><br>6. Home Point Setting: Save a designated home location, allowing your drone to automatically return safely in cases of signal loss or low battery.<br><br>7. Focus Mode: Gain precise control over your drone’s yaw axis and gimbal to hone in on the perfect shot every time.<br><br>And many more interesting features are waiting for you to try!<br><br>We are constantly striving to improve and evolve our app, and your feedback fuels our journey. Please share your thoughts or support requests at: support@milkyapps.org<br>Thank you for being part of our continuing efforts.<br><br>Privacy Policy: https://milkyapps.org/privacy-policy<br>Terms of use: https://milkyapps.org/terms-of-service",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/nkwo8xkVK4agYSVUbORqtRz4Cna0hM4rekJboe_JSGMUuxjGsra57u4LI0zeIkOb2bUhb1M6kbp432R_pKSaaQ",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/BLm-mMvJbD1H7L3s5WvM47QXOx5AIiceYDYldZ6hCWDqA0ik6vY9_GM7TXyZMFAkcGFeeI6w1Y3DK-Bh5rVW6g",
+    "https://play-lh.googleusercontent.com/6x1An9PhXSztE5DVlhY4b4MMCbZxWINZBBt7wWxSXKdd5K9kh-DsS1myPLUEvOq_wm859E3j8LCobf_k8hvi4A",
+    "https://play-lh.googleusercontent.com/x_R13coGOGbc9cytA9Qp9oNgRkUR9AO0KLmd6wRRgKARALil6zjpwe4aMD1qq_lhUmqnOHEbpgXWpEk-XWSIUog",
+    "https://play-lh.googleusercontent.com/qDJl007iEMK3kxqNnlMJ06OdMFqQZvcY9Tu7vvxbDb2kg9xGns1G8DO79e4D4yggYgJIzxa4g005TzcxmWqBzQ",
+    "https://play-lh.googleusercontent.com/jn3eGhmP-TuiM0CMHurabkeTLoKDgEJL34fUanLUM8EFN_pr60fMhlvKSMmd0ewerSPVoXTvuLZkpL1dZMkgF_k",
+    "https://play-lh.googleusercontent.com/fvOv0HBXignT2k7906Y8F4w8-PwDcFvIkkwhbyRErVpiSwgc3VMm8ShdOtxajlDJ-PcEw96Yg7HDYDwaKUlK8ts",
+    "https://play-lh.googleusercontent.com/XuztmW3ys8mER1nmxwSZ0u4bakIcqvmSJYL-QN_8izmAzWFiiS4rFAEQfxu9xzgvoYwVd0v9kQfufXi5IqSrwQ",
+    "https://play-lh.googleusercontent.com/BlrRVWbkXgbTt4PS6mN6Nc8o_XaLtv-eZdQcd4VES-ghGMZGgSA2LiS16uMczXW4b76zRJwFJcCXe5kExxzcmKY",
+    "https://play-lh.googleusercontent.com/z-9jF_AKSDYvrKiICmrtFwbePS6Feg3WvKrxSEbr_vWRT4px1HUSBg7m1z_PNRsWCgwnXOCH4MH6cVDmKhNi",
+    "https://play-lh.googleusercontent.com/a094HxCmsl0L49oaAOVkWWV0CkFhS6UMkeVCVlOKEuuXxdYSTXxXsg3XydSKeFC59SbTip_nPAoPLInJUZGcPIw",
+    "https://play-lh.googleusercontent.com/q5ffRBADCBpExpfYaTedZSNzo7q_GRFwV9D_7Rn6r5yY87urIdmbwwD5fPV5gF8UspzlsoZmKvmBzGAWb0aT2A",
+    "https://play-lh.googleusercontent.com/2wO1y13tcL2MTI7HFHXPCQR3yFL-0Tu4iKguIUctUktYLwXnoJ0d-i8CIy1w4Gug683o-eR03QcHSySwzZY4fjg",
+    "https://play-lh.googleusercontent.com/wqLM_1UFVWlNnJT-IWDb3ajPwr610ZK3UYZxjJT8TkZoKY4j7UYMztDMkL__NsVzaiVpaf0wd9W1peWBPzXr0Q",
+    "https://play-lh.googleusercontent.com/qcMn-ZJTlPpnklXO6fIHTgiW2L4ZXjhuBG2HxXqOgMfj_x6JR5uvKHnWZ_Be9cyQoNPQOI_iLgFS6xKazy5tp4I",
+    "https://play-lh.googleusercontent.com/Hknp7BGvO3Zxwh551DFYI3cc0Rc3V1LBDUyS4PmeLvGFDRcPitz1ze5Vw_Njgijc0CmXG9LoiNypXo28TL_8",
+    "https://play-lh.googleusercontent.com/rGcRMBnMyNTSMM6FP73td3_NW2wmFp7tSF8pUIRJoSzDp6Srle4bx4L8q4_kK_8IFmNIzG8pnjLXszVLEZPJoIQ",
+    "https://play-lh.googleusercontent.com/u2fAuQBEHdWoZnbU2iwebLhJ39JXG61YlpxWlblQ4wzItYhW2hx5GSjMJdm-SgcBAX-6kjcaHGvIRgnf7bPk_Q",
+    "https://play-lh.googleusercontent.com/Qk5tEcspXnTYfuD2DX1R7OkTDiBv57K3eohuhsiHHsFD5qSNKgbqu4SUtdpFQKDNtRjWvrSBS-Tp-JroylUGKig",
+    "https://play-lh.googleusercontent.com/SHV2ih22sFyKLekwAhyy8fBd2GrojiVJF3Xhi0NrN9PpIK8tnoouKythD8-bkMJI1Y7mfRf-uOTvzuKzhWIP9w",
+    "https://play-lh.googleusercontent.com/_4U_PuniafSsP3I4RjOD9DirZ9xbksRmWGaW7XN8cVzDYPxqVteQrQmmtcfmUjxKDy6hQU2Zw-ZZcKqwF5Gbbw",
+    "https://play-lh.googleusercontent.com/BPd4FWSeDjX5G9zSBPfH11WbLPW6zN4IBIFXaq6oxnXCGWNQyhgH0hhTwg4QbkcimIliwHPnWi6H8t3OhS9GgQ"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/-QBfWL5DQquUn-zntu30Xa71jv9csoUk3HlRQH4FqptHj-4gBevg-AX_-5Thd3BIs2cJ0Ds0GtD7H21TxvTu1g",
+  "permissions": {
+    "Device & app history": [
+      "retrieve running apps"
+    ],
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Phone": [
+      "read phone status and identity"
+    ],
+    "Photos/Media/Files": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Microphone": [
+      "record audio"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Device ID & call information": [
+      "read phone status and identity"
+    ],
+    "Other": [
+      "Google Play license check",
+      "access Bluetooth settings",
+      "change network connectivity",
+      "close other apps",
+      "connect and disconnect from Wi-Fi",
+      "control vibration",
+      "draw over other apps",
+      "full network access",
+      "pair with Bluetooth devices",
+      "prevent device from sleeping",
+      "view network connections"
+    ],
+    "Uncategorized": [
+      "receive data from Internet"
+    ]
+  },
+  "reviews_data": null
+}

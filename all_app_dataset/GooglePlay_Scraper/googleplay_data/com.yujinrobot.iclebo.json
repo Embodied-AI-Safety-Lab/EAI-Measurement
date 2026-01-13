@@ -1,0 +1,63 @@
+{
+  "pkg_name": "com.yujinrobot.iclebo",
+  "appId": "com.yujinrobot.iclebo",
+  "title": "iCLEBO O5",
+  "developer": "Yujin Robot Co., Ltd",
+  "developer_id": "Yujin+Robot+Co.,+Ltd",
+  "developer_email": "yujinrnd.hrteam@gmail.com",
+  "developer_website": "http://www.yujinrobot.com/",
+  "developer_address": null,
+  "category": "Lifestyle",
+  "category_id": "LIFESTYLE",
+  "content_rating": "Everyone",
+  "score": 0,
+  "ratings": 0,
+  "reviews_count": 0,
+  "installs": "10,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "http://www.iclebo.com/html/privacy.html",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "Try various and convenient features of iCLEBO O5 App.\r\n\r\n- Remote Cleaning\r\n- My Cleaning Mode\r\n- My Home Map\r\n- Non-Cleaning Zone\r\n- Schedule Cleaning\r\n- Software Update\r\n- Other Functions\r\n\r\n\r\n# REMOTE CLEANING\r\n\r\nStart and stop clean, change cleaning mode, and use more functions anytime, anywhere!\r\n\r\n\r\n# MY CLEANING MODE\r\n\r\nSet a customized cleaning mode to your preference.\r\n\r\n\r\n# MY HOME MAP\r\n\r\nMonitor cleaning status with real-time map.\r\n\r\n\r\n# NON-CLEANING ZONE\r\n\r\nDraw non-cleaning zone on a saved map for iCLEBO to skip the area.\r\n\r\n\r\n# SCHEDULE CLEANING\r\n\r\nSet cleaning schedule any day of the week at your convenient time.\r\n\r\n\r\n# SOFTWARE UPDATE\r\n\r\nCheck your robot status with the App. and on-time software update is avaialble.\r\n\r\n\r\n# VOICE CONTROL\r\n\r\nSimply speak up!  iCLEBO O5 is compatiable with Alexa/Google Assistant in United States.\r\n\r\n\r\n# VOICE REPORT\r\n\r\niCLEBO O5 speaks as well! Easily find out the status of your robot.\r\n\r\n\r\n# OTHER FUNCTIONS\r\n\r\nRegister your iCLEBO and create a nickname\r\nPurchase robot accessories at iCLEBO Store",
+  "descriptionHTML": "Try various and convenient features of iCLEBO O5 App.<br><br>- Remote Cleaning<br>- My Cleaning Mode<br>- My Home Map<br>- Non-Cleaning Zone<br>- Schedule Cleaning<br>- Software Update<br>- Other Functions<br><br><br># REMOTE CLEANING<br><br>Start and stop clean, change cleaning mode, and use more functions anytime, anywhere!<br><br><br># MY CLEANING MODE<br><br>Set a customized cleaning mode to your preference.<br><br><br># MY HOME MAP<br><br>Monitor cleaning status with real-time map.<br><br><br># NON-CLEANING ZONE<br><br>Draw non-cleaning zone on a saved map for iCLEBO to skip the area.<br><br><br># SCHEDULE CLEANING<br><br>Set cleaning schedule any day of the week at your convenient time.<br><br><br># SOFTWARE UPDATE<br><br>Check your robot status with the App. and on-time software update is avaialble.<br><br><br># VOICE CONTROL<br><br>Simply speak up!  iCLEBO O5 is compatiable with Alexa/Google Assistant in United States.<br><br><br># VOICE REPORT<br><br>iCLEBO O5 speaks as well! Easily find out the status of your robot.<br><br><br># OTHER FUNCTIONS<br><br>Register your iCLEBO and create a nickname<br>Purchase robot accessories at iCLEBO Store",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/5pbDnweAzCX5aMw3jGFUCKNOZOM6U9Y36IYBdJvyj3wLvZUgAoh1eXkOUtGAlAv5uQ",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/0I616-ajE2y1pogeeTD5mFLFOCaE6w0R8i9g0jypgdJe1fGO8KIcJ7vdmFgiSBA_my8",
+    "https://play-lh.googleusercontent.com/c0Xb5SPxGimP4Mm1Wmkm94OClaif_45UsWwfX3h1iom-Kj9FugC2s54fn3FASvCa95aB",
+    "https://play-lh.googleusercontent.com/bC_JfKHorvLjaMqyX49AxF6WPpueAVTxeQvwo9ASFuDe-27hB6FhSG_WA-kXsFpixQ",
+    "https://play-lh.googleusercontent.com/RYOweO91bfyN1OZzT_u7iuSMHoclWRZwY3MxRkydABZBBVz2gWJmgfCZTf6Jkf9YjQ",
+    "https://play-lh.googleusercontent.com/KQhsX36WiO_nZQDBu5S3378KrAoLiOvlGgUtordfMs-MjZuf0h1ITX8rky_VVwGPASk",
+    "https://play-lh.googleusercontent.com/Sy_G1qB9Dbc6FL7dJnaSfR06P7WiyjVxT043Wc_UPOT2dSACmVNAR3Ihnk-0NNqandTH"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/PsMXVuScevAmf1ZwStd8z8qW_p3Qq-amZJR6N8WpAataxTXdlb1Dzb4O7X8BJ1RCh8bp",
+  "permissions": {
+    "Photos/Media/Files": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Other": [
+      "control vibration",
+      "full network access",
+      "prevent device from sleeping",
+      "view network connections"
+    ],
+    "Uncategorized": [
+      "receive data from Internet"
+    ]
+  },
+  "reviews_data": null
+}

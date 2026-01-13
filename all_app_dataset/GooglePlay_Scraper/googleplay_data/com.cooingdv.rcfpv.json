@@ -1,0 +1,53 @@
+{
+  "pkg_name": "com.cooingdv.rcfpv",
+  "appId": "com.cooingdv.rcfpv",
+  "title": "RC FPV",
+  "developer": "cooingdv",
+  "developer_id": "cooingdv",
+  "developer_email": "435749799@qq.com",
+  "developer_website": "http://www.szyls.net/",
+  "developer_address": null,
+  "category": "Photography",
+  "category_id": "PHOTOGRAPHY",
+  "content_rating": "Everyone",
+  "score": 3.04,
+  "ratings": 9433,
+  "reviews_count": 442,
+  "installs": "5,000,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": true,
+  "privacy_policy": "https://498227125.wixsite.com/mysite",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "The APP uses wireless WIF HD image transmission technology to control the flight of the quadcopter. It can be connected to the WIFI of the quadcopter to control the flight through the joystick and display the real-time streaming screen of the aircraft camera. It can take pictures, videos, view photos and videos, and have functions such as gravity sensing to control the aircraft flight, draw trajectory automatic flight, and VR mode.",
+  "descriptionHTML": "The APP uses wireless WIF HD image transmission technology to control the flight of the quadcopter. It can be connected to the WIFI of the quadcopter to control the flight through the joystick and display the real-time streaming screen of the aircraft camera. It can take pictures, videos, view photos and videos, and have functions such as gravity sensing to control the aircraft flight, draw trajectory automatic flight, and VR mode.",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/HsVVAWbJz6Af8W__fzZaAkmrdXcJwuJII9tPzTzbHXymHyWOtmz8FM6TtoGVcctXzsU",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/X9EhXjs40rz4LuMPZ1ogjrQAKtAWop67ES-xkzy7jx5QR4fFPA52zyfukl_lUTxY-7M",
+    "https://play-lh.googleusercontent.com/FjWCUGGG_HMXRR5DdkGk9SvGpcPor3fzbRnA4fiEljo5fTifqEkRsQcdW54YPwFLSHM",
+    "https://play-lh.googleusercontent.com/VOSAuLA2B_B2rPtHBtYkN0MuXxCweZ3h8Mn-YFCAv3kflTyVOreLwnjbE7LMnZ3mTs72",
+    "https://play-lh.googleusercontent.com/uEn0Gc-1ZPRT5GeowgiFFXAsjw3BqJKt63FDaSca0w3DLsOKoWNdCGNQlzbHlILqFxY"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/8DuLDVsbVhbyGNyAixo6kHIHsBhE_tKuChwEXPt4QkGk4sw-F-p-lWYlrRV-EJOFkJ8",
+  "permissions": {
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Other": [
+      "change network connectivity",
+      "change your audio settings",
+      "connect and disconnect from Wi-Fi",
+      "control vibration",
+      "full network access",
+      "prevent device from sleeping",
+      "view network connections"
+    ]
+  },
+  "reviews_data": null
+}

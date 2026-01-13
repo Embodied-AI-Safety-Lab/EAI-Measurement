@@ -1,0 +1,90 @@
+{
+  "pkg_name": "com.tab.tabbot",
+  "appId": "com.tab.tabbot",
+  "title": "TABbot",
+  "developer": "Shenzhen PICEA Robotics Co., Ltd",
+  "developer_id": "Shenzhen+PICEA+Robotics+Co.,+Ltd",
+  "developer_email": "hooovercandy77@gmail.com",
+  "developer_website": null,
+  "developer_address": null,
+  "category": "Tools",
+  "category_id": "TOOLS",
+  "content_rating": "Everyone",
+  "score": null,
+  "ratings": null,
+  "reviews_count": null,
+  "installs": "50+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://qin.tuyacn.com/app-agreement/en/1027303214/v1.0.0/1/smart/app/package/1027303214/privacyUrl_1715769242035.html",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "TAB robot is a humanistic brand that always cares about every user. You can complete the functional operation of the robot through the APP, and remotely check the running status, saving worry and trouble, and better serving our life.\r\n\r\n【 Powerful remote control ability 】\r\nWhen you complete the binding of the product, as long as your mobile phone has the network, you can control it through the mobile phone, and you can clearly understand the running track and completion of the robot by viewing the map; Through map editing, it is also possible to delimit voting areas and prohibited areas.\r\n【 Multiple operation mode selection 】\r\nThe robot has a variety of cleaning modes, you can choose the mode that suits you through the APP: such as the size of suction, the amount of mop water and so on;\r\n【OTA】\r\nWe will also continue to upgrade products through OTA to bring you new experiences.",
+  "descriptionHTML": "TAB robot is a humanistic brand that always cares about every user. You can complete the functional operation of the robot through the APP, and remotely check the running status, saving worry and trouble, and better serving our life.<br><br>【 Powerful remote control ability 】<br>When you complete the binding of the product, as long as your mobile phone has the network, you can control it through the mobile phone, and you can clearly understand the running track and completion of the robot by viewing the map; Through map editing, it is also possible to delimit voting areas and prohibited areas.<br>【 Multiple operation mode selection 】<br>The robot has a variety of cleaning modes, you can choose the mode that suits you through the APP: such as the size of suction, the amount of mop water and so on;<br>【OTA】<br>We will also continue to upgrade products through OTA to bring you new experiences.",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/zZwYB3BlfxoVkV75cjyE7LCnQs6Cs2paiRzQt9td2P9DwJfSY-mDQjaFO6-_L7LzGRY",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/wWY_H-TWfWLizCyUExovTLll0nfcG4PPi0BLW7fNcU-RvXsTL79sHEJ2SYtWxgRMQcU",
+    "https://play-lh.googleusercontent.com/tYvwIiXIzZdJ8tYNEvAemDpjYzfl0HaaQJj2LEGOFbRIME80PrTqWRwoLrG3zfOXJg",
+    "https://play-lh.googleusercontent.com/gRWdXTFOYCZZcNZFdRvCfS3vy7EOJUFjszpCXletIwlywi5jIny46YS_vnRRw8vgrgM",
+    "https://play-lh.googleusercontent.com/JxgxrdoQ92I_Ibf2LKg8PQVcbRh9t3eWZ3JW8pJHkPh8NZbDFMRuibo_qmdB6wDgr5o",
+    "https://play-lh.googleusercontent.com/0AdjqRMvAN04PSCcrNpzhHDG124N07GfgC56OobFrVILi1cdYA1uyyJ4FJGcSx6Smw",
+    "https://play-lh.googleusercontent.com/cxd6HoyZDbB5juBF3ir0ZaKVRT_Opc1uJTxGyA7V0_k0rdf2xtmtsJGzqY-R3P3hhQ",
+    "https://play-lh.googleusercontent.com/kbpasST_Jtj9E1TaIsYPy_lxCjyG8ZAGiUXGLtu6MIjMZpZWixV9-cfyUrI3Irlig5GX",
+    "https://play-lh.googleusercontent.com/Yh8DhYEG_FYTKmVyGRvzs-A1CB79l34nToX44rxAe_htipVjGV0cGVAaDw_hbIn0KeoL",
+    "https://play-lh.googleusercontent.com/izaz9gejG2yRoFTodC7J-hloyDLUPA7Bw4GCpWE6Ai_NG4WMZ1UV16ol2BGSLmzoO-c",
+    "https://play-lh.googleusercontent.com/e_GpDRbkuByuWqCwpftP2QlrsML1V3r7m_5WXzAOOuZITSp2KgDZwUhLuf3lSD0SqIc",
+    "https://play-lh.googleusercontent.com/93_wjcyRBur_gKBQx0dH9NQ2nQ5ZxT9_RhFu2BTO7WZPJViZBaQQuTwsW6mmngGT71c",
+    "https://play-lh.googleusercontent.com/itrCMpqvZxo8v5OlK2M9PdFEwlZNQfqf-jDRgBoWJiyNGbI7gDrVaxC5NOGTinGJyw"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/LH6NUyUighBLqg7Ht0XOX0vxjxuZ9UENwc-OO6HNe2JVvLxJOeiAxfuUUH0TN3Hdqw",
+  "permissions": {
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Photos/Media/Files": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Camera": [
+      "take pictures and videos"
+    ],
+    "Microphone": [
+      "record audio"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Other": [
+      "Google Play license check",
+      "access Bluetooth settings",
+      "allow Wi-Fi Multicast reception",
+      "change network connectivity",
+      "change your audio settings",
+      "connect and disconnect from Wi-Fi",
+      "control vibration",
+      "full network access",
+      "install shortcuts",
+      "pair with Bluetooth devices",
+      "prevent device from sleeping",
+      "reorder running apps",
+      "run at startup",
+      "set wallpaper",
+      "view network connections"
+    ],
+    "Uncategorized": [
+      "receive data from Internet"
+    ]
+  },
+  "reviews_data": null
+}

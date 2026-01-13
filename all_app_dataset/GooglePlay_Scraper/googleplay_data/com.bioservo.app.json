@@ -1,0 +1,59 @@
+{
+  "pkg_name": "com.bioservo.app",
+  "appId": "com.bioservo.app",
+  "title": "Bioservo Carbonhand App",
+  "developer": "Bioservo",
+  "developer_id": "Bioservo",
+  "developer_email": "info@bioservo.com",
+  "developer_website": "http://www.bioservo.com",
+  "developer_address": null,
+  "category": "Medical",
+  "category_id": "MEDICAL",
+  "content_rating": "Everyone",
+  "score": null,
+  "ratings": null,
+  "reviews_count": null,
+  "installs": "100+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://prod.bioservo.cloud/app/carbonhand-1.0-app-privacy-policy.html",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "Carbonhand is an innovative and user-friendly grip enhancing glove. This app is designed to be used with this glove in order to tailor its functionality to suit the wearer's needs. In the app, you can find presets and also create your own settings. The app can only be used together with the Carbonhand from Bioservo. To learn more, visit: http://www.bioservo.com",
+  "descriptionHTML": "Carbonhand is an innovative and user-friendly grip enhancing glove. This app is designed to be used with this glove in order to tailor its functionality to suit the wearer&#39;s needs. In the app, you can find presets and also create your own settings. The app can only be used together with the Carbonhand from Bioservo. To learn more, visit: http://www.bioservo.com",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/rGk8jjyAo_q1--j_xuGQZNxJO8cNPZ6dzbM06k1w5gPqVN6gC1ZcSc-QXN5_XQKKwDI",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/SjHe5X3c4yCBv8iE65XJKymkYI6LC-hub2BdDae2VxpbdlpM8ol33rTB7RjCB_QbBQ",
+    "https://play-lh.googleusercontent.com/IdTJNxuX-yW9MZ7jXWEqSWrSwHKtAXlEfCQ8Lu0cOYh3YnE3wM2-nh3wAURUo9dqDg",
+    "https://play-lh.googleusercontent.com/KRhJ_YHyK0MQHysRqWaY_0QgTCnI4Ut3UiXzzR-QLZkzNBmR_i_q-RPJnH20_sV1wQ",
+    "https://play-lh.googleusercontent.com/9u6N09THb9SClaZd3xMOClIarCId4TlPNE9yKZxO7g0cq_fq_xniOxKzHgfSkf8_fyo",
+    "https://play-lh.googleusercontent.com/fATDjiNznLB4F2W27jnODzOTMIR1SiyeSGyp5gfwuG7o4tm6byttokRQ-1ex4DFfpfo",
+    "https://play-lh.googleusercontent.com/7RNTgJ-t9dLSlCHpYoN8n3bvfwa-mFuOviYeDAJhwkbLWE6FdDm9ggjC_flJRfMNuJ8",
+    "https://play-lh.googleusercontent.com/_AzuLEA8MTi4P3AcdMOeTJOHXy7NPFANMbKKjpPyEeQkvgXv14JJtmUAu0zVlNk60ZQ",
+    "https://play-lh.googleusercontent.com/zxGaoh_iSLa4lkpdxgVM6Ai596m_CuylYqdfqXKatMEKMOSvV7fHotiurYJSl0Bqjy-Y",
+    "https://play-lh.googleusercontent.com/eHbYF6ZOdiR9thm8nX3Qq6BNR8l3U-RV5URgBJMoR0u2WR3TYg0L6LsLLkUqtuehbHo",
+    "https://play-lh.googleusercontent.com/R6avU0f-gKRCFrgQ2gEwnOM62vHmmUt03ClAS7FOpUxhST1Xt7YpF-lT8XvcRxhC9bM"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/k9BM4VVXB3KT48Le_CWkvcx9Pn_1Ydsh2X_NXc_QVJmJloHhLPdwTwK3yxCU7l0iYFTD",
+  "permissions": {
+    "Location": [
+      "precise location (GPS and network-based)"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Other": [
+      "change network connectivity",
+      "connect and disconnect from Wi-Fi",
+      "full network access",
+      "view network connections"
+    ]
+  },
+  "reviews_data": null
+}

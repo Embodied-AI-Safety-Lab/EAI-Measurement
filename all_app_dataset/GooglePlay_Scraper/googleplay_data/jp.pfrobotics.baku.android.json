@@ -1,0 +1,75 @@
+{
+  "pkg_name": "jp.pfrobotics.baku.android",
+  "appId": "jp.pfrobotics.baku.android",
+  "title": "Kachaka",
+  "developer": "Preferred Robotics, Inc.",
+  "developer_id": "Preferred+Robotics,+Inc.",
+  "developer_email": "support@kachaka.life",
+  "developer_website": "https://kachaka.life/",
+  "developer_address": null,
+  "category": "Lifestyle",
+  "category_id": "LIFESTYLE",
+  "content_rating": "Everyone",
+  "score": 0,
+  "ratings": 0,
+  "reviews_count": 0,
+  "installs": "1,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://pfr-kachaka-goto.web.app/spapp/privacy_policy",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "With the ease of moving furniture, you can create new layouts without changing the size of the room.\r\nWith smart furniture, your room can serve as a living room, dining room, or kitchen.\r\nIncorporate 'autonomous furniture movement' into your everyday life.\r\n\r\n\r\n\r\n● Easy Control with Shortcuts\r\nSet up shortcuts for the furniture you move daily through the app, enabling a one-tap movement.\r\n\r\n● Intuitive Understanding of Kachaka's Status\r\nGrasp an intuitive understanding of Kachaka's current position, scanned room layout, destinations, and other various information.\r\n\r\n● Schedule Function for Habit Formation and Forgetfulness Prevention\r\nSpecify dates and days to have Kachaka bring furniture to you. Whether it's having your bag and watch brought to the entrance every morning, your reading stack by the bed every night, or snacks delivered from the kitchen to your study desk during snack time, how you utilize Kachaka is up to you.\r\n\r\n● Other Convenient Features\r\nDesignate no-entry zones where you don’t want Kachaka to enter.\r\nRemote control operation to move Kachaka.\r\nCommand Kachaka with voice commands without opening the app.\r\n\r\n\r\n\r\nRequirements:\r\n* The real robot \"Kachaka\" is required for use. Sales are only conducted within Japan.\r\n* Compatible with Android 5.0 and later.",
+  "descriptionHTML": "With the ease of moving furniture, you can create new layouts without changing the size of the room.<br>With smart furniture, your room can serve as a living room, dining room, or kitchen.<br>Incorporate &#39;autonomous furniture movement&#39; into your everyday life.<br><br><br><br>● Easy Control with Shortcuts<br>Set up shortcuts for the furniture you move daily through the app, enabling a one-tap movement.<br><br>● Intuitive Understanding of Kachaka&#39;s Status<br>Grasp an intuitive understanding of Kachaka&#39;s current position, scanned room layout, destinations, and other various information.<br><br>● Schedule Function for Habit Formation and Forgetfulness Prevention<br>Specify dates and days to have Kachaka bring furniture to you. Whether it&#39;s having your bag and watch brought to the entrance every morning, your reading stack by the bed every night, or snacks delivered from the kitchen to your study desk during snack time, how you utilize Kachaka is up to you.<br><br>● Other Convenient Features<br>Designate no-entry zones where you don’t want Kachaka to enter.<br>Remote control operation to move Kachaka.<br>Command Kachaka with voice commands without opening the app.<br><br><br><br>Requirements:<br>* The real robot &quot;Kachaka&quot; is required for use. Sales are only conducted within Japan.<br>* Compatible with Android 5.0 and later.",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/CqyoNtXXxKxAopK636wMDJ4uaY1FsFrG8D-hqiaWuhLvtXRxQoi6DEC_gbUzKQw6n00",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/8PFTC07nzaM_BNnetfsi17mfhFTJZQ1qT6GN4BzN4G_57twtFh5OUBFAdazNfIK2yOTy",
+    "https://play-lh.googleusercontent.com/RtTwwRn7erNLO1S0D1XxbGfryBJ6QifeIFOr2juNlP4BokDD1eUCOVuYtaGYNwiJsi4",
+    "https://play-lh.googleusercontent.com/08ZqP6OuB9ttyyeIb7Lw-wdoqqDilNsBECULDk_oGlkSLZoBB4OiPvI3RDE6jrh1PW9X",
+    "https://play-lh.googleusercontent.com/Ur_-eAgBZ5tL2gf6cNW2dn-k6KfWuMRS83Cs5mWtJ09T3PFN6jps2foet0jJPWesEZdF",
+    "https://play-lh.googleusercontent.com/PnR6jttr08sD_XaG6HKTKma7FtZeWQFAmc1gNoresOdvlbvD7KFguEzWPOw5NzRxTkOc",
+    "https://play-lh.googleusercontent.com/tddhzo-sa5hcaWgGZH6YpQWUYRrpp7Rbto8IIN1ln0aMrpCyidpClzNuLk2rYMSw3LA",
+    "https://play-lh.googleusercontent.com/ywoKklFk-Xk4oWBaALPZJ-iyGNWwk5At4Sr5mQLC8Qp66LScfMARtLa4BLeqNWI2Fmo",
+    "https://play-lh.googleusercontent.com/lr6hdKdSMeLITLi0SQ7G98j080zPiRiTARQcO7Ca2rx-_1VRQWMUO2-efDFw91IQIw"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/3N7sfZfj1j5MotfqMrabFybRU0BlimrMxFhBCrcuNHA7blLlKT5xENM6kCrIVQtong",
+  "permissions": {
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Photos/Media/Files": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Camera": [
+      "take pictures and videos"
+    ],
+    "Microphone": [
+      "record audio"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Other": [
+      "access Bluetooth settings",
+      "control vibration",
+      "full network access",
+      "pair with Bluetooth devices",
+      "prevent device from sleeping",
+      "read Google service configuration",
+      "view network connections"
+    ]
+  },
+  "reviews_data": null
+}

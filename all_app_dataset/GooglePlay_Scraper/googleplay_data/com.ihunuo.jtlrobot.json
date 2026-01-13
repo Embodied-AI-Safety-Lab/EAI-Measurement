@@ -1,0 +1,48 @@
+{
+  "pkg_name": "com.ihunuo.jtlrobot",
+  "appId": "com.ihunuo.jtlrobot",
+  "title": "Carle",
+  "developer": "深圳市互诺科技有限公司",
+  "developer_id": "%E6%B7%B1%E5%9C%B3%E5%B8%82%E4%BA%92%E8%AF%BA%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8",
+  "developer_email": "admin@ihunuo.com",
+  "developer_website": null,
+  "developer_address": null,
+  "category": "Entertainment",
+  "category_id": "ENTERTAINMENT",
+  "content_rating": "Everyone",
+  "score": 3.0208333,
+  "ratings": 59,
+  "reviews_count": 24,
+  "installs": "10,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://hnstatement.ihunuo.com/hnprivacy.html",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "This is an App that controls robots through mobile phones, mainly with the following functions:  \r\n \r\n1.App control button controls the robot to move and dance  \r\n \r\n2. Mobile phone gravity sensor controls robot movement  \r\n \r\n3. Play stories, songs and poems",
+  "descriptionHTML": "This is an App that controls robots through mobile phones, mainly with the following functions:  <br> <br>1.App control button controls the robot to move and dance  <br> <br>2. Mobile phone gravity sensor controls robot movement  <br> <br>3. Play stories, songs and poems",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/CRRxXiS_S2TalKUrBKDbm-i_HLTXyaQypfGCexsqyeui3otUaENiHGbt5tE2fSkKI_8",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/xB5E9C9qmb0--eX_IZz1vgIE26ZoFVOGh_u3NG93PVFvbP5whNnmwKKdvTVFVjDYuXo",
+    "https://play-lh.googleusercontent.com/Mgx-p8a9-vPQR5pHtnrT64tBAKfY8ZyUUI9lF91lA7H9qrNn0E5k_sHDPsG-QdE11TM",
+    "https://play-lh.googleusercontent.com/4YuVKqjGFI1vI3dT0wXn1lIBhMhRm0htAQEICAX5i8cFvBdv1griOBcqp2LVPUerNg"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/4ThACWPKNVqz7Tl0fs_OZURRRElrV1FFGonjJkdL4dDorSF_LJs8TwiqfVCf_wECfgk",
+  "permissions": {
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Other": [
+      "access Bluetooth settings",
+      "pair with Bluetooth devices"
+    ]
+  },
+  "reviews_data": null
+}

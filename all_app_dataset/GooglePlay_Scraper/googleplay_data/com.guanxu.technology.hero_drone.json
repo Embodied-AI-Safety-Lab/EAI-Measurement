@@ -1,0 +1,61 @@
+{
+  "pkg_name": "com.guanxu.technology.hero_drone",
+  "appId": "com.guanxu.technology.hero_drone",
+  "title": "Hero Drone",
+  "developer": "GuanZhi Technology Inc.",
+  "developer_id": "GuanZhi+Technology+Inc.",
+  "developer_email": "316477169@qq.com",
+  "developer_website": "http://www.netopsun.com/",
+  "developer_address": null,
+  "category": "Photography",
+  "category_id": "PHOTOGRAPHY",
+  "content_rating": "Everyone",
+  "score": 0,
+  "ratings": 0,
+  "reviews_count": 0,
+  "installs": "1,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "http://goodstevechan.blogspot.com/2017/02/our-apps-privacy-policy.html",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "Control the 4-axis aircraft via the wireless network on your Android smartphone, get real-time video from your flight, take pictures and save your video.",
+  "descriptionHTML": "Control the 4-axis aircraft via the wireless network on your Android smartphone, get real-time video from your flight, take pictures and save your video.",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/wRErB9DClT5ASQFhimAkb2AW_cgsY7AprsRA9sXqvV6oYwgBfQzd0Un4mMo9u1ibsVg",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/fg9YY13-ZTHJsNIIxBmShotBPc9Z6FC0MinRf0g4M2vw0XjJ4CtQyiJCeBsE9Dcm7rsh",
+    "https://play-lh.googleusercontent.com/NmshmdAROjfAdbmETv1JozN1JHykZPqs-12KfpF9b1t-0T6l1_kyopnPXQPz3g1_4Mk",
+    "https://play-lh.googleusercontent.com/BPtwdFt2abqO_mn6PA8PmJWicU4h67w9LrNwXzYt6Klv1ocnOtkE4xO9eVys6tY7uJeL",
+    "https://play-lh.googleusercontent.com/BO42EEVfQpThDJ3cW63hZvsfR7GgIgi8XrqLAzwlTZC1K57LoRGFhQmZv-WueNrivA",
+    "https://play-lh.googleusercontent.com/LybYs9bY9SaDYY0oLqvKxmKK8UCgk8u1pMQ75loYQlVCbnAQkjMSITM_TVKCubhy7f4"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/StwSuHlnOkhlf5Stx4HiStLXIxUFGAT8ZKcyDYabdcWViatuyA4czWrKfvhA-fK1i8E0",
+  "permissions": {
+    "Photos/Media/Files": [
+      "access USB storage filesystem",
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Other": [
+      "connect and disconnect from Wi-Fi",
+      "disable your screen lock",
+      "full network access",
+      "prevent device from sleeping",
+      "view network connections"
+    ]
+  },
+  "reviews_data": null
+}

@@ -1,0 +1,87 @@
+{
+  "pkg_name": "com.haier.hirobot",
+  "appId": "com.haier.hirobot",
+  "title": "HiRobot",
+  "developer": "TAB Robot",
+  "developer_id": "TAB+Robot",
+  "developer_email": "zhuqing.tab@haier.com",
+  "developer_website": null,
+  "developer_address": null,
+  "category": "Lifestyle",
+  "category_id": "LIFESTYLE",
+  "content_rating": "Everyone",
+  "score": 0,
+  "ratings": 0,
+  "reviews_count": 0,
+  "installs": "5,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://qin.tuyaus.com/app-agreement/auto/1653318240/latest/1/3/smart/app/package/1653318240/privacyUrl_1741169114839.html",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "HiRobot App is the mobile application of Haier's overseas robot products. You can complete the functional control of the robot through the App, and easily unlock smart and clean life.\r\n\r\n【Equipment Information】\r\nWorking status, mode selection, fault information and so on at a glance.\r\n[Appointment for cleaning]\r\nAccording to your living habits and work hours, personalized robot working hours.\r\n【 Clean area 】\r\nThe selected room in the map is divided into regions to quickly realize the cleaning of the designated area.\r\n【Restricted Area Setting】\r\nBy manually setting the restricted area and virtual wall, avoid the robot entering the area you do not want to clean.\r\n【Firmware upgrade】\r\nThe robot can be updated, unlocked and optimized through remote OTA.\r\nNote: The actual function of the specific model shall prevail.\r\n\r\nOfficial website: https://www.haier.com",
+  "descriptionHTML": "HiRobot App is the mobile application of Haier&#39;s overseas robot products. You can complete the functional control of the robot through the App, and easily unlock smart and clean life.<br><br>【Equipment Information】<br>Working status, mode selection, fault information and so on at a glance.<br>[Appointment for cleaning]<br>According to your living habits and work hours, personalized robot working hours.<br>【 Clean area 】<br>The selected room in the map is divided into regions to quickly realize the cleaning of the designated area.<br>【Restricted Area Setting】<br>By manually setting the restricted area and virtual wall, avoid the robot entering the area you do not want to clean.<br>【Firmware upgrade】<br>The robot can be updated, unlocked and optimized through remote OTA.<br>Note: The actual function of the specific model shall prevail.<br><br>Official website: https://www.haier.com",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/iD9rffR2T-DvHmfvNNGIo13MM3KsOGSS8F6hNN5HklbxXHH0dX1rzMNuUbl9jr2ZqKwv",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/UVQlySIotxF2Tj7c1tBuCdIG2jTgA2EAsqbXB1-I5QYhtrygzamEpqJcu6a2qL-BhQ",
+    "https://play-lh.googleusercontent.com/8q0PJdfddGx2gIjkRCEAZF3ktCo8F1MWGHYPFUcntaaG9R4Nr7aWkSTBpo4HvLCSgog",
+    "https://play-lh.googleusercontent.com/qgLs-4Ly_-xmiR4n9yCTbo4sYMOShrKaX-Xaisl_0R8t2Uu5hDTzMhKSY4xVI-vBoxfH",
+    "https://play-lh.googleusercontent.com/Dtfc9AmyyiNd0I8h6dtwQIbHWt9M1Sg_D2m7UtUyl88_bDaCILQPGKlKMskgcOYxbGCj",
+    "https://play-lh.googleusercontent.com/4b9tOgKXSrpmiP51abEJci5j1Aqyp3KXVMi7IOeGTwAx0AxsWjpcgPqlDhTyzEvq98w",
+    "https://play-lh.googleusercontent.com/OKJiW167eFMQS30x9IPgTsnHJGIdlhc9o_Jb5OCyFFbrIkP2kW6VCOfjT_lYWc5tQA",
+    "https://play-lh.googleusercontent.com/dEI3FAUluFSHEaOMOrKszN0RZq9XFCGSPFQhekNMa0O4Q2mb-MnFEtn1pj7m2sHtxF4",
+    "https://play-lh.googleusercontent.com/VyrPbv1AlZBpkjzz5MMCYNvEXwOzC7jfj3LLGa3OqGXccGOLcjZSBMi125FNj8kS5s8",
+    "https://play-lh.googleusercontent.com/1vrEcKRuxlQhOyta5auNPXdIJggw7vy-rqtCFYPMQiLK3nQ5nc_VveNvX26NhGwC9w"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/hf5JkX19lPZwnCJOv_qmMfV7QPojo2qeOy39R7iGp-UC-lJEDA4xL8UNHNH0GBiJLH2-",
+  "permissions": {
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Photos/Media/Files": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Camera": [
+      "take pictures and videos"
+    ],
+    "Microphone": [
+      "record audio"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Other": [
+      "Google Play license check",
+      "access Bluetooth settings",
+      "allow Wi-Fi Multicast reception",
+      "change network connectivity",
+      "change your audio settings",
+      "connect and disconnect from Wi-Fi",
+      "control vibration",
+      "full network access",
+      "install shortcuts",
+      "pair with Bluetooth devices",
+      "prevent device from sleeping",
+      "reorder running apps",
+      "run at startup",
+      "set wallpaper",
+      "view network connections"
+    ],
+    "Uncategorized": [
+      "receive data from Internet"
+    ]
+  },
+  "reviews_data": null
+}

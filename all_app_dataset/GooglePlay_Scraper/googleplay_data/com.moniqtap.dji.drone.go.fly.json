@@ -1,0 +1,76 @@
+{
+  "pkg_name": "com.moniqtap.dji.drone.go.fly",
+  "appId": "com.moniqtap.dji.drone.go.fly",
+  "title": "Drone Fly Pro: Go fly Drones",
+  "developer": "MONIQ TAP., CO LTD",
+  "developer_id": "9002025733948112062",
+  "developer_email": "support@moniqtap.com",
+  "developer_website": "https://moniqtap.com/",
+  "developer_address": null,
+  "category": "Tools",
+  "category_id": "TOOLS",
+  "content_rating": "Everyone",
+  "score": 4.064516,
+  "ratings": 486,
+  "reviews_count": 2,
+  "installs": "100,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": true,
+  "contains_ads": true,
+  "privacy_policy": "https://moniqtap.com/privacy-policy/",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "Drone Fly Pro – The Ultimate Flight Companion for Your Drone \r\n\r\nTake control of your drone like never before! Drone Controller is designed to provide seamless flight control, real-time HD FPV streaming, and intelligent automation.\r\n\r\nKey Features:\r\n+ HD FPV Live View – Experience real-time video streaming with low latency.\r\n+ Smart Flight Modes – ActiveTrack, FocusTrack, QuickShot, Orbit, Waypoints & more!\r\n+ GPS Navigation – Stable flight with precise positioning and RTH (Return-To-Home) support.\r\n+ Advanced Gimbal Control – Adjust angles, lock, and sync gimbal movement.\r\n+ One-Tap Take-off & Landing – Fly effortlessly with simplified controls.\r\n+ Waypoint Flight Planning – Automate routes for professional-quality shots.\r\n+ Obstacle Detection & Avoidance – Fly safer with built-in sensors..\r\n+ Real-Time Telemetry – Monitor altitude, speed, battery, and signal strength.\r\n+ Quick Media Management – Preview, play, and transfer videos & photos instantly.\r\n\r\n\r\n*Important Notice for Mavic Users: Certain features are not yet supported for Mavic models, including:\r\n+ Low Battery Warning, Critical Low Battery Warning, Time to Discharge\r\n+ Sync Gimbal with Aircraft Heading, Lock Gimbal When Shooting, Gimbal Modes\r\n+ Media Playback, Preview, On/Off Head LEDs & Camera Forward/Down (Mavic Air 2S: C1/C2 tap)\r\n\r\n*Disclaimer :This is not an official app but a third-party application that utilizes the official Mobile SDK . It is fully compatible with the supported drone models but is not affiliated with or endorsed or any related entities.\r\n\r\nDownload Drone Controller today and unlock the full potential of your drone!\r\n\r\nTerm of use: https://moniqtap.com/terms-of-use/\r\nPrivacy Policy: https://moniqtap.com/privacy-policy/",
+  "descriptionHTML": "Drone Fly Pro – The Ultimate Flight Companion for Your Drone <br><br>Take control of your drone like never before! Drone Controller is designed to provide seamless flight control, real-time HD FPV streaming, and intelligent automation.<br><br>Key Features:<br>+ HD FPV Live View – Experience real-time video streaming with low latency.<br>+ Smart Flight Modes – ActiveTrack, FocusTrack, QuickShot, Orbit, Waypoints &amp; more!<br>+ GPS Navigation – Stable flight with precise positioning and RTH (Return-To-Home) support.<br>+ Advanced Gimbal Control – Adjust angles, lock, and sync gimbal movement.<br>+ One-Tap Take-off &amp; Landing – Fly effortlessly with simplified controls.<br>+ Waypoint Flight Planning – Automate routes for professional-quality shots.<br>+ Obstacle Detection &amp; Avoidance – Fly safer with built-in sensors..<br>+ Real-Time Telemetry – Monitor altitude, speed, battery, and signal strength.<br>+ Quick Media Management – Preview, play, and transfer videos &amp; photos instantly.<br><br><br>*Important Notice for Mavic Users: Certain features are not yet supported for Mavic models, including:<br>+ Low Battery Warning, Critical Low Battery Warning, Time to Discharge<br>+ Sync Gimbal with Aircraft Heading, Lock Gimbal When Shooting, Gimbal Modes<br>+ Media Playback, Preview, On/Off Head LEDs &amp; Camera Forward/Down (Mavic Air 2S: C1/C2 tap)<br><br>*Disclaimer :This is not an official app but a third-party application that utilizes the official Mobile SDK . It is fully compatible with the supported drone models but is not affiliated with or endorsed or any related entities.<br><br>Download Drone Controller today and unlock the full potential of your drone!<br><br>Term of use: https://moniqtap.com/terms-of-use/<br>Privacy Policy: https://moniqtap.com/privacy-policy/",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/EB_boxOySwmzRE0POhlI1WCnQ8YXvwsuz9_7N-R9fCTp3BQTenwvM7AlsgGNCYrFlQ",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/2PuVxU2IBz99cNyCNCQT9zpiJO5upbS87VWmIxuFaXGwSmfwuN1f5qKYYD8Ybtpdlg",
+    "https://play-lh.googleusercontent.com/pgGqOb7J7z9vHdHapuLGyRwYGWprzeS-oolaaj4JuTd9dGE1pZcHECOlRB0V0ol6_CLt",
+    "https://play-lh.googleusercontent.com/szjdSrZ7EG4IQgSwsSkdIF1fyPPTCy1OQlMpfVq_DJIAbCt_4AoyYZAWeLHcejW_LK4",
+    "https://play-lh.googleusercontent.com/UxXhw3xRg3hXCjJMg5eV7czujXGa1Nfs1ENkANQHdEiLskNqDcuT05ex25DvTZK-qWG7",
+    "https://play-lh.googleusercontent.com/qRhCaW4-7qnUS2eMTcPTwZ027kLiX7GNnPjpgdAjUycHFOR97dnlDBTzg7Bj4IFa3qA",
+    "https://play-lh.googleusercontent.com/gkI7JBvA1AIYQwzp9dxYADJZ-vnCZcFtwAjIg4cEXzPBF4IA9tXzXxZUwnLLBG3ohic"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/j0dc10t8QX3iJ8Vmytp0upZuLPoXyFCQtxsMzrXZ40l8wky_pZMU56I8sPee9kwqsGA",
+  "permissions": {
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Phone": [
+      "read phone status and identity"
+    ],
+    "Photos/Media/Files": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Device ID & call information": [
+      "read phone status and identity"
+    ],
+    "Other": [
+      "access Bluetooth settings",
+      "close other apps",
+      "control vibration",
+      "full network access",
+      "pair with Bluetooth devices",
+      "prevent device from sleeping",
+      "view network connections"
+    ],
+    "Uncategorized": [
+      "receive data from Internet"
+    ]
+  },
+  "reviews_data": null
+}

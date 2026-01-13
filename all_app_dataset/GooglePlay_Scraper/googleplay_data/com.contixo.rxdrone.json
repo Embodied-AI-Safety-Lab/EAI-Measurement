@@ -1,0 +1,63 @@
+{
+  "pkg_name": "com.contixo.rxdrone",
+  "appId": "com.contixo.rxdrone",
+  "title": "Contixo Drone RX",
+  "developer": "Contixo Inc.",
+  "developer_id": "Contixo+Inc.",
+  "developer_email": "apps@contixo.com",
+  "developer_website": "https://www.contixo.com/",
+  "developer_address": null,
+  "category": "Tools",
+  "category_id": "TOOLS",
+  "content_rating": "Everyone",
+  "score": 2.4574468,
+  "ratings": 118,
+  "reviews_count": 56,
+  "installs": "10,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "http://blog.csdn.net/johndevelop/article/details/50990178",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "This APP can control F16 aircraft by Wi-Fi on the Android smartphone, and also can get the real time video from the aircraft, and take the photo and save the video.",
+  "descriptionHTML": "This APP can control F16 aircraft by Wi-Fi on the Android smartphone, and also can get the real time video from the aircraft, and take the photo and save the video.",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/mZiYc1Y69pIyXsncMQFsBJRrN2l9qbOLaGp-fbhcMUnNRCwrwSH6zJzoyZhTg42azDfd",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/m7u5NhrKZFi9rDe59Fi8KU6GLdniNWF9-Ea6F-Bvb2W03HlPesq3ls0bd3zIXHKhuGrA",
+    "https://play-lh.googleusercontent.com/NLTHMYwmNfHsG_I8hch4zYSo41YAYRRaJecwymQta88Pgiku7DXkLTc0uvMHO-hlluJH",
+    "https://play-lh.googleusercontent.com/aSfjaVJ0Hf6gzi7l8bKmQGwYaj8crWvxHtKmkSLDvkqcmHX57QY4i2i0XrttuCHvNv4",
+    "https://play-lh.googleusercontent.com/CcNcnHjlN1XnqsiXjdocKX5IXJ_QQIlVdpkYZ9UzrVtCX2upehDEReZonuOTLhYkyf8"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/iWmY7YK4Qye8VrsTEhY68WlYjyq30qPCAe396VPB6ByF-Uq1-Jr4qjZyF8-WGIdt8Q",
+  "permissions": {
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Photos/Media/Files": [
+      "access USB storage filesystem",
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Other": [
+      "change network connectivity",
+      "connect and disconnect from Wi-Fi",
+      "full network access",
+      "view network connections"
+    ]
+  },
+  "reviews_data": null
+}

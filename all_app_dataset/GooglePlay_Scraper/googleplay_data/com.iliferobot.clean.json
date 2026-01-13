@@ -1,0 +1,86 @@
+{
+  "pkg_name": "com.iliferobot.clean",
+  "appId": "com.iliferobot.clean",
+  "title": "ILIFE Clean",
+  "developer": "ILIFE",
+  "developer_id": "ILIFE",
+  "developer_email": "ilifestore@iliferobot.com",
+  "developer_website": null,
+  "developer_address": null,
+  "category": "Tools",
+  "category_id": "TOOLS",
+  "content_rating": "Everyone",
+  "score": 1.95,
+  "ratings": 369,
+  "reviews_count": 15,
+  "installs": "100,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://www.iliferobot.com/article/i-41/",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "ILIFECleanApp is a mobile phone application of connecting the intelligent robotic products, which supports the robotic customization products with WIFI function under the ILIFE brand. It can not only replace the traditional remote controller , but also can present more working data that cannot be displayed by the conventional remote controller. Through the APP, the user can remotely control and reserve robots for cleaning while away from home, making you to enjoy smart life anytime, anywhere.",
+  "descriptionHTML": "ILIFECleanApp is a mobile phone application of connecting the intelligent robotic products, which supports the robotic customization products with WIFI function under the ILIFE brand. It can not only replace the traditional remote controller , but also can present more working data that cannot be displayed by the conventional remote controller. Through the APP, the user can remotely control and reserve robots for cleaning while away from home, making you to enjoy smart life anytime, anywhere.",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/-FoeeAXGNLNOCqjOauFBaiG_0zqFWLZtk2iH3XRwqUmMAM4YDawi1DFjsHCPVyTNvzE",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/t3rrihobO9_KVa4ReD6iPimfoJjebHxfIrli0LaM6B4Qv0W9_hQAjOfJvICRY1qQPJ-S",
+    "https://play-lh.googleusercontent.com/hYgU8Xjh2BXdq9KEO5esJg_EQhpMKvhPhGk_sgjijWVxs59yJmdRmE-zs1N8y6Yt3Ogp",
+    "https://play-lh.googleusercontent.com/BskxsdGeIGYJV13FaRkVQKy9TmkQuK4oF3x-j2-zTLOGq68UU50ShVK6wXvsRmuqJi4",
+    "https://play-lh.googleusercontent.com/GmfLd6DBGAi2zaUghpGxd0GW955IxT2e0eM-CIOwYMgHWKyMQST0nxYymYT9kOu6dfw",
+    "https://play-lh.googleusercontent.com/KXA_V5oAfPKAZhVBbS8Z-9sU6arVcfM6TkBmSNJyMVBPmO-4aIsgVsZ7r98jM9SQA9Y",
+    "https://play-lh.googleusercontent.com/bkc74r1NrO6dEsJa0PvWEwNqGZ6uQSGWmIMl3KM9l5Ox8KC5w1LEh0SJmCuD2JLIMg",
+    "https://play-lh.googleusercontent.com/Xc8TwHvMEbiOpunm0Q_b5ylgVg_yfCKPAdCCuaCffnvm6qTZc4NMhKfp7StQXl2Ot35Q"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/Qpjf_byf9E5ZRg8gv_YVT5pPHjIh1g_8zLtKoIX7ebFCeB26_iWx_znfHoHSVi5xots",
+  "permissions": {
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Photos/Media/Files": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Camera": [
+      "take pictures and videos"
+    ],
+    "Microphone": [
+      "record audio"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Other": [
+      "Google Play license check",
+      "access Bluetooth settings",
+      "allow Wi-Fi Multicast reception",
+      "change network connectivity",
+      "change your audio settings",
+      "connect and disconnect from Wi-Fi",
+      "control flashlight",
+      "control vibration",
+      "full network access",
+      "install shortcuts",
+      "pair with Bluetooth devices",
+      "prevent device from sleeping",
+      "reorder running apps",
+      "run at startup",
+      "set wallpaper",
+      "view network connections"
+    ],
+    "Uncategorized": [
+      "receive data from Internet"
+    ]
+  },
+  "reviews_data": null
+}

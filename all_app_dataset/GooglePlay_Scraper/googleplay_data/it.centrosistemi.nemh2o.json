@@ -1,0 +1,65 @@
+{
+  "pkg_name": "it.centrosistemi.nemh2o",
+  "appId": "it.centrosistemi.nemh2o",
+  "title": "NemH2O",
+  "developer": "Zucchetti Centro Sistemi S.p.A.",
+  "developer_id": "Zucchetti+Centro+Sistemi+S.p.A.",
+  "developer_email": "idealab@centrosistemi.it",
+  "developer_website": "http://www.nemorobot.it",
+  "developer_address": null,
+  "category": "Tools",
+  "category_id": "TOOLS",
+  "content_rating": "Everyone",
+  "score": 0,
+  "ratings": 0,
+  "reviews_count": 0,
+  "installs": "1,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "http://www.nemorobot.it/en/privacy-policy",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "NEMH2O is an innovative robot, developed by the creators of Ambrogio Robot, in order to have a completely automatic pool cleaner.\r\n\r\nNEMH2O is autonomous 365 days a year: with NEMH20 you don’t need to clean the pool or resort to a winter cover.\r\n\r\nNEMH2O requires no power cords and can also be used without a filter (using the existing filters in each pool), he gets recharged through induction directly by itself in the water and programmed via bluetooth (software upgradeable via APP).",
+  "descriptionHTML": "NEMH2O is an innovative robot, developed by the creators of Ambrogio Robot, in order to have a completely automatic pool cleaner.<br><br>NEMH2O is autonomous 365 days a year: with NEMH20 you don’t need to clean the pool or resort to a winter cover.<br><br>NEMH2O requires no power cords and can also be used without a filter (using the existing filters in each pool), he gets recharged through induction directly by itself in the water and programmed via bluetooth (software upgradeable via APP).",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/1YPOtEPDlRwGRi36-giFdTDouJBeSfx4qAzwYG_R6RjRrTZKSDWPyU1vN7Hxrn5p5yDc",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/-FmnTdYvuGd-su4O1WLxP7FO4SGi-ntx_-lwpf-1g25vCBJXX-jdZQocIJ9HWzTAfQ",
+    "https://play-lh.googleusercontent.com/MWGKybqvtyCG1K0vz8o3McPevUwdjchVjL8sNToQfNIPJrF5WCcVitt4aqxCbpM91LEe",
+    "https://play-lh.googleusercontent.com/fipLzqZMXjUtwwKdySHzSgeM2R4bvy2la_KRuJaTdy6HDZL18g2KhcVbEVj-o6RhbqE",
+    "https://play-lh.googleusercontent.com/gRKeLcMrOez2JZ1ZBylHNyHz1v2T3kbrUVveqmcSPaa0FsMTJYK_heaJTCjQc8TPEL28",
+    "https://play-lh.googleusercontent.com/aI-k9Rp4mXUn_R6BGEfuwk8-YhrI8ywh32qH-5dMg3IdCc63dWA9DnKJ6Y0L5XdqJ_k",
+    "https://play-lh.googleusercontent.com/xoYlhzocQevMXvBmjJQxJDevN51XsRDWD3ei2VA3IoIaXto9HJW8oevlxnV3Bfy6tKw"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/j2G8fk9rwMmAOR1-R53OzRYCxmkBg-EPSkXO2C4vLGoPfq0j22tKtt24iBK5x8zaww",
+  "permissions": {
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Phone": [
+      "read phone status and identity"
+    ],
+    "Device ID & call information": [
+      "read phone status and identity"
+    ],
+    "Other": [
+      "access Bluetooth settings",
+      "control vibration",
+      "full network access",
+      "pair with Bluetooth devices",
+      "prevent device from sleeping",
+      "run at startup",
+      "view network connections"
+    ],
+    "Uncategorized": [
+      "receive data from Internet"
+    ]
+  },
+  "reviews_data": null
+}

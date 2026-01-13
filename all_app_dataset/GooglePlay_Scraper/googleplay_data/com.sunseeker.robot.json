@@ -1,0 +1,93 @@
+{
+  "pkg_name": "com.sunseeker.robot",
+  "appId": "com.sunseeker.robot",
+  "title": "Sunseeker Robot",
+  "developer": "ROBOTIC MOWER TECHNOLOGY",
+  "developer_id": "6860120496925581994",
+  "developer_email": "support@sunseekertech.eu",
+  "developer_website": null,
+  "developer_address": null,
+  "category": "Tools",
+  "category_id": "TOOLS",
+  "content_rating": "Everyone",
+  "score": 3,
+  "ratings": 93,
+  "reviews_count": 4,
+  "installs": "10,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://server.sk-robot.com/app/privacy/privacy.html",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "This App is a mobile terminal application for the smart lawn mower and needs to be used with the smart lawn mower.\r\n\r\nBy binding the App and the smart lawn mower, you can use the following functions:\r\n1. You can create robot working areas, restricted areas, channels, etc. by remotely controlling the smart lawn mower via Bluetooth.\r\n2. You can remote control the smart lawn mower for work and recharging.\r\n3. You can edit created maps, manage work areas, create safe areas and virtual restricted areas, etc.\r\n4. You can check the working status of the smart lawn mower, robot power, Bluetooth and Wi-Fi connection status, etc. in real time.\r\n5. You can schedule the smart lawn mower and reserve the robot working time.",
+  "descriptionHTML": "This App is a mobile terminal application for the smart lawn mower and needs to be used with the smart lawn mower.<br><br>By binding the App and the smart lawn mower, you can use the following functions:<br>1. You can create robot working areas, restricted areas, channels, etc. by remotely controlling the smart lawn mower via Bluetooth.<br>2. You can remote control the smart lawn mower for work and recharging.<br>3. You can edit created maps, manage work areas, create safe areas and virtual restricted areas, etc.<br>4. You can check the working status of the smart lawn mower, robot power, Bluetooth and Wi-Fi connection status, etc. in real time.<br>5. You can schedule the smart lawn mower and reserve the robot working time.",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/-WJ5HRvq2LPZxO3TK8Gb9P6bxpyu7s5Ww8wVwMb8y85PzJzQqfith3pM6MgremB6GojV",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/eq-Z3riSr6E2LlvVCXChBaNuSYm0RDTKVPJ7U6tQ25YkGCfcdVB-kGWYhzQArXZJJnr1",
+    "https://play-lh.googleusercontent.com/0yRN92NyajyFNCJ9PA_d-o-uYiFVo6KokUxMDgnix-is6HqlBt5sRRh-SaggYJR10w",
+    "https://play-lh.googleusercontent.com/iFmYmU7dxqxuq9d0urskXcp5LqRWuXTkcjJs9ohbw-s4QxBwFlSPntr-EY6RtkVh7g",
+    "https://play-lh.googleusercontent.com/inKvx5PIBhKfZXkE0J6PHUWyeE1QD4IvD9xJ1vGQ76ikUYXMkNcvMfGYNq9tIaXC4PI",
+    "https://play-lh.googleusercontent.com/LxKmUdQEDvqkh7UCZPoqbjhoc0-wO8d4vebgDnDKt32jKJxo-GKedlUDQKolK5IeXXU",
+    "https://play-lh.googleusercontent.com/FceeCERJxTAoQ4B9vQB1TN3KOgbATYjs2gzX0BPntNnEABTd-ui8BlBvRhOb3F34A_M",
+    "https://play-lh.googleusercontent.com/UobKUWivki3Vf-XrJKTZ83YhQPW6SBirOb9ZzeaG3FwEtDrmtCnuYW9gHOw_wfEJ0w8",
+    "https://play-lh.googleusercontent.com/wpgPSm6IHXEcMKiUJXoyd54_sCckB1xI2P9kyX55vMM7lnqDRe3aKXTCg-ecasKEfHo",
+    "https://play-lh.googleusercontent.com/qwNv5eeIF8BoI2oTmp4FVtRxyIlcbpXqwZOs2Vub6elXf_kTWs7yUd8YtSJSs_PmDA",
+    "https://play-lh.googleusercontent.com/rwpNctgKBsSP0CK6eti9UFjXf6Tj-X6Krfv_-6BQcS-46694mm9Klph-sx-VtvTWFqA",
+    "https://play-lh.googleusercontent.com/eZNIeNA31J7FhurhoeYzXAaHkW1HOtpv7IFO8Xg68mWrEYzFn5tcz0kbJQrgORr8Jw",
+    "https://play-lh.googleusercontent.com/LLWVYXd_ia2pEEFGssgOfX-mgXUFRrId0saD2GeP2PDzBaalmzzeoV5QAhIz1-w-NNAK"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/8cynfqjErxqVY6kkvDQXKvYfRv407nNWivovW4edcnAN230JWWD32Wwgm18RVnnVmbhC",
+  "permissions": {
+    "Device & app history": [
+      "read sensitive log data",
+      "retrieve running apps"
+    ],
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Phone": [
+      "read phone status and identity"
+    ],
+    "Photos/Media/Files": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Camera": [
+      "take pictures and videos"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Device ID & call information": [
+      "read phone status and identity"
+    ],
+    "Other": [
+      "Google Play license check",
+      "access Bluetooth settings",
+      "change network connectivity",
+      "connect and disconnect from Wi-Fi",
+      "control flashlight",
+      "control vibration",
+      "draw over other apps",
+      "full network access",
+      "pair with Bluetooth devices",
+      "prevent device from sleeping",
+      "view network connections"
+    ],
+    "Uncategorized": [
+      "receive data from Internet"
+    ]
+  },
+  "reviews_data": null
+}

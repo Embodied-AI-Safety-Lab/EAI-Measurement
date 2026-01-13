@@ -1,0 +1,53 @@
+{
+  "pkg_name": "com.sjajnoaplikerazvoj.Tello_drone_remote_controller",
+  "appId": "com.sjajnoaplikerazvoj.Tello_drone_remote_controller",
+  "title": "Tello Drone Controller App",
+  "developer": "SjajnoAplikeRazvoj",
+  "developer_id": "SjajnoAplikeRazvoj",
+  "developer_email": "miso.salihovic@gmail.com",
+  "developer_website": "https://tellodronecontroller.blogspot.com",
+  "developer_address": null,
+  "category": "Tools",
+  "category_id": "TOOLS",
+  "content_rating": "Everyone",
+  "score": 3.2,
+  "ratings": 25,
+  "reviews_count": 4,
+  "installs": "5,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": true,
+  "privacy_policy": "https://sites.google.com/view/tellodronecontrollerapp/",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "🚀 Take full control of your DJI Tello drone using your Android device with this feature-rich Tello drone controller app. Whether you're a beginner learning to fly or an experienced pilot, our app offers smooth, responsive controls, real-time video streaming, and smart AI features that make drone piloting safer and more fun.\r\n\r\nThis Tello remote control app transforms your smartphone into a powerful flight interface with a clean UI and high-performance design. It's the perfect tool for hobbyists, tech enthusiasts, and drone videographers who want precision and convenience in one place.\r\n🔑 Key Features:\r\n\r\n🎮 Virtual Joystick Controls\r\nTake off, land, rotate, and maneuver your drone effortlessly using intuitive touchscreen controls. Designed to mimic the tactile feel of physical controllers.\r\n\r\n📺 Live Video Streaming (H.264 Video Feed)\r\nEnjoy smooth real-time video feed directly from your Tello drone. The app decodes H.264 (AVC) encoded video for a seamless streaming experience.\r\n\r\n🎯 AI Object Detection (Smart Vision Technology)\r\nFly smarter with built-in object recognition. Detect and avoid obstacles while capturing dynamic footage using advanced on-device AI.\r\n\r\n🔗 Fast & Stable Drone Connection\r\nInstantly connect to your Tello drone via Wi-Fi. Our app ensures a strong signal and uninterrupted communication for reliable flights.\r\n\r\n⚙️ Lightweight, Responsive Performance\r\nBuilt for speed and stability, the app ensures minimal lag and maximum control even on lower-end devices.\r\n\r\n🧭 Precise Navigation & Flight Accuracy\r\nPerfect for indoor or outdoor flying, the app provides fine-grained control for hover, direction, and elevation.\r\n\r\n📸 Capture & Save Photos & Videos\r\nRecord your flights in high resolution, save to your device, and share easily across platforms.\r\n🎓 Easy Setup & Operation\r\n\r\n    Turn on your DJI Tello drone.\r\n\r\n    Connect your Android phone to the drone’s Wi-Fi network.\r\n\r\n    Launch the app and tap “Connect.”\r\n\r\n    Start flying using real-time video, object tracking, and smart commands!\r\n\r\nThis app offers the best DJI Tello control experience on mobile, delivering a balance of powerful features and simplicity.\r\n🚁 Ideal For:\r\n\r\n    Drone hobbyists\r\n\r\n    Beginners learning to fly\r\n\r\n    Videographers using drones\r\n\r\n    STEM & educational drone programs\r\n\r\n    Anyone looking for a Tello controller app with AI features\r\n\r\n💬 Why Users Love This App\r\n\r\n✅ Easy to install and use\r\n✅ Optimized for DJI Tello drone\r\n✅ Great video quality with low latency\r\n✅ Accurate control and stable flight\r\n✅ Intelligent detection improves safety and creativity\r\n\r\n📥 Download now and fly your DJI Tello drone like a pro!\r\nWhether you're shooting videos, flying indoors, or practicing aerial tricks, this is the all-in-one app to enhance your drone experience.",
+  "descriptionHTML": "🚀 Take full control of your DJI Tello drone using your Android device with this feature-rich Tello drone controller app. Whether you&#39;re a beginner learning to fly or an experienced pilot, our app offers smooth, responsive controls, real-time video streaming, and smart AI features that make drone piloting safer and more fun.<br><br>This Tello remote control app transforms your smartphone into a powerful flight interface with a clean UI and high-performance design. It&#39;s the perfect tool for hobbyists, tech enthusiasts, and drone videographers who want precision and convenience in one place.<br>🔑 Key Features:<br><br>🎮 Virtual Joystick Controls<br>Take off, land, rotate, and maneuver your drone effortlessly using intuitive touchscreen controls. Designed to mimic the tactile feel of physical controllers.<br><br>📺 Live Video Streaming (H.264 Video Feed)<br>Enjoy smooth real-time video feed directly from your Tello drone. The app decodes H.264 (AVC) encoded video for a seamless streaming experience.<br><br>🎯 AI Object Detection (Smart Vision Technology)<br>Fly smarter with built-in object recognition. Detect and avoid obstacles while capturing dynamic footage using advanced on-device AI.<br><br>🔗 Fast &amp; Stable Drone Connection<br>Instantly connect to your Tello drone via Wi-Fi. Our app ensures a strong signal and uninterrupted communication for reliable flights.<br><br>⚙️ Lightweight, Responsive Performance<br>Built for speed and stability, the app ensures minimal lag and maximum control even on lower-end devices.<br><br>🧭 Precise Navigation &amp; Flight Accuracy<br>Perfect for indoor or outdoor flying, the app provides fine-grained control for hover, direction, and elevation.<br><br>📸 Capture &amp; Save Photos &amp; Videos<br>Record your flights in high resolution, save to your device, and share easily across platforms.<br>🎓 Easy Setup &amp; Operation<br><br>    Turn on your DJI Tello drone.<br><br>    Connect your Android phone to the drone’s Wi-Fi network.<br><br>    Launch the app and tap “Connect.”<br><br>    Start flying using real-time video, object tracking, and smart commands!<br><br>This app offers the best DJI Tello control experience on mobile, delivering a balance of powerful features and simplicity.<br>🚁 Ideal For:<br><br>    Drone hobbyists<br><br>    Beginners learning to fly<br><br>    Videographers using drones<br><br>    STEM &amp; educational drone programs<br><br>    Anyone looking for a Tello controller app with AI features<br><br>💬 Why Users Love This App<br><br>✅ Easy to install and use<br>✅ Optimized for DJI Tello drone<br>✅ Great video quality with low latency<br>✅ Accurate control and stable flight<br>✅ Intelligent detection improves safety and creativity<br><br>📥 Download now and fly your DJI Tello drone like a pro!<br>Whether you&#39;re shooting videos, flying indoors, or practicing aerial tricks, this is the all-in-one app to enhance your drone experience.",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/txyUClcYYCSUE5N_BOavBVBIL9h7tewkrIrWE5dtlN7XOcOZijVvLg5Voxh1ybGRiw",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/gIfUc0HLg9h_2pR-M5zByP9UR7bvzkffw6YG6rG-cvzkQ2N1SB-ZBq4GNuQ1uFC1ILx_",
+    "https://play-lh.googleusercontent.com/IEuQEgQv_L86TUkyPUOemGeS6rBUGqqspVjzYSBEqBFi9f3rzu3fcXo-x_3mQQtr",
+    "https://play-lh.googleusercontent.com/B5gBwpEh-ULFugvACpD2lr9oQzrvUtdltwN1xW5m9iNXI88IELEicaLRNJqLnebTQA",
+    "https://play-lh.googleusercontent.com/jvzJKvAyXkqPNhGrYll0MN1f8AN2vUL_7lLzE5U_eAvvKSIbAJ_YcJ3nP_POpNHFyibx",
+    "https://play-lh.googleusercontent.com/nw8VZbcQptrB86CHk2ZKnLTRY7o6XHixa3xkyRoppGLBB-2tU4cW9wmpJJ78KuOPT84",
+    "https://play-lh.googleusercontent.com/OHD3lX85Gut5eDCE_OVsVyP1u_jvz5L0TIoUsIF1_V097OOC1OUHe54G5e6Fg4mXam0",
+    "https://play-lh.googleusercontent.com/FgvDWAERCP83LgF6tzJVK3ncuP84uPQCjt__Jm7HiasROHFoF036S7Y47l3nz5VMzw",
+    "https://play-lh.googleusercontent.com/P5fXjzrJdgDRKlc29qGMVTWNvC1Sf-7LMmgBTa1FADJfgdRCShWa46sMnMG-DVhOdZY",
+    "https://play-lh.googleusercontent.com/TJZixJA64On2X4vQM2ChFu7UKYAN6qQtDQkkYJMBfW5ebM21aKCAHHAqK-etDH3W6C0",
+    "https://play-lh.googleusercontent.com/WLCmxbWEotRZrrOAbZaKjuDkKqpqyUvEWSicd15G4DPSfwc3vn3uss_LFs2ZerWE6w"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/NmzQSwn8n5WxyANg5x3hxWG11ApmNEWm4vUyDg5GhpBmyWPHCaSog0jcOwPSbKoSHhA",
+  "permissions": {
+    "Other": [
+      "Google Play license check",
+      "full network access",
+      "prevent device from sleeping",
+      "view network connections"
+    ]
+  },
+  "reviews_data": null
+}

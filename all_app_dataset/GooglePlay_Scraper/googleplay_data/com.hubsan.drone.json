@@ -1,0 +1,108 @@
+{
+  "pkg_name": "com.hubsan.drone",
+  "appId": "com.hubsan.drone",
+  "title": "X-Hubsan 2",
+  "developer": "Shenzhen Hubsan Technology Co., Ltd.",
+  "developer_id": "Shenzhen+Hubsan+Technology+Co.,+Ltd.",
+  "developer_email": "Hubsan2015@163.com",
+  "developer_website": null,
+  "developer_address": null,
+  "category": "Entertainment",
+  "category_id": "ENTERTAINMENT",
+  "content_rating": "Everyone",
+  "score": 3.0816326,
+  "ratings": 1004,
+  "reviews_count": 65,
+  "installs": "100,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://app.hubsan.com/view.php?page=privacy&l=en",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "X-Hubsan 2 is a professional aircraft control software for the mid/high end drones of Hubsan and it supports real-time image transmission, flight telemetry and aerial photography so you can enjoy flying!\r\n\r\nMain functions:\r\n1. GPS positioning function, keep track of the aircraft position.\r\n2. Map navigation function, view map and flight route planning\r\n3. Real-time HD image transmission,  real-time flight telemetry display.\r\n4. Online preview interface upgrade.\r\n5. New editor features.\r\n6. Flight playback, record the course of your flight.",
+  "descriptionHTML": "X-Hubsan 2 is a professional aircraft control software for the mid/high end drones of Hubsan and it supports real-time image transmission, flight telemetry and aerial photography so you can enjoy flying!<br><br>Main functions:<br>1. GPS positioning function, keep track of the aircraft position.<br>2. Map navigation function, view map and flight route planning<br>3. Real-time HD image transmission,  real-time flight telemetry display.<br>4. Online preview interface upgrade.<br>5. New editor features.<br>6. Flight playback, record the course of your flight.",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/Wq2L5rm5kgWl8zAf1_-efT0d-x2YaS7w4g5j5WQRe1MpgPUH9jDwJKmR9ZkC533rfA",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/4s5dxaZKNxMrgooSMlefqq89wH5H3-jcPbiWKKEGWGy0ngSGkcBlBQF8PX08jiqHxj5e",
+    "https://play-lh.googleusercontent.com/iYODbHy8b5joG_6ARsgngiMIfD2fsSW5r18BgbKwbk5nYXt9DjuGWaWYQPqmVTaUGQ",
+    "https://play-lh.googleusercontent.com/KnNO0TpGJWspovX_zmZ7BcUefh1B4kvWdxgGDOKcAzqkV2Aw2-H77LtdQPhfORcapG8_",
+    "https://play-lh.googleusercontent.com/LV2LtHihZ8MPVFbhpAPcz4ExUJ82Cv7eHeX_iXAnWlASzEzB6Anys5rR6fqFVBWZ3rE",
+    "https://play-lh.googleusercontent.com/KwU-sB9I_wOeAYqQZXgkZw0PKlz89dvc9XaPHVKAxgRdV882yPrAO0SgFdNTl3gXTA",
+    "https://play-lh.googleusercontent.com/UVv2fxkmoCvwE-px2K6IHfsrWM2bz5qUxNpZkLmtbYPXMkCWZciK3LVnHCdBxtmzPQ8",
+    "https://play-lh.googleusercontent.com/FNGuFm6vD3wozHx_NCdnrz8xy5tVdE8H8sVNQxrLnGQ8yIzovpt6BYd7pR4IP16nRmDd",
+    "https://play-lh.googleusercontent.com/LUnpyGHrFZSWVWHNWak0hW0y9EQPR6OKQaasredFG_bH_P9f-L_CfMoBBV9TUwXjUg",
+    "https://play-lh.googleusercontent.com/krLfX_vyVgBUqh4fM30g3MtNu3rI4AF5x0xEDLFU9LVwneKgbj0itSaAL8-GV7NLgwk"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/QXET0oMlMqT9aifH80yvnsksreRFoNJser-BKUdVBUUXxy49PPQjduJO4Jnqdz-MNg",
+  "permissions": {
+    "Device & app history": [
+      "retrieve running apps"
+    ],
+    "Identity": [
+      "add or remove accounts",
+      "find accounts on the device"
+    ],
+    "Contacts": [
+      "find accounts on the device"
+    ],
+    "Location": [
+      "access extra location provider commands",
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Phone": [
+      "read phone status and identity"
+    ],
+    "Photos/Media/Files": [
+      "access USB storage filesystem",
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Camera": [
+      "take pictures and videos"
+    ],
+    "Microphone": [
+      "record audio"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Device ID & call information": [
+      "read phone status and identity"
+    ],
+    "Other": [
+      "access Bluetooth settings",
+      "change network connectivity",
+      "change system display settings",
+      "close other apps",
+      "connect and disconnect from Wi-Fi",
+      "control flashlight",
+      "control vibration",
+      "draw over other apps",
+      "enable app debugging",
+      "full network access",
+      "modify system settings",
+      "pair with Bluetooth devices",
+      "prevent device from sleeping",
+      "read Google service configuration",
+      "run at startup",
+      "set wallpaper",
+      "use accounts on the device",
+      "view network connections"
+    ],
+    "Uncategorized": [
+      "update component usage statistics"
+    ]
+  },
+  "reviews_data": null
+}

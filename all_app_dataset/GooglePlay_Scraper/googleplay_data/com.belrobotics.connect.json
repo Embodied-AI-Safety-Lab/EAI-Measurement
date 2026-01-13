@@ -1,0 +1,56 @@
+{
+  "pkg_name": "com.belrobotics.connect",
+  "appId": "com.belrobotics.connect",
+  "title": "Belrobotics Connect",
+  "developer": "Yamabiko Europe",
+  "developer_id": "8249231093488367393",
+  "developer_email": "customerservice@yamabiko.eu",
+  "developer_website": "https://www.belrobotics.com",
+  "developer_address": null,
+  "category": "Tools",
+  "category_id": "TOOLS",
+  "content_rating": "Everyone",
+  "score": null,
+  "ratings": null,
+  "reviews_count": null,
+  "installs": "500+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://yamabiko.eu/politique-de-confidentialite/",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "The Belrobotics app gives you control to your robot, wherever you are.\r\n\r\nGet easy overview of activities, parameters and schedule. Send any commands and get instant confirmation.",
+  "descriptionHTML": "The Belrobotics app gives you control to your robot, wherever you are.<br><br>Get easy overview of activities, parameters and schedule. Send any commands and get instant confirmation.",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/aDIx5gi4ftE7RkfKJJ79Gx5QqQLEvHOQ65T550fC1hQMadDvVnw8ldErN4RIFebm0kDF",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/gzDtsGVgD40lNcGRUeIeRW9V1-JhxAR0Olxi7fSv8fxikjuJ68IapNBMthYNwoxilgA",
+    "https://play-lh.googleusercontent.com/9mI6Jj1vTW5wlU4QIZV4ocouTkyoZe-hmBeSd4pvUjblZk6tmshugw0xp2SZEuQkuyk",
+    "https://play-lh.googleusercontent.com/xJTNRFh4cEXKCUNQgnOmK9mrf37WufEdjcTSZQoR7N6FU8wWG3fPkXoxFtKR5ywb_Xcg",
+    "https://play-lh.googleusercontent.com/ixDleFBG1LxA1d78Wn-XRoF1QFCe9MV3pcNt2C7uZhoUdX_-vOOaybqUYK5QSuk-EWA",
+    "https://play-lh.googleusercontent.com/MLOREEV2ncE3-TtYMervvijWi8b0_eQI17HGu5R1R8CbfoarXWGo-qWd8fT8BLkIxglK"
+  ],
+  "video": "https://www.youtube.com/embed/DgUICmdClrY?vq=large&rel=0&autohide=1&showinfo=0",
+  "video_image": "https://play-lh.googleusercontent.com/7XOwP2gR0yYEpJdglBgYt6zKyvCdcRz3wCSTJGSC_Tqq7v2Qwtwnc_FaiGb1-WlQ6Q",
+  "header_image": "https://play-lh.googleusercontent.com/7XOwP2gR0yYEpJdglBgYt6zKyvCdcRz3wCSTJGSC_Tqq7v2Qwtwnc_FaiGb1-WlQ6Q",
+  "permissions": {
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Other": [
+      "Google Play license check",
+      "control vibration",
+      "full network access",
+      "prevent device from sleeping",
+      "view network connections"
+    ],
+    "Uncategorized": [
+      "receive data from Internet"
+    ]
+  },
+  "reviews_data": null
+}

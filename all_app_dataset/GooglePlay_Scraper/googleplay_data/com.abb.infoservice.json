@@ -1,0 +1,66 @@
+{
+  "pkg_name": "com.abb.infoservice",
+  "appId": "com.abb.infoservice",
+  "title": "ABB Infoservice",
+  "developer": "ABB Robotics Czech Republic s.r.o.",
+  "developer_id": "ABB+Robotics+Czech+Republic+s.r.o.",
+  "developer_email": "cz-robot.cs@abb.com",
+  "developer_website": "https://abbinfoservice.com/",
+  "developer_address": null,
+  "category": "Business",
+  "category_id": "BUSINESS",
+  "content_rating": "Everyone",
+  "score": null,
+  "ratings": null,
+  "reviews_count": null,
+  "installs": "1,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://new.abb.com/privacy-policy",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "Now you can supervise your ABB robots easily from a mobile app. Stay\r\ninformed about your robot’s most important events with just a few swipes. If\r\nyou have any questions or concerns, you have the option to chat with a\r\nspecialist directly through the app. With ABB Infoservice, you receive instant\r\naccess to operating status, records of service interventions, and an overview\r\nof your robots and accessories that suit them all in one place.\r\n\r\nWe continuously monitor all events related to your robots. ABB Infoservice will always notify you, so you will never miss any crucial information. We are\r\nalways happy to help you detect a potential defect and eliminate it via chat.\r\nYou decide whether you want to handle the repair yourself or request the\r\nassistance from the ABB service department.\r\n\r\nIn case of an urgent hotline intervention, you can use the chat in the app, confirm the dispatch, and track the technician’s arrival status. You can view details\r\nabout your ABB robots in the My Robots section. Have you discovered an\r\nideal accessory for your robot? Just select the offer that interests you and\r\nsend us a non-binding inquiry.\r\n\r\nServicing industrial robots has never been simpler!\r\n\r\nContact your sales representative today to take advantage of all the benefits\r\nABB Infoservice has to offer.\r\n\r\nFunctions:\r\nEvents - information channel of the Digital Service\r\n• Chat (including images and videos)\r\n• Connected Services\r\n• Information\r\n• News\r\n• Hotline\r\n• Service\r\n\r\nCases - records of all service interventions\r\n• Documents\r\n• Used spare parts\r\n• Hours worked\r\n\r\nMy robots - device list\r\n• Overview\r\n• Notes\r\n• Mechanical units\r\n• Documents\r\n\r\nAccessories - offer of the most requested accessories\r\n\r\nContacts\r\n• Hotline\r\n• Service\r\n• Preventive controls\r\n• Spare parts\r\n• Technical support\r\n• System service\r\n• Training",
+  "descriptionHTML": "Now you can supervise your ABB robots easily from a mobile app. Stay<br>informed about your robot’s most important events with just a few swipes. If<br>you have any questions or concerns, you have the option to chat with a<br>specialist directly through the app. With ABB Infoservice, you receive instant<br>access to operating status, records of service interventions, and an overview<br>of your robots and accessories that suit them all in one place.<br><br>We continuously monitor all events related to your robots. ABB Infoservice will always notify you, so you will never miss any crucial information. We are<br>always happy to help you detect a potential defect and eliminate it via chat.<br>You decide whether you want to handle the repair yourself or request the<br>assistance from the ABB service department.<br><br>In case of an urgent hotline intervention, you can use the chat in the app, confirm the dispatch, and track the technician’s arrival status. You can view details<br>about your ABB robots in the My Robots section. Have you discovered an<br>ideal accessory for your robot? Just select the offer that interests you and<br>send us a non-binding inquiry.<br><br>Servicing industrial robots has never been simpler!<br><br>Contact your sales representative today to take advantage of all the benefits<br>ABB Infoservice has to offer.<br><br>Functions:<br>Events - information channel of the Digital Service<br>• Chat (including images and videos)<br>• Connected Services<br>• Information<br>• News<br>• Hotline<br>• Service<br><br>Cases - records of all service interventions<br>• Documents<br>• Used spare parts<br>• Hours worked<br><br>My robots - device list<br>• Overview<br>• Notes<br>• Mechanical units<br>• Documents<br><br>Accessories - offer of the most requested accessories<br><br>Contacts<br>• Hotline<br>• Service<br>• Preventive controls<br>• Spare parts<br>• Technical support<br>• System service<br>• Training",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/N3evvLok7j9rUVdHpPUGjt6hqMiuWtjvLrvEYjx8I3qr4HOS9Xvq3T1WKdCZOY9GEbgY",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/1CPO1nEnyJSSzXCafpaW_8M-ycJUXHYfsblDgtezDSirtiCCP6UIVGtgKQ85YokpLA",
+    "https://play-lh.googleusercontent.com/g7cKs_Sq3NZ-XnMTNPKN2KzV0hh3YpdPYiDYdTjM4SDuzevc29fWbA2K_WiOKIkBrqQo",
+    "https://play-lh.googleusercontent.com/uQZkVoFaIytBFlOobTOHhW2h4v6fbzJLgNm7Fm9abGq7Fe2StoTs5J6Eo4rY-yaFow",
+    "https://play-lh.googleusercontent.com/MAAOHcbugS0MalobWSW5wYtCwaH0W9tTzzaYaMh8sBj1t4MvnUXoH7Zh29kr2KoY1EQ",
+    "https://play-lh.googleusercontent.com/Kct5NOSpxkF77_8MDoX-QnJ-esd6HRmtM4fTmkUNnbhVQAJUGlyjRwimrgpL3tQogT0",
+    "https://play-lh.googleusercontent.com/F0trdpl8527xY5hSQXcz9Sx-ki-0CLMVSkKRFb6AeDDFiVLc3yz9AbacDB2tEHOp6nI",
+    "https://play-lh.googleusercontent.com/UCLh5FZmlqgnXAugAhK8vJZvrbem9oMC_zW0WQoWNSdX4DSgcYAp1Bru_VP5eX7IIw"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/Qsk1qWwFkzixAtHlMO49ePhswxSjFDpG572d8v1IPxLBW9AC31CoLjw1MeuBwRsAug4",
+  "permissions": {
+    "Photos/Media/Files": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Camera": [
+      "take pictures and videos"
+    ],
+    "Microphone": [
+      "record audio"
+    ],
+    "Other": [
+      "full network access",
+      "prevent device from sleeping",
+      "view network connections"
+    ],
+    "Uncategorized": [
+      "receive data from Internet"
+    ]
+  },
+  "reviews_data": null
+}

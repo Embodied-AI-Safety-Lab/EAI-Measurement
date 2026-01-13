@@ -1,0 +1,60 @@
+{
+  "pkg_name": "com.netopsun.midrone420",
+  "appId": "com.netopsun.midrone420",
+  "title": "MIDRONE 420",
+  "developer": "A6 EUROPE",
+  "developer_id": "A6+EUROPE",
+  "developer_email": "goodstevechan2@gmail.com",
+  "developer_website": null,
+  "developer_address": null,
+  "category": "Entertainment",
+  "category_id": "ENTERTAINMENT",
+  "content_rating": "Everyone",
+  "score": null,
+  "ratings": null,
+  "reviews_count": null,
+  "installs": "5,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://app.netopsun.com/privacy_policy.html",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "MIDRONE  VISION 420 can control the 4-axis aircraft by WiFi on the Android smartphone, and also can get the real time video from the aircraft, and take the photo and save the video.",
+  "descriptionHTML": "MIDRONE  VISION 420 can control the 4-axis aircraft by WiFi on the Android smartphone, and also can get the real time video from the aircraft, and take the photo and save the video.",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/tDPcIPsKitl893TTA-r1U16TL6g_re5xXuiZmN9kAmG01cq2N1Fc6R8w2Z4OLm7aUQ",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/rf6XJJYcg-St9p7iqJMqgpGTrLjJFQNfMsupZbJKuiLY2Hs6BkK6anPX_FDuH88pTbM",
+    "https://play-lh.googleusercontent.com/XW1FQlSype41ZNFvuO4HcUc5mKyaHMdz2oq_qOysbZX-nowv2ipU-gddmTxVD985kgOa",
+    "https://play-lh.googleusercontent.com/iXChCQKrORcigOsd_r_td4Jvk9sWiRpoq6HEcubHGsZpUBBdW9t-bxWm9SzF-n1YKz53",
+    "https://play-lh.googleusercontent.com/EnPjn7nIn_ZpTfbFDnDDbE_6YMa3c4sszwdFYq6Uu0_GyI89fYfgSM4BXiRcT41kxAg"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/QCGsamDPYYxxzsupbpJ60fF0xZGSOl1EhqCAIUFvWz6vanMAPBxSnv2ZbHNoKrQWwA",
+  "permissions": {
+    "Photos/Media/Files": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Microphone": [
+      "record audio"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Other": [
+      "change network connectivity",
+      "full network access",
+      "view network connections"
+    ]
+  },
+  "reviews_data": null
+}

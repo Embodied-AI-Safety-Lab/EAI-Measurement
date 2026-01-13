@@ -1,0 +1,61 @@
+{
+  "pkg_name": "cn.goatbot.app",
+  "appId": "cn.goatbot.app",
+  "title": "Goatbot-GOAT BOT Lawn Mower",
+  "developer": "移康智能科技（上海）股份有限公司",
+  "developer_id": "%E7%A7%BB%E5%BA%B7%E6%99%BA%E8%83%BD%E7%A7%91%E6%8A%80%EF%BC%88%E4%B8%8A%E6%B5%B7%EF%BC%89%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8",
+  "developer_email": "app@goatbot.cn",
+  "developer_website": "http://goatbot.com",
+  "developer_address": null,
+  "category": "Tools",
+  "category_id": "TOOLS",
+  "content_rating": "Everyone",
+  "score": null,
+  "ratings": null,
+  "reviews_count": null,
+  "installs": "100+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://gr.okiot.net/policy/1802238650271748098/PrivacyPolicy.html",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "Goatbot is your lawn care expert, designed specifically for those of you who pursue the perfect lawn. Our revolutionary lawnmower app makes mowing simple and efficient, bringing your outdoor space to life. Here are the reasons to choose Goatbot:\r\n\r\nIntelligent Path Planning: Our app uses advanced algorithms to plan the most efficient mowing paths for your lawnmower, saving time and increasing efficiency.\r\nOne-Touch Start: With just a light touch, Goatbot can start working automatically, so you don't have to do it yourself.\r\nMaintenance Reminders: Regular reminders to maintain your lawnmower, ensuring that the equipment is always in the best condition.\r\nEco-friendly and Energy-Saving: Goatbot is committed to environmental protection, helping you reduce energy consumption and protect our planet.\r\nUser-Friendly Interface: The intuitive design makes it easy for anyone to get started without complicated operations.\r\nDownload Goatbot now and make your lawn the envy of your neighborhood.",
+  "descriptionHTML": "Goatbot is your lawn care expert, designed specifically for those of you who pursue the perfect lawn. Our revolutionary lawnmower app makes mowing simple and efficient, bringing your outdoor space to life. Here are the reasons to choose Goatbot:<br><br>Intelligent Path Planning: Our app uses advanced algorithms to plan the most efficient mowing paths for your lawnmower, saving time and increasing efficiency.<br>One-Touch Start: With just a light touch, Goatbot can start working automatically, so you don&#39;t have to do it yourself.<br>Maintenance Reminders: Regular reminders to maintain your lawnmower, ensuring that the equipment is always in the best condition.<br>Eco-friendly and Energy-Saving: Goatbot is committed to environmental protection, helping you reduce energy consumption and protect our planet.<br>User-Friendly Interface: The intuitive design makes it easy for anyone to get started without complicated operations.<br>Download Goatbot now and make your lawn the envy of your neighborhood.",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/OCstmoN6v8JS54VzEHQGyTa8xbcU3KlIJhmjSGy0GxFdbbFhqgICxbR-iiO6TqGAimE",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/AwC1_WtXRTpwPgsuGaMlTGRK5Pm6NdcjhYFHtKMXPonB__pYZWUOdAc14C9KHBqM4riK",
+    "https://play-lh.googleusercontent.com/PTAiceIuwvQbj1RoqUeeqd2IJ8MuhOPFGbxcH3MdQyCgdHgXvmfoKenRbkXqKvEchoI",
+    "https://play-lh.googleusercontent.com/J3wY9p2xbYWh8jyyLOYJg-MWPtnw8Gp8fKvIDriuBGbj90I7-PyATLou96cVqhiVGYU",
+    "https://play-lh.googleusercontent.com/-7Uz70TrSAftVJfKiKlAg7PIYr1JNmsqw-8FeQ2wtujVnQ9URSIlm8AmfUodKHkrw-St",
+    "https://play-lh.googleusercontent.com/U2x7Sfsmav1KikAEWgsXPLltKZ6uUPRNRl3amIjkLhEVOoOYpNHRwI_7PPr_PGpcGMQ"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/xQEfot0fHuGPRAhKK_83PtwbnsSekQCMNxCtaJbqwgsaCK5E9leSi8LUJcprUomGk5Q",
+  "permissions": {
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Other": [
+      "Google Play license check",
+      "access Bluetooth settings",
+      "connect and disconnect from Wi-Fi",
+      "full network access",
+      "pair with Bluetooth devices",
+      "prevent device from sleeping",
+      "view network connections"
+    ],
+    "Uncategorized": [
+      "receive data from Internet"
+    ]
+  },
+  "reviews_data": null
+}

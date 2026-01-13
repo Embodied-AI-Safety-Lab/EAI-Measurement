@@ -1,0 +1,79 @@
+{
+  "pkg_name": "com.groupeseb.aspirobot",
+  "appId": "com.groupeseb.aspirobot",
+  "title": "Rowenta Robots",
+  "developer": "SEB",
+  "developer_id": "SEB",
+  "developer_email": "applications.seb@groupeseb.com",
+  "developer_website": "https://www.rowenta.com/explorer",
+  "developer_address": null,
+  "category": "Lifestyle",
+  "category_id": "LIFESTYLE",
+  "content_rating": "Everyone",
+  "score": 2.6666667,
+  "ratings": 37531,
+  "reviews_count": 7,
+  "installs": "500,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "http://legal.groupeseb.com/Core/FR/fr/DU.html#policies",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "Tired of handling everyday chores ? Your Rowenta robots application will allow you to start the cleaning of your home wherever you are. Discover several features that enhance the experience and life expectancy of your product !\r\n\r\nCONTROL THE CLEANING OF YOUR HOME : Launch a cleaning session directly from your phone : Your robot will explore and create a map of your home*. You will have fun watching the robot cleaning and cover the entirety of your house or a specific space.\r\n\r\nPERSONALISE THE MAP OF YOUR HOME : After the first creation of the map by your robot vacuum cleaner, assign the rooms, determine which areas your robot needs to avoid. You can even create levels to draw your entire house.** \r\n\r\nADAPT YOUR CLEANING : Change the suction speed of your robot according to the type of floor you have. Let the robot recognize and avoid the objects while cleaning thanks to artificial intelligence (AI).**\r\n\r\nEXTEND THE LIFE EXPECTANCY OF YOUR ROBOT : Thanks to the maintenance feature, get advices on how to clean and replace the components of your product. You can also buy accessories directly from your app. \r\n\r\nSCHEDULE YOUR NEXT CLEANING SESSION : Forgot to pass the vacuum this weekend ? Your robot can be scheduled in advance to clean your home whenever you want. \r\n\r\nCHECK YOUR PREVIOUS CLEANING SESSIONS : Have a look at your robot’s history to see when it’s time to start cleaning again ! You will also know the duration of all your previous sessions.\r\n\r\n*except Explorer Series 40, 45, 50, 60\r\n**only for specific products",
+  "descriptionHTML": "Tired of handling everyday chores ? Your Rowenta robots application will allow you to start the cleaning of your home wherever you are. Discover several features that enhance the experience and life expectancy of your product !<br><br>CONTROL THE CLEANING OF YOUR HOME : Launch a cleaning session directly from your phone : Your robot will explore and create a map of your home*. You will have fun watching the robot cleaning and cover the entirety of your house or a specific space.<br><br>PERSONALISE THE MAP OF YOUR HOME : After the first creation of the map by your robot vacuum cleaner, assign the rooms, determine which areas your robot needs to avoid. You can even create levels to draw your entire house.** <br><br>ADAPT YOUR CLEANING : Change the suction speed of your robot according to the type of floor you have. Let the robot recognize and avoid the objects while cleaning thanks to artificial intelligence (AI).**<br><br>EXTEND THE LIFE EXPECTANCY OF YOUR ROBOT : Thanks to the maintenance feature, get advices on how to clean and replace the components of your product. You can also buy accessories directly from your app. <br><br>SCHEDULE YOUR NEXT CLEANING SESSION : Forgot to pass the vacuum this weekend ? Your robot can be scheduled in advance to clean your home whenever you want. <br><br>CHECK YOUR PREVIOUS CLEANING SESSIONS : Have a look at your robot’s history to see when it’s time to start cleaning again ! You will also know the duration of all your previous sessions.<br><br>*except Explorer Series 40, 45, 50, 60<br>**only for specific products",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/Rp3wkcP-yDXe755C3NUCp4-eKjsCKWOatqeEmrXMpzwe5KlyVJaOMe8KNAfFtqw4MQ",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/vGEd2H1kHu43zFpfi0Jx0PWQqH5JxZuTpCfhBSv6XtNIVxT6eqZyq3usZBkvexvEE9s",
+    "https://play-lh.googleusercontent.com/-8fUkpBe9AMl8sUZ_I5pnCNTHd95unJ-z8IKfqkKsrUA2O-6Gw2QE8aJEgjmSLzjSD0",
+    "https://play-lh.googleusercontent.com/muYP_7pivr21_1JL0ViS6xAkECqOkG7QmTvEGmldc8ojI_ajUmyJDyOmAD_JXf1ZigR7",
+    "https://play-lh.googleusercontent.com/vkIyW2AQFJiH8f3u5ek2oqPJ5_-i_j92CPFIt1hGSinnlITyH_bYVelCJrSL3N73x58",
+    "https://play-lh.googleusercontent.com/nu1qxatHRE6kGxKrVmWwhg9tFEuuqHiB9O1D0wdMABTPnUheWYPldDTM852uvgggg5Y",
+    "https://play-lh.googleusercontent.com/-MNfRca68vDd5k_tZCQiKUcoAJZIGbcc7PTjUwneS8lrj50qirpD9oNCEssixoBorC0"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/4gL0AGWPy4ML_Vww2D_jvWasmr3Xq2dur-fo3Th1Umv1DDhtrxrooelyNFajebo7ew",
+  "permissions": {
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Photos/Media/Files": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Camera": [
+      "take pictures and videos"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Other": [
+      "access Bluetooth settings",
+      "allow Wi-Fi Multicast reception",
+      "change network connectivity",
+      "change your audio settings",
+      "connect and disconnect from Wi-Fi",
+      "control vibration",
+      "expand/collapse status bar",
+      "full network access",
+      "pair with Bluetooth devices",
+      "prevent device from sleeping",
+      "reorder running apps",
+      "run at startup",
+      "view network connections"
+    ],
+    "Uncategorized": [
+      "receive data from Internet"
+    ]
+  },
+  "reviews_data": null
+}

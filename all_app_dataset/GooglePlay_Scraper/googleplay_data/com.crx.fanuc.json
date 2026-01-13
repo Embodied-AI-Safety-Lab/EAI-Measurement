@@ -1,0 +1,69 @@
+{
+  "pkg_name": "com.crx.fanuc",
+  "appId": "com.crx.fanuc",
+  "title": "Robot CRX FANUC",
+  "developer": "FANUC France",
+  "developer_id": "FANUC+France",
+  "developer_email": "support.robot@fanuc.fr",
+  "developer_website": null,
+  "developer_address": null,
+  "category": "Productivity",
+  "category_id": "PRODUCTIVITY",
+  "content_rating": "Everyone",
+  "score": null,
+  "ratings": null,
+  "reviews_count": null,
+  "installs": "100+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://www.fanuc.eu/fr/fr/contact-centre",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "Even before your cobot is delivered to your company, the CRX FANUC app guides you through a new automation experience through a series of initiation modules:\r\n\r\n-Discovery of the CRX cobot\r\n- Unpacking and starting your cobot\r\n- Step-by-step learning, in video, of the different functionalities\r\n \r\nLe Fil d’Actu is regularly fed with articles or videos concerning the latest developments and updates of the CRX cobot. Don't forget to activate notifications to be informed in preview!\r\n \r\nLacking inspiration to increase your productivity and guarantee the well-being of your employees? The Practical Cases section will certainly give you ideas thanks to the feedback from our customers.\r\n \r\nAmong the other features of the CRX FANUC app, you will also find:\r\n-Technical documentation\r\n-The catalog of accessories compatible with the CRX\r\n-Information on the CRX Expert training\r\n-CRX-related events (fairs, webinars, technical days)\r\n  \r\nSo don't wait any longer to join the CRX FANUC user community!",
+  "descriptionHTML": "Even before your cobot is delivered to your company, the CRX FANUC app guides you through a new automation experience through a series of initiation modules:<br><br>-Discovery of the CRX cobot<br>- Unpacking and starting your cobot<br>- Step-by-step learning, in video, of the different functionalities<br> <br>Le Fil d’Actu is regularly fed with articles or videos concerning the latest developments and updates of the CRX cobot. Don&#39;t forget to activate notifications to be informed in preview!<br> <br>Lacking inspiration to increase your productivity and guarantee the well-being of your employees? The Practical Cases section will certainly give you ideas thanks to the feedback from our customers.<br> <br>Among the other features of the CRX FANUC app, you will also find:<br>-Technical documentation<br>-The catalog of accessories compatible with the CRX<br>-Information on the CRX Expert training<br>-CRX-related events (fairs, webinars, technical days)<br>  <br>So don&#39;t wait any longer to join the CRX FANUC user community!",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/K1d0fAldvIQdsrJSxN_E-3u7QcyGpO7LKHub1EeWfd2yV4ZwVMdF5dZMlEBU2dj0r7o",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/_Ywg93D98v1IBJ0AgeYvm-663NlfKyoR-EY6vKcrDWhPiqcHvNQ4aQMZFBl7uqf4qN4",
+    "https://play-lh.googleusercontent.com/okawxsPR4hk02L5iu8p99Nrvz3RxuJnyQK48vyaLlFDq3lJTSfGy4vadmFHDoE3VMg",
+    "https://play-lh.googleusercontent.com/xx1al7Xsy2qnJd-0_cDQ1OeFjnBU1ENXkgAEcgF8xmpPuu4O6utt9uyz7KaQxogMPI4",
+    "https://play-lh.googleusercontent.com/gJjpdRSdcix8VATpsgdaDo-qTR8IYmp4OXEcKN8PLK-GypB-Uxf11YAFg_ZqNM_t1ff7",
+    "https://play-lh.googleusercontent.com/BkuayO9oTNxvGEy7z8IBdE-6A4ZUuY9-6M-VR6WlR7uAFrjWZGYuDSXikorWU3NSIg",
+    "https://play-lh.googleusercontent.com/sbKRDH1P4HyH35dqK-nWa6FPlmf9ZQqE0N1dwwZCMJdQcPOiRdT2mxrrYVGBptUeAGyR",
+    "https://play-lh.googleusercontent.com/JKPnWkeTO5j1rmJROxX6V6GG-zurM0BwVppdbztLxBnv7mAkmuwSR9Of2ramYqFCKgmc",
+    "https://play-lh.googleusercontent.com/9P7C023-4fUF0QNpR8qsBal1B3tJqkVY51Ax8ClQAfMhYbD3N8QOpNHDdOAK7SWLxSw",
+    "https://play-lh.googleusercontent.com/F2epu6gCWbz10WBZ1o8cFQNbRXo-0-CSbsUkm8ZyXQSlGGLUeGEDXLLHpG26QQSAug",
+    "https://play-lh.googleusercontent.com/WZEKG_DKGiPONxaOKkuRdAceD_Eohu0WlG2VxMCA_mVx0D-jJsFGVOuWreXIkMkDZw",
+    "https://play-lh.googleusercontent.com/Q3X6RyMCejxSj_VfpuqDGqdZ2Z0a3lXBOgmPwNAwofWF9dDWZOYOQjK8QMydON73J1v8",
+    "https://play-lh.googleusercontent.com/kFBRGtP7dr77XmbxNjG8UUkvTY6SH-O3su0uw7gOUwET-5Atbo0_QavbT9jFySH8Ng",
+    "https://play-lh.googleusercontent.com/2HI-yplv983NsFMF9NRvxRWhymj-TbY144gcq2KvpbMGbXuFApcbTUla3M4fkxmg4SyP",
+    "https://play-lh.googleusercontent.com/vFgQJullEXHkosDPrzm_XoNcc56v1_f7xL4ch4YUfWYpt01GiUfi3DBKI3q2F6s6uDY",
+    "https://play-lh.googleusercontent.com/h81ezlnkyhu1Hky5YB46cWIKpUunCoQ9tKZCI3al6w_I6285xz_kGm1LeFFI6IqDdGlS"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/GPaVCsIvHWPBILz8T3rMoJOIwc38XVQ-MbOk8hizKxHodyUGWpZp0smXDE_cxubMZvg",
+  "permissions": {
+    "Photos/Media/Files": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Other": [
+      "control vibration",
+      "full network access",
+      "prevent device from sleeping",
+      "view network connections"
+    ],
+    "Uncategorized": [
+      "receive data from Internet"
+    ]
+  },
+  "reviews_data": null
+}

@@ -1,0 +1,83 @@
+{
+  "pkg_name": "com.contixo.uav",
+  "appId": "com.contixo.uav",
+  "title": "Contixo F36",
+  "developer": "Contixo Inc.",
+  "developer_id": "Contixo+Inc.",
+  "developer_email": "contixoinc@gmail.com",
+  "developer_website": null,
+  "developer_address": null,
+  "category": "Photography",
+  "category_id": "PHOTOGRAPHY",
+  "content_rating": "Everyone",
+  "score": 3.5384614,
+  "ratings": 16,
+  "reviews_count": 10,
+  "installs": "1,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "http://120.79.204.191/upload/Contixo/contixo_privacy.html",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "Capture breathtaking moments in stunning 4K resolution with the Contixo 4K Aerial Drone. This advanced drone is equipped with a high-quality camera that delivers crystal-clear, immersive footage, ensuring every detail is beautifully preserved.\r\n\r\nExperience extended flight time and explore the skies for longer with the Contixo 4K Aerial Drone. Its powerful battery allows for prolonged flights, giving you ample time to capture amazing aerial shots and explore new horizons.\r\n\r\nWith the convenience of one-touch controls, the Contixo 4K Aerial Drone makes flying a breeze. Take off and land effortlessly, initiate a quick return home, and even capture short videos with just a single tap. It's never been easier to unleash your creativity and document your adventures from above.\r\n\r\nWhether you're planning a family vacation or seeking outdoor thrills, the Contixo 4K Aerial Drone is the perfect choice. Its versatility and user-friendly features make it an ideal companion for both home and travel. Explore scenic landscapes, document memorable moments, and create stunning visuals that will leave a lasting impression.\r\n\r\nElevate your aerial photography and videography experience with the Contixo 4K Aerial Drone. Get ready to embark on a thrilling journey and capture the world from a whole new perspective!",
+  "descriptionHTML": "Capture breathtaking moments in stunning 4K resolution with the Contixo 4K Aerial Drone. This advanced drone is equipped with a high-quality camera that delivers crystal-clear, immersive footage, ensuring every detail is beautifully preserved.<br><br>Experience extended flight time and explore the skies for longer with the Contixo 4K Aerial Drone. Its powerful battery allows for prolonged flights, giving you ample time to capture amazing aerial shots and explore new horizons.<br><br>With the convenience of one-touch controls, the Contixo 4K Aerial Drone makes flying a breeze. Take off and land effortlessly, initiate a quick return home, and even capture short videos with just a single tap. It&#39;s never been easier to unleash your creativity and document your adventures from above.<br><br>Whether you&#39;re planning a family vacation or seeking outdoor thrills, the Contixo 4K Aerial Drone is the perfect choice. Its versatility and user-friendly features make it an ideal companion for both home and travel. Explore scenic landscapes, document memorable moments, and create stunning visuals that will leave a lasting impression.<br><br>Elevate your aerial photography and videography experience with the Contixo 4K Aerial Drone. Get ready to embark on a thrilling journey and capture the world from a whole new perspective!",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/TvY_TrTkxmquPfU51bE2Y6trea2sHcCr-TpJ8Y7HJRr_vL4I7sKQlbTJtKrzB15kklE",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/F9G8GjAN5JEMA2vgDDI4YiSlRwW3SEyopldJYXawjaWHadmBCz6kZaVoQkWPfiPYCLs",
+    "https://play-lh.googleusercontent.com/_0CVd67IcnyAG2ZAliOmfggww0u2YL0n6FKKko4nNDs2ACPA33JVmDjthFWdTXB_JzXz",
+    "https://play-lh.googleusercontent.com/rpB4WmBfOa7sJloWcoS_mWa-8zWmnFRj2f4hX70Eq6sFfjQANqNjsS6MFTdjSXpurlE",
+    "https://play-lh.googleusercontent.com/4R8ynkXlIikmOY2vZjho_KToFjA4okSEkDsvh9Gxe6b8THlO-7cejiZ1KpoGr7IquA",
+    "https://play-lh.googleusercontent.com/cyERiVEHvOmphO17Yf8ypqWbkEpNScuyj5YsNmYiPr67bMrDxCQkk2m_QK-jhagU6g",
+    "https://play-lh.googleusercontent.com/qtTBd_2JhLkPBoSg7Rj0h39B7kXo3rdCglHlwyCNc4q0vqD3X8YTxs_4wQWiJWWV3Q"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/QA0YWbVxtrD-GtRLwHZdiaLLjSFAwE3nnmoS0tf5FxdK4ZiFNvgKJWesOGH9mC9sXQVK",
+  "permissions": {
+    "Device & app history": [
+      "read sensitive log data"
+    ],
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Phone": [
+      "read phone status and identity"
+    ],
+    "Photos/Media/Files": [
+      "access USB storage filesystem",
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Camera": [
+      "take pictures and videos"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Device ID & call information": [
+      "read phone status and identity"
+    ],
+    "Other": [
+      "access Bluetooth settings",
+      "change network connectivity",
+      "connect and disconnect from Wi-Fi",
+      "control vibration",
+      "full network access",
+      "modify system settings",
+      "pair with Bluetooth devices",
+      "prevent device from sleeping",
+      "read Google service configuration",
+      "view network connections"
+    ]
+  },
+  "reviews_data": null
+}

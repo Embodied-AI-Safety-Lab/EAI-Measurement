@@ -1,0 +1,92 @@
+{
+  "pkg_name": "com.gutrendvision.robot",
+  "appId": "com.gutrendvision.robot",
+  "title": "GUTREND VISION",
+  "developer": "Qnits",
+  "developer_id": "6333219992733464404",
+  "developer_email": "service@gutrend.com",
+  "developer_website": null,
+  "developer_address": null,
+  "category": "Productivity",
+  "category_id": "PRODUCTIVITY",
+  "content_rating": "Everyone",
+  "score": null,
+  "ratings": null,
+  "reviews_count": null,
+  "installs": "1,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://drive.google.com/file/d/1HtR5jB62K9W4KLlUlxFx9jZbklF3lLTl/view?usp=sharing",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "\"\r\nThe GUTREND VISION Robot Vacuum APP is a mobile applicationthat connects to GUTREND VISION robot products. \r\nUsers can replace the traditional remote control with APP, remote control the robot to clean,dock to charge,etc.\r\nEquipment control, support direction control, cleaning preferences settings,etc.\r\nTime Schedule, clean at any time within a week.\r\nEquipment positioning, can view the data of cleaning area and cleaning time.\r\nSupport personalized settings of device name, time calibration, deleting equipment,etc.\r\nIf you have any questions or suggestions during use, please contact us by email，Mail address: service@gutrend.com\r\n\"",
+  "descriptionHTML": "&quot;<br>The GUTREND VISION Robot Vacuum APP is a mobile applicationthat connects to GUTREND VISION robot products. <br>Users can replace the traditional remote control with APP, remote control the robot to clean,dock to charge,etc.<br>Equipment control, support direction control, cleaning preferences settings,etc.<br>Time Schedule, clean at any time within a week.<br>Equipment positioning, can view the data of cleaning area and cleaning time.<br>Support personalized settings of device name, time calibration, deleting equipment,etc.<br>If you have any questions or suggestions during use, please contact us by email，Mail address: service@gutrend.com<br>&quot;",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/pspKT37xhymtW9jvG6RyyF4uwsNIERdvxu-fD07I0f06rznI3j3DTBjYhwMu5Ji_OQ",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/ixrF7tOBzwnle08rRBnB5gSaBVTgSEKGiZ1yjCb8mINsnxGDjNvzTo7d_sUzXePMyxc",
+    "https://play-lh.googleusercontent.com/K0L-TBa4B7I5w2qYFLGw9YTKbujVnPPpxX64usgtwCPRoMrI0sAnr6-H3jYtJmrA1fA",
+    "https://play-lh.googleusercontent.com/hEliuS-NVHYSAUYV396_2aOH6IuTHnTZbQEC2_DoolXR8E4qp_GVW-LPRmSooL4hufU",
+    "https://play-lh.googleusercontent.com/AhUKeDu6cTrIkY1RmcPRRGUJXFUXRCU-p5Sg8gNyN6GJMUdGsxyxy3MEuvKAJ3Y7_A",
+    "https://play-lh.googleusercontent.com/VuJpNsZlGxTQLu7DQUtZDcvNk87cbThNXWmkIx06h8pL5V9y-XUFfQbzU-Ow5WARVm5N",
+    "https://play-lh.googleusercontent.com/OENk0eCdQwTWnJKKi7keFcYLFN5SRHEx90M6bYIGHn2kvSHcApIEAcf2uGnG-e-NE51P",
+    "https://play-lh.googleusercontent.com/VCH7HkNnVCka76ikubEDHq-kV5Kc5nPUX6rC3Joe17zvT2oCBWGmNcdI-dJ07kB7dQ",
+    "https://play-lh.googleusercontent.com/v_9zZph339YZv-t7nJ9aGzH-iaCZjSw38nRSJmmwfb-a16Qsbp0BUxOXiaH1_FTUu8fl"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/MOOsv9DoJm50z1mR6faKo0Y4INm4z5BhEbDf18a59ug5KZkt263D5Cyi0knUAKubbjU",
+  "permissions": {
+    "Device & app history": [
+      "read sensitive log data",
+      "retrieve running apps"
+    ],
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Phone": [
+      "directly call phone numbers"
+    ],
+    "Photos/Media/Files": [
+      "access USB storage filesystem",
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Camera": [
+      "take pictures and videos"
+    ],
+    "Microphone": [
+      "record audio"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Other": [
+      "access Bluetooth settings",
+      "allow Wi-Fi Multicast reception",
+      "change network connectivity",
+      "change system display settings",
+      "connect and disconnect from Wi-Fi",
+      "control flashlight",
+      "control vibration",
+      "full network access",
+      "modify system settings",
+      "pair with Bluetooth devices",
+      "prevent device from sleeping",
+      "run at startup",
+      "view network connections"
+    ],
+    "Uncategorized": [
+      "receive data from Internet"
+    ]
+  },
+  "reviews_data": null
+}

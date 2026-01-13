@@ -1,0 +1,82 @@
+{
+  "pkg_name": "com.flexitrobo",
+  "appId": "com.flexitrobo",
+  "title": "cvROBO",
+  "developer": "Flexit",
+  "developer_id": "Flexit",
+  "developer_email": "kundeservice@flexit.no",
+  "developer_website": null,
+  "developer_address": null,
+  "category": "Lifestyle",
+  "category_id": "LIFESTYLE",
+  "content_rating": "Everyone",
+  "score": null,
+  "ratings": null,
+  "reviews_count": null,
+  "installs": "500+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://qin.tuyacn.com/app-agreement/en/1031785990/v1.0.0/1/smart/app/package/1031785990/privacyUrl_1640176750265.html",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "The app Flexit cvROBO provide the possibility to monitor and manage your robot vacuum cleaner cvROBO. \r\n\r\nThe cvROBO app lets you:\r\n• Program cleaning (daily or\r\nweekly).\r\n• Begin or end cleaning, even when you are not at home.\r\n• Select the cleaning mode.\r\n• Adjust the suction power.\r\n• Adjust the volume of water used\r\nfor mopping.\r\n• Activate or deactivate the\r\nautomatic self-cleaning function.\r\n• See history\r\n• Search for cvROBO if it has not\r\nreturned to the docking station.",
+  "descriptionHTML": "The app Flexit cvROBO provide the possibility to monitor and manage your robot vacuum cleaner cvROBO. <br><br>The cvROBO app lets you:<br>• Program cleaning (daily or<br>weekly).<br>• Begin or end cleaning, even when you are not at home.<br>• Select the cleaning mode.<br>• Adjust the suction power.<br>• Adjust the volume of water used<br>for mopping.<br>• Activate or deactivate the<br>automatic self-cleaning function.<br>• See history<br>• Search for cvROBO if it has not<br>returned to the docking station.",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/jqmlyexBWCJA3XrgPRq8LRwNitsPQLRfT5PVxNJ5bf8XG36pKDE8o7y17ItlhqEzWPk",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/yQRIkmrcCeIBgKwM0i2LzLshzY_kv5lrRxw0mIiTMIrljMdCgx0TXS5TUub5CI8iNX4",
+    "https://play-lh.googleusercontent.com/uGVqXQU8b7x3oCb3ytbtfs4CCfIRRqq2jMLDV3m35rTyVj1pwZ4V4mdhqTCxYrrYIBL9",
+    "https://play-lh.googleusercontent.com/bprWl8X5ynoXxBZc3wHTuiybt5rYX1qtJmjkMWii2awT8MfRxoUdoQHeEJ1QCsfRh7M",
+    "https://play-lh.googleusercontent.com/rNo9-NV7YRjkcOIcE_blydw0_WpZrSiQM7xxLvDv6dXVgpyqBSyqEKhf6ihNbQT5yhM"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/i6fqvE8n3RDspAdwL2rShbLnyaLPcTxEHA96YBltDg7l3-IWKj0pY6KB9SsOwtoFxUI",
+  "permissions": {
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Photos/Media/Files": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Camera": [
+      "take pictures and videos"
+    ],
+    "Microphone": [
+      "record audio"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Other": [
+      "Google Play license check",
+      "access Bluetooth settings",
+      "allow Wi-Fi Multicast reception",
+      "change network connectivity",
+      "change your audio settings",
+      "connect and disconnect from Wi-Fi",
+      "control flashlight",
+      "control vibration",
+      "full network access",
+      "install shortcuts",
+      "pair with Bluetooth devices",
+      "prevent device from sleeping",
+      "reorder running apps",
+      "set wallpaper",
+      "view network connections"
+    ],
+    "Uncategorized": [
+      "receive data from Internet"
+    ]
+  },
+  "reviews_data": null
+}

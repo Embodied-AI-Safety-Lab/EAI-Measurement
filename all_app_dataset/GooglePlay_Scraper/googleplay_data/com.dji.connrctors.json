@@ -1,0 +1,47 @@
+{
+  "pkg_name": "com.dji.connrctors",
+  "appId": "com.dji.connrctors",
+  "title": "Drone Remote Controller",
+  "developer": "kahlochSto",
+  "developer_id": "kahlochSto",
+  "developer_email": "lwiboltdsbiti@gmail.com",
+  "developer_website": "https://kahlochsto.blogspot.com/",
+  "developer_address": null,
+  "category": "Libraries & Demo",
+  "category_id": "LIBRARIES_AND_DEMO",
+  "content_rating": "Everyone",
+  "score": 3.6923077,
+  "ratings": 4619,
+  "reviews_count": 511,
+  "installs": "100,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": true,
+  "privacy_policy": "https://appraviepriv.blogspot.com/2019/05/privacy-policy-swearted-inc.html",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "Use your Phone as Drone Controller.\r\nUsing a smartphone to fly a drone with our Drone Remote Controller Application.\r\nDrone Remote Controller for All DRONE,\r\nconverts easily your Android phone into a remote control for drone. It's simple and easy to configure and use, the mode of use\r\nis exactly the same as RC Drone.\r\nDo you want to get control of your friends drones? now you can do that with Drone Remote Control this is when the real fun will start to happen.\r\nRemote control for drone is a tool which can replace your physical drone rc. you can control drone with camera with Drone universal remote control for all.\r\nTry this amazing and Free Universal Drone Remote Control Application to turn your android device to a remote for drones.\r\nCompatible with latest drones and Not Compatible with some old Hardware:\r\n- Easily make flight plans on any device\r\n- Automate takeoff, flight, image capture and landing\r\n- Live stream First Person View (FPV)\r\n- Disable auto-flight and resume control with a single tap\r\n- Easily continue non-interrupted flights to map large areas\r\n- Drone Controller With Video.\r\n- Drone Controller With capture FPS\r\n- Use the application to connect the WiFi camera device, you will be able to receive the camera view and take pictures ,Record videos,control drone.\r\nAs you can imagine, this is the best way to fool anyone obsessed with drones like quAdcopters or other drone models in general.\r\nIf you know such a person, then the perfect thing you can do is to go ahead and install Drone Remote Control .\r\n\r\nEnjoy our App !!",
+  "descriptionHTML": "Use your Phone as Drone Controller.<br>Using a smartphone to fly a drone with our Drone Remote Controller Application.<br>Drone Remote Controller for All DRONE,<br>converts easily your Android phone into a remote control for drone. It&#39;s simple and easy to configure and use, the mode of use<br>is exactly the same as RC Drone.<br>Do you want to get control of your friends drones? now you can do that with Drone Remote Control this is when the real fun will start to happen.<br>Remote control for drone is a tool which can replace your physical drone rc. you can control drone with camera with Drone universal remote control for all.<br>Try this amazing and Free Universal Drone Remote Control Application to turn your android device to a remote for drones.<br>Compatible with latest drones and Not Compatible with some old Hardware:<br>- Easily make flight plans on any device<br>- Automate takeoff, flight, image capture and landing<br>- Live stream First Person View (FPV)<br>- Disable auto-flight and resume control with a single tap<br>- Easily continue non-interrupted flights to map large areas<br>- Drone Controller With Video.<br>- Drone Controller With capture FPS<br>- Use the application to connect the WiFi camera device, you will be able to receive the camera view and take pictures ,Record videos,control drone.<br>As you can imagine, this is the best way to fool anyone obsessed with drones like quAdcopters or other drone models in general.<br>If you know such a person, then the perfect thing you can do is to go ahead and install Drone Remote Control .<br><br>Enjoy our App !!",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/B840fD6vn5Cix245ZCnBcaCsPFerrj-hefD3UzVBkaLZJ1nAsALwlU-w-aakhSFUPYvf",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/c2ZxxKX1SAz2rN4knKjMrsFC1nSYUkEfQlaJzI2EL68HZxIg9b4FS10rj0Ezd_AMFtw",
+    "https://play-lh.googleusercontent.com/RpkRKFkaxlYSclcuSM_MyY06xsuT4iQlcuxfpWayZfvh56in9gJCElbYRh0H_iC2gaE"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/8OG8CM-tBVO_Jx1KBnG6otShJzAI1vpszBD3TSjKonm7ZaG1M2aBjIZb2Znpp17wstZT",
+  "permissions": {
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Other": [
+      "full network access",
+      "prevent device from sleeping",
+      "view network connections"
+    ]
+  },
+  "reviews_data": null
+}

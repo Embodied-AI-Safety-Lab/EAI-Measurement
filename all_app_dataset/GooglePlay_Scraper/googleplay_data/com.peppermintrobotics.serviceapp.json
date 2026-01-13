@@ -1,0 +1,59 @@
+{
+  "pkg_name": "com.peppermintrobotics.serviceapp",
+  "appId": "com.peppermintrobotics.serviceapp",
+  "title": "Peppermint Services",
+  "developer": "Peppermint Robotics",
+  "developer_id": "7728855786291217992",
+  "developer_email": "info@peppermintrobotics.com",
+  "developer_website": "https://www.peppermintrobotics.com/",
+  "developer_address": null,
+  "category": "Productivity",
+  "category_id": "PRODUCTIVITY",
+  "content_rating": "Everyone",
+  "score": null,
+  "ratings": null,
+  "reviews_count": null,
+  "installs": "100+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://www.peppermintrobotics.com/privacy-policy-app",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "Revolutionize Your Operations with the Peppermint Services App!\r\n\r\nStay connected to your intelligent service robots like never before. The Peppermint Services app empowers you to monitor and manage your assets in real-time, making it easier than ever to optimize your workflows.\r\n\r\nKey Features:\r\n\r\nReal-Time Alerts: Receive instant updates from your robots to ensure seamless operations.\r\nAsset Insights: Access detailed usage information to track performance and maximize efficiency.\r\nCustomizable Notifications: Enable or disable alerts for specific assets based on your preferences.\r\nStay In Control: Get push notifications to stay informed about your robots’ status, anytime, anywhere.\r\n\r\nAt Peppermint Robotics, we’re dedicated to automating mundane, repetitive workflows in commercial and industrial environments. Let the Peppermint Services app take your operations to the next level with smarter robot management.\r\n\r\nDownload now and transform the way you work!",
+  "descriptionHTML": "Revolutionize Your Operations with the Peppermint Services App!<br><br>Stay connected to your intelligent service robots like never before. The Peppermint Services app empowers you to monitor and manage your assets in real-time, making it easier than ever to optimize your workflows.<br><br>Key Features:<br><br>Real-Time Alerts: Receive instant updates from your robots to ensure seamless operations.<br>Asset Insights: Access detailed usage information to track performance and maximize efficiency.<br>Customizable Notifications: Enable or disable alerts for specific assets based on your preferences.<br>Stay In Control: Get push notifications to stay informed about your robots’ status, anytime, anywhere.<br><br>At Peppermint Robotics, we’re dedicated to automating mundane, repetitive workflows in commercial and industrial environments. Let the Peppermint Services app take your operations to the next level with smarter robot management.<br><br>Download now and transform the way you work!",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/NKboJMsbliiSo8-sf9CVGEAMp3nbVQKUnTHU8TbPq1_prXIKGjK9CyEYx3rtV1xZr3Sa",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/NzuBV_u6H51l4nit02hbFrFlKSvP5XnSwoSk_iyynCQa0woATXT2K8B-5G5IYjrfmGyM",
+    "https://play-lh.googleusercontent.com/A1T681Aj3MPSC9qglay_BRnrIg1-IrXc8lWhWQY8KkqHItPoAkvFlZCa1ezhVY5YNjs",
+    "https://play-lh.googleusercontent.com/UDWoTBsREhr_C7mJDrAqIzWOzSzk4JLEu566vWmTCIeD3kfFA-_2A2EPHXlejZ2AClQ",
+    "https://play-lh.googleusercontent.com/zU1Ro_-y-4XciNp0qeDG5ORoM-lgt8BclcuNj478RwMP1aFG3wPi5YF4aJAO0CQDVKk"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/JVpl9ETTuDu8Y3iTWNnzsflClqBnKaVGdYaEBapaLOTOQoGlfdMcC83_qi3m-AM6TxM",
+  "permissions": {
+    "Photos/Media/Files": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Other": [
+      "control vibration",
+      "full network access",
+      "prevent device from sleeping",
+      "run at startup",
+      "view network connections"
+    ],
+    "Uncategorized": [
+      "receive data from Internet"
+    ]
+  },
+  "reviews_data": null
+}

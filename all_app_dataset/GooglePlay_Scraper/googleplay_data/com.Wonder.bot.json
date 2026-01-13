@@ -1,0 +1,66 @@
+{
+  "pkg_name": "com.Wonder.bot",
+  "appId": "com.Wonder.bot",
+  "title": "Wonderbot",
+  "developer": "Hiwonder",
+  "developer_id": "Hiwonder",
+  "developer_email": "support@hiwonder.com",
+  "developer_website": "http://www.hiwonder.com",
+  "developer_address": null,
+  "category": "Tools",
+  "category_id": "TOOLS",
+  "content_rating": "Everyone",
+  "score": 0,
+  "ratings": 0,
+  "reviews_count": 0,
+  "installs": "1,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://www.hiwonder.com/pages/app-privacy",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "This app is used to control hiwonder robots, such as H5S,xArm,Spiderbot,MaxArm.The app connects to the robot through Bluetooth, making it very convenient to control the robot.",
+  "descriptionHTML": "This app is used to control hiwonder robots, such as H5S,xArm,Spiderbot,MaxArm.The app connects to the robot through Bluetooth, making it very convenient to control the robot.",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/fFwnBAgbQDVcXjU_cgrS5onyIPE-gWrtABgmYslQ98D-r_pa3QHh7zcil05wEbYwGCk",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/wJUPw57dZ-02B105D8s7fRPZlmiXUJ5iDgJIPXjl1ND9U-HVZ1gepU3JbpY7yilUUY42",
+    "https://play-lh.googleusercontent.com/IEJU_kzg24Z0vmMeQYS12wMSULdYhOx0M4dNYuOjwToFg2xwpxerhAISJWW46Q48_TA",
+    "https://play-lh.googleusercontent.com/z0gGebq5jybWHyvN9ySB3kRAFligePqCzBPxpvwrnTpQiovmIm6HVPY6fhsIq-lPdJ5G",
+    "https://play-lh.googleusercontent.com/YFgEjB_nao_A28Ti7SuhJRN-ehQ0JwAaDXE0SgTrClN5GvikkXydwOx0oYPOw2rziQ"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/1lRc9beszKtLieQHtj-_gHfXT78IYwvH5f8WvNXlk-TUkEE5tDE3YoWh0g6qUaWyTE5a",
+  "permissions": {
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Phone": [
+      "read phone status and identity"
+    ],
+    "Microphone": [
+      "record audio"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Device ID & call information": [
+      "read phone status and identity"
+    ],
+    "Other": [
+      "access Bluetooth settings",
+      "change network connectivity",
+      "connect and disconnect from Wi-Fi",
+      "control vibration",
+      "full network access",
+      "pair with Bluetooth devices",
+      "view network connections"
+    ]
+  },
+  "reviews_data": null
+}

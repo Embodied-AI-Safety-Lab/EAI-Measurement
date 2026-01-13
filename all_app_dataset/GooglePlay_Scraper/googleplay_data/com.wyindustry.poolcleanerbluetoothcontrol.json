@@ -1,0 +1,57 @@
+{
+  "pkg_name": "com.wyindustry.poolcleanerbluetoothcontrol",
+  "appId": "com.wyindustry.poolcleanerbluetoothcontrol",
+  "title": "My Winny",
+  "developer": "WYBotics",
+  "developer_id": "WYBotics",
+  "developer_email": "wyindustry@126.com",
+  "developer_website": null,
+  "developer_address": null,
+  "category": "Tools",
+  "category_id": "TOOLS",
+  "content_rating": "Everyone",
+  "score": 0,
+  "ratings": 0,
+  "reviews_count": 0,
+  "installs": "1,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://www.wybotpool.com/pages/privacy-policy",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "This is a Bluetooth controller for pool cleaning robot. It can control the cleaning robot to automatically clean the pool in 4 modes, or manually control the cleaning robot to clean the designated places in the pool. Also, you can make an appointment to start the cleaning robot automatically and clean the pool.",
+  "descriptionHTML": "This is a Bluetooth controller for pool cleaning robot. It can control the cleaning robot to automatically clean the pool in 4 modes, or manually control the cleaning robot to clean the designated places in the pool. Also, you can make an appointment to start the cleaning robot automatically and clean the pool.",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/IGogiVXLD5WXWUxGys5RS035ZgeCA9HrVMp4JSsABr8KtqMK6so-m7oG7dxNKzRhwQ",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/1c3M3HyXOJwdPfrHKk7HumKN0Yp3znMppljtGI0F9rrDsDvEYiZloXDaEgVKKuKGzLY",
+    "https://play-lh.googleusercontent.com/JJLEJCsTLHTDO3QsHIjYHyquLyJiyvrcK3nMslASRBOfIDCSf6q685DLTNWlyn6zruQ",
+    "https://play-lh.googleusercontent.com/AXM0yMtQkYCKiVQcfDUIwOuzqfNNLuvFknZCdhN0g_VWI2geLYfkfp-dC8ORisTY2_8",
+    "https://play-lh.googleusercontent.com/14zuif8PMeDY7-J1Fs-gG-FHjyz-rVhfGgsJt6QU-WNS-An2zuLGTIjM_7Db2dqDqw"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/latkAlkMSSf71Ng-pBoDOrbHF1jFb80qKO_On4gn-9B0Y37YfVe9xtuKslyn_UJqg6E",
+  "permissions": {
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Photos/Media/Files": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Other": [
+      "access Bluetooth settings",
+      "pair with Bluetooth devices"
+    ]
+  },
+  "reviews_data": null
+}

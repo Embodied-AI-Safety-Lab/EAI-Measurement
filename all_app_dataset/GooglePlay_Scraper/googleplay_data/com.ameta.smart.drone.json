@@ -1,0 +1,67 @@
+{
+  "pkg_name": "com.ameta.smart.drone",
+  "appId": "com.ameta.smart.drone",
+  "title": "Ameta Morpho",
+  "developer": "GRANDLINEV  TECH CO.,  LIMITED",
+  "developer_id": "GRANDLINEV++TECH+CO.,++LIMITED",
+  "developer_email": "ameta_dev@ametasmart.com",
+  "developer_website": "https://ametasmart.com/",
+  "developer_address": null,
+  "category": "Tools",
+  "category_id": "TOOLS",
+  "content_rating": "Everyone",
+  "score": 0,
+  "ratings": 0,
+  "reviews_count": 0,
+  "installs": "1,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://api.ametasmart.com/privacyPolicy/language",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "Ameta Morpho, the ultimate drone app designed specifically for young minds! Packed with excitement, versatility, and safety features, AMETA Morpho drone is the perfect companion for family fun and entertainment. From thrilling flights, FPV to interactive STEAM activities, this app sparks creativity and fosters excitement in every flight. Join us on a journey where children can discover the wonders of flight.\r\n\r\nFor any assistance, please reach out to the Ameta Drone team at support.eu@ametasmart.com and support.na@ametasmart.com.",
+  "descriptionHTML": "Ameta Morpho, the ultimate drone app designed specifically for young minds! Packed with excitement, versatility, and safety features, AMETA Morpho drone is the perfect companion for family fun and entertainment. From thrilling flights, FPV to interactive STEAM activities, this app sparks creativity and fosters excitement in every flight. Join us on a journey where children can discover the wonders of flight.<br><br>For any assistance, please reach out to the Ameta Drone team at support.eu@ametasmart.com and support.na@ametasmart.com.",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/rzNwsm4pN5YFzm4udpzX5hFNAcnKteAa6yQvSP4tYZG_jiMsPvUnwXMpsCyhNRjYfQ",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/yCG1oJm17r4hvmbxN_rP8zi6KmlQrk_Oqo4YrCJqp5dRYc6Xt4YzyukxT3N8GNrSkLo",
+    "https://play-lh.googleusercontent.com/i032CF7rYk5HEfontDgfUJCpIlt4sMt31dcedljii2etxiWXuOZoQB3m1MSOb_62ocQ",
+    "https://play-lh.googleusercontent.com/9vNZp0uajfEqBvbW-f1PeFVMjLTcEANEIkqQEsLUObwW-DjbDtGfB-C8Zq-58gioJg",
+    "https://play-lh.googleusercontent.com/QT-tGEriSmM2FuHoeTHsJSf-wi7dKZ9bK4begCgTt573ZWoLXEospZAyG9sQxrpDag0"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/55XL0sha1YBdyQHYGW3T7cED7KrYs9rZZe6_yZTrYp7ftjLHx0qWB3jncxqnYF6TfOc",
+  "permissions": {
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Photos/Media/Files": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Camera": [
+      "take pictures and videos"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Other": [
+      "full network access",
+      "prevent device from sleeping",
+      "view network connections"
+    ],
+    "Uncategorized": [
+      "receive data from Internet"
+    ]
+  },
+  "reviews_data": null
+}

@@ -1,0 +1,96 @@
+{
+  "pkg_name": "com.irobotix.iot.ETA.DM3",
+  "appId": "com.irobotix.iot.ETA.DM3",
+  "title": "ETA AQUILO",
+  "developer": "ETA a.s.",
+  "developer_id": "ETA+a.s.",
+  "developer_email": "VYSAVACE@ETA.CZ",
+  "developer_website": null,
+  "developer_address": null,
+  "category": "Tools",
+  "category_id": "TOOLS",
+  "content_rating": "Everyone",
+  "score": null,
+  "ratings": null,
+  "reviews_count": null,
+  "installs": "1,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://aiot-all-prod.oss-cn-shenzhen.aliyuncs.com/prod/agreements-manage/20231116/1700136985735477.md",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "Basic characteristics:\r\n - Intelligent cleaning planning - the possibility of setting individual days, hours and with the option of setting individual rooms\r\n - Automatic division of rooms after obtaining the map with the possibility of subsequent editing\r\n - Definition of prohibited zones and zones for current zone cleaning\r\n - Creation of multiple maps of vacuumed spaces\r\n - If the application is connected to the Internet, the vacuum cleaner can be controlled remotely even if you are away from home\r\n - Monitoring the current status and movement of the vacuum cleaner; including history\r\n - The vacuum cleaner can be controlled from multiple user accounts\r\n - Choice of cleaning mode: automatic, zone, local, double, along the walls\r\n - Warning about the necessity of maintenance of individual parts of the vacuum cleaner\r\n - It also enables manual guidance of the vacuum cleaner\r\n - Do Not Disturb function at adjustable time of day\r\n - Adjustment of suction power and mopping intensity",
+  "descriptionHTML": "Basic characteristics:<br> - Intelligent cleaning planning - the possibility of setting individual days, hours and with the option of setting individual rooms<br> - Automatic division of rooms after obtaining the map with the possibility of subsequent editing<br> - Definition of prohibited zones and zones for current zone cleaning<br> - Creation of multiple maps of vacuumed spaces<br> - If the application is connected to the Internet, the vacuum cleaner can be controlled remotely even if you are away from home<br> - Monitoring the current status and movement of the vacuum cleaner; including history<br> - The vacuum cleaner can be controlled from multiple user accounts<br> - Choice of cleaning mode: automatic, zone, local, double, along the walls<br> - Warning about the necessity of maintenance of individual parts of the vacuum cleaner<br> - It also enables manual guidance of the vacuum cleaner<br> - Do Not Disturb function at adjustable time of day<br> - Adjustment of suction power and mopping intensity",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/CbK9b6kmTA7YtCK1z4Mi32hg1wQTG5E0Xv_VOumt4-ls6pQkV5sowRGQ_A6X6lgtRVI",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/ASblMVoBykoVl4O4kn_wz7VKk_ktU17icmU4unRM961VhofToqzwaZEHfYu3_ONXqOE",
+    "https://play-lh.googleusercontent.com/U59iurPExKi9SKfLJ4w56Sb0uKo6Q10i2Tf77WDXYIB8V26lUHR_Q1x5Jw2APy0Ux9k",
+    "https://play-lh.googleusercontent.com/MPN-SSXUj7ByrGykGNQf2gPtLL2VDeyq5KrStMWKK52TmmRJb0GzwrQIv_oZ45YUpg",
+    "https://play-lh.googleusercontent.com/FQEaEzhz11LmvEhY-6ggQ50yZQXKQsm0DOs_sXqZn068uIcrcpRsw_V-zef62s9mss4H",
+    "https://play-lh.googleusercontent.com/YdCRGO8hdm6_gy65l5BOlv7UyT5g_o7bNF6WiCdZpJLt_eth1U6A_E1ljouh9K39aA",
+    "https://play-lh.googleusercontent.com/wM-R1HPer3Pv5B93Igt0ffT50Jx6XsmheVeQA6O90mhRuG8uCIaHDkzu1oAYCilEjq0",
+    "https://play-lh.googleusercontent.com/Cn9nU_O2YCMhAGEszejfCrLHfUGci_YzhFtCEQuGQ1sj07NU4hu0ZSTKbJfV8vdQfQ",
+    "https://play-lh.googleusercontent.com/55cVqTxeKgXjx8JiT0GfPzZr83RgQnnWaN0WaYKwRFYZ-sDKUN0CHgPONSa5IzHDn-Yv",
+    "https://play-lh.googleusercontent.com/p5W6E396ENXJOWMYULZoNWzKiq0dhpS0MuDMKFDMAF_jcL5Qzj0QIpFg_fSOiotpmQY",
+    "https://play-lh.googleusercontent.com/xMnyjzPWWiUwPOFPq-FfJCU38siyziNHTDlVWVMbY7QxVYWbyiCQ8uC_qw2lSOwiXQ",
+    "https://play-lh.googleusercontent.com/mo9vNGfTQ43vl-kftLQapUzdAdk2gkcot13QzqdvJrPDI3iDD-ZDz2nfJKTNxmb_7hv6",
+    "https://play-lh.googleusercontent.com/dKcMgzGhb8-B4Aq2U9OOOWIrDguuXfcgsxk6KNwAn24Y3hBpPNmMp-EfeJqI8IBv7rw",
+    "https://play-lh.googleusercontent.com/jVnL8sfkqMjZ7p-PVWpUiHTVu0mkzoab5VWDTtdM4T8Oz__m66kicOZdfdqtZDpXxA",
+    "https://play-lh.googleusercontent.com/uyEkuSZVvfY-3q4C_8rQhKoICxFG3KJ6K5VKIp7sD6PXqn3PEag9Ib4dXnXN0qGIBQ",
+    "https://play-lh.googleusercontent.com/N1bMEyn9-fITOza2CFS0EXHgznnOycZDe1yJPcYN4sZK0HHY2RmAWayAPGtHQqutb3Hj",
+    "https://play-lh.googleusercontent.com/uYBFAEIAClxt1thBaCeXpoqFxPtiW7wOIKa5SqsUDfyHOeBjdiNqQdKt_NcG9U55bg",
+    "https://play-lh.googleusercontent.com/Bjl3Qi7dw5QaTkXXAywikODR00kqV2dbLrYSD-nRn8vlCyfUYdpBmLw9XU2mc_yHocQ",
+    "https://play-lh.googleusercontent.com/Cmqxe-f3_4-od4aa5UtLPR109ouioP66W0aHZ3oPx2nRDecKJSnozCYZK1ZeSUXTX3oX",
+    "https://play-lh.googleusercontent.com/U1XIQmgFcAzlJhSFGXmNGFh9S6_zvxV5cVo8Ou5u0O89k3QpKbNRMGPApY9KHd4pAw",
+    "https://play-lh.googleusercontent.com/ojzMs-_d1DMulmkJNURHhT5H17OIhhpYwB-kf-Jr9xnVwIwsQ7Y_nizMpO-4Ov6H44w",
+    "https://play-lh.googleusercontent.com/YHtZR7qWgEczV7J4edJxr7JeTKM7DaPwGbgwJfwYQIhiLiy8cdty5JIb-YWSVoDbbA",
+    "https://play-lh.googleusercontent.com/kSIH86KoA41N906iTecxkp5_6qTpbGSsGgH185w_WvLs4VKaffA8y6SVx2HaP0PSYg",
+    "https://play-lh.googleusercontent.com/HstENg9yqZ4ot35lGlxexeEQa4PFD6tp1fX59T3SkziwkaUv9ATZwQiFFDjnDfgyZu2D",
+    "https://play-lh.googleusercontent.com/oWSpbIDu8qX7-3e4smulrXvYyu0rmxKx0am9oN_ebSwv3YdVExMnelzAJLRlWlzrZ_0"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/x2ZKvE2lF2kDMWjUO3pL2QT0qMq5XQTOOT0H-qZX2WPu86d3kdLqySk4z_kAaQwyl1w",
+  "permissions": {
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Phone": [
+      "read phone status and identity"
+    ],
+    "Photos/Media/Files": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Device ID & call information": [
+      "read phone status and identity"
+    ],
+    "Other": [
+      "access Bluetooth settings",
+      "change network connectivity",
+      "connect and disconnect from Wi-Fi",
+      "control vibration",
+      "full network access",
+      "modify system settings",
+      "pair with Bluetooth devices",
+      "prevent device from sleeping",
+      "view network connections"
+    ],
+    "Uncategorized": [
+      "receive data from Internet"
+    ]
+  },
+  "reviews_data": null
+}

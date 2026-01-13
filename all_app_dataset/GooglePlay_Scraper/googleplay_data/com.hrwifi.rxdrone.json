@@ -1,0 +1,64 @@
+{
+  "pkg_name": "com.hrwifi.rxdrone",
+  "appId": "com.hrwifi.rxdrone",
+  "title": "HR WIFI",
+  "developer": "睿兴实业",
+  "developer_id": "%E7%9D%BF%E5%85%B4%E5%AE%9E%E4%B8%9A",
+  "developer_email": "eng7_ruixing@ruixingtech.com",
+  "developer_website": "http://www.hoverco.com",
+  "developer_address": null,
+  "category": "Tools",
+  "category_id": "TOOLS",
+  "content_rating": "Everyone",
+  "score": 2.6666667,
+  "ratings": 80,
+  "reviews_count": 6,
+  "installs": "10,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "http://blog.csdn.net/johndevelop/article/details/50990178",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "The application mainly controls the drone through the WIFI protocol, and returns the picture taken by the drone in real time, and can take pictures of the current picture.\r\n1. It has the functions of one-button take-off, landing, rollover drone, etc., and can control the throttle and direction of the drone by remote sensing.\r\n2. Real-time return of the image of the drone, and take photos and videos, and can share the picture to the social account in the album.\r\n3. Gravity sensing, follow mode, speed file control;\r\n4. Gesture control, taking pictures.",
+  "descriptionHTML": "The application mainly controls the drone through the WIFI protocol, and returns the picture taken by the drone in real time, and can take pictures of the current picture.<br>1. It has the functions of one-button take-off, landing, rollover drone, etc., and can control the throttle and direction of the drone by remote sensing.<br>2. Real-time return of the image of the drone, and take photos and videos, and can share the picture to the social account in the album.<br>3. Gravity sensing, follow mode, speed file control;<br>4. Gesture control, taking pictures.",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/VY7p5HxUMWE-i7Vbsnz0Ca-Lk2GK0z73KYZE1IKFPTKAUPxfewxL3gnSIypJwyEtdvP_",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/FkdgaS_MtBPnpC8Hv-4HcdpAZqZHGuk92GB6EB7cNnoAn8CqmqONmndb5zBLRbBX9t8",
+    "https://play-lh.googleusercontent.com/PFYZYzrIwA7pGJO2dAeWAyKl7H3iDyOD_oLs0AywBUvteWodH7j--RudYUueZLafqw",
+    "https://play-lh.googleusercontent.com/Uy2ll2JW6UkhxAmW5EBpk-ogG4bm6E5XFA8Hl_pYYeZksnJzjGcP9vSYd4SHko8QwE0",
+    "https://play-lh.googleusercontent.com/kkRH83d6vfmGaIapr9k0hKC-Jib8g91Km0yVP3jKGmKorrHGIu7-Ez1gnxTNSyoeQ_0",
+    "https://play-lh.googleusercontent.com/S10TXGWBkPM1NmKNLUhv8ovW9xNfGeTbIRZJYZNS40dqE7NXLVtq34mF_AIxQdBFNEaP"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/Xbnirq5ndwIxlWPI3wsz_CapYKODMQUtLLPozN8uSIYZK8gCDyMjppy3ht9HtH2Vhw8a",
+  "permissions": {
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Photos/Media/Files": [
+      "access USB storage filesystem",
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Other": [
+      "change network connectivity",
+      "connect and disconnect from Wi-Fi",
+      "full network access",
+      "view network connections"
+    ]
+  },
+  "reviews_data": null
+}

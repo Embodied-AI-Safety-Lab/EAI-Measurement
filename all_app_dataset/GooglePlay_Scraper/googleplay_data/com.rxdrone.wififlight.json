@@ -1,0 +1,63 @@
+{
+  "pkg_name": "com.rxdrone.wififlight",
+  "appId": "com.rxdrone.wififlight",
+  "title": "360 MachFlight",
+  "developer": "睿兴实业",
+  "developer_id": "%E7%9D%BF%E5%85%B4%E5%AE%9E%E4%B8%9A",
+  "developer_email": "eng7_ruixing@ruixingtech.com",
+  "developer_website": null,
+  "developer_address": null,
+  "category": "Tools",
+  "category_id": "TOOLS",
+  "content_rating": "Everyone",
+  "score": 3.58,
+  "ratings": 106,
+  "reviews_count": 52,
+  "installs": "50,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://writer.zoho.com.cn/writer/open/f0nwc54362d24d6514f6ba50fa24f74d1a8c1",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "The app needs to be used with a drone .The app can be used to preview drone footage and save the video shot.",
+  "descriptionHTML": "The app needs to be used with a drone .The app can be used to preview drone footage and save the video shot.",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/NoL_WaZy7fgRgL7wPWUZ2cq6Aiihy-XwYOXEHJsefl10RL2pIAJv4FOWovjNm5yphvxE",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/V_4JKFt2h1vhaXEoxG4j_a_sOHz6BzQJY31YdZee_gzYckpp0LORD3F0Me_IcPAC8gk",
+    "https://play-lh.googleusercontent.com/Oxfym39TazgWq6dglOJywA7m0pe0JH1S7WxJ1SvW9V55q40hrZYIFe5WwF2Mccr_cw",
+    "https://play-lh.googleusercontent.com/eTnx9yKJQkxPfJD3nxFnz25NhHJ3VhKCNrm3TRNwfl3sFS4T4Lil0T3_HATHokBphRM",
+    "https://play-lh.googleusercontent.com/Rc-QyNyJ6Jd2E7OWN79S0UKOw4s_tQpvg2n1iakU6ExN3veD5Te2f6PDqnAVwnvhB50",
+    "https://play-lh.googleusercontent.com/w7xFwEjBHUnmg9AjlNaFB0EPfc_Co6XJ_vRY34d3Bu_QPnyKX9ZAJpWzkmP-wHpGcbc"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/yy5Av2by8RrKKU3Tq5kv81DO7moEaL3Lg3i2HVWZ5rdqeponb0iruC_nmanx43mpnA",
+  "permissions": {
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Photos/Media/Files": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Other": [
+      "change network connectivity",
+      "connect and disconnect from Wi-Fi",
+      "full network access",
+      "view network connections"
+    ]
+  },
+  "reviews_data": null
+}

@@ -1,0 +1,81 @@
+{
+  "pkg_name": "com.irobotix.twotoo",
+  "appId": "com.irobotix.twotoo",
+  "title": "TWOTOO",
+  "developer": "Shenzhen PICEA Robotics Co., Ltd",
+  "developer_id": "Shenzhen+PICEA+Robotics+Co.,+Ltd",
+  "developer_email": "sz3irobotics@gmail.com",
+  "developer_website": null,
+  "developer_address": null,
+  "category": "Tools",
+  "category_id": "TOOLS",
+  "content_rating": "Everyone",
+  "score": null,
+  "ratings": null,
+  "reviews_count": null,
+  "installs": "1,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://sites.google.com/view/twotoo-privacy",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "The TWOTOO APP allows you to remotely control the sweeping robot through your mobile phone. Whether at home or outside, you can let the robot perform daily cleaning tasks independently.All you need to do is appreciate its efficient cleaning function and enjoy a warm and clean home environment.\r\n\r\n1)View the real-time map, the robot builds the map in real time during the cleaning, allowing you to see its work at a glance.\r\n\r\n2)Remote cleaning, simple operation can remotely control all the functions of the machine, cleaning anytime, anywhere.\r\n\r\n3)Make an appointment for cleaning and set the time for daily cleaning work to meet your exclusive cleaning customization.\r\n\r\n4)Support multiple cleaning modes to switch easily.",
+  "descriptionHTML": "The TWOTOO APP allows you to remotely control the sweeping robot through your mobile phone. Whether at home or outside, you can let the robot perform daily cleaning tasks independently.All you need to do is appreciate its efficient cleaning function and enjoy a warm and clean home environment.<br><br>1)View the real-time map, the robot builds the map in real time during the cleaning, allowing you to see its work at a glance.<br><br>2)Remote cleaning, simple operation can remotely control all the functions of the machine, cleaning anytime, anywhere.<br><br>3)Make an appointment for cleaning and set the time for daily cleaning work to meet your exclusive cleaning customization.<br><br>4)Support multiple cleaning modes to switch easily.",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/lX9GSepn5LAL6nzOGQSNGrWNnSCO3qStEBAcg0ywtgPEG6cPR6zV9tuGQ81084WZpm4",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/9Mg_nY-8MncC8VKwGtRifk0VahN5yZYJvipLzgr62hlKc7YDsq2gj_SpMAOj2RemoW3U",
+    "https://play-lh.googleusercontent.com/Dgvx7WWDJL32ZJn2bNCQn6dJPVSOl6UMOuld3yCKXEzUEtK74zg7spqEM-6GCsNfkeK0",
+    "https://play-lh.googleusercontent.com/KkFQ54u0AP6MZ1kLQ48A9wEIlZ85p9VjLQG3IfRvPp8ZjAUOtXaeUmtAmu2UTOzUsA",
+    "https://play-lh.googleusercontent.com/jooMims6EgQm-ZjBBg0p8gjKDJhhFuZ4gKDpT3WziCsSjUBsKcL3t1fgfx4wQ54PaA5_",
+    "https://play-lh.googleusercontent.com/VMmO_u6gXd25OzcAXwzOXCHo5IEAaPEocgMvdfIJP-QsB6IzrhYf7Xrg-zHYOcPmExw",
+    "https://play-lh.googleusercontent.com/vWMKszyZXmK8Ws8WFHZE2GMBjM9uI4L7AA-65A_KBLlb7N1f26I2MHDbyWl1CwWGjM-1",
+    "https://play-lh.googleusercontent.com/JsJrBLQJ-4HVi0_n4z2y635kDd8LpvEz0EZEHt4MYy9pugqxonf2w77P1R-_xEFbHJB0",
+    "https://play-lh.googleusercontent.com/jVt-GGtfMGdjakXIdskCigs9JkgqrvMbS7D1CjnnEc5wRfzZgdsNhWOb2ALALNWZfw",
+    "https://play-lh.googleusercontent.com/WuEp9_JumUOZFj47wMDv-61CMs2sLoNjNJnYIbJlLicWFiUVSg7RMGZYSTG2aUza4A"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/aA2twkcQgh5b_rItBRk8S_USyH6gkIR3QcAZc0JKo47m7kubR8p4vqRZI9J7F7Kf3fk0",
+  "permissions": {
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Phone": [
+      "directly call phone numbers",
+      "read phone status and identity"
+    ],
+    "Photos/Media/Files": [
+      "access USB storage filesystem",
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Device ID & call information": [
+      "read phone status and identity"
+    ],
+    "Other": [
+      "access Bluetooth settings",
+      "allow Wi-Fi Multicast reception",
+      "change network connectivity",
+      "connect and disconnect from Wi-Fi",
+      "draw over other apps",
+      "full network access",
+      "pair with Bluetooth devices",
+      "prevent device from sleeping",
+      "read terms you added to the dictionary",
+      "view network connections"
+    ]
+  },
+  "reviews_data": null
+}

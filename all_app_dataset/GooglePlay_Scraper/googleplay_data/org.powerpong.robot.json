@@ -1,0 +1,54 @@
+{
+  "pkg_name": "org.powerpong.robot",
+  "appId": "org.powerpong.robot",
+  "title": "Power Pong Robot",
+  "developer": "Power Pong",
+  "developer_id": "Power+Pong",
+  "developer_email": "support@powerpong.org",
+  "developer_website": "https://www.powerpong.org/",
+  "developer_address": null,
+  "category": "Health & Fitness",
+  "category_id": "HEALTH_AND_FITNESS",
+  "content_rating": "Everyone",
+  "score": 4.923077,
+  "ratings": 30,
+  "reviews_count": 5,
+  "installs": "1,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://www.powerpong.org/pages/privacy-policy",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "This app is the perfect companion to your Power Pong robot.  Connect wirelessly to your robot and run drills from your phone.\r\n\r\nWe have designed our app with many types of users in mind - from those that are learning the fundamentals to those who compete in high-level tournaments.\r\n\r\nFeature Overview:\r\n\r\n• Create and save drills to run wirelessly on your Power Pong robot\r\n• Drills can hold up to 8 unique balls\r\n• Loaded with a rich variety of preset drills for you to get started\r\n• Speed, spin, and placement of each ball can be individually adjusted\r\n• For ease of use, trajectory is automatically calculated for every ball, but can also be manually adjusted\r\n• Search and sort your drills using customizable tags\r\n• Randomize drills for irregular play or mirror drills for opposite handed players\r\n• Run drills at up to 120 balls per minute for a set duration or indefinitely\r\n• Simulate match situations by grouping drills together and playing them in a specific sequence\r\n• Feeling tired?  Add a timed break before the drill automatically restarts\r\n• Share of drills between friends and coaches\r\n\r\nIf you run into any issues using the application or have any feedback that you want to share, please send an email to support@powerpong.org",
+  "descriptionHTML": "This app is the perfect companion to your Power Pong robot.  Connect wirelessly to your robot and run drills from your phone.<br><br>We have designed our app with many types of users in mind - from those that are learning the fundamentals to those who compete in high-level tournaments.<br><br>Feature Overview:<br><br>• Create and save drills to run wirelessly on your Power Pong robot<br>• Drills can hold up to 8 unique balls<br>• Loaded with a rich variety of preset drills for you to get started<br>• Speed, spin, and placement of each ball can be individually adjusted<br>• For ease of use, trajectory is automatically calculated for every ball, but can also be manually adjusted<br>• Search and sort your drills using customizable tags<br>• Randomize drills for irregular play or mirror drills for opposite handed players<br>• Run drills at up to 120 balls per minute for a set duration or indefinitely<br>• Simulate match situations by grouping drills together and playing them in a specific sequence<br>• Feeling tired?  Add a timed break before the drill automatically restarts<br>• Share of drills between friends and coaches<br><br>If you run into any issues using the application or have any feedback that you want to share, please send an email to support@powerpong.org",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/K1g209Q5sQwsjG8YptniBFEwkA_mkakaoMbCygIv3xz1Vy-HqjapevHSrv3hyTBBtA",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/DMI535BSB8444CxoX17EgJTlCtb0kiv2S9uoW3JLld0sfgXg8kiKAH3fyf007LVL_Q",
+    "https://play-lh.googleusercontent.com/OQ6JvnAcEkGE-NoyX-6zEXzu1qh0H5QacJ6F-6tlx45EXE0dAcMki-HuhdcZfeDSKw",
+    "https://play-lh.googleusercontent.com/3s5pkkYGSw-yvzBiiP3tWANAiUPqMDraMZcBPwoE-FgaL-UIkNTFDEOEubDpeCtYgFQ",
+    "https://play-lh.googleusercontent.com/12L_M8p6gHT7kloO1s4wnQwRqZvVQSWKELEVexBHsVhwR4gdl0FEsfRKYLrxzwNZxaA",
+    "https://play-lh.googleusercontent.com/WA4zoYgLNHlPvXAdjOCe8kEnBGwZiCBIO18Xz6JTCVmkSYyTaoA0A1e22N3zwkeSPA",
+    "https://play-lh.googleusercontent.com/Gj1s23tBhPIP9QRGkkyjOklah5PWAZma1YYyo5-Bq7SZHticv6V7E2lgvDuxIhPhki56",
+    "https://play-lh.googleusercontent.com/GA7k4PSJSZ0BBgUccrqkRQQjDpfhwyWjcdFMmlgcXz_VVAqYaADVoQ3WSPXsMWjLGKPp"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/NLpR7wueCXuCuz2riLyTsoY7_WDNO_H39Qi_d_QvKFCJA0F_GN5MgDuaIi0s9ICZoWI4",
+  "permissions": {
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Other": [
+      "Google Play license check",
+      "access Bluetooth settings",
+      "pair with Bluetooth devices",
+      "view network connections"
+    ]
+  },
+  "reviews_data": null
+}

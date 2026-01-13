@@ -1,0 +1,59 @@
+{
+  "pkg_name": "com.robotis.zip7h01Fms",
+  "appId": "com.robotis.zip7h01Fms",
+  "title": "GAEMI (GAEMI-0 F)",
+  "developer": "ROBOTIS",
+  "developer_id": "ROBOTIS",
+  "developer_email": "lcw@robotis.com",
+  "developer_website": null,
+  "developer_address": null,
+  "category": "Entertainment",
+  "category_id": "ENTERTAINMENT",
+  "content_rating": "Everyone",
+  "score": null,
+  "ratings": null,
+  "reviews_count": null,
+  "installs": "100+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "http://www.robotis.com/sub/policy_app.html",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "GAEMI (GAEMI F) helps you manage your robots with ease.  \r\n\r\nKey Features:  \r\n• Real-time monitoring of robot status (battery, location, operation status)  \r\n• Remote control and configuration options  \r\n• Instant notifications for quick response  \r\n• Integration with various services to maximize operational efficiency  \r\n\r\nExperience a wide range of services with the GAEMI (GAEMI F) app.",
+  "descriptionHTML": "GAEMI (GAEMI F) helps you manage your robots with ease.  <br><br>Key Features:  <br>• Real-time monitoring of robot status (battery, location, operation status)  <br>• Remote control and configuration options  <br>• Instant notifications for quick response  <br>• Integration with various services to maximize operational efficiency  <br><br>Experience a wide range of services with the GAEMI (GAEMI F) app.",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/zLUC-HkC4vn9xSlzJJbyarrWx1YOTmIv20BrYhwSbCERcxwpCpEWzw4mW6hDkQgfyw",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/lgaEgzh1EzIpoBSMqP--vFkY3C5FkVnSyNr6A1To4-pgltWUAYPSTDSaggHOBf39E6k",
+    "https://play-lh.googleusercontent.com/Tg6mSIQYoKgEsj6999fsjgedAXWFFxNiadW-jiZ32xVK-yGM0tCMFRQeMkBMa-p3ENc",
+    "https://play-lh.googleusercontent.com/vI9IDpjmlqniPmFAEzVRrj5mXwEHLMzU0csYKMY_4Jl_Yvg8in_aubTEJrX4lbjoNw",
+    "https://play-lh.googleusercontent.com/p91IEdlJ0nE0fvC1NQKCNsK3Pmi_B22f6f34lHcy-pS0lwvSHu6fa2ezsc2XlM8CiLM"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/1MWocKkUYgDWaaL5wUtXEbCvXabfBhdcP3wjNlFXmGSpBbre0aUgapEoPdRal0R7-u0",
+  "permissions": {
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Camera": [
+      "take pictures and videos"
+    ],
+    "Other": [
+      "control vibration",
+      "full network access",
+      "prevent device from sleeping",
+      "read Google service configuration",
+      "run at startup",
+      "view network connections"
+    ],
+    "Uncategorized": [
+      "receive data from Internet"
+    ]
+  },
+  "reviews_data": null
+}

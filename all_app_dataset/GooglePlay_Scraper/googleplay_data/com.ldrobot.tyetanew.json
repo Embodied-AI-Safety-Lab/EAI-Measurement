@@ -1,0 +1,80 @@
+{
+  "pkg_name": "com.ldrobot.tyetanew",
+  "appId": "com.ldrobot.tyetanew",
+  "title": "ETA RAGGIO",
+  "developer": "ETA a.s.",
+  "developer_id": "ETA+a.s.",
+  "developer_email": "vysavace@eta.cz",
+  "developer_website": "https://eta.cz",
+  "developer_address": null,
+  "category": "House & Home",
+  "category_id": "HOUSE_AND_HOME",
+  "content_rating": "Everyone",
+  "score": null,
+  "ratings": null,
+  "reviews_count": null,
+  "installs": "10,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://intermachine.scvrobot.com/api/getUserProtocol?companyId=40",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "ETA Raggio is the official application for robot vacuum cleaner ETA5225 with various functions.\r\n\r\nMain features:\r\n- control the robot with smart device\r\n- Intelligent scheduled cleaning - choose a day, time and zone of cleaning\r\n- up to 10 cleaning zones and restricted areas \r\n- detailed map of cleaning room\r\n- distance control even outside your home\r\n- monitor current operation and cleaning history\r\n- up to 10 accounts to be paired with one robot\r\n- cleaning modes: auto, zone, spot\r\n- robot maintenance notifications (replace filters, side brush, main brush etc.)\r\n- Errors diagnostic\r\n- virtual remote control\r\n- do not disturb function\r\n- 3 levels of suction power",
+  "descriptionHTML": "ETA Raggio is the official application for robot vacuum cleaner ETA5225 with various functions.<br><br>Main features:<br>- control the robot with smart device<br>- Intelligent scheduled cleaning - choose a day, time and zone of cleaning<br>- up to 10 cleaning zones and restricted areas <br>- detailed map of cleaning room<br>- distance control even outside your home<br>- monitor current operation and cleaning history<br>- up to 10 accounts to be paired with one robot<br>- cleaning modes: auto, zone, spot<br>- robot maintenance notifications (replace filters, side brush, main brush etc.)<br>- Errors diagnostic<br>- virtual remote control<br>- do not disturb function<br>- 3 levels of suction power",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/h6P8zfWCItpljAfPllLW2ONrpeQUb9VURcxMuEbTfsAdsQf7cKaeyLoG2cjK2IGYs1SE",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/1rQadLiUP839W9dPQV6r8Lb9Ok6PbWIbhSMxSosVBlsdukXyM3Qo4mjFU6J-Hqz7VVQ",
+    "https://play-lh.googleusercontent.com/oi6R2VZYpGS3ztTJFgBqV_Xdi7yU52CVPndkMjGUug3M9qsvC7AkMHqijAjvuAgmD4Ky",
+    "https://play-lh.googleusercontent.com/nwidEoZgykLUMxFbIYSY7CO83ylVUrmoIpUR_xfkAu--h2FjmCgiuuwDa56CBIxCjQ"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/uQI1CRL-DT6qbpkuYPT4fI9g6kYn1VTvJwAvCv-Ck_DVtbQHcoZyPJi3lZ867xAT9e4",
+  "permissions": {
+    "Device & app history": [
+      "retrieve running apps"
+    ],
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Phone": [
+      "read phone status and identity"
+    ],
+    "Photos/Media/Files": [
+      "access USB storage filesystem",
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Camera": [
+      "take pictures and videos"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Device ID & call information": [
+      "read phone status and identity"
+    ],
+    "Other": [
+      "allow Wi-Fi Multicast reception",
+      "change network connectivity",
+      "close other apps",
+      "connect and disconnect from Wi-Fi",
+      "control vibration",
+      "full network access",
+      "modify system settings",
+      "pair with Bluetooth devices",
+      "prevent device from sleeping",
+      "view network connections"
+    ]
+  },
+  "reviews_data": null
+}

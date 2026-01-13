@@ -1,0 +1,84 @@
+{
+  "pkg_name": "com.irobotix.commodore",
+  "appId": "com.irobotix.commodore",
+  "title": "Commodore",
+  "developer": "KSR Group",
+  "developer_id": "KSR+Group",
+  "developer_email": "service@commodore-home.com",
+  "developer_website": "https://commodore-home.com/",
+  "developer_address": null,
+  "category": "Tools",
+  "category_id": "TOOLS",
+  "content_rating": "Everyone",
+  "score": null,
+  "ratings": null,
+  "reviews_count": null,
+  "installs": "1,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://www.commodore-home.com/datenschutzerklaerung",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "The Commodore app is designed to give you full control over your Commodore robot, from apartment plan to cleaning schedules, cleaning strength and more. Once you've set it up the way you want it, you can let your robot work completely on its own.\r\n\r\nIn addition to the conventional control options of the remote control\r\nThe following are also available to you with the app\r\nFunctions available:\r\n• Location-independent control of the robotic vacuum cleaner and the\r\nPlanned time\r\n• Check and manage the maps of the area created by the vacuum robot\r\nand the cleaning history\r\n• Selection of the areas to be cleaned by the robot vacuum cleaner\r\n(e.g. individual rooms)\r\n• Establishing virtual exclusion zones and boundaries\r\n• Choice of all cleaning modes (including spot mode) and\r\nAdjustment of the suction power\r\n• Regulation of water consumption\r\n• Changing / deactivating the pre-programmed rest time",
+  "descriptionHTML": "The Commodore app is designed to give you full control over your Commodore robot, from apartment plan to cleaning schedules, cleaning strength and more. Once you&#39;ve set it up the way you want it, you can let your robot work completely on its own.<br><br>In addition to the conventional control options of the remote control<br>The following are also available to you with the app<br>Functions available:<br>• Location-independent control of the robotic vacuum cleaner and the<br>Planned time<br>• Check and manage the maps of the area created by the vacuum robot<br>and the cleaning history<br>• Selection of the areas to be cleaned by the robot vacuum cleaner<br>(e.g. individual rooms)<br>• Establishing virtual exclusion zones and boundaries<br>• Choice of all cleaning modes (including spot mode) and<br>Adjustment of the suction power<br>• Regulation of water consumption<br>• Changing / deactivating the pre-programmed rest time",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/Z1v6zcYmMcjPJkiM0q7wjX71QrQahjH_t_HpuG4bG-H0R08xD2UmMkxfORjo5Le4yCA",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/Xm_eEq-ozAH5wV1xSKkDlpOlBjnOkNJeHbEw_Ok47m6v78tDzHNs-F-SQ6SHCK6opnI",
+    "https://play-lh.googleusercontent.com/GeNE0-Qgzf930-HjOWSWN0G_m7rDvT_KYd4ojjXf-HMIgKzlhk-G4ioEMi0CWZ2Uvx8",
+    "https://play-lh.googleusercontent.com/GEikY0_jBRnBqOmtpAMaFkxLmnvUnCVW0uVUd2wLSysBUZCtD3LjvxLDU0gLG3p_7hY",
+    "https://play-lh.googleusercontent.com/-GQ58xdSofM90MgHbtS9HGu4LlA7D4z086rHiaXmAGJ88y3QOm_bGQLSXZDeQ70se8xm",
+    "https://play-lh.googleusercontent.com/PSxjBa4XObV01_nmwwwCR1kXoG2BU8cUXnAdtDbWQ-pozc3cCwEFLYpmq9GVUudkFoL7",
+    "https://play-lh.googleusercontent.com/HrPMiW7XF5rQgxQ9bXtJcc-tp5Mu_9P19yGan_k0MoB_Wdb-hZsrAPpvTjfjAemNwWY",
+    "https://play-lh.googleusercontent.com/j2dPqQUb3gY-oZiFJrDzjwJooAWo_AkPMbexVDfL2z2--Q-4VY-dQXs8pm6Kr9J4nA",
+    "https://play-lh.googleusercontent.com/-plNsAcNcf6Uvw0ccck2-p8MwhFhtl8efDhzxFc2DOAsbwVKfB20u-IAwG7ONpTIoI4",
+    "https://play-lh.googleusercontent.com/Cs875_GRpWkXp0DBUbC3gcziRI4w-2Opf2gRraEl_-IiMTC6b0Ziq2ALhiVsbnAAMEkG"
+  ],
+  "video": "https://www.youtube.com/embed/kR_Loks75uQ?vq=large&rel=0&autohide=1&showinfo=0",
+  "video_image": "https://play-lh.googleusercontent.com/EbKPw-y9bgVsNRWlb441M009rabYjsGZsjn7cc7hJH6N3FTq40gHTw5gLn_zqY3R0A",
+  "header_image": "https://play-lh.googleusercontent.com/EbKPw-y9bgVsNRWlb441M009rabYjsGZsjn7cc7hJH6N3FTq40gHTw5gLn_zqY3R0A",
+  "permissions": {
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Phone": [
+      "directly call phone numbers",
+      "read phone status and identity"
+    ],
+    "Photos/Media/Files": [
+      "access USB storage filesystem",
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Camera": [
+      "take pictures and videos"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Device ID & call information": [
+      "read phone status and identity"
+    ],
+    "Other": [
+      "access Bluetooth settings",
+      "allow Wi-Fi Multicast reception",
+      "change network connectivity",
+      "connect and disconnect from Wi-Fi",
+      "draw over other apps",
+      "full network access",
+      "pair with Bluetooth devices",
+      "prevent device from sleeping",
+      "read terms you added to the dictionary",
+      "view network connections"
+    ]
+  },
+  "reviews_data": null
+}

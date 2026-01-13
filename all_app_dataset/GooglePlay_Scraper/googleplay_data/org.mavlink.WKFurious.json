@@ -1,0 +1,86 @@
+{
+  "pkg_name": "org.mavlink.WKFurious",
+  "appId": "org.mavlink.WKFurious",
+  "title": "WK Fly",
+  "developer": "Walkera",
+  "developer_id": "Walkera",
+  "developer_email": "peter@walkeradrones.com",
+  "developer_website": null,
+  "developer_address": null,
+  "category": "Photography",
+  "category_id": "PHOTOGRAPHY",
+  "content_rating": "Everyone",
+  "score": 2.3636363,
+  "ratings": 27,
+  "reviews_count": 6,
+  "installs": "1,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://app.walkera.cn/privacy.html",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "To pair with all your Walkera drones & accessories.",
+  "descriptionHTML": "To pair with all your Walkera drones &amp; accessories.",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/VBq16kQLifNYjCFDPigm6VGN8z5DRgufERfSvvDsF2cZjWhedK2lGgYjC5C5WD_dqQ",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/eAIhb6z5OjjLe8Czy9jdXCLhVc03zL3Wcv6ouIshcaQT2MyxAdvkhwZwhQTM-Hcq1A",
+    "https://play-lh.googleusercontent.com/8qID9VnSFfx8L7hPBw1hTA80pnOw-ftFonferZuhh3TZcVH3-iZ5qwTRQqR3pAfRLA",
+    "https://play-lh.googleusercontent.com/ZYy5CbRsRGA8N6NMGuv-lRyd7ImtK28gdzlPJYVWrxEDscCEtvFSAqNfbQeylamXX0En",
+    "https://play-lh.googleusercontent.com/Wg7Oun1Il1rf2ujAzPO0AlJW5M_OQpQ5ob3KRX7eja5-4UMUS2kcKVNFUkIz99_geiY",
+    "https://play-lh.googleusercontent.com/utdycQBSMvAW-upWvFhbHrWQ035X9CaWv9yKCOYgDVk-wEcx4cRKQwSe4-bYs9qrmw",
+    "https://play-lh.googleusercontent.com/put4skYg9yHcCrSv6Rqv66iqkQBU8agf6_7aCbRwEL0IyPm5F8tuNn0wxf7ZRFXu_Q",
+    "https://play-lh.googleusercontent.com/stjk9h0MY3Mqx1hVP6LNw95wVp1-Txds5dR4GBSYYZAkejxPHawu5h2fXtva2EVH0s0",
+    "https://play-lh.googleusercontent.com/cLSiYL6vF-V7-oxfv52KyoA1x_YWgDn5QA-klJuSgZQgksh8X_Tu2NB1VqZE7VMQMDg",
+    "https://play-lh.googleusercontent.com/-QzMXXTq_E6keNOJMhjQeEe_rYeoUy4zsBqgK2szTRq5KgQNLb-pU_BUHRl0dyy7APc",
+    "https://play-lh.googleusercontent.com/vQZP3V2crvSasV88XXnyKslfUcwacpRooB0sSe6bOhtYTLxeYavt_8KrkgOIo9GFyjtq",
+    "https://play-lh.googleusercontent.com/9LHNA3QKfsgm1ToQnRF603hognEnfE_HbqvFzT5fXYOfMMGQzemGaiMxDtZkc7dIRfQ",
+    "https://play-lh.googleusercontent.com/ON-tSMI2f4oUlxFcFPjkBDcjOLCYyLoFaT6bffu4O_GzYyUSQo5yRvDOVNBGrJSzlDY",
+    "https://play-lh.googleusercontent.com/19Kb1100c_UfR9KqTGb2JLbWQ8Gy_4PDUw281KaP3Ea0h0rbySfFHvt6QUzWUno1CQo",
+    "https://play-lh.googleusercontent.com/D4HXTEcrDUAaCZ-rgpjArKR06oQY2l05jW3XZpUCbtAEIV-Ye9dWMOpOGWyo4L7LIGa1",
+    "https://play-lh.googleusercontent.com/BsNhkAAuHkQgNvXVEPcQOPIKpa9kCeVI63zQjbG-h2HbQbB0V0yPlU9yrFNMwEUUisU1",
+    "https://play-lh.googleusercontent.com/FwDcY1nxc2N9gN_Z_BGJ5hly6-Ps0cRCsrDWy-yBEDJ8Ll06qIq0WRN9kLJ8DbgjYg"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/6jLasRkfjV0LvHG8F9codVoLPdgXsgE0jXGONtUL4sPJHxfVOapJyXuoCMCH3bZTugM",
+  "permissions": {
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Photos/Media/Files": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Camera": [
+      "take pictures and videos"
+    ],
+    "Microphone": [
+      "record audio"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Other": [
+      "access Bluetooth settings",
+      "change network connectivity",
+      "connect and disconnect from Wi-Fi",
+      "control vibration",
+      "full network access",
+      "modify system settings",
+      "pair with Bluetooth devices",
+      "prevent device from sleeping",
+      "run at startup",
+      "view network connections"
+    ]
+  },
+  "reviews_data": null
+}

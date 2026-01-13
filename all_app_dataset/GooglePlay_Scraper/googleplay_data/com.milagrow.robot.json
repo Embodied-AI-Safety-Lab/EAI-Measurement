@@ -1,0 +1,87 @@
+{
+  "pkg_name": "com.milagrow.robot",
+  "appId": "com.milagrow.robot",
+  "title": "Milagrow Aguabot Robot",
+  "developer": "Milagrow Robots",
+  "developer_id": "Milagrow+Robots",
+  "developer_email": "developer@milagrow.in",
+  "developer_website": null,
+  "developer_address": null,
+  "category": "Tools",
+  "category_id": "TOOLS",
+  "content_rating": "Everyone",
+  "score": null,
+  "ratings": null,
+  "reviews_count": null,
+  "installs": "1,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://www.milagrowhumantech.com/policies/privacy-policy",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "Milagrow Aguabot Robot is a mobile phone application of connecting the MILAGROW Floor washing robot products, which supports the robotic customization products with WIFI function under the MILAGROW brand. It can not only replace the traditional remote controller , but also can present more working data that cannot be displayed by the conventional remote controller. Through the APP, the user can remotely control and reserve robots for cleaning while away from home, making you to enjoy smart life anytime, anywhere.",
+  "descriptionHTML": "Milagrow Aguabot Robot is a mobile phone application of connecting the MILAGROW Floor washing robot products, which supports the robotic customization products with WIFI function under the MILAGROW brand. It can not only replace the traditional remote controller , but also can present more working data that cannot be displayed by the conventional remote controller. Through the APP, the user can remotely control and reserve robots for cleaning while away from home, making you to enjoy smart life anytime, anywhere.",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/YXvCqXUyovru9-4oL8dESYT2vJVtWrivuvRydXfEkxcLv0oQCbahndao3hqD5UWC5j4J",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/WK1Qo-4LHsPqentzaGy_eeSyuBZ9bSjvJYRaSeu85SINsnjZuOd4J55UJLI3NVgxDzrW",
+    "https://play-lh.googleusercontent.com/cn1JWbb62OKVo4aKg7Ll_kdlaAp64HMmmK5JO6I9VPUh8VXVNSnuhdtvjwwaU1XyYOk",
+    "https://play-lh.googleusercontent.com/-fzGI8FxUuw0wq8_BXFg7yk_3VD_vK-hAEARWdzebFjoMcPiPKBGxNBTki2gAMjyvA",
+    "https://play-lh.googleusercontent.com/avTSyopfbUEf7BEUnxcNryXk6RQLETNMMHDzBmw8mM0s5_TpqPv4p9r0QdexfVvqBAc"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/lN3AZo_dkUC9pprcCUIGLT3gegW9dG03VpKYMlApf7C5DPBvasqVCon1Cy8k1wo8gQw",
+  "permissions": {
+    "Device & app history": [
+      "read sensitive log data",
+      "retrieve running apps"
+    ],
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Phone": [
+      "read phone status and identity"
+    ],
+    "Photos/Media/Files": [
+      "access USB storage filesystem",
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Camera": [
+      "take pictures and videos"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Device ID & call information": [
+      "read phone status and identity"
+    ],
+    "Other": [
+      "access Bluetooth settings",
+      "allow Wi-Fi Multicast reception",
+      "change network connectivity",
+      "change system display settings",
+      "connect and disconnect from Wi-Fi",
+      "control flashlight",
+      "control vibration",
+      "full network access",
+      "modify system settings",
+      "pair with Bluetooth devices",
+      "prevent device from sleeping",
+      "view network connections"
+    ],
+    "Uncategorized": [
+      "receive data from Internet"
+    ]
+  },
+  "reviews_data": null
+}

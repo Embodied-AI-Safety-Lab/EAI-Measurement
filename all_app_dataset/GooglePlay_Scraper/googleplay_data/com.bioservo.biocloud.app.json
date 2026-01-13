@@ -1,0 +1,74 @@
+{
+  "pkg_name": "com.bioservo.biocloud.app",
+  "appId": "com.bioservo.biocloud.app",
+  "title": "Bioservo",
+  "developer": "Bioservo",
+  "developer_id": "Bioservo",
+  "developer_email": "info@bioservo.com",
+  "developer_website": "https://www.bioservo.com",
+  "developer_address": null,
+  "category": "Tools",
+  "category_id": "TOOLS",
+  "content_rating": "Everyone",
+  "score": null,
+  "ratings": null,
+  "reviews_count": null,
+  "installs": "100+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://bioservo.cloud/app/bioservo-app-privacy-policy.html",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "The Bioservo app is used to manage the grip-strengthening gloves Ironhand and Carbonhand from Bioservo Technologies.\r\n\r\nIn the app, you can customize the gloves according to the user's needs and keep track of your Ironhand systems.\r\n\r\n\r\n\r\nFunctions for Carbonhand\r\n\r\nWhen using Carbonhand, the Bioservo app is used to customize the glove for a specific user.\r\n\r\nThe main features are:\r\n- Calibrating the glove to fit the user’s hand.\r\n- Configure features like responsiveness, force and stickiness, as well as linking sensors to different fingers, all of which can be saved in profiles to be used for different tasks.\r\n- Assign profiles to the three slots in the physical user interface.\r\n- Activate/deactivate the Lock assist function.\r\n- Enable an external button for activating the glove.",
+  "descriptionHTML": "The Bioservo app is used to manage the grip-strengthening gloves Ironhand and Carbonhand from Bioservo Technologies.<br><br>In the app, you can customize the gloves according to the user&#39;s needs and keep track of your Ironhand systems.<br><br><br><br>Functions for Carbonhand<br><br>When using Carbonhand, the Bioservo app is used to customize the glove for a specific user.<br><br>The main features are:<br>- Calibrating the glove to fit the user’s hand.<br>- Configure features like responsiveness, force and stickiness, as well as linking sensors to different fingers, all of which can be saved in profiles to be used for different tasks.<br>- Assign profiles to the three slots in the physical user interface.<br>- Activate/deactivate the Lock assist function.<br>- Enable an external button for activating the glove.",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/J-3FBzZlkDqpuYlRSHk2vR7jSIf_hydG-Xeo_xmkUrriKxbXyR72drF5Wj10UnlNqg",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/qwKC5_kDGKBx-e5_9wUEjz9TNrFpr55gPhbWza8cEn3jWXhDrnFcXpdsca-Ry6ti-lv12bjDVYSd1eEdoWs2Ip0",
+    "https://play-lh.googleusercontent.com/uPlJ-pGob0b39NGVamEIxdgs4aHxQ9UYRJdl2klGMGvC_GBE3eR3xoltrhuCfCu78ZuMOsJJKIj0PnSExfc8Hw",
+    "https://play-lh.googleusercontent.com/yZQ9Dko9R8OpSBZbIzpe229oO1nMKqrmNz5rvsHgI9bgmxrFhtrf2PXw1bLa4ZucEwyL9BuJKIM6uySFT_qm3A",
+    "https://play-lh.googleusercontent.com/SXOGGd-wm52mMYB3S7Jxz7nyug_3I86mhRYHfE5ec_JWQWPs6PxCxHPrfJaq-oBXJ38JCG2xREJtNvAOcehK"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/Gz5ak8N0l-jDzBzfje66qfpC6vmqCdzFewVSSO42-jE8r4CxjXat-sZKf5EgFulh2A46",
+  "permissions": {
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Photos/Media/Files": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Camera": [
+      "take pictures and videos"
+    ],
+    "Microphone": [
+      "record audio"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Other": [
+      "access Bluetooth settings",
+      "change network connectivity",
+      "change your audio settings",
+      "connect and disconnect from Wi-Fi",
+      "control vibration",
+      "full network access",
+      "modify system settings",
+      "pair with Bluetooth devices",
+      "prevent device from sleeping",
+      "view network connections"
+    ]
+  },
+  "reviews_data": null
+}

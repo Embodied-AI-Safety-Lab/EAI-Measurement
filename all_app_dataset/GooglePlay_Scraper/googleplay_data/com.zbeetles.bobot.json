@@ -1,0 +1,92 @@
+{
+  "pkg_name": "com.zbeetles.bobot",
+  "appId": "com.zbeetles.bobot",
+  "title": "BOBOT LIFE",
+  "developer": "N.Y.N",
+  "developer_id": "N.Y.N",
+  "developer_email": "zbeetle123@gmail.com",
+  "developer_website": null,
+  "developer_address": null,
+  "category": "Tools",
+  "category_id": "TOOLS",
+  "content_rating": "Everyone",
+  "score": null,
+  "ratings": null,
+  "reviews_count": null,
+  "installs": "100+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://h5.zbeetle.com/bobot/en/Privacy/index/id/2.html",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "With [Personalized cleaning settings], you can configure different cleaning plans for your family,and meet your personalized cleaning requirements in different scenarios. \r\nUnder [Three cleaning modes], you can adjust the cleaning frequence, suction power, and mop humidity, and set different combinations to meet your cleaning requirements. \r\nThrough [Mop cleaning], you can command BOBOT to return to the station to clean mop based on floor condition. After that, BOBOT will continue the uncompleted cleaning task. \r\n[Restricted Zone/Virtual Wall] is used to set restricted zones/virtual walls.\r\nBOBOT will only go to permitted places based on your instructions, such as plush carpet area and children’s toy area. \r\n[Division Edit] enables area division, combination, and renaming, and you can divide the cleaning space as you like. \r\nThrough [Sharing management], you can share one BOBOT to your family members through the app,\r\nand realize joint control among family members. In addition, you can manage the sharing members in the app. \r\nPlease contact us through the following methods. \r\nWebsite:bobot-israel.com\r\nTel.: +972-51-2468002",
+  "descriptionHTML": "With [Personalized cleaning settings], you can configure different cleaning plans for your family,and meet your personalized cleaning requirements in different scenarios. <br>Under [Three cleaning modes], you can adjust the cleaning frequence, suction power, and mop humidity, and set different combinations to meet your cleaning requirements. <br>Through [Mop cleaning], you can command BOBOT to return to the station to clean mop based on floor condition. After that, BOBOT will continue the uncompleted cleaning task. <br>[Restricted Zone/Virtual Wall] is used to set restricted zones/virtual walls.<br>BOBOT will only go to permitted places based on your instructions, such as plush carpet area and children’s toy area. <br>[Division Edit] enables area division, combination, and renaming, and you can divide the cleaning space as you like. <br>Through [Sharing management], you can share one BOBOT to your family members through the app,<br>and realize joint control among family members. In addition, you can manage the sharing members in the app. <br>Please contact us through the following methods. <br>Website:bobot-israel.com<br>Tel.: +972-51-2468002",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/VB8przNd2usVQ0D49hfToJ5TTmxYBGZMEi_Oh0C14XLgehqqpn1teT5PdoLpYBWcqQ",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/vk5tjU5yzuQKmlVHl1ZRFLuS4rUI0GrH_FW2eOHzc1rpcfYGjqkVnLZmJ8_eeXsQhNuZ",
+    "https://play-lh.googleusercontent.com/WC9pJonk__MSPwf3vUm3GLIrssX3kF8nOS4YG8mAdVcXSgPA_Gk9mtORI3iALpe0hAe8",
+    "https://play-lh.googleusercontent.com/hMTworb2GK_6USiJ42iR2PzdprlgZ2f6O2wuB7KYATEupYaW7MSYDarObNFFz28h3g",
+    "https://play-lh.googleusercontent.com/Z6-VcORBgkk6FYgXqvGSi0H2YBZRBSaMG5Qjs6eVaLe--pBvzYyE48fLn4Gwi3US9Q",
+    "https://play-lh.googleusercontent.com/0s1Wuh9Ue-wqCLk-I68xNTwztrAXlXayr0G2yylDNFjdPDY3GxjoLvB0blmHiEQ0xt0"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/-wrqqICCUen2U9SVwaxrVMU_jcrT-0j0TtayhvYn7_ZQP20LXRABsyA6Rp6bdKBqVA",
+  "permissions": {
+    "Device & app history": [
+      "read sensitive log data",
+      "retrieve running apps"
+    ],
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Phone": [
+      "read phone status and identity"
+    ],
+    "Photos/Media/Files": [
+      "access USB storage filesystem",
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Camera": [
+      "take pictures and videos"
+    ],
+    "Microphone": [
+      "record audio"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Device ID & call information": [
+      "read phone status and identity"
+    ],
+    "Other": [
+      "access Bluetooth settings",
+      "allow Wi-Fi Multicast reception",
+      "change network connectivity",
+      "change your audio settings",
+      "connect and disconnect from Wi-Fi",
+      "control vibration",
+      "full network access",
+      "modify system settings",
+      "pair with Bluetooth devices",
+      "prevent device from sleeping",
+      "reorder running apps",
+      "view network connections"
+    ],
+    "Uncategorized": [
+      "modify/delete internal media storage contents",
+      "receive data from Internet"
+    ]
+  },
+  "reviews_data": null
+}

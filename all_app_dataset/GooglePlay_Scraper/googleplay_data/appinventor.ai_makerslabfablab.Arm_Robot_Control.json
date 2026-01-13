@@ -1,0 +1,50 @@
+{
+  "pkg_name": "appinventor.ai_makerslabfablab.Arm_Robot_Control",
+  "appId": "appinventor.ai_makerslabfablab.Arm_Robot_Control",
+  "title": "Arm Robot Control Makerslab",
+  "developer": "Makerslab.it",
+  "developer_id": "Makerslab.it",
+  "developer_email": "fablab@makerslab.it",
+  "developer_website": "https://www.makerslab.it",
+  "developer_address": null,
+  "category": "Education",
+  "category_id": "EDUCATION",
+  "content_rating": "Everyone",
+  "score": null,
+  "ratings": null,
+  "reviews_count": null,
+  "installs": "1,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://www.makerslab.it/privacy-app-arm-robot-control-makerslab/",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "With this application you can control robotic arms equipped with HC-05 or HC-06 Bluetooth modules and Arduino board.\r\n\r\nYou can find instructions on assembly and programming of our Robotic Arms in our project area.\r\n\r\nhttps://www.makerslab.it/progetti/\r\n\r\nINSTRUCTIONS:\r\nBefore using this application you will need to pair the Bluetooth module with your Android device.\r\n\r\nOnce paired, open the \"Makerslab Arm Robot Control\" application, tap on \"Connect\" and select the previously paired Bluetooth Module.\r\n————\r\nCommands → Associated letters\r\nCaliper opening → S\r\nClamp Closing → s\r\nGripper rotation + → C\r\nGripper Rotation – → c\r\nWrist Rotation + → Q\r\nWrist Rotation – → q\r\nElbow Rotation + → T\r\nElbow Rotation – → t\r\nShoulder Rotation + → R\r\nShoulder Rotation – → d\r\nBase Rotation + → U\r\nBasic Rotation – → u\r\nSpeed ​​Control → 0 .. 9\r\nSave Point →\r\nGo Home → H\r\nRun → E\r\nRESET → Z",
+  "descriptionHTML": "With this application you can control robotic arms equipped with HC-05 or HC-06 Bluetooth modules and Arduino board.<br><br>You can find instructions on assembly and programming of our Robotic Arms in our project area.<br><br>https://www.makerslab.it/progetti/<br><br>INSTRUCTIONS:<br>Before using this application you will need to pair the Bluetooth module with your Android device.<br><br>Once paired, open the &quot;Makerslab Arm Robot Control&quot; application, tap on &quot;Connect&quot; and select the previously paired Bluetooth Module.<br>————<br>Commands → Associated letters<br>Caliper opening → S<br>Clamp Closing → s<br>Gripper rotation + → C<br>Gripper Rotation – → c<br>Wrist Rotation + → Q<br>Wrist Rotation – → q<br>Elbow Rotation + → T<br>Elbow Rotation – → t<br>Shoulder Rotation + → R<br>Shoulder Rotation – → d<br>Base Rotation + → U<br>Basic Rotation – → u<br>Speed ​​Control → 0 .. 9<br>Save Point →<br>Go Home → H<br>Run → E<br>RESET → Z",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/HGy3FSFpWr3d3ExPnZDTYXuaRoB5M3k-H8k3s7QvtgKT5eu1pieo9Vcrx5-F6iO7imc",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/H6u-wD6v5FReadGwLGIXI0xkxX88d2Flv6tds5KqYPC3AUc45Owzb-2Eo98NknjZlSo",
+    "https://play-lh.googleusercontent.com/GvhhzCILeIvOJZZIANhnp6c2N_bC8hb65cvEeKLXf16h83DzHeOiSWtSMSXeWssCG-o"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/95lHJAaizp99jcZc59ichfuzraVFJ2PrCQ-KuhiCL4VCXjjgqtwO8hwmuiYUV8E-ofSA",
+  "permissions": {
+    "Photos/Media/Files": [
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "read the contents of your USB storage"
+    ],
+    "Other": [
+      "access Bluetooth settings",
+      "full network access",
+      "pair with Bluetooth devices"
+    ]
+  },
+  "reviews_data": null
+}

@@ -1,0 +1,98 @@
+{
+  "pkg_name": "com.wero.robot",
+  "appId": "com.wero.robot",
+  "title": "Wero M8 Max",
+  "developer": "Wero Teknoloji A.Ş.",
+  "developer_id": "7801663525907168556",
+  "developer_email": "teknogogo@gmail.com",
+  "developer_website": "https://wero.tech/main-home/#",
+  "developer_address": null,
+  "category": "House & Home",
+  "category_id": "HOUSE_AND_HOME",
+  "content_rating": "Everyone",
+  "score": null,
+  "ratings": null,
+  "reviews_count": null,
+  "installs": "1,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://www.wero.tech/kullanim-ve-gizlilik-politikasi",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "Wero, he's very smart.\r\nWero M8 Max Robot Vacuum Cleaner is a very ideal robot vacuum for home use. Thanks to the app:\r\n1. You can connect to your robot vacuum cleaner and vacuum or even mop your house anytime, anywhere.\r\n2. You can clean certain areas thanks to the room or area selection.\r\n3. Thanks to the scheduled cleaning feature, you can plan the cleaning time in advance.\r\n4. You can control the dust collection unit and empty the dust container without getting your hands or the environment dirty.",
+  "descriptionHTML": "Wero, he&#39;s very smart.<br>Wero M8 Max Robot Vacuum Cleaner is a very ideal robot vacuum for home use. Thanks to the app:<br>1. You can connect to your robot vacuum cleaner and vacuum or even mop your house anytime, anywhere.<br>2. You can clean certain areas thanks to the room or area selection.<br>3. Thanks to the scheduled cleaning feature, you can plan the cleaning time in advance.<br>4. You can control the dust collection unit and empty the dust container without getting your hands or the environment dirty.",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/ZVtGsFhNEzfde4M2AqxDkfupWf8OV7wVtaO69ahXEKjd7XJULdfd7LlnrcXXE3FhGWcL",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/VI024jK5iPeeSLWWDRLy7oq6MwzniiHqGWti_LYFFIVi4pZq1fIdSj60E6A-D1b__Q",
+    "https://play-lh.googleusercontent.com/UFy2JACRdkrSxY2eOGAy-OGrI1vtVG6eOS_gIFU_Qc-RyGDCVcUvUHgAzMjzV6YvXKzg",
+    "https://play-lh.googleusercontent.com/ib_nn2G6-yD1bcoA33juwxqse_2YG3o00yzVRVwWXCzdSsZeqKZpYofrizhBBrpfxg",
+    "https://play-lh.googleusercontent.com/6mfcHfq0Sx_KSDy1Id3J8ItmueukHAX1lz1M3yBol0urgCnf-O-xisEVgyy0kwQWhw",
+    "https://play-lh.googleusercontent.com/pfqN-wT6IWPXjWZmoWdBd12HXR1ToEd77hl3pDF6DINHKfcY8LBnn43sBTyN1r4s6UM",
+    "https://play-lh.googleusercontent.com/hVGDIIzTpSlRXKuqjEKCELb3gxBV4_yjBBUEGsHElpZAJMukSXseRIgqrNbJUwpSFDF-",
+    "https://play-lh.googleusercontent.com/argOoj-kmGrDbV5yvLAn5e0yiAs-U4BcbwnM90TcgMzkcPkwFxlSzxMid6uH8sYihw",
+    "https://play-lh.googleusercontent.com/_pamvy5RIP-3n8Zj4DeJUTC5iUTg_GR3RGRiTFpxg8jTmSoQ58F8CMocqd3PtUUI_Ps",
+    "https://play-lh.googleusercontent.com/jQjoNEVZZ5x_8uOoKVn6YlciesCVDVOz51qUacVM-2OoHq4oZlTPchxvD7hKm9bk_M8",
+    "https://play-lh.googleusercontent.com/cJr-GTIf7mFi9lM2hms-TUk0J6EFwEBTD4HS9WuJQC9zNVXFlUwP-mLFP0EAxSOm0qc",
+    "https://play-lh.googleusercontent.com/aoMSQDB6gSlRLELd8z3c-lAxeeM5KfRdnCW4Aaq-BA8vV0AY2d418mFGTxUeZZuRQk1B",
+    "https://play-lh.googleusercontent.com/SoupjfneT9fiQXs3uFe3p9YX3ASMPc7vGfRz_42YQDf_hdUot42TYgMfdPWtK1OnaHA"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/QJ9o1LoziWr-q88BsliLVR4Am36XXERyvrykpPCZCHUuQW4TqryPfv1SIiQJ7R6sDU_N",
+  "permissions": {
+    "Device & app history": [
+      "read sensitive log data",
+      "retrieve running apps"
+    ],
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Phone": [
+      "directly call phone numbers",
+      "read phone status and identity"
+    ],
+    "Photos/Media/Files": [
+      "access USB storage filesystem",
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Camera": [
+      "take pictures and videos"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Device ID & call information": [
+      "read phone status and identity"
+    ],
+    "Other": [
+      "access Bluetooth settings",
+      "allow Wi-Fi Multicast reception",
+      "change network connectivity",
+      "change system display settings",
+      "close other apps",
+      "connect and disconnect from Wi-Fi",
+      "control vibration",
+      "draw over other apps",
+      "full network access",
+      "modify system settings",
+      "pair with Bluetooth devices",
+      "prevent device from sleeping",
+      "view network connections"
+    ],
+    "Uncategorized": [
+      "allow Bluetooth pairing by Application",
+      "receive data from Internet"
+    ]
+  },
+  "reviews_data": null
+}

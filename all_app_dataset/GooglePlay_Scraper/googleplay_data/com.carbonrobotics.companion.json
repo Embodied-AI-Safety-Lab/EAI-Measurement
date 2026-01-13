@@ -1,0 +1,67 @@
+{
+  "pkg_name": "com.carbonrobotics.companion",
+  "appId": "com.carbonrobotics.companion",
+  "title": "Carbon Robotics Companion",
+  "developer": "Carbon Robotics",
+  "developer_id": "6366361880823777356",
+  "developer_email": "info@carbonrobotics.com",
+  "developer_website": "https://carbonrobotics.com/",
+  "developer_address": null,
+  "category": "Business",
+  "category_id": "BUSINESS",
+  "content_rating": "Teen",
+  "score": 0,
+  "ratings": 0,
+  "reviews_count": 0,
+  "installs": "100+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://carbonrobotics.com/about/privacy",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "The Carbon Robotics Companion mobile app provides farm managers and operators with real-time insights into their LaserWeeder, enabling remote monitoring and communication. Current features include: group chat with multimedia, LaserWeeder job-based metrics, daily metrics, and spatial metrics.",
+  "descriptionHTML": "The Carbon Robotics Companion mobile app provides farm managers and operators with real-time insights into their LaserWeeder, enabling remote monitoring and communication. Current features include: group chat with multimedia, LaserWeeder job-based metrics, daily metrics, and spatial metrics.",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/L77GqkgSbxLi9SGeg9-huC5YgkDSG7nh9Wg8_i162PRNJN7HF-t4TvrthB9fX0ju0-E",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/f44gyVzD-s3dXgmR348RPapnp_bC9Ma3JD1V6rYxyy5UOaxy6M5XjDmIEndfFHSiZiRiBewuM0_aqDl3l1Dk",
+    "https://play-lh.googleusercontent.com/A6ypWwu5gO22f17sKIRSxWxnisRdKwy0Nk5VgWC5FMWLU0ecsroKRwosJEpE52N5BUgFGX3u2jNDYp6Y4Xr8DA",
+    "https://play-lh.googleusercontent.com/jVLL-Y7_YiShvCpQhaoMqBHlR_QASXPcdElXA_2drSZbP7-uAFHk0UexrTJlqFbJY-wTXEnDo3MXZ4dH3HrHrA"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/LDBzfOJJnPGbQCSc9NbldoE6CidfOgr2Eqq1B3S5Zg6TZ0PXb6ZZy3uM0z_W0J9o5P0",
+  "permissions": {
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Photos/Media/Files": [
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "read the contents of your USB storage"
+    ],
+    "Microphone": [
+      "record audio"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Other": [
+      "access Bluetooth settings",
+      "change your audio settings",
+      "full network access",
+      "pair with Bluetooth devices",
+      "prevent device from sleeping",
+      "view network connections"
+    ],
+    "Uncategorized": [
+      "receive data from Internet"
+    ]
+  },
+  "reviews_data": null
+}

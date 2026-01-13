@@ -1,0 +1,93 @@
+{
+  "pkg_name": "com.sublue.robot",
+  "appId": "com.sublue.robot",
+  "title": "SUBLUE ROBOT",
+  "developer": "Sublue",
+  "developer_id": "Sublue",
+  "developer_email": "subluego@gmail.com",
+  "developer_website": null,
+  "developer_address": null,
+  "category": "Tools",
+  "category_id": "TOOLS",
+  "content_rating": "Everyone",
+  "score": 2.3333333,
+  "ratings": 8,
+  "reviews_count": 6,
+  "installs": "100+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://poolzhweb.sublue.com/userht/en/robot_privacy_en.html",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "SUBLUE ROBOT App is a mobile App that connects to SUBLUE intelligent swimming pool cleaning robot products and supports the designated swimming pool cleaning robot products of SUBLUE. You can complete the function operations of the robot through the App and view more cleaning map information which is unavailable to traditional pool cleaning robots.\r\n\r\nAfter connecting to SUBLUE ROBOT App, you can easily unlock more functions:\r\n\tKeep track of the cleaning process at any time and get the cleaning path\r\n\tRemotely reserve cleaning in real time, allowing for swimming pool cleaning even when you are not at home\r\n\tRemotely control cleaning with your mobile phone, clean wherever it is dirty\r\n\tDisplay the cleaning data in real time and share the cleaning log by one click\r\n\tFreely set the cleaning mode, cover the bottom, walls and waterline of the swimming pool\r\n\tRemotely upgrade the robot firmware (OTA upgrade), experience the cutting-edge features as using a new machine every year\r\n\tSUBLUE Mall, more good products, more discounts\r\n\r\nOfficial Website: www.sublue.com",
+  "descriptionHTML": "SUBLUE ROBOT App is a mobile App that connects to SUBLUE intelligent swimming pool cleaning robot products and supports the designated swimming pool cleaning robot products of SUBLUE. You can complete the function operations of the robot through the App and view more cleaning map information which is unavailable to traditional pool cleaning robots.<br><br>After connecting to SUBLUE ROBOT App, you can easily unlock more functions:<br>\tKeep track of the cleaning process at any time and get the cleaning path<br>\tRemotely reserve cleaning in real time, allowing for swimming pool cleaning even when you are not at home<br>\tRemotely control cleaning with your mobile phone, clean wherever it is dirty<br>\tDisplay the cleaning data in real time and share the cleaning log by one click<br>\tFreely set the cleaning mode, cover the bottom, walls and waterline of the swimming pool<br>\tRemotely upgrade the robot firmware (OTA upgrade), experience the cutting-edge features as using a new machine every year<br>\tSUBLUE Mall, more good products, more discounts<br><br>Official Website: www.sublue.com",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/41VHvJIFGdWVqiG5dGCuwWFh8Nc3GZhMAMNFEpApqdGB8V2O0Tk3hNnkHWTb5OXKYms",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/KN1jvdr8g29Vu3xQeUvPLaDLUpWuQxF78F2-16h1uZAQ_nQle8JxVmMdavLbub7UNIA",
+    "https://play-lh.googleusercontent.com/tHUuJwfFbj1mjgHkD6N7BVnYWNo3Iw4zNkUMmN-3yTwHzCwxI3bO7T4e9nIGETiu2w",
+    "https://play-lh.googleusercontent.com/SWd48jqpNik1c_SsKyTklFuA7D3DeO5KlSndO9NkJd_6ebyvcHegBxx2nfz4y1NpkW4",
+    "https://play-lh.googleusercontent.com/ia_4_drB3GEW2HjPtUwCCXg_aYWmQ275kRxr8GjeKmtD7YpZ0kXjHLWT98tt3fqgKVbN"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/4I1I8eaEOz91dlkvMv1EKazNtTzWiG58I1YHLMf2fO-xTdTH6Hu00WK28E-zaoW4Y9c",
+  "permissions": {
+    "Device & app history": [
+      "retrieve running apps"
+    ],
+    "Location": [
+      "access extra location provider commands",
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Phone": [
+      "read phone status and identity"
+    ],
+    "Photos/Media/Files": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Camera": [
+      "take pictures and videos"
+    ],
+    "Microphone": [
+      "record audio"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Device ID & call information": [
+      "read phone status and identity"
+    ],
+    "Other": [
+      "Google Play license check",
+      "access Bluetooth settings",
+      "change network connectivity",
+      "change system display settings",
+      "change your audio settings",
+      "connect and disconnect from Wi-Fi",
+      "control flashlight",
+      "control vibration",
+      "draw over other apps",
+      "full network access",
+      "modify system settings",
+      "pair with Bluetooth devices",
+      "prevent device from sleeping",
+      "run at startup",
+      "view network connections"
+    ],
+    "Uncategorized": [
+      "modify/delete internal media storage contents",
+      "receive data from Internet"
+    ]
+  },
+  "reviews_data": null
+}

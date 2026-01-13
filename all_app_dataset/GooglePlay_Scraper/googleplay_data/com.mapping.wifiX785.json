@@ -1,0 +1,80 @@
+{
+  "pkg_name": "com.mapping.wifiX785",
+  "appId": "com.mapping.wifiX785",
+  "title": "MAPPING WIFI",
+  "developer": "M.M. Global Trade Company Limited",
+  "developer_id": "M.M.+Global+Trade+Company+Limited",
+  "developer_email": "misterrobotcleaner@gmail.com",
+  "developer_website": "http://www.misterrobotcleaner.com/",
+  "developer_address": null,
+  "category": "Lifestyle",
+  "category_id": "LIFESTYLE",
+  "content_rating": "Everyone",
+  "score": 0,
+  "ratings": 0,
+  "reviews_count": 0,
+  "installs": "5,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "http://note.youdao.com/noteshare?id=97f55b5699271999d072c45139a6ade3",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "MAPPING WIFI - This is a mobile application that use for Mister Robot - HYBRID MAPPING WIFI product only. Users can use this app instead of traditional remote control to control robot vacuum via wifi connection such as\r\n- Start/Stop Cleaning\r\n- Robot Monitoring\r\n- Recharging\r\n- Water Drop Level Control\r\n- Direction Control\r\n- Time Scheduling\r\n\r\nIf you have any question please contact us at misterrobotcleaner@gmail.com",
+  "descriptionHTML": "MAPPING WIFI - This is a mobile application that use for Mister Robot - HYBRID MAPPING WIFI product only. Users can use this app instead of traditional remote control to control robot vacuum via wifi connection such as<br>- Start/Stop Cleaning<br>- Robot Monitoring<br>- Recharging<br>- Water Drop Level Control<br>- Direction Control<br>- Time Scheduling<br><br>If you have any question please contact us at misterrobotcleaner@gmail.com",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/nx1iH53HemIPvCBLFjn8-vqsypAbI9_JsdXsVdY-59CQtOYwg6plxogslsr8-eLpyPLO",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/21h-V6bp8AMhPAbmLfVLc9bv-WgEX4pt9p1cThdmQy-3FQj2hk7CpZ-zL9U3hfZ9hyY",
+    "https://play-lh.googleusercontent.com/cLRf6DG_fIlYL0mWeyVxlMr_Q1HDRAttO4Jf5mr22o0khYxdYEOJTod08f2byLPEn04",
+    "https://play-lh.googleusercontent.com/50IKCJs7E3fNd1ovCaRNGgrkj_ZoZc1ljB4OEbfKZBlBAMfaL_CUI0wuAUS52wla1OE",
+    "https://play-lh.googleusercontent.com/-q68HPKTr4Ov99Xlcx4CxOazkbT5cmWp5Po9CtJzafR3rp7X00RWK-qE_uFG9iCCig",
+    "https://play-lh.googleusercontent.com/25yEAeVNHt1fo8BH54Ol6MwjghlGD34-avoVoBjEXbl4nVPAb9DBdeFGO3lHGsBvyPY"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/aShKw0JJxcAU6JSdXajKFNB7Ldraro_py6UcKPalP8e4FT-IBeItK2VwGdqmxzvbRlk",
+  "permissions": {
+    "Device & app history": [
+      "read sensitive log data"
+    ],
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Phone": [
+      "read phone status and identity"
+    ],
+    "Photos/Media/Files": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Camera": [
+      "take pictures and videos"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Device ID & call information": [
+      "read phone status and identity"
+    ],
+    "Other": [
+      "allow Wi-Fi Multicast reception",
+      "change network connectivity",
+      "change system display settings",
+      "connect and disconnect from Wi-Fi",
+      "control flashlight",
+      "control vibration",
+      "full network access",
+      "prevent device from sleeping",
+      "view network connections"
+    ]
+  },
+  "reviews_data": null
+}

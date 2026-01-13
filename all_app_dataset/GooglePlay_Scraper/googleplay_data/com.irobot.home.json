@@ -1,0 +1,76 @@
+{
+  "pkg_name": "com.irobot.home",
+  "appId": "com.irobot.home",
+  "title": "iRobot Home (Classic)",
+  "developer": "iRobot",
+  "developer_id": "iRobot",
+  "developer_email": "appteam@irobot.com",
+  "developer_website": "http://global.irobot.com",
+  "developer_address": null,
+  "category": "Lifestyle",
+  "category_id": "LIFESTYLE",
+  "content_rating": "Everyone",
+  "score": 4.020065,
+  "ratings": 180064,
+  "reviews_count": 21756,
+  "installs": "10,000,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://www.irobot.com/legal/privacy-policy",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "The classic iRobot Home App is compatible with older Roomba®, Braava® and Klaara™ products, including Roomba® or Roomba Combo® e, i, s, m, j, Essential, Essential 2, and 10 Max series robots. For other Roomba® models, please download the Roomba® Home app.\r\n\r\nTake control of cleaning your home with the classic iRobot Home app. The easy-to-use app offers enhanced maps, room, zone and object-specific cleaning, customized scheduling, personalized cleaning suggestions, and simple smart home integrations with Alexa, Siri, and Google Assistant-enabled devices*, all designed to make sure you get the most out of your iRobot floor cleaning robots. Feature availability varies by model.\r\n\r\n*Works with Alexa, Siri, and Google Assistant-enabled devices. Alexa and all related logos are trademarks of Amazon.com or its affiliates. Google and Google Home are trademarks of Google LLC. Siri is a registered trademark of Apple Inc., registered in the U.S. and other countries and regions.",
+  "descriptionHTML": "The classic iRobot Home App is compatible with older Roomba®, Braava® and Klaara™ products, including Roomba® or Roomba Combo® e, i, s, m, j, Essential, Essential 2, and 10 Max series robots. For other Roomba® models, please download the Roomba® Home app.<br><br>Take control of cleaning your home with the classic iRobot Home app. The easy-to-use app offers enhanced maps, room, zone and object-specific cleaning, customized scheduling, personalized cleaning suggestions, and simple smart home integrations with Alexa, Siri, and Google Assistant-enabled devices*, all designed to make sure you get the most out of your iRobot floor cleaning robots. Feature availability varies by model.<br><br>*Works with Alexa, Siri, and Google Assistant-enabled devices. Alexa and all related logos are trademarks of Amazon.com or its affiliates. Google and Google Home are trademarks of Google LLC. Siri is a registered trademark of Apple Inc., registered in the U.S. and other countries and regions.",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/4TXEBlA1wV-BVHC2jbRCPeBvSRjkC2SsQ4KJU-N0LU1A45G5B1kT337qoMvNQ447VOEb",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/Ep339pvHoM2nailZjlkE8VEHimK4MwIGgR4fEzB5ZGmNYWJGmmC8fw-hh1Ak8XubaVM",
+    "https://play-lh.googleusercontent.com/roecM86RhV0TKnafZoKqcGCW6KriNFVAI2uEGpY1gHMxVwgwZpa6BEhXByyMCd-4sEY",
+    "https://play-lh.googleusercontent.com/u-_mGZTzd4lgYFlBkDm-dGIfD1H_FeyxxK_QubpSTx8I_fbb5Jy18sSsdZ5_d7B3pl0",
+    "https://play-lh.googleusercontent.com/pdGcft5RItcfeP27m94O4pJZ7TJPSEk705YhG09WQbbFD_hWB5HaGPdAvhh8Q_r1cC_g",
+    "https://play-lh.googleusercontent.com/0frWrINYJs8H7dD1IG3gereC3PffkrsRLpo06CJLwG-WlhkmJUwrQ51_qznaNmO5YCw",
+    "https://play-lh.googleusercontent.com/4-0PUj-io2M9bm8dw4FjqRod5xKxuLKEh67uCvSezrbBi3gOzN2LJZ27kkBJh3Vht-M",
+    "https://play-lh.googleusercontent.com/SeBk744Kal-LuMdqCH_TfHPdHrQIp4SPedRu_W_9QLRI9xZItil4zZIT581FuB6qtnr5"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/ypRRh7RyNXoqRsyOm45aXDoW71uixTaxdx5ebyQCqzj8Hk6tttRGtwV7rJf5skb90t8",
+  "permissions": {
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Photos/Media/Files": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Camera": [
+      "take pictures and videos"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Other": [
+      "access Bluetooth settings",
+      "change network connectivity",
+      "connect and disconnect from Wi-Fi",
+      "control vibration",
+      "full network access",
+      "pair with Bluetooth devices",
+      "prevent device from sleeping",
+      "run at startup",
+      "view network connections"
+    ],
+    "Uncategorized": [
+      "receive data from Internet"
+    ]
+  },
+  "reviews_data": null
+}

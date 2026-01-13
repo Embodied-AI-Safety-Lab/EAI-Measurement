@@ -1,0 +1,79 @@
+{
+  "pkg_name": "com.ubtrobot.lawnmower",
+  "appId": "com.ubtrobot.lawnmower",
+  "title": "U Mower",
+  "developer": "Ubtech Robotics Corp Ltd",
+  "developer_id": "Ubtech+Robotics+Corp+Ltd",
+  "developer_email": "aftersales@ubtrobot.com",
+  "developer_website": "https://www.ubtrobot.com",
+  "developer_address": null,
+  "category": "Tools",
+  "category_id": "TOOLS",
+  "content_rating": "Everyone",
+  "score": 0,
+  "ratings": 0,
+  "reviews_count": 0,
+  "installs": "100+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://ucsp-oversea.ubtrobot.com/v1/static-file/v1/24010006/en//privacy",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "U Mower APP is the official companion app for UBHOME Robotic Mower, designed to bring unprecedented convenience and intelligence to your lawn mowing experience.\r\n\r\nIntelligent Map Creation: Quickly create a virtual map that includes work areas, no-go zones, and paths, allowing the Robotic mower to accurately grasp the layout of your yard.\r\nRemote Control: Start or pause mowing tasks anytime, anywhere, and monitor progress in real-time to ensure tasks are completed efficiently.\r\nPersonalized Customization: Customize mowing height and speed according to the needs of different areas to meet your personalized needs.\r\nMowing Schedule Setting: Pre-set mowing plans, and the Robotic Mower will automatically execute mowing tasks according to the schedule.\r\nMowing task Recording: Keep detailed records of each mowing session, including time, task status, and more.\r\nRemote Mowing: Control mowing through the APP, mow where you want, for more freedom.\r\n\r\nU Mower —— Make mowing simple, smart, and reliable. Download now and enjoy the convenience of smart mowing.",
+  "descriptionHTML": "U Mower APP is the official companion app for UBHOME Robotic Mower, designed to bring unprecedented convenience and intelligence to your lawn mowing experience.<br><br>Intelligent Map Creation: Quickly create a virtual map that includes work areas, no-go zones, and paths, allowing the Robotic mower to accurately grasp the layout of your yard.<br>Remote Control: Start or pause mowing tasks anytime, anywhere, and monitor progress in real-time to ensure tasks are completed efficiently.<br>Personalized Customization: Customize mowing height and speed according to the needs of different areas to meet your personalized needs.<br>Mowing Schedule Setting: Pre-set mowing plans, and the Robotic Mower will automatically execute mowing tasks according to the schedule.<br>Mowing task Recording: Keep detailed records of each mowing session, including time, task status, and more.<br>Remote Mowing: Control mowing through the APP, mow where you want, for more freedom.<br><br>U Mower —— Make mowing simple, smart, and reliable. Download now and enjoy the convenience of smart mowing.",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/fYS9ymcxQnpKS6_C5js1-nj4fkOarkry1DwfUt89-4i09fj5ZOsoTSmQQfiXLvYycTk",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/DCx0UZimcvEDNpyy7Q4Qr_499JPRh-r2ZC_KZbAYHikStR8w3hY072HTLpuekTT_dErwBOiEfz3E3ChKu2v2yA",
+    "https://play-lh.googleusercontent.com/er6ui6Gzzaji6QSf0p_Qblftu-MSYlKplDv7KB55fHzQNIl6TuWY2VRllkGm4X7FB0ixnz1riGRfrneFTA8AvW8",
+    "https://play-lh.googleusercontent.com/S4DgDFyRP-Xd3sDI1iY1b4oGchGWffI_ImeXQA2HT__UckNfSEF1Pb8aTI8bq4mNQYti5P2V-ZOIrShmvzZ2hA",
+    "https://play-lh.googleusercontent.com/qGn9eYl4IEhR_GJDVq6jQgBBItgYAv__9mGGQjFiqrlQJRN4WubLMsw3g6r3yIT3D6h-cYTo6YbKaRHcIkHveg",
+    "https://play-lh.googleusercontent.com/iwnpE9um8KY-NQNgjs8ng3yxLIQjtiV8HNbi4odiMiAapZWdNUUPUDHOTemj9o2RquP8nOn78aTKuPJJ_uAlKg"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/IMUqqQvFxNfY5nHMljGZMbY87V1MChEH6l_pliVYZvKPNrSiBrf0rri-Ma5umHMgxHGuwSFXgMA-zXUQGA65",
+  "permissions": {
+    "Device & app history": [
+      "retrieve running apps"
+    ],
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Phone": [
+      "read phone status and identity"
+    ],
+    "Photos/Media/Files": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Device ID & call information": [
+      "read phone status and identity"
+    ],
+    "Other": [
+      "access Bluetooth settings",
+      "connect and disconnect from Wi-Fi",
+      "control vibration",
+      "full network access",
+      "pair with Bluetooth devices",
+      "prevent device from sleeping",
+      "reorder running apps",
+      "view network connections"
+    ],
+    "Uncategorized": [
+      "receive data from Internet"
+    ]
+  },
+  "reviews_data": null
+}

@@ -1,0 +1,81 @@
+{
+  "pkg_name": "com.irobotix.rcvhome.a330",
+  "appId": "com.irobotix.rcvhome.a330",
+  "title": "RCV Home",
+  "developer": "Shenzhen PICEA Robotics Co., Ltd",
+  "developer_id": "Shenzhen+PICEA+Robotics+Co.,+Ltd",
+  "developer_email": "sz3iRobotics@gmail.com",
+  "developer_website": null,
+  "developer_address": null,
+  "category": "Tools",
+  "category_id": "TOOLS",
+  "content_rating": "Everyone",
+  "score": null,
+  "ratings": null,
+  "reviews_count": null,
+  "installs": "50+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "http://www.3irobotix.com/userPrivacy/privacy_en.html",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "RCV Home APP can control your LiDAR Cleaning Robot wherever you are, the robot will carry out the cleaning working automatically according to your instructions through the APP, you just need to hail its high-efficient cleaning performances, and enjoy your clean and cosy home.\r\n\r\nAPP Intelligent Control\r\n\tReal time map: the map will be created simultaneously when robot start cleaning, you could see the working situation clearly through the APP.\r\n\tControl anywhere, anytime: easy control all functions of robot through the APP, Cleaning at anywhere, anytime\r\n\tSchedule: make the reservation for day to day cleaning working, cater for your customized cleaning requirements.\r\n\tSoftware update: understand the robot’s updated status through APP prompt, keep your robot with best performance.\r\n\tMulti-purpose: Not only can start, stop, pause cleaning and recharging, but support switching for multiple cleaning modes—standard, turbo, eco",
+  "descriptionHTML": "RCV Home APP can control your LiDAR Cleaning Robot wherever you are, the robot will carry out the cleaning working automatically according to your instructions through the APP, you just need to hail its high-efficient cleaning performances, and enjoy your clean and cosy home.<br><br>APP Intelligent Control<br>\tReal time map: the map will be created simultaneously when robot start cleaning, you could see the working situation clearly through the APP.<br>\tControl anywhere, anytime: easy control all functions of robot through the APP, Cleaning at anywhere, anytime<br>\tSchedule: make the reservation for day to day cleaning working, cater for your customized cleaning requirements.<br>\tSoftware update: understand the robot’s updated status through APP prompt, keep your robot with best performance.<br>\tMulti-purpose: Not only can start, stop, pause cleaning and recharging, but support switching for multiple cleaning modes—standard, turbo, eco",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/OZPGqLAKCsPIOdsM42DbIuS5rR3xnZpelwOHVa9lxIHLCv2vewkyeJf4eH3RSDdTvQ",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/QG36Wd126m9z3m0FF4aki6rk2v0ZQbms3RJReHt0mJRaiGFWdZb9ib03kUhpM8KOlg",
+    "https://play-lh.googleusercontent.com/SUP0w-dGQU1pqMCkYmdr-nsXxRwBStzCc5KqbDzbkARVJdYPv2ZUrLh4GIOW-Vocdkc",
+    "https://play-lh.googleusercontent.com/7l5PNpUSj8yAE9VswqPpZJaRh1xjyD5TclG7osNOL8yzymcQS0vmNDVGNj42WgUSxrY",
+    "https://play-lh.googleusercontent.com/LncfKqVfFMWxykiuUXaWMItK5f6RjuwqZLFowR_1O6DnZf07V-qEZ9Zz_K5Jz2QhmA",
+    "https://play-lh.googleusercontent.com/tO3MoL6f0ua0E2BP4jpt6yEHWR6oYIee8JbLYtH1hmdbk2Bhy-4cZXcMVZjVLgSOaVQ",
+    "https://play-lh.googleusercontent.com/URG-yGMsZginxtTR0zL9peC3rxxqG2UYCFtgFF5HBVvvSpTH41--fW52H9suC75XVGg",
+    "https://play-lh.googleusercontent.com/kuoOhQypcpZDH4IX2DBEmDdrVZSHbb00PwjYWWIa4e1k0Z2HnJ8lBgIWeE9K_jxBJ9M",
+    "https://play-lh.googleusercontent.com/vUF6sQSGxFeO8RQo4lpeOxBLQyQEVjb0gg8Gohd0Lykuw17yIzfR5LpcoCwPzo58nw",
+    "https://play-lh.googleusercontent.com/yQ_sNrrHVfTJnlLB1t8jhNg_Y7V7OY96ufS4gY1ELSWFPayOY30K_EFBHx0Ky0-acQ",
+    "https://play-lh.googleusercontent.com/nEVkiCZ3o-kUfP88nKaVHOc5HlcOSOYwrnx4JwYC4GIUQ47ctDIhqasqNoJ_zKXSrZE",
+    "https://play-lh.googleusercontent.com/fo575-NOuBml8M_ysCEQPpBOTA87sDd1Z_wRWaOHkvB2PQ6DeMjGx3EaXJiZ-koc3w",
+    "https://play-lh.googleusercontent.com/5WFxwUjrVcgay-NTEBWnnxbepBkC6-__P5HbDz0smXjvyBZVtTwv1C1FJUoD9BmRemw"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/QNAFAE4WpgHBZbCpoctKkswY4zeASrRTfRhirDRBTkpXnnMWW-OYTGUIM2BSj6Ve7PA",
+  "permissions": {
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Phone": [
+      "read phone status and identity"
+    ],
+    "Photos/Media/Files": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Device ID & call information": [
+      "read phone status and identity"
+    ],
+    "Other": [
+      "access Bluetooth settings",
+      "allow Wi-Fi Multicast reception",
+      "change network connectivity",
+      "connect and disconnect from Wi-Fi",
+      "full network access",
+      "pair with Bluetooth devices",
+      "prevent device from sleeping",
+      "read terms you added to the dictionary",
+      "view network connections"
+    ]
+  },
+  "reviews_data": null
+}

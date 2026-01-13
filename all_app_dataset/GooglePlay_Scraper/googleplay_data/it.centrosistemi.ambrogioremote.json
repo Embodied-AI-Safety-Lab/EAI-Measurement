@@ -1,0 +1,67 @@
+{
+  "pkg_name": "it.centrosistemi.ambrogioremote",
+  "appId": "it.centrosistemi.ambrogioremote",
+  "title": "Ambrogio Remote",
+  "developer": "Zucchetti Centro Sistemi S.p.A.",
+  "developer_id": "Zucchetti+Centro+Sistemi+S.p.A.",
+  "developer_email": "assistenza.rbd@zcscompany.com",
+  "developer_website": "http://www.ambrogiorobot.com",
+  "developer_address": null,
+  "category": "Tools",
+  "category_id": "TOOLS",
+  "content_rating": "Everyone",
+  "score": 1.55,
+  "ratings": 1287,
+  "reviews_count": 23,
+  "installs": "50,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://privacy-app-consumer-zcs.web.app",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "AMBROGIO REMOTE is specifically created for Ambrogio customers, to let them have a more userfriendly and interactive experience with their robotic lawn mower.\r\nEASY SETTING  – Easily set up all the settings directly from your smartphone. \r\nBE UPDATE  –Stay tuned with the latest updates and upgrade your Ambrogio  directly through your App. Download manuals.\r\nHAVE FUN – Drive Tech Robot manually through your garden and play with your family and friends.\r\nREMOTE CONTROL – For latest mower. Connect and interact with the robot every time and everywhere.  Verify location isolate and/or work on specific areas of the garden, monitor the status of the robot and receive alerts when it comes out of the garden.",
+  "descriptionHTML": "AMBROGIO REMOTE is specifically created for Ambrogio customers, to let them have a more userfriendly and interactive experience with their robotic lawn mower.<br>EASY SETTING  – Easily set up all the settings directly from your smartphone. <br>BE UPDATE  –Stay tuned with the latest updates and upgrade your Ambrogio  directly through your App. Download manuals.<br>HAVE FUN – Drive Tech Robot manually through your garden and play with your family and friends.<br>REMOTE CONTROL – For latest mower. Connect and interact with the robot every time and everywhere.  Verify location isolate and/or work on specific areas of the garden, monitor the status of the robot and receive alerts when it comes out of the garden.",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/Xd1La9N7PsjBZ4BQDojWM3GCyfDakw4j1t4ihmP6zGYklGncLL5GbYKvieDqgY2lAg",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/N9NgXbF_mrjQoIKWg3ZUuhb7d00OCbWFmUA3bWikSv3IrkLhelnaogK01O7vqRYIUw",
+    "https://play-lh.googleusercontent.com/C-ALlbJV9wybovZpW28ApD-fTL1SqM9fjMHJwqSi5-rQn3UiI_aPtyKAqhIPdUXpBA",
+    "https://play-lh.googleusercontent.com/BzwML1DvOkZYQxN6JfUmRdHNzCa07VHUAKwHE5HZ4dUco2Vo9UcAKepmuriFxzwunQ",
+    "https://play-lh.googleusercontent.com/2SUh36pt3tgdshOepU2mbOBXtjC2nEH0_W3QBu5ZoZTlup_R3K8r03yk37IiYDspDQ"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/3-lHNfJe7xP8biEGYzdqSieJ7rQy4sr1bRtfvNA6mB0osfGhNgpd3KBNX1jr8Cv9wkY",
+  "permissions": {
+    "Contacts": [
+      "read your contacts"
+    ],
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Camera": [
+      "take pictures and videos"
+    ],
+    "Microphone": [
+      "record audio"
+    ],
+    "Other": [
+      "access Bluetooth settings",
+      "control vibration",
+      "full network access",
+      "pair with Bluetooth devices",
+      "prevent device from sleeping",
+      "read Google service configuration",
+      "run at startup",
+      "view network connections"
+    ],
+    "Uncategorized": [
+      "receive data from Internet"
+    ]
+  },
+  "reviews_data": null
+}

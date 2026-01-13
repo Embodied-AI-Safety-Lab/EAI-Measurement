@@ -1,0 +1,56 @@
+{
+  "pkg_name": "com.hs.dronego",
+  "appId": "com.hs.dronego",
+  "title": "Drone Go2",
+  "developer": "HOLY STONE TECHNOLOGY CO., LTD",
+  "developer_id": "HOLY+STONE+TECHNOLOGY+CO.,+LTD",
+  "developer_email": "usa@holystone.com",
+  "developer_website": null,
+  "developer_address": null,
+  "category": "Tools",
+  "category_id": "TOOLS",
+  "content_rating": "Everyone",
+  "score": 2.96,
+  "ratings": 27,
+  "reviews_count": 21,
+  "installs": "10,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://www.holystone.com/en/supports/PrivacyPolicy.html",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "It is used for data reading and writing application operation of Holy Stone UAV RID equipment.\r\nThe app automatically scans the Bluetooth of the Holy Stone UAV RID device, and can perform driver ID binding on the device, device information writing, viewing, editing and other applications.",
+  "descriptionHTML": "It is used for data reading and writing application operation of Holy Stone UAV RID equipment.<br>The app automatically scans the Bluetooth of the Holy Stone UAV RID device, and can perform driver ID binding on the device, device information writing, viewing, editing and other applications.",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/DyHEUdOuw401uz27DhSiQeoLvRAKQdM41xxYWsaZuUtTXQdEErznajowd9vkwS7x4kU",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/oHqzvznbDtXo7z3msIS8gF3oB84KDJmPqY8Kl1Ghxc1RxB5b2L4zTbic9sZowEcmPeo2",
+    "https://play-lh.googleusercontent.com/FcdzKJ-ftKWHh9df_UKMNP3deCtrH_yap_2Zmmvn5CnpzpJR_E4ULciPhLqEZPW8xD0"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/zNfNRiXyJnNMW4Vk5Wa1HEN7th3_7u7CmTlLqVDXnY1X9uR723k7SQfEhlgCXTqV3aow",
+  "permissions": {
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Photos/Media/Files": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Other": [
+      "access Bluetooth settings",
+      "full network access",
+      "pair with Bluetooth devices"
+    ]
+  },
+  "reviews_data": null
+}

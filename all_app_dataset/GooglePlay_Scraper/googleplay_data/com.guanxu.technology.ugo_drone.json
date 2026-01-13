@@ -1,0 +1,61 @@
+{
+  "pkg_name": "com.guanxu.technology.ugo_drone",
+  "appId": "com.guanxu.technology.ugo_drone",
+  "title": "UGO drone",
+  "developer": "GuanZhi Technology Inc.",
+  "developer_id": "GuanZhi+Technology+Inc.",
+  "developer_email": "goodstevechan2@gmail.com",
+  "developer_website": "http://www.netopsun.com/",
+  "developer_address": null,
+  "category": "Casual",
+  "category_id": "GAME_CASUAL",
+  "content_rating": "Everyone",
+  "score": 0,
+  "ratings": 0,
+  "reviews_count": 0,
+  "installs": "10,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "http://goodstevechan.blogspot.com/2017/02/our-apps-privacy-policy.html",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "This APP can control the 4-axis aircraft by WiFi on the Android smartphone, and also can get the real time video from the aircraft, and take the photo and save the video .",
+  "descriptionHTML": "This APP can control the 4-axis aircraft by WiFi on the Android smartphone, and also can get the real time video from the aircraft, and take the photo and save the video .",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/AuphtgIsZ10fJhENTRaQRPBqg3mxt9ImaVCNmGs61Ouv6IZ-N5wIsPNB04qMh7MtlaI",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/Gqcyim_CNB2IC3KnqjPRw6u051Oe43_YNbDYCHcS4bPkU8qA_kvR_GOnhQGVWN3o--c",
+    "https://play-lh.googleusercontent.com/LO5JPspNuESl6JJqEgYYCxIBZz9_gMqY3CnwtBYCJ8in6gW1tFpt49Aceb0wYZOlHw",
+    "https://play-lh.googleusercontent.com/D8XZSjAOwoDNmPpc0lcCpSOIQyW9UMFK9fJMuelzCx-wNmgr-KOTmaTfAAFW_6B_BP4",
+    "https://play-lh.googleusercontent.com/7PRcOX1qDfGxZO-XJFaLLugiMx23foQVVCKmoj3COqHCKbyluXrNyi3cQSLqLWbgeog",
+    "https://play-lh.googleusercontent.com/haQX4YYZKDFTv0eZWBtQvA4fmGND7mxJplu1LlC3jKNJXls9KvP1J0V35vjTa4imvMo"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/x4LKuc2DWNjCRVNHeIpEl9TYucPrJ4Cqt0w0tsAZDnbzEX3cz0t0Lctr0-9LZDZ6meON",
+  "permissions": {
+    "Photos/Media/Files": [
+      "access USB storage filesystem",
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Other": [
+      "connect and disconnect from Wi-Fi",
+      "disable your screen lock",
+      "full network access",
+      "prevent device from sleeping",
+      "view network connections"
+    ]
+  },
+  "reviews_data": null
+}

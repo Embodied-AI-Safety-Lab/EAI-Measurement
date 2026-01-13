@@ -1,0 +1,85 @@
+{
+  "pkg_name": "com.iboto.smart",
+  "appId": "com.iboto.smart",
+  "title": "iBoto Smart",
+  "developer": "IBoto",
+  "developer_id": "IBoto",
+  "developer_email": "info@iboto.ru",
+  "developer_website": "https://www.iboto.ru/",
+  "developer_address": null,
+  "category": "Lifestyle",
+  "category_id": "LIFESTYLE",
+  "content_rating": "Everyone",
+  "score": 0,
+  "ratings": 0,
+  "reviews_count": 0,
+  "installs": "50,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://www.iboto.ru/",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "Automation of cleaning with iBoto robot vacuum cleaners is not only a way to maintain perfect cleanliness, but also an opportunity to free up time for creation, communication, love, self-development, and recreation. Be free from household chores — and the rest will be taken care of by smart iBoto robotics!",
+  "descriptionHTML": "Automation of cleaning with iBoto robot vacuum cleaners is not only a way to maintain perfect cleanliness, but also an opportunity to free up time for creation, communication, love, self-development, and recreation. Be free from household chores — and the rest will be taken care of by smart iBoto robotics!",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/wTZWwtJx08op7b7iXeU3f-rUBOlDNeeWtcyps8ez3hnUvrkU1VIXiF5HOYf3aZb9qQ",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/f82s-89Ek--rJXNLW3r3Di0RTqUShAwKuk0-aSXIvBQicy6S2N-Q2NTv9bHFZw2QOQ",
+    "https://play-lh.googleusercontent.com/uBBMbeogyiLfZcW_rBK12gJlKMLe837y3SSNRbOBE1qhIJfrPZX3e30EVL5JK6OpDug",
+    "https://play-lh.googleusercontent.com/W4v1Oy7NUiFpSc_LKBhtzid8YpwiPIMxCDl56KvNJQrIK4kFH1jhQLOn1ZeGIPUvKR0",
+    "https://play-lh.googleusercontent.com/sY3RKKdsAfn0gsGO36OgCmDZzZ8s_xEvvyhZkSP66OPN38BYHM0UlstGoncYxtnipr8",
+    "https://play-lh.googleusercontent.com/lhqp7fjenXFcHYG-r4tUIPeELBPwxGUSkB0eK5EMuUSCD2ujpO4akBrykram0iRxAQ",
+    "https://play-lh.googleusercontent.com/TUIY0Vtc6DCRhZsa-oLrST-UWNapG_jYZBtDLmgFf4XiGGJBDM_rDQcjDZe4v4_0btY",
+    "https://play-lh.googleusercontent.com/9Ii4oeXBDYNoVEF7Oi8yT9IaprrT8Rqp79RUEWVT28-jwOTI19-5VDicS4UXQxiuLQ"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/wG2pOp5LmhbGKUH_rvCEqWg1zG9k6X__Auzrrh8S95YHiNu64VcXAtRfq6odZYGO9A",
+  "permissions": {
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Photos/Media/Files": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Camera": [
+      "take pictures and videos"
+    ],
+    "Microphone": [
+      "record audio"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Other": [
+      "Google Play license check",
+      "access Bluetooth settings",
+      "allow Wi-Fi Multicast reception",
+      "change network connectivity",
+      "change your audio settings",
+      "connect and disconnect from Wi-Fi",
+      "control vibration",
+      "full network access",
+      "install shortcuts",
+      "pair with Bluetooth devices",
+      "prevent device from sleeping",
+      "reorder running apps",
+      "run at startup",
+      "set wallpaper",
+      "view network connections"
+    ],
+    "Uncategorized": [
+      "receive data from Internet"
+    ]
+  },
+  "reviews_data": null
+}

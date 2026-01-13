@@ -1,0 +1,109 @@
+{
+  "pkg_name": "com.myhome.smart.robot",
+  "appId": "com.myhome.smart.robot",
+  "title": "My smart+",
+  "developer": "Shenzhen Ultenic Technology Co., Ltd.",
+  "developer_id": "Shenzhen+Ultenic+Technology+Co.,+Ltd.",
+  "developer_email": "data_component@proscenic.cn",
+  "developer_website": null,
+  "developer_address": null,
+  "category": "House & Home",
+  "category_id": "HOUSE_AND_HOME",
+  "content_rating": "Everyone",
+  "score": null,
+  "ratings": null,
+  "reviews_count": null,
+  "installs": "5,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://appadmin-hk.proscenic.com/app-admin/privacypolicy/PrivacyPolicy.html",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "\"The My smart+ App is a mobile phone application that connects My smart+ smart products. You can control the functions of the product and monitor your product in real-time through the application. Here, you can control the product anytime and anywhere, and you can also streamline communication between smart devices. Intercommunication makes the product more portable and smart during use.\r\n\r\n\r\nLinkage control, easy to use\r\nWe want you to experience a smarter and more portable lifestyle. The app is simple to operate and you can quickly add a variety of home appliances while performing linkage operations to interconnect smart devices.\r\n\r\nShare your joy with just one-click \r\nWe want to add more fun to your life. With simple one-click sharing, you can share your device with family and friends, manage it remotely, experience convenience, and enjoy the fun of science and technology together.\r\n\r\nConnect to the Internet in no time\r\nAfter connecting to your smart device, you can\r\n(1) Start and pause your robot remotely\r\n(2) View the cleaning map and understand the robot cleaning area\r\n(3) Set the cleaning mode you want to track cleaning tasks\"",
+  "descriptionHTML": "&quot;The My smart+ App is a mobile phone application that connects My smart+ smart products. You can control the functions of the product and monitor your product in real-time through the application. Here, you can control the product anytime and anywhere, and you can also streamline communication between smart devices. Intercommunication makes the product more portable and smart during use.<br><br><br>Linkage control, easy to use<br>We want you to experience a smarter and more portable lifestyle. The app is simple to operate and you can quickly add a variety of home appliances while performing linkage operations to interconnect smart devices.<br><br>Share your joy with just one-click <br>We want to add more fun to your life. With simple one-click sharing, you can share your device with family and friends, manage it remotely, experience convenience, and enjoy the fun of science and technology together.<br><br>Connect to the Internet in no time<br>After connecting to your smart device, you can<br>(1) Start and pause your robot remotely<br>(2) View the cleaning map and understand the robot cleaning area<br>(3) Set the cleaning mode you want to track cleaning tasks&quot;",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/w74e_7PUTxt5hHAK3XMJ_p7A9YdLiXQxUwMye64D9-z2AORnH7pQBDlfzf_4YAaK_Qw",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/Ibj2BB4GjIWSKzpzxbA9fW0wPc2ACjLcvkrs-1d-QbwO66kPvowyTaubAwLcTph39NLR",
+    "https://play-lh.googleusercontent.com/A4sV1S0kuoJQYvaPzbAT8cnneXHpaXTuXtN-01aE8X2fpEhspZUZJSCpq2uW9LZlh7D1",
+    "https://play-lh.googleusercontent.com/T1p1wWKGvGiookwRZTWVoNTU9JzXPaFZRsa2JOJRk4DUHkNaFxJSQFxxzaeF0K-G-44",
+    "https://play-lh.googleusercontent.com/FMfhhs7F_tLCJm6Zb1XKAI-iINvjEaXVeBhHpY-yx97EDoyM1m33NmdbbwEaAZBhxg",
+    "https://play-lh.googleusercontent.com/CpzJs-WCHOSRL5Yg4gCXycbPesgyrdhOmHC6xItySW2Qw65XY_xVD50ggPXLhn_yqgoZ",
+    "https://play-lh.googleusercontent.com/IjZHBeKVpHlBdduHhGe6zNLqI0HG9Z0sBusWUlP3RAmptFsTaT0-j6XhH1LhptT7eONK",
+    "https://play-lh.googleusercontent.com/WnQtBoNrcYCskVVW_pUmr5WIaEbFzopse2CYFwDlIi3dITYVUz6GEdIq4oosOgtLQFE",
+    "https://play-lh.googleusercontent.com/trx_SG390-8-bAEAmXtsrQlQXN5EVi1Hiiuf1KJ-LiC9xs3utRSYxuEkKRvaxJa-ioQ",
+    "https://play-lh.googleusercontent.com/A38s-O3IsbuRE8bnHD43KRe-WLYhVHOxRt_3dEN1RGGyA-u-Ao0069cXFqwZaZ6x7Wab",
+    "https://play-lh.googleusercontent.com/ZiklfrRrhTwI-bRBbGTEQvFeVaCsuW7pE-C2kvspJA_03a75QkloPpPfUTKs_1O2sw",
+    "https://play-lh.googleusercontent.com/nbJnk1ydasLL_kblC0M2p8-vsjgw4gYEbYDHCDyA_FrPB48mc7Z-OiFinc2zalaIhAQ",
+    "https://play-lh.googleusercontent.com/MK62iBoAW79uWLCEFKIikYU8jII_rX-z_yBaiUZ_F1icsHgWXVqpvXBhv0GximxJgw"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/grdOsI2fGJSKtmfC-wneMKKb-yVSsNFYg7athj11E6h28fq8vyL3ToiFwzRAbyFes3A",
+  "permissions": {
+    "Device & app history": [
+      "read your Web bookmarks and history",
+      "retrieve running apps"
+    ],
+    "Contacts": [
+      "read your contacts"
+    ],
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Phone": [
+      "read phone status and identity"
+    ],
+    "Photos/Media/Files": [
+      "access USB storage filesystem",
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Camera": [
+      "take pictures and videos"
+    ],
+    "Microphone": [
+      "record audio"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Device ID & call information": [
+      "read phone status and identity"
+    ],
+    "Other": [
+      "Google Play license check",
+      "access Bluetooth settings",
+      "allow Wi-Fi Multicast reception",
+      "change network connectivity",
+      "change your audio settings",
+      "connect and disconnect from Wi-Fi",
+      "control flashlight",
+      "control vibration",
+      "draw over other apps",
+      "full network access",
+      "install shortcuts",
+      "pair with Bluetooth devices",
+      "prevent device from sleeping",
+      "reorder running apps",
+      "run at startup",
+      "set wallpaper",
+      "uninstall shortcuts",
+      "view network connections"
+    ],
+    "Uncategorized": [
+      "read Home settings and shortcuts",
+      "receive data from Internet",
+      "write Home settings and shortcuts"
+    ]
+  },
+  "reviews_data": null
+}

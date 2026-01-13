@@ -1,0 +1,80 @@
+{
+  "pkg_name": "com.microdrones.cockpit",
+  "appId": "com.microdrones.cockpit",
+  "title": "mdCockpit",
+  "developer": "microdrones",
+  "developer_id": "microdrones",
+  "developer_email": "android_apps@microdrones.com",
+  "developer_website": "http://www.microdrones.com",
+  "developer_address": null,
+  "category": "Tools",
+  "category_id": "TOOLS",
+  "content_rating": "Everyone",
+  "score": 4.6,
+  "ratings": 31,
+  "reviews_count": 4,
+  "installs": "1,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://www.iubenda.com/privacy-policy/8127625/full-legal",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "Microdrones UAV users will be thankful for this handy app designed for Android tablets.\r\n\r\nmdCockpit lets you quickly and easily plan, monitor, adjust, and analyze flights for Microdrones Surveying Equipment.\r\n\r\nPerfect for use on a job site, mdCockpit includes convenient features that help you tackle projects and deal with unexpected changes in the day's schedule.",
+  "descriptionHTML": "Microdrones UAV users will be thankful for this handy app designed for Android tablets.<br><br>mdCockpit lets you quickly and easily plan, monitor, adjust, and analyze flights for Microdrones Surveying Equipment.<br><br>Perfect for use on a job site, mdCockpit includes convenient features that help you tackle projects and deal with unexpected changes in the day&#39;s schedule.",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/_IveqGDs0TsSAjTKX66Q-vUZW57cXFRoCEWNoYr8jZOQLlPeZ3GjZcUO7eOYWhPkllw",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/pDJNwd9SWFKqbU4rK58LJliQFpsy_qXPYAZ9_3EbzJz4jrgOiq25_wDM3z3DxtkxJA",
+    "https://play-lh.googleusercontent.com/5p24PrwZI98mecMDBLD-NRhc4eU0Oid44QyRJd5EV0YGjVmSXw83jBH-xlKJmLPJqA",
+    "https://play-lh.googleusercontent.com/tPS14EODUy0VxCvs7QsGh9P604l9HG3G6YJzY7VqnghsNi56EXhKABEVMqnVAdzN3-No"
+  ],
+  "video": "https://www.youtube.com/embed/77FRZmdpb-w?vq=large&rel=0&autohide=1&showinfo=0",
+  "video_image": "https://play-lh.googleusercontent.com/dTgPWBal7PrYP3P1tor1zPm-klnuwE1Osn9tc5WDMReXAQRBggT6xHXKh5JcErClqg",
+  "header_image": "https://play-lh.googleusercontent.com/dTgPWBal7PrYP3P1tor1zPm-klnuwE1Osn9tc5WDMReXAQRBggT6xHXKh5JcErClqg",
+  "permissions": {
+    "Identity": [
+      "add or remove accounts",
+      "find accounts on the device",
+      "read your own contact card"
+    ],
+    "Contacts": [
+      "find accounts on the device",
+      "read your contacts"
+    ],
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Photos/Media/Files": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Other": [
+      "access Bluetooth settings",
+      "change network connectivity",
+      "create accounts and set passwords",
+      "full network access",
+      "pair with Bluetooth devices",
+      "prevent device from sleeping",
+      "read Google service configuration",
+      "reorder running apps",
+      "run at startup",
+      "use accounts on the device",
+      "view network connections"
+    ],
+    "Uncategorized": [
+      "receive data from Internet"
+    ]
+  },
+  "reviews_data": null
+}

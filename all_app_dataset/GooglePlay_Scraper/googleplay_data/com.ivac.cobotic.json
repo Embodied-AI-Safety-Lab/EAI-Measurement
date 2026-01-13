@@ -1,0 +1,84 @@
+{
+  "pkg_name": "com.ivac.cobotic",
+  "appId": "com.ivac.cobotic",
+  "title": "Co-botic",
+  "developer": "i-team developer",
+  "developer_id": "7132972620575294967",
+  "developer_email": "wc.wang@botifyrobot.com",
+  "developer_website": null,
+  "developer_address": null,
+  "category": "Tools",
+  "category_id": "TOOLS",
+  "content_rating": "Everyone",
+  "score": null,
+  "ratings": null,
+  "reviews_count": null,
+  "installs": "1,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://dl.botifyrobot.com/agreements/iwalkapp/en/Privacy_Policy_AI_team_Pte.html",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "Co-botic App is your home's intelligent hardware management platform. With the Co-botic App, you can complete the convenient and fast interaction between the mobile phone and the intelligent hardware, and realized the interconnection between the smart devices.\r\nYou and the smart life, only a distance from the Co-botic App.\r\nLinked control, easy to use\r\nQuickly grasp the addition and operation of devices to achieve interoperability between smart devices.\r\nPersonalized customization, as you like\r\nSet up a personalized smart scene according to your own usage habits\r\nDevice sharing, fun to pass\r\nSharing equipment for family and friends, sharing the fun of technology.\r\nEnjoy Co-botic App, Love Co-botic App",
+  "descriptionHTML": "Co-botic App is your home&#39;s intelligent hardware management platform. With the Co-botic App, you can complete the convenient and fast interaction between the mobile phone and the intelligent hardware, and realized the interconnection between the smart devices.<br>You and the smart life, only a distance from the Co-botic App.<br>Linked control, easy to use<br>Quickly grasp the addition and operation of devices to achieve interoperability between smart devices.<br>Personalized customization, as you like<br>Set up a personalized smart scene according to your own usage habits<br>Device sharing, fun to pass<br>Sharing equipment for family and friends, sharing the fun of technology.<br>Enjoy Co-botic App, Love Co-botic App",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/K6lLSETK29UQJ_gsASecqYrUCY6xftmskgIGPt0uu9HZZqD8zHJl5-5iO7THDM0DX2-L",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/jRWItxm3gSwT_cLCOjspFIJ2TCG6ZotbJpK7dgCWrjEKSd2U-1vxmIr8NpJu0OL0ols",
+    "https://play-lh.googleusercontent.com/pblGAAq2DQ4rWSH1q44-CU_QAJ1nZ5iZnAXGfa6y37pQcuSNek4Hdi-NedsXvJ-jAA",
+    "https://play-lh.googleusercontent.com/Bij_n7CrG8f327SCq-H59A6fGFu2_56I6vij4HRM4d9WDyAOeJhCL-yDfgfoAMzcoNs",
+    "https://play-lh.googleusercontent.com/9MgcNgDohEnU183YMwMkt8TVee5fWaFhuutTBHPiRW0TH7Rn_UJyvclugq8JC08PMQ",
+    "https://play-lh.googleusercontent.com/kdXmPXvRVahOey-JG73rb0J-Ul6OlORDl6bWg6PFl79ZilvIiowbcCykDc4arL-t9j1v",
+    "https://play-lh.googleusercontent.com/qYLONJbcNec_qrjY-yqMoYFcGiXTy8xaMpYlqs-dsXMyofWCZMrQtcDfk7lORE7szg"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/qC-aVr-oLpYhG1XLUoOMZNUq-ewPprKkdWYPPaQAtDGNNbH7imyky_mDjQm6kK7LpR0",
+  "permissions": {
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Photos/Media/Files": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Camera": [
+      "take pictures and videos"
+    ],
+    "Microphone": [
+      "record audio"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Other": [
+      "Google Play license check",
+      "access Bluetooth settings",
+      "allow Wi-Fi Multicast reception",
+      "change network connectivity",
+      "change your audio settings",
+      "connect and disconnect from Wi-Fi",
+      "control vibration",
+      "full network access",
+      "install shortcuts",
+      "pair with Bluetooth devices",
+      "prevent device from sleeping",
+      "reorder running apps",
+      "run at startup",
+      "set wallpaper",
+      "view network connections"
+    ],
+    "Uncategorized": [
+      "receive data from Internet"
+    ]
+  },
+  "reviews_data": null
+}

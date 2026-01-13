@@ -1,0 +1,75 @@
+{
+  "pkg_name": "com.husqvarna.automowerconnect",
+  "appId": "com.husqvarna.automowerconnect",
+  "title": "Automower Connect",
+  "developer": "Husqvarna Group",
+  "developer_id": "Husqvarna+Group",
+  "developer_email": "apps-husqvarna-amc@dss.husqvarnagroup.com",
+  "developer_website": "https://www.husqvarna.com/appsupport/",
+  "developer_address": null,
+  "category": "Tools",
+  "category_id": "TOOLS",
+  "content_rating": "Everyone",
+  "score": 3.63,
+  "ratings": 32289,
+  "reviews_count": 305,
+  "installs": "1,000,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://privacyportal.husqvarnagroup.com/int/privacy-notice/",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "The official Husqvarna Automower® Connect app allows you to take full control of your Husqvarna robotic lawnmower. The app provides two modes of connectivity depending on model; Automower® Connect for long-range connectivity using cellular communication, and Automower® Connect@Home for short-range connectivity using Bluetooth. Husqvarna Automower® Connect app provides the following main capabilities:\r\n\r\nStatus and control\r\n•\tReceive the current status of the mower.\r\n•\tReceive push notifications if the mower is stopped or is brought outside the installation.\r\n•\tSend Start, Pause and Park commands to the mower.\r\n\r\nConfigure and install\r\n•\tHave the mower’s complete menu system on your mobile device.\r\n•\tView and change the mower settings, e.g. timers and cutting height.\r\n•\tTake advantage of the high resolution and color display on your mobile device to enhance the interaction with the mower.\r\n\r\nSecurity (applicable for Husqvarna Automower® Connect long-range connectivity)\r\n•\tTrack your mower’s GPS position in real time.\r\n•\tReceive push notification alarm in the event of theft.",
+  "descriptionHTML": "The official Husqvarna Automower® Connect app allows you to take full control of your Husqvarna robotic lawnmower. The app provides two modes of connectivity depending on model; Automower® Connect for long-range connectivity using cellular communication, and Automower® Connect@Home for short-range connectivity using Bluetooth. Husqvarna Automower® Connect app provides the following main capabilities:<br><br>Status and control<br>•\tReceive the current status of the mower.<br>•\tReceive push notifications if the mower is stopped or is brought outside the installation.<br>•\tSend Start, Pause and Park commands to the mower.<br><br>Configure and install<br>•\tHave the mower’s complete menu system on your mobile device.<br>•\tView and change the mower settings, e.g. timers and cutting height.<br>•\tTake advantage of the high resolution and color display on your mobile device to enhance the interaction with the mower.<br><br>Security (applicable for Husqvarna Automower® Connect long-range connectivity)<br>•\tTrack your mower’s GPS position in real time.<br>•\tReceive push notification alarm in the event of theft.",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/q0vRTBGF3BKUJCxgXxBdiS6duFfcphwKG7Qy0uQiteArrJg7EXSqoJ-FnZx-4baUcj4",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/D155JPJRcK_TgvbAAuoK37aEOnWarYwYcBCJIn2Njqdslv_3ESYcrKq15TddbbxLOQ",
+    "https://play-lh.googleusercontent.com/gcMZ51rfsRulUDEw-XxijWmeA6W5zFk5qmy7luXMQs7WCbspUijtuPCZhXcWr4R79ML8",
+    "https://play-lh.googleusercontent.com/YY2PfdfXR1hKmd2tErit-Ad44ekIXaXOOMLYNF_B43FQYrDAa7fkWnOFdGxc8LWwkw",
+    "https://play-lh.googleusercontent.com/CRXGpObLzxm5_bWNsnkHb46Osw9or7jHHG5Z8yi3AFsxC5b_SAHl6VfkR6gFT3KW",
+    "https://play-lh.googleusercontent.com/R_U7J0ectreXvrtunPeIcR16mW80Iw-kgqlbLr-2795HnGBl8KnqjPmPrOGacGEbDsov",
+    "https://play-lh.googleusercontent.com/T1v7TrjYFfwi1BjajCWIRfWCc5M1SZ5bOQoDIpd5llX_CcavTqGCFAHzSwwHICLTTEO6",
+    "https://play-lh.googleusercontent.com/UeNRSa5KQWt3venVA-wYe4Ux_Tzn-tJas9Ud-eD2EcSoXyRJuAIqimUd2mddiIZwomA",
+    "https://play-lh.googleusercontent.com/c7JpGD0evjJjOxskREtYXE1YOl1yg9iE_8uuZwLURj2caejLqRa7JfBSZNU6E86v4EB3"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/p_VvHtqPclIxKpcsAIPiGEGlNeb5R-z37iFQTvdDO-9jMZg7JPlbzbg5-D5VK543h-Ru",
+  "permissions": {
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Phone": [
+      "read phone status and identity"
+    ],
+    "Photos/Media/Files": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Device ID & call information": [
+      "read phone status and identity"
+    ],
+    "Other": [
+      "access Bluetooth settings",
+      "control vibration",
+      "full network access",
+      "pair with Bluetooth devices",
+      "prevent device from sleeping",
+      "run at startup",
+      "view network connections"
+    ],
+    "Uncategorized": [
+      "receive data from Internet"
+    ]
+  },
+  "reviews_data": null
+}

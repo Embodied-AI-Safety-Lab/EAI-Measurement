@@ -1,0 +1,80 @@
+{
+  "pkg_name": "com.bwt.robotics",
+  "appId": "com.bwt.robotics",
+  "title": "BWT Robotics",
+  "developer": "BWT Holding GmbH",
+  "developer_id": "BWT+Holding+GmbH",
+  "developer_email": "bwtpooldivision@gmail.com",
+  "developer_website": "http://www.bwt.com",
+  "developer_address": null,
+  "category": "House & Home",
+  "category_id": "HOUSE_AND_HOME",
+  "content_rating": "Everyone",
+  "score": null,
+  "ratings": null,
+  "reviews_count": null,
+  "installs": "1,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://bwt-cloud-app.s3.eu-central-1.amazonaws.com/privacy-policy.html",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "Experience seamless control with the BWT app, designed for the effortless management of BWT cleaning robots. The app connects via Bluetooth and Wi-Fi modules, enabling you to control the robot and customize cleaning modes with ease. Its simple and intuitive interface enhances your pool maintenance experience, ensuring optimal performance and convenience every time.",
+  "descriptionHTML": "Experience seamless control with the BWT app, designed for the effortless management of BWT cleaning robots. The app connects via Bluetooth and Wi-Fi modules, enabling you to control the robot and customize cleaning modes with ease. Its simple and intuitive interface enhances your pool maintenance experience, ensuring optimal performance and convenience every time.",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/peHpb4GjwGFHYITdPeqw2CWPk-AALlb3J_lE_08CddSVDNW_eTYZy3XvHXpQfjtLEG4",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/qDc9HwdhxFDB9HBKB6jM8I-3KzBGuoZyI4tVgb99kyMV1yoI6RLlljO6XBqvlAYT43j0",
+    "https://play-lh.googleusercontent.com/6yFWdl1pphIsghFLPoO6zK5MKVy2joMM0mp-PuqPFhyPX74YLrqA9Ksy8642Lvz2xssM",
+    "https://play-lh.googleusercontent.com/k13fwtw88HoK_NYhQOlYSu1IJBIvyFMz8A1Hj-VNZletyof2ugS9nxy0GMwXlu6WiTo",
+    "https://play-lh.googleusercontent.com/S4xJmupVC4DLbWiq30maKuP2ehiP1awItTYv2kbaQp0-7Ru_dLOdnKnq_hd3IAoglw",
+    "https://play-lh.googleusercontent.com/xRPsCf9DIKn8MP44y9JYrODZFBwRpSjk3MCKY4zSrgt2L2H8f8UcM_1TtU-eN8v5_gA",
+    "https://play-lh.googleusercontent.com/bW7AejP6q0164iCRu3WbmgM2d8yS0vt4C2oDKeEoVrA-zCren0jYwK_oudHujkjHLkZZ",
+    "https://play-lh.googleusercontent.com/Xw8ATn7f3Z2XbChehHH__MD_XvgH7lVTafbBe-lIk2RCC_2NAzM3MJLfF0rrwrgcUQ",
+    "https://play-lh.googleusercontent.com/IkNZmuj0wAFKsuYZnIEJQ--yo3rqdeq3x9M40J_XgBOkZ2FPD291XZ0fH43AIiQiQr4",
+    "https://play-lh.googleusercontent.com/f2s-DWQqUU_S0yCxnf35lUMMj8jeE3sfOWCYMThP80H4flfz0tBsBbqCu2-Bcc_mhg",
+    "https://play-lh.googleusercontent.com/NzgzRjJ3oX8XCICJ1_r9W5vyxHxgETWFPHr2moZ4nie2SFVJff1zmh4GItwPSgj7ktI",
+    "https://play-lh.googleusercontent.com/eFwyRK9t6V34F18zRr-SFyjzxhZFu0qqztI1uLRavIkQ8NeIiM6mqnIyVc--q9ae2Q",
+    "https://play-lh.googleusercontent.com/jHq8f6fYDxnahbwPEjTErHOqAcX2drRh3w9BK26OClcbUsQ8VGjktgpZ1MfI3a_5Mpo"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/AozmVjCjcZ_dwS4xWBdZ6xifAIPGe7HmmJF5bDcRJAcGBsFyXhtV2A1E2a_n3TEAMDxa",
+  "permissions": {
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Phone": [
+      "read phone status and identity"
+    ],
+    "Camera": [
+      "take pictures and videos"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Device ID & call information": [
+      "read phone status and identity"
+    ],
+    "Other": [
+      "access Bluetooth settings",
+      "allow Wi-Fi Multicast reception",
+      "change network connectivity",
+      "connect and disconnect from Wi-Fi",
+      "control vibration",
+      "full network access",
+      "pair with Bluetooth devices",
+      "prevent device from sleeping",
+      "set wallpaper",
+      "view network connections"
+    ],
+    "Uncategorized": [
+      "receive data from Internet"
+    ]
+  },
+  "reviews_data": null
+}

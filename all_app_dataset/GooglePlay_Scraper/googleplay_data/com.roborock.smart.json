@@ -1,0 +1,78 @@
+{
+  "pkg_name": "com.roborock.smart",
+  "appId": "com.roborock.smart",
+  "title": "Roborock",
+  "developer": "Roborock",
+  "developer_id": "Roborock",
+  "developer_email": "support@roborock.com",
+  "developer_website": "https://www.roborock.com",
+  "developer_address": null,
+  "category": "Lifestyle",
+  "category_id": "LIFESTYLE",
+  "content_rating": "Everyone",
+  "score": 4.656339,
+  "ratings": 315195,
+  "reviews_count": 2724,
+  "installs": "5,000,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://files.roborock.com/iot/doc/os/privacy/latest/en.html",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "*Feature support varies by product\r\n\r\nCutting-Edge Software and Hardware：\r\n- PreciSense: Precision LIDAR navigation for efficient home cleaning.\r\n- Sensient: A sensor matrix for safer movement around the home.\r\n- OpticEye: Highly accurate vision-based motion control and navigation\r\n- ReactiveAI: Artificial intelligence for recognizing and avoiding common home objects.\r\n- VibraRise: More effective mopping through sonic vibration, with a mop that can be automatically lifted off the floor.\r\n\r\nThe Roborock app has been designed to give you total control over your Roborock robot, from home layout to cleaning schedules, cleaning strength, and more. Once you've set it up the way you want it, you can leave your robot to work. \r\n\r\n---- Feature Highlights ----\r\n\r\nSERIOUSLY SMART MAPPING\r\nAfter it's first run around your home, your Roborock robot will show you your floorplan and automatically divide your rooms, unlocking a world of customizations.\r\n\r\nADVANCED SCHEDULING\r\nSet multiple schedules from hourly to daily to weekly, hitting different rooms with each one. You can clean the kitchen after breakfast and even the whole house when everyone's gone out.\r\n\r\nCUSTOMIZABLE CLEANING\r\nTailor cleaning to the demands of each room. Crank up suction for the nursery, use more water on tiled kitchens, and lower suction when you need things quiet. The control is yours.\r\n\r\nZONE CLEANING\r\nDraw up to five zones, and clean each zone up to three times, for when you want to tackle more stubborn dirt or just don't need entire rooms cleaned.\r\n\r\nNO-GO ZONES\r\nUse up to 10 No-Go Zones and 10 Invisible Walls to avoid thick carpets, keep robots away from delicate art, and more—all without a single hardware add-on.\r\n\r\nMULTI-LEVEL MAPPING\r\nSave up to four maps in your home and tailor cleaning to match each floor. Your robot will recognize the floor it's on automatically, so you can simply watch it work.\r\n\r\nREAL-TIME VIEWING\r\nWatch your robot move through your home, seeing the exact route it's taken and any obstacles it has avoided along the way.\r\n\r\nFeature Compatibility:\r\n- Multi-Level Mapping is available on [TBC] only\r\n- Obstacle avoidance is available on S6 MaxV only\r\n- Room specific suction scheduling is available on [TBC] only\r\n- Room specific mopping is available on S6 MaxV and S5 Max only.\r\n\r\nContact Us\r\nCustomer Service Phone: 400-900-1755 (Chinese Mainland)\r\nE-mail: service@roborock.com (Chinese Mainland), support@roborock-eu.com (EU), support@roborock.com (Other Areas)",
+  "descriptionHTML": "*Feature support varies by product<br><br>Cutting-Edge Software and Hardware：<br>- PreciSense: Precision LIDAR navigation for efficient home cleaning.<br>- Sensient: A sensor matrix for safer movement around the home.<br>- OpticEye: Highly accurate vision-based motion control and navigation<br>- ReactiveAI: Artificial intelligence for recognizing and avoiding common home objects.<br>- VibraRise: More effective mopping through sonic vibration, with a mop that can be automatically lifted off the floor.<br><br>The Roborock app has been designed to give you total control over your Roborock robot, from home layout to cleaning schedules, cleaning strength, and more. Once you&#39;ve set it up the way you want it, you can leave your robot to work. <br><br>---- Feature Highlights ----<br><br>SERIOUSLY SMART MAPPING<br>After it&#39;s first run around your home, your Roborock robot will show you your floorplan and automatically divide your rooms, unlocking a world of customizations.<br><br>ADVANCED SCHEDULING<br>Set multiple schedules from hourly to daily to weekly, hitting different rooms with each one. You can clean the kitchen after breakfast and even the whole house when everyone&#39;s gone out.<br><br>CUSTOMIZABLE CLEANING<br>Tailor cleaning to the demands of each room. Crank up suction for the nursery, use more water on tiled kitchens, and lower suction when you need things quiet. The control is yours.<br><br>ZONE CLEANING<br>Draw up to five zones, and clean each zone up to three times, for when you want to tackle more stubborn dirt or just don&#39;t need entire rooms cleaned.<br><br>NO-GO ZONES<br>Use up to 10 No-Go Zones and 10 Invisible Walls to avoid thick carpets, keep robots away from delicate art, and more—all without a single hardware add-on.<br><br>MULTI-LEVEL MAPPING<br>Save up to four maps in your home and tailor cleaning to match each floor. Your robot will recognize the floor it&#39;s on automatically, so you can simply watch it work.<br><br>REAL-TIME VIEWING<br>Watch your robot move through your home, seeing the exact route it&#39;s taken and any obstacles it has avoided along the way.<br><br>Feature Compatibility:<br>- Multi-Level Mapping is available on [TBC] only<br>- Obstacle avoidance is available on S6 MaxV only<br>- Room specific suction scheduling is available on [TBC] only<br>- Room specific mopping is available on S6 MaxV and S5 Max only.<br><br>Contact Us<br>Customer Service Phone: 400-900-1755 (Chinese Mainland)<br>E-mail: service@roborock.com (Chinese Mainland), support@roborock-eu.com (EU), support@roborock.com (Other Areas)",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/o72TwzLnS_iDlBCTRDhMFJmXU1hX3o5hhdXP8d52aniht76TmzNiMa_Mzh-VOVq6_As",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/8L89waq7c2EwG-m7hJPDvxkJGepFyT-oqVI18hleDoQk_ydoKq54R63N-WvG2hHA9A",
+    "https://play-lh.googleusercontent.com/-aZiyIWJnAo4tFcFdiJJTeGyV5mYI5YwI_lJ9gosDQX2FnqIlfSpWBDgY5hI9IJuxg",
+    "https://play-lh.googleusercontent.com/GHjlHKNDigcSGMFWXKjCGZpUCw8mT-9HVtZmaq2SPDjVv851psxtIYTVe3gvSmsepB4",
+    "https://play-lh.googleusercontent.com/RCu7XpHPMzbxtfrLCpv7nwjSNHgpOWkxLIP20M12hRlcqQ8Fxmt_klRY4tVus8bBvQ"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/f60ehFWUWIgJ05NddrtP4CiilKZpSdgxibLdC_dwvd5mp5MSe37YwBEtHnVVeVnqP4E",
+  "permissions": {
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Photos/Media/Files": [
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "read the contents of your USB storage"
+    ],
+    "Camera": [
+      "take pictures and videos"
+    ],
+    "Microphone": [
+      "record audio"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Other": [
+      "access Bluetooth settings",
+      "allow Wi-Fi Multicast reception",
+      "change network connectivity",
+      "change your audio settings",
+      "connect and disconnect from Wi-Fi",
+      "control flashlight",
+      "control vibration",
+      "full network access",
+      "pair with Bluetooth devices",
+      "prevent device from sleeping",
+      "read Google service configuration",
+      "run at startup",
+      "view network connections"
+    ],
+    "Uncategorized": [
+      "receive data from Internet"
+    ]
+  },
+  "reviews_data": null
+}

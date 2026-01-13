@@ -1,0 +1,86 @@
+{
+  "pkg_name": "com.roboterra.app",
+  "appId": "com.roboterra.app",
+  "title": "TerraMow",
+  "developer": "roboterra",
+  "developer_id": "roboterra",
+  "developer_email": "harry@xinturobo.com",
+  "developer_website": null,
+  "developer_address": null,
+  "category": "Lifestyle",
+  "category_id": "LIFESTYLE",
+  "content_rating": "Everyone",
+  "score": 0,
+  "ratings": 0,
+  "reviews_count": 0,
+  "installs": "1,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://muxin.ai/privacypolicy/",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "The TerraMow app is now compatible with the brand new V series wire-free AI vision robot mowers.\r\n\r\nWith the TerraMow app, you can achieve more control and insight. Create your mowing schedule, view real-time status updates, and assume remote control, all from your phone or other device.\r\n\r\nTo know more about TerraMow products and technical details, please visit our website: https://www.terramow.com/\r\nIf you have any question or need assistance, please get in touch with us in-app feedback feature or email us at: support@terramow.com",
+  "descriptionHTML": "The TerraMow app is now compatible with the brand new V series wire-free AI vision robot mowers.<br><br>With the TerraMow app, you can achieve more control and insight. Create your mowing schedule, view real-time status updates, and assume remote control, all from your phone or other device.<br><br>To know more about TerraMow products and technical details, please visit our website: https://www.terramow.com/<br>If you have any question or need assistance, please get in touch with us in-app feedback feature or email us at: support@terramow.com",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/SXsYQ-LEbF0cCSAKhDfYqe7M2eEZT0sHbLAFbcpIQWaeWA8petdNnBqmrDNgHoTZ3_0",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/QVxOTRgr7lEb0rdaHBRApw37-c7bph_iXQilapqqrJZ3BUI-Bbav9jmS4eUlyRxVY4k_xyN8HELY4_LXD-qvFQ",
+    "https://play-lh.googleusercontent.com/g9D4PEb4LkVxvxVv0zCBIjSz6whzykwAOiM4PzUWuZ7YMxBbt3awUkTB-D4A2eb_Eg6NRXI63q7RNO9PVXIEZA",
+    "https://play-lh.googleusercontent.com/spxJ3fkAxX-jtKA7GSRod70g4VBTx6rXhCPArhGCTMEEFqveEcETadnysbYWkOlUiBSI_RHGcqW3N3bvgdka",
+    "https://play-lh.googleusercontent.com/B-ubR_8k6fI9nM1k1mkiZ74U1sP3oEvO0S1q98nT58q6ymTW2aR-Vm6lCvd9VVaIoD2-RRJdDQF8MXDH30mkZVQ",
+    "https://play-lh.googleusercontent.com/3jdnwP46-9TVhhxvSy_JCThim8CI-7o_tsTmwO21NMTNsQHOKMV6MvMEllzGiDmd5-BDhoKONU-UKNZfn_bf",
+    "https://play-lh.googleusercontent.com/HZ0PziIlLN8XHuK8hkEMEMT8ne1bM2QGWI3L7u2TsTIi0-hB_n57lkNg6DXmBsL5VLfr84VQMoVJSZErWxtqqQ",
+    "https://play-lh.googleusercontent.com/_bkfJBBLWQyhbFbhapO5buBTYSwiwkY6vSFRrCXcnv48TJ2ckf7AjMk07VqAOlH7N188Y4gBZlDf-0q0P864KQ",
+    "https://play-lh.googleusercontent.com/k1tWCUVZBMceiSK9IrbYQXlkD1VfKFzR0SaKz3UcZsPXcB9GTWyj7aejSctHQvjDbNZydXXEwCPRqlMNyG-8pug"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/Wa_FOJsEzW7mnccYeoiYrLIKCwiISeX2wfyZ2LkYt6qC5y7NsZ26YAczrCRyC-xnQSw",
+  "permissions": {
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Phone": [
+      "read phone status and identity"
+    ],
+    "Photos/Media/Files": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Camera": [
+      "take pictures and videos"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Device ID & call information": [
+      "read phone status and identity"
+    ],
+    "Other": [
+      "access Bluetooth settings",
+      "allow Wi-Fi Multicast reception",
+      "change network connectivity",
+      "change your audio settings",
+      "connect and disconnect from Wi-Fi",
+      "control flashlight",
+      "control vibration",
+      "full network access",
+      "pair with Bluetooth devices",
+      "prevent device from sleeping",
+      "reorder running apps",
+      "view network connections"
+    ],
+    "Uncategorized": [
+      "receive data from Internet"
+    ]
+  },
+  "reviews_data": null
+}

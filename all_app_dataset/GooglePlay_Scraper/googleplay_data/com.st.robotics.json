@@ -1,0 +1,58 @@
+{
+  "pkg_name": "com.st.robotics",
+  "appId": "com.st.robotics",
+  "title": "ST Robotics",
+  "developer": "STMicroelectronics International NV",
+  "developer_id": "STMicroelectronics+International+NV",
+  "developer_email": "ranjeet.singh@st.com",
+  "developer_website": null,
+  "developer_address": null,
+  "category": "Education",
+  "category_id": "EDUCATION",
+  "content_rating": "Everyone",
+  "score": null,
+  "ratings": null,
+  "reviews_count": null,
+  "installs": "100+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://www.st.com/content/st_com/en/common/privacy-portal.html",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "The ST Robotics Application for Android enables users to configure and operate various robotic kits and boards, such as the Robotics Evaluation Kit. This application facilitates the discovery, connection, and control of these robotic kits.",
+  "descriptionHTML": "The ST Robotics Application for Android enables users to configure and operate various robotic kits and boards, such as the Robotics Evaluation Kit. This application facilitates the discovery, connection, and control of these robotic kits.",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/rxoe_NuFhJ202WRmlQ4lnXkqyjDpIPx2EApEQ0rIk9qMgAClK7Ms4oiurYohwoRs1A",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/ulUKAJWryngN1M2Lbld3ysxL27LV_kwv24kWURhIMiB_i_QsJ4D5qQrVwtss6IsU6a2Y",
+    "https://play-lh.googleusercontent.com/9ptK259XfFiB09JmUIfxyKbiM2f48msZ5m-LmpuuNh5fqTxcJir1lUfn8Jmr_c8BmWc",
+    "https://play-lh.googleusercontent.com/8S3u0CPofrTnDcIttGfKrMc7Pvk8OIQJ2v5u0Ii9NzFqsC0Xj9UWGW6EMvS0Nz8gbrY",
+    "https://play-lh.googleusercontent.com/5-uf_S5KBcv1i4PeLE0Dxe6eZBrJzurX2fDXrnbjA_LNKqc3r4rfW-O6EESM9ex0CmL7",
+    "https://play-lh.googleusercontent.com/HFeUS4k5J_3kAPhf4eRNF0zxgDHSFfHDSqPdNFMSpuQFwm6IL8i7uvOknQY7lrestqOo",
+    "https://play-lh.googleusercontent.com/dJlX0xRzx9C0rg_etOmemJk8UvZxl-kp895RPwVCs8fsGbnACEbtzK-_UmPkdQcR6aU",
+    "https://play-lh.googleusercontent.com/IWW_b8cEobSYZ2cGz3bpvBkGUjGVwOHEIaXbIkm-ROpzsHESEbxtugRT0sne0LGswVCftM-CzCfdewb253ZeCw",
+    "https://play-lh.googleusercontent.com/DqdwZp58YOAMA-dTAtsNk-Jsbqjyii1dewRcucrFQXDKVkrZh6L5OXUc0FtORZAp9UEvRat4nnIkQ11spJ16NPg"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/Mc4pMmIMUHJZQ0LxwvRuiRk_fixfFPb-EMZH6jJNcjDfwXB9Zfib27zqyGmIlkymQPQ",
+  "permissions": {
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Microphone": [
+      "record audio"
+    ],
+    "Other": [
+      "access Bluetooth settings",
+      "full network access",
+      "pair with Bluetooth devices",
+      "view network connections"
+    ]
+  },
+  "reviews_data": null
+}

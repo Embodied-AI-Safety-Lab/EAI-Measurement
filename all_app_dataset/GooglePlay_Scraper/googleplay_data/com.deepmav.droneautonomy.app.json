@@ -1,0 +1,75 @@
+{
+  "pkg_name": "com.deepmav.droneautonomy.app",
+  "appId": "com.deepmav.droneautonomy.app",
+  "title": "Drone Autonomy",
+  "developer": "Mavtek d.o.o.",
+  "developer_id": "5970150412376911370",
+  "developer_email": "kontakt@mavtek.rs",
+  "developer_website": "https://mavtek.rs",
+  "developer_address": null,
+  "category": "Maps & Navigation",
+  "category_id": "MAPS_AND_NAVIGATION",
+  "content_rating": "Everyone",
+  "score": null,
+  "ratings": null,
+  "reviews_count": null,
+  "installs": "50+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://mavtek.rs/android-privacy-policy/",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "Drone Autonomy is an app used for autonomous drone flights with DJI drones. The app supports two modes of flight autonomy. In Position mode, you can control where the drone navigates by selecting locations on the map. In Area flight mode, you can define an area on the map and the drone navigates autonomously within the defined flight boundary. Drone Autonomy allows you to live stream the video feed from the drone’s primary camera to a streaming service such as YouTube over the internet.\r\n\r\nDrone Autonomy app is used with DJI drones and requires a DJ RC controller to be connected to the device. Following DJI drones are supported:\r\n1.\tMatrice 350 RTK\r\n2.\tMatrice 300 RTK\r\n3.\tDJI Mini 3\r\n4.\tDJI Mini 3 Pro\r\n5.\tDJI Mavic 3M\r\n6.\tDJI Mavic 3 Enterprise Series\r\n7.\tMatrice 30 Series\r\n\r\nThe app was developed by DeepMAV.ai.\r\n\r\nPerform automatic takeoff by pressing the Take Off button in the app. Upon takeoff, you can switch on autonomous flight by pressing the Fly button in the flight control panel.\r\n\r\nPosition Autonomy Mode\r\n\r\nWhen in autonomous flight in Position mode, the drone will navigate to the defined target location while maintaining the chosen altitude above takeoff. Upon reaching the target location, the drone will hover in place. Simply tap on the map to define the target location for the drone. Pressing the Clear Target button removes the defined target and makes the drone hover in place.\r\n\r\nArea Autonomy Mode\r\n\r\nWhen in Area mode, tapping on the map allows you to define the vertices of the flight area within which the drone will fly. Pressing the Save Area button saves the defined flight area and displays it on the map. Pressing the Clear Area button removes the defined flight area. You may define a flight area of any polygonal shape.\r\n\r\nWhen you activate the autonomous flight in Area mode by pressing the Fly button, the drone will start flying autonomously within the defined flight area, while maintaining the chosen altitude above takeoff. The drone will never leave the bounds of the defined flight area during the flight.\r\n\r\nDeactivating the autonomous flight by pressing the Stop button will hold the drone in place. Autonomous flight may be resumed by pressing on the Fly button once again.\r\n\r\nAutomatic landing and return to home functions may be engaged by pressing the Land and Home buttons on the flight control panel.\r\n\r\nLive Streaming\r\n\r\nDrone Autonomy app allows you to live stream the video feed from the drone’s primary camera to a streaming service such as YouTube. The live streaming requires that the device is connected to the internet or a network where the streaming service can be reached.\r\n\r\nIn order to live stream the drone video, first enable the camera view by pressing the Camera button. Once the camera view is visible, pressing the Live Stream button allows you to select the URL of the streaming service you wish to stream to and start the stream.\r\n\r\nWhile live streaming is active, the Live Stream button will flash red. Turning off live streaming can be done by pressing the flashing Live Stream button.\r\n\r\nSimulator Mode\r\n\r\nDrone Autonomy app allows you to test your drone flight in simulator mode. Simply start the app, turn on your drone, make sure the RC is connected to the drone, and connect the device to the RC. Pressing the Sim On/Off button switches between simulator and normal mode. When the simulator is turned on, the button will show the Sim On status.\r\n\r\nIn simulator mode, the drone will perform takeoff, autonomous flight, landing, or return to home functions, as if it was truly flying. The map will display the drone’s simulated location. All other functions of the app are enabled including Position and Area mode and live streaming.\r\n\r\nNo account creation or login required. Simply start the app and start flying.\r\n\r\nMake sure to fly responsibly and obey your local drone regulations.",
+  "descriptionHTML": "Drone Autonomy is an app used for autonomous drone flights with DJI drones. The app supports two modes of flight autonomy. In Position mode, you can control where the drone navigates by selecting locations on the map. In Area flight mode, you can define an area on the map and the drone navigates autonomously within the defined flight boundary. Drone Autonomy allows you to live stream the video feed from the drone’s primary camera to a streaming service such as YouTube over the internet.<br><br>Drone Autonomy app is used with DJI drones and requires a DJ RC controller to be connected to the device. Following DJI drones are supported:<br>1.\tMatrice 350 RTK<br>2.\tMatrice 300 RTK<br>3.\tDJI Mini 3<br>4.\tDJI Mini 3 Pro<br>5.\tDJI Mavic 3M<br>6.\tDJI Mavic 3 Enterprise Series<br>7.\tMatrice 30 Series<br><br>The app was developed by DeepMAV.ai.<br><br>Perform automatic takeoff by pressing the Take Off button in the app. Upon takeoff, you can switch on autonomous flight by pressing the Fly button in the flight control panel.<br><br>Position Autonomy Mode<br><br>When in autonomous flight in Position mode, the drone will navigate to the defined target location while maintaining the chosen altitude above takeoff. Upon reaching the target location, the drone will hover in place. Simply tap on the map to define the target location for the drone. Pressing the Clear Target button removes the defined target and makes the drone hover in place.<br><br>Area Autonomy Mode<br><br>When in Area mode, tapping on the map allows you to define the vertices of the flight area within which the drone will fly. Pressing the Save Area button saves the defined flight area and displays it on the map. Pressing the Clear Area button removes the defined flight area. You may define a flight area of any polygonal shape.<br><br>When you activate the autonomous flight in Area mode by pressing the Fly button, the drone will start flying autonomously within the defined flight area, while maintaining the chosen altitude above takeoff. The drone will never leave the bounds of the defined flight area during the flight.<br><br>Deactivating the autonomous flight by pressing the Stop button will hold the drone in place. Autonomous flight may be resumed by pressing on the Fly button once again.<br><br>Automatic landing and return to home functions may be engaged by pressing the Land and Home buttons on the flight control panel.<br><br>Live Streaming<br><br>Drone Autonomy app allows you to live stream the video feed from the drone’s primary camera to a streaming service such as YouTube. The live streaming requires that the device is connected to the internet or a network where the streaming service can be reached.<br><br>In order to live stream the drone video, first enable the camera view by pressing the Camera button. Once the camera view is visible, pressing the Live Stream button allows you to select the URL of the streaming service you wish to stream to and start the stream.<br><br>While live streaming is active, the Live Stream button will flash red. Turning off live streaming can be done by pressing the flashing Live Stream button.<br><br>Simulator Mode<br><br>Drone Autonomy app allows you to test your drone flight in simulator mode. Simply start the app, turn on your drone, make sure the RC is connected to the drone, and connect the device to the RC. Pressing the Sim On/Off button switches between simulator and normal mode. When the simulator is turned on, the button will show the Sim On status.<br><br>In simulator mode, the drone will perform takeoff, autonomous flight, landing, or return to home functions, as if it was truly flying. The map will display the drone’s simulated location. All other functions of the app are enabled including Position and Area mode and live streaming.<br><br>No account creation or login required. Simply start the app and start flying.<br><br>Make sure to fly responsibly and obey your local drone regulations.",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/A-tw_EuhLLsgzbRuOcOvy-LprgiHRPWQhOHCJs2VK1PFzIeWkWfytIZ-Li9ws5djvA",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/Q1mtcgiDSeyB7_KH7QPXc1IN8ORhEugoBHx0YZDFp9FkxIq51LLn2hRSEr3c8yE55kA",
+    "https://play-lh.googleusercontent.com/6HfyLZLK9z0z9VANrZSGm-fvk-je659_4X8RHaTWBjzs5GEooBXQDYJw07a6DHZ2o39c",
+    "https://play-lh.googleusercontent.com/Tq1jr7FbT4XmkxdP4BGTRBOD81kat7xQeqmOSO8MF5f9pBFf6af4H85CK1-kMqwTjE4",
+    "https://play-lh.googleusercontent.com/4Vh7on0D7JHoQ_hYDrhPgARpjAxKoyl0BE8XCrsxj0-Maud1SM9TI0NewAdQ6vpdQMg",
+    "https://play-lh.googleusercontent.com/relCXIhH6GfJ0YBb8FT48XBWuDKtl6S3WpRCaa82eI1RbKhjuTJthWkYHbldl8MtVLI",
+    "https://play-lh.googleusercontent.com/dJoOk-4lawRz8sy8WjEzek1lWaLlRno83s8UaLWgIGEsOVcsnhjRMoEPMAaVbNdHksY",
+    "https://play-lh.googleusercontent.com/5BiYZN39nhwSXep2Q59bm-8fhttjH5oM8v_-a4N4jvyL5BW7BRaNeRdxi8b2iTGiAeA"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/w6usQLwPfRMVC9xs7aY2jekbfgIEx9qqt1sQnqLpC2w39pyluTT7NA6HzUQxKHd_Fys",
+  "permissions": {
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Phone": [
+      "read phone status and identity"
+    ],
+    "Photos/Media/Files": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Microphone": [
+      "record audio"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Device ID & call information": [
+      "read phone status and identity"
+    ],
+    "Other": [
+      "access Bluetooth settings",
+      "close other apps",
+      "full network access",
+      "pair with Bluetooth devices",
+      "view network connections"
+    ]
+  },
+  "reviews_data": null
+}

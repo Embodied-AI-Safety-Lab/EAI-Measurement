@@ -1,0 +1,102 @@
+{
+  "pkg_name": "com.vdadrone",
+  "appId": "com.vdadrone",
+  "title": "VDA Drone",
+  "developer": "InfraLytiks",
+  "developer_id": "InfraLytiks",
+  "developer_email": "tyler@infralytiks.com",
+  "developer_website": "http://www.verifieddataanalytics.com",
+  "developer_address": null,
+  "category": "Tools",
+  "category_id": "TOOLS",
+  "content_rating": "Everyone",
+  "score": 0,
+  "ratings": 0,
+  "reviews_count": 0,
+  "installs": "500+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://infralytiks.com/privacy.html",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "A drone based image capture, processing and analytics app to enable fast, efficient and automated building inspections. This app enables data collection from drones to generate 3D models, building drawings, PDF condition reports and ML powered objects and defect detection.",
+  "descriptionHTML": "A drone based image capture, processing and analytics app to enable fast, efficient and automated building inspections. This app enables data collection from drones to generate 3D models, building drawings, PDF condition reports and ML powered objects and defect detection.",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/2j0QD-oKDkOY7mzHa59lkKYP33RXErVYhyQqf86yfD68xITvIXEfyeGkq-gqi9yFtx2j",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/VeqvIVyXN5CJMEpYDDfIgHyUugJl5128W_e5aw4KOCbH325IknOUHhCIcSswOSnRFs3G",
+    "https://play-lh.googleusercontent.com/e3m20543WCxeRLtEBSE33bBzn2YaNRQLUKbc3bgSvQuz3ImouvO3qMxn7AYUVY1X_Rs",
+    "https://play-lh.googleusercontent.com/gxWAFnBonFQE-R5d1t3Pg_i8t9svx7DRqLAhqjlaG4nbY-G9-Q8Fil33k6KFCb3fsg0",
+    "https://play-lh.googleusercontent.com/OsPr04VfXT4ScZ6bELfhigQYn5iLpNqvLF3b71YZgU-M5jRAIewMQKcXBet0ejKBGS4k",
+    "https://play-lh.googleusercontent.com/g7AYPXy1XOCtSoLk6xC2t4y0xZAoOUqg73jYLONNxu5YUu_5nNYgKR0JM2cyMXeDUcI",
+    "https://play-lh.googleusercontent.com/b6hnHLYop2QcjVN7p9Y7gw6TD8CYFBksvmTLTCmCrX3GiJTL5qatW9FD9gi5AtZnPA",
+    "https://play-lh.googleusercontent.com/gafiMjYg_-buypZFT_6bfRaEl2vmypL3PyDLkGafqDrVtyJLzD0WRvYJHpJOmWCIXw",
+    "https://play-lh.googleusercontent.com/dBjCgllfrIa-E7a69UfoJaEqFG9MgONauFP6AAwPLmD1JulNwdYag1HKVf7YTxOaYJ_g",
+    "https://play-lh.googleusercontent.com/fx7vJFNkGXVcjv7Jn2idjQLwt07L9W0RvIMC9L_z4xsS2aUqWT_M4hi1W7faCnrrmZu1",
+    "https://play-lh.googleusercontent.com/i3AXNt88a8RlIRvrtkAve5tE6Vna1Dd9u5h04bbYlba066AiaApylW4JE0TqOULS7YX4",
+    "https://play-lh.googleusercontent.com/tSRCaL9wYnWUabYuXV6T-06Q60Gtp4g4k5NtfIOpWkhwt0bDPX7IE8VW-Bumf3Wu-5U",
+    "https://play-lh.googleusercontent.com/6m8O3lhLpEdjueYl74P6DLelZE-QcbjClCN-u5Z6vYJJAP3bQS7FZM-6zl5R0FWkzVM"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/j15ncNUbtRZPhSNF5kcskyadmQUV96nAD6r5ymVybK8BLC5koPkANFn8qeqdAtIIaiA",
+  "permissions": {
+    "Calendar": [
+      "add or modify calendar events and send email to guests without owners' knowledge",
+      "read calendar events plus confidential information"
+    ],
+    "Contacts": [
+      "modify your contacts",
+      "read your contacts"
+    ],
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Phone": [
+      "read phone status and identity"
+    ],
+    "Photos/Media/Files": [
+      "access USB storage filesystem",
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Camera": [
+      "take pictures and videos"
+    ],
+    "Microphone": [
+      "record audio"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Device ID & call information": [
+      "read phone status and identity"
+    ],
+    "Other": [
+      "Google Play license check",
+      "access Bluetooth settings",
+      "change network connectivity",
+      "close other apps",
+      "connect and disconnect from Wi-Fi",
+      "control vibration",
+      "draw over other apps",
+      "full network access",
+      "modify system settings",
+      "pair with Bluetooth devices",
+      "prevent device from sleeping",
+      "view network connections"
+    ],
+    "Uncategorized": [
+      "download files without notification"
+    ]
+  },
+  "reviews_data": null
+}

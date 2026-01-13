@@ -1,0 +1,81 @@
+{
+  "pkg_name": "com.ilife.iliferobot_as",
+  "appId": "com.ilife.iliferobot_as",
+  "title": "ILIFERobot AS",
+  "developer": "ILIFE",
+  "developer_id": "ILIFE",
+  "developer_email": "ilife@china-ilife.com",
+  "developer_website": "http://www.iliferobot.com/",
+  "developer_address": null,
+  "category": "Tools",
+  "category_id": "TOOLS",
+  "content_rating": "Everyone",
+  "score": 0,
+  "ratings": 0,
+  "reviews_count": 0,
+  "installs": "10,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://www.iliferobot.com/article/i-41/",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "ILIFERobot AS App is a mobile phone application of connecting the intelligent robotic products, which supports the robotic customization products with WIFI function under the ILIFE brand. It can not only replace the traditional remote controller , but also can present more working data that cannot be displayed by the conventional remote controller. Through the APP, the user can remotely control and reserve robots for cleaning while away from home, making you to enjoy smart life anytime, anywhere.Zhiyi Technology has always been committed to the mission of “make cleaning simpler and make life better” and uphold the core values of “customer comes first, sincerity, commitment, excellence and innovation”, so that more people can enjoy technology & beautiful life.",
+  "descriptionHTML": "ILIFERobot AS App is a mobile phone application of connecting the intelligent robotic products, which supports the robotic customization products with WIFI function under the ILIFE brand. It can not only replace the traditional remote controller , but also can present more working data that cannot be displayed by the conventional remote controller. Through the APP, the user can remotely control and reserve robots for cleaning while away from home, making you to enjoy smart life anytime, anywhere.Zhiyi Technology has always been committed to the mission of “make cleaning simpler and make life better” and uphold the core values of “customer comes first, sincerity, commitment, excellence and innovation”, so that more people can enjoy technology &amp; beautiful life.",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/ox7YE5ftZkEbhpPB70g-Hwm_byXd64yy0XCjdlVUFiKytlRADpoUwu3vv9ydqHlpDxDV",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/Fsep-vnKSVeF5hPHGAX8RYBvUCsjdVi6gYSsnflzeZK7k-MZk950vJf14Idpdewfn2k",
+    "https://play-lh.googleusercontent.com/PaPrBa1C7kyGT4_OcU4QkDm4W6YOj5SZOtgMSkOARcnJdQA8K1xxZe8ABX3cPm1l2g",
+    "https://play-lh.googleusercontent.com/aSAwmiljaQ_F2sAoFAJaGjyivNHYo3OgwAstuKigTzS_3TbfA9x0yG6ChE7KEU_DDHg",
+    "https://play-lh.googleusercontent.com/UAOgZMQ961TQ37msNJCMxjn2dlZ2__YkhUJd9Tg5MLFTwpAvmUoyXWmr5Dlqf1XQgAM",
+    "https://play-lh.googleusercontent.com/26bHldQ_oDJbIafzlCgQpzgPsoUJ5abgBVOmmSom15rQQknlk-CZsNLDbIOgBM76NQ"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/H8xAELF78vipWnX_hriZfOX0teY8ND5POXTrX8fbqbqgMkd-M38jEYD9qoh2SBWyXG0",
+  "permissions": {
+    "Device & app history": [
+      "read sensitive log data"
+    ],
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Phone": [
+      "directly call phone numbers",
+      "read phone status and identity"
+    ],
+    "Photos/Media/Files": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Camera": [
+      "take pictures and videos"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Device ID & call information": [
+      "read phone status and identity"
+    ],
+    "Other": [
+      "Google Play license check",
+      "allow Wi-Fi Multicast reception",
+      "change network connectivity",
+      "connect and disconnect from Wi-Fi",
+      "control flashlight",
+      "control vibration",
+      "full network access",
+      "prevent device from sleeping",
+      "view network connections"
+    ]
+  },
+  "reviews_data": null
+}

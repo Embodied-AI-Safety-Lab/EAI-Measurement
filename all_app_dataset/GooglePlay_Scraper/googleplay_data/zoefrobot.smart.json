@@ -1,0 +1,84 @@
+{
+  "pkg_name": "zoefrobot.smart",
+  "appId": "zoefrobot.smart",
+  "title": "Zoef Robot Smart",
+  "developer": "Zoef Robot",
+  "developer_id": "Zoef+Robot",
+  "developer_email": "Service@zoefrobot.nl",
+  "developer_website": null,
+  "developer_address": null,
+  "category": "Tools",
+  "category_id": "TOOLS",
+  "content_rating": "Everyone",
+  "score": null,
+  "ratings": null,
+  "reviews_count": null,
+  "installs": "1,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://www.zoefrobot.nl/en/service/privacy-policy/",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "Zoef Robot Smart APP \r\nConnect all you Zoef Robot robots to this APP.\r\n1. With this APP you can remote control Zoef Robot robots.\r\n2. You can schedule the robot.\r\n3. Easily monitor the robot.\r\n4. Available Functions depend on the capabilities of each robot",
+  "descriptionHTML": "Zoef Robot Smart APP <br>Connect all you Zoef Robot robots to this APP.<br>1. With this APP you can remote control Zoef Robot robots.<br>2. You can schedule the robot.<br>3. Easily monitor the robot.<br>4. Available Functions depend on the capabilities of each robot",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/jXGVpXTRAznuGbOgFXt6cT7H4pfcE0tAMyBNFq1rO8PfYfTDza0YpQi2sY-p72xcdw",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/Ccu2kiCCtkMtHuaRLF87rEyfrFlfBfKhnYD00J2xHYGZk1FH3NmsosfQ77gtJ174Tg",
+    "https://play-lh.googleusercontent.com/so5MKDAjLlGcJ6RfRs9-fSmjhLcNXMA8FLOtxYTz_bCn5N8x2_OJDg9HD8t-G2u8AcoJ",
+    "https://play-lh.googleusercontent.com/PAL6Dym9mgV86hTkievp7sa1WYaWByjd5EipuGb4CVmBZj94lqG6G3-uBcz-M-ylwc7n",
+    "https://play-lh.googleusercontent.com/-4IIIbTpg5b9yym0y5V7goWN7NGnu2T74MBL64qe7GM7FzQmYk04o9OKvvDpdyumiQ",
+    "https://play-lh.googleusercontent.com/HgT1PrYK41n6LsAzK9fjGCY5NARjObx2EuUbGHvXiOifVBCdiO_tNbOWxlZfK7Qpt94",
+    "https://play-lh.googleusercontent.com/dSqCH2WIwlPH04U8p-rESzmk6qj_Q_6mIda9PS9Xd5hcf8Wi1mdPpIcTcyMLeMBacac"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/WmoIwzBH4ONKKN7LHQ425pKRPAo2KLY6wjAwlBpvimQC0wXABHPDBsM6sjaDzBijhqrk",
+  "permissions": {
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Photos/Media/Files": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Camera": [
+      "take pictures and videos"
+    ],
+    "Microphone": [
+      "record audio"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Other": [
+      "Google Play license check",
+      "access Bluetooth settings",
+      "allow Wi-Fi Multicast reception",
+      "change network connectivity",
+      "change your audio settings",
+      "connect and disconnect from Wi-Fi",
+      "control vibration",
+      "full network access",
+      "install shortcuts",
+      "pair with Bluetooth devices",
+      "prevent device from sleeping",
+      "reorder running apps",
+      "run at startup",
+      "set wallpaper",
+      "view network connections"
+    ],
+    "Uncategorized": [
+      "receive data from Internet"
+    ]
+  },
+  "reviews_data": null
+}

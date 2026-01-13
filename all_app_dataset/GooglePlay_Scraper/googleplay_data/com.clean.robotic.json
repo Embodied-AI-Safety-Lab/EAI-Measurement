@@ -1,0 +1,90 @@
+{
+  "pkg_name": "com.clean.robotic",
+  "appId": "com.clean.robotic",
+  "title": "Zoef Robot",
+  "developer": "Guangzhou Haoqin Robot Technology Co., Ltd",
+  "developer_id": "Guangzhou+Haoqin+Robot+Technology+Co.,+Ltd",
+  "developer_email": "bianj@cloudsbot.com",
+  "developer_website": "http://www.cloudsbot.com",
+  "developer_address": null,
+  "category": "Tools",
+  "category_id": "TOOLS",
+  "content_rating": "Everyone",
+  "score": null,
+  "ratings": null,
+  "reviews_count": null,
+  "installs": "500+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://note.youdao.com/share/?id=bd49680fa80387f9c8034f17adf323e5&type=note#/",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "The Zoef Robot APP is a mobile applicationthat connects to Zoef robot products. \r\nUsers can replace the traditional remote control with APP, remote control the robot to clean,dock to charge,etc.\r\nEquipment control, support direction control, cleaning preferences settings,etc.\r\nTime Schedule, clean at any time within a week.\r\nEquipment positioning, can view the data of cleaning area and cleaning time.\r\nSupport personalized settings of device name, time calibration, deleting equipment,etc.",
+  "descriptionHTML": "The Zoef Robot APP is a mobile applicationthat connects to Zoef robot products. <br>Users can replace the traditional remote control with APP, remote control the robot to clean,dock to charge,etc.<br>Equipment control, support direction control, cleaning preferences settings,etc.<br>Time Schedule, clean at any time within a week.<br>Equipment positioning, can view the data of cleaning area and cleaning time.<br>Support personalized settings of device name, time calibration, deleting equipment,etc.",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/6_E3o7Ttl5c28pAmpw_V2-1mUR5deTKtWB_5dt52yq-ZOlcqNeOTeqSmclLrzwaK-nw",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/t9KWmxfRiOF5dWSy4-dXbGuyk4Qn0hsR_rZX91xkfb-HhQIDkh-7r-_TSCmo1t0c298",
+    "https://play-lh.googleusercontent.com/qzSMe8g94Nlngt4AM_aJ1CSYTPlDkV4dbt1Yb9O0m1eaDvzjz2RQQk3oprLXlnE81A",
+    "https://play-lh.googleusercontent.com/DsW8FfmoExvYHXdhvuVXcdrEXy2TQsNNjzfD4PqQz8Os6tCOeSoji0YBHhLohmw-N9s",
+    "https://play-lh.googleusercontent.com/cLRR5_8k856HDCPknyJqhfVvSh1agcG-8OcHUJbli14e5pKCeyRL-gQB9Elg4fXUlfQ"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/mI7Tts_P5EUTGDLMBuOYV9pDi8_O3UwdtYmjoaokLnyFNWHVGNf1NlZOVXz4im1Q0Ddu",
+  "permissions": {
+    "Device & app history": [
+      "read sensitive log data",
+      "retrieve running apps"
+    ],
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Phone": [
+      "directly call phone numbers",
+      "read phone status and identity"
+    ],
+    "Photos/Media/Files": [
+      "access USB storage filesystem",
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Camera": [
+      "take pictures and videos"
+    ],
+    "Microphone": [
+      "record audio"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Device ID & call information": [
+      "read phone status and identity"
+    ],
+    "Other": [
+      "allow Wi-Fi Multicast reception",
+      "change network connectivity",
+      "change system display settings",
+      "connect and disconnect from Wi-Fi",
+      "control flashlight",
+      "control vibration",
+      "draw over other apps",
+      "full network access",
+      "modify system settings",
+      "prevent device from sleeping",
+      "view network connections"
+    ],
+    "Uncategorized": [
+      "receive data from Internet"
+    ]
+  },
+  "reviews_data": null
+}

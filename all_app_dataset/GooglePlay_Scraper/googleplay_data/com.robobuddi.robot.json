@@ -1,0 +1,100 @@
+{
+  "pkg_name": "com.robobuddi.robot",
+  "appId": "com.robobuddi.robot",
+  "title": "ROBOBUDDI",
+  "developer": "Shenzhen Ultenic Technology Co., Ltd.",
+  "developer_id": "Shenzhen+Ultenic+Technology+Co.,+Ltd.",
+  "developer_email": "tj@proscenic.cn",
+  "developer_website": null,
+  "developer_address": null,
+  "category": "Personalization",
+  "category_id": "PERSONALIZATION",
+  "content_rating": "Everyone",
+  "score": null,
+  "ratings": null,
+  "reviews_count": null,
+  "installs": "100+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://www.cleanerhealthierspaces.co.uk/about-4",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "Smart life, smart living\r\n1. Remote control: control home appliances from anywhere\r\n2. Timer: set timer to perform multiple functions \r\n3. Device sharing: One tap to share devices among family members\r\n4. Easy connection: easily and quickly connect App to devices",
+  "descriptionHTML": "Smart life, smart living<br>1. Remote control: control home appliances from anywhere<br>2. Timer: set timer to perform multiple functions <br>3. Device sharing: One tap to share devices among family members<br>4. Easy connection: easily and quickly connect App to devices",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/xDPB0BK03Erj6RA4T-BwzSC2ba2K00lO8lmhIhiiiTa9-FXwvCztp4WTLdxxH_GSujFA",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/OH9UeldKTZ7D27GzV7zQ1HPeN20xsju4uj7KDUT-_ga-ZlJpNOz27qk59OFAVHElV9E",
+    "https://play-lh.googleusercontent.com/AUbUYGWBdH6lySiX9KO6nVMu5XITR_OY408fRE1qWvJ5RDt-wQPdZWsetxXIfKXsHg",
+    "https://play-lh.googleusercontent.com/hgfgc4iyI8afnDTF701OqSCEhhZZy1C05DYHSTYEmXOXgeyW__eRLIzQBuA6-1oN-RU",
+    "https://play-lh.googleusercontent.com/oadjla7atX_IN7wYjRcKmK_Njuq4aMqyxE5bp3ZLgKo2Qa7codcFFzOVsWene4YDbio",
+    "https://play-lh.googleusercontent.com/39u4eoMxBvbsOya0Dhe5kVyzI1DBD31W70HUAMrqJ2zX-S-j-l_zEvG1NpcBcbpJsZaE",
+    "https://play-lh.googleusercontent.com/78daBtNnHeUf_Z7isCPJwR_A1BxvRHsZJ7FXwbbeu171hwZLTPEIZtE-13xO_KLCiw0h",
+    "https://play-lh.googleusercontent.com/vm_kWh3gToFLRZI1Yxfgr8jMDemg9B2zHOQJrN34WXzvbbtl9eQ3cXPrhBi3elJuYUI",
+    "https://play-lh.googleusercontent.com/NwLbDBiT-GIAb-sjcZih0-lv5BJ8mz1y6fwXe4olt7Xmkcp9KkEHsz3P9kCbrSnkUCs",
+    "https://play-lh.googleusercontent.com/AhYm0hwapwSm2tf7d2wtmDzxyu5JKAV-fSeyJuVOUdHLmGI5ZHGHvpW5iNJEcFbUAyo",
+    "https://play-lh.googleusercontent.com/4rMI9WVDMLQxGYhdUl-6ja3HuoCIZNaAS_Wxh4WIGeO7qbetLv0n49ZeZCcqlNDltlm0",
+    "https://play-lh.googleusercontent.com/9mzJw2jo11x6NAM6LhzXvPx2F4rCv9sGgDSuG8EhMTH1VWgiRU9MPNRe3PktZVlU4AQ",
+    "https://play-lh.googleusercontent.com/9VB417bMeG-hS_fLNTwUZDSrNCrx4PY5WiIziuYYtt7srIFu07ft1jdUmXswesxRyA4",
+    "https://play-lh.googleusercontent.com/LZhEZF0YWkPOcqV_3qLr7q_l4Bq5Pw5IZStoi2RWRAvAqghIBu_-YVjYvlpZdXUU0AQ",
+    "https://play-lh.googleusercontent.com/35NMfu0N8kkowAaDLrRBnx1H9VL-2-RBHg0-IdHgUyjUvI-55g1aILqSRO0ixpGYZmU",
+    "https://play-lh.googleusercontent.com/0QfADt0MSZvtk7Of9n-q-tmFukE5shNJ-YL0klp8Fqf-OMlJNMYxaItYGYDnPKkd9tN8"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/l-49X5wqz9SKJYFfqcO1MG8jwA-TSyn7HcEEBNixrPfqZYjJdb4GVd6BEn1Zu-kd6Pj8",
+  "permissions": {
+    "Device & app history": [
+      "read your Web bookmarks and history",
+      "retrieve running apps"
+    ],
+    "Contacts": [
+      "read your contacts"
+    ],
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Phone": [
+      "read phone status and identity"
+    ],
+    "Photos/Media/Files": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Camera": [
+      "take pictures and videos"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Device ID & call information": [
+      "read phone status and identity"
+    ],
+    "Other": [
+      "access Bluetooth settings",
+      "allow Wi-Fi Multicast reception",
+      "change network connectivity",
+      "connect and disconnect from Wi-Fi",
+      "control flashlight",
+      "control vibration",
+      "full network access",
+      "pair with Bluetooth devices",
+      "prevent device from sleeping",
+      "run at startup",
+      "set wallpaper",
+      "view network connections"
+    ],
+    "Uncategorized": [
+      "receive data from Internet"
+    ]
+  },
+  "reviews_data": null
+}

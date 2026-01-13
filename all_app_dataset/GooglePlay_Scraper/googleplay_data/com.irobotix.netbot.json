@@ -1,0 +1,70 @@
+{
+  "pkg_name": "com.irobotix.netbot",
+  "appId": "com.irobotix.netbot",
+  "title": "NETBOT LS22",
+  "developer": "CREATE Software",
+  "developer_id": "6391165311479027120",
+  "developer_email": "dolaso@ikohs.com",
+  "developer_website": "http://www.ikohs.com",
+  "developer_address": null,
+  "category": "Tools",
+  "category_id": "TOOLS",
+  "content_rating": "Everyone",
+  "score": 0,
+  "ratings": 0,
+  "reviews_count": 0,
+  "installs": "10,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://www.create-store.com/es/content/151-politica-de-privacidad",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "NETBOT LS22 APP can control your LIDAR Cleaning Robot wherever you are, the robot will carry out the cleaning working automatically according to your instructions through the APP, you just need to hail its high-efficient cleaning performances, and enjoy your clean and cosy home.\r\n\r\nAPP Intelligent Control\r\n\tReal time map: the map will be created simultaneously when robot start cleaning, you could see the working situation clearly through the APP.\r\n\tControl anywhere, anytime: easy control all functions of robot through the APP, Cleaning at anywhere, anytime\r\n\tSchedule: make the reservation for day to day cleaning working, cater for your customized cleaning requirements.\r\n\tSoftware update: understand the robot’s updated status through APP prompt, keep your robot with best performance.\r\n\tMulti-purpose: Not only can start, stop, pause cleaning and recharging, but support switching for multiple cleaning modes—standard, turbo, eco",
+  "descriptionHTML": "NETBOT LS22 APP can control your LIDAR Cleaning Robot wherever you are, the robot will carry out the cleaning working automatically according to your instructions through the APP, you just need to hail its high-efficient cleaning performances, and enjoy your clean and cosy home.<br><br>APP Intelligent Control<br>\tReal time map: the map will be created simultaneously when robot start cleaning, you could see the working situation clearly through the APP.<br>\tControl anywhere, anytime: easy control all functions of robot through the APP, Cleaning at anywhere, anytime<br>\tSchedule: make the reservation for day to day cleaning working, cater for your customized cleaning requirements.<br>\tSoftware update: understand the robot’s updated status through APP prompt, keep your robot with best performance.<br>\tMulti-purpose: Not only can start, stop, pause cleaning and recharging, but support switching for multiple cleaning modes—standard, turbo, eco",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/a1LcWvHjrLKDmj03tZOGcpF1sJhiM7s38tr9hFEWeLfJ_xqXaI1yAaau9EMXGoSJqQUX",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/ooXZvxCmtLsCwVvU_PxtVK6nNc4zYCGNPnT5Vx5D0nmxTVpEolIQ8jTQXHUTyYsv_aQ",
+    "https://play-lh.googleusercontent.com/RUT7izFwa7J1m_5G1rb-5Hk9j14a9lC66SLVj7ZTCjsCPntjSZJhtlimUNiavZwVQso",
+    "https://play-lh.googleusercontent.com/YOvAF2ZYa6pBgL4SBRYH3nVERX6STqMoUpBniz5MsnGOiiMk-JGIvLNCJXaGWnJkpg"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/SMcEnMI8VWERwabvnYm9NqesFQ0AQaUVUDgFneyfkOXfhTr0P-4hxteBuuFoIDzssNs",
+  "permissions": {
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Phone": [
+      "directly call phone numbers"
+    ],
+    "Photos/Media/Files": [
+      "access USB storage filesystem",
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Other": [
+      "change network connectivity",
+      "change system display settings",
+      "close other apps",
+      "connect and disconnect from Wi-Fi",
+      "draw over other apps",
+      "full network access",
+      "prevent device from sleeping",
+      "read terms you added to the dictionary",
+      "view network connections"
+    ]
+  },
+  "reviews_data": null
+}

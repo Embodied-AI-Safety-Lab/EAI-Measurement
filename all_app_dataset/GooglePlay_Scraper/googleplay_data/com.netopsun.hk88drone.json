@@ -1,0 +1,66 @@
+{
+  "pkg_name": "com.netopsun.hk88drone",
+  "appId": "com.netopsun.hk88drone",
+  "title": "HK88 Drone",
+  "developer": "guanxukeji",
+  "developer_id": "guanxukeji",
+  "developer_email": "goodstevechan2@gmail.com",
+  "developer_website": null,
+  "developer_address": null,
+  "category": "Entertainment",
+  "category_id": "ENTERTAINMENT",
+  "content_rating": "Everyone",
+  "score": 0,
+  "ratings": 0,
+  "reviews_count": 0,
+  "installs": "1,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "http://netopsun.com/pages/hk88_drone_privacy_policy.html",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "Welcome to the HK88 Drone app! This is the companion application meticulously designed for our HK88 drone, aimed at providing you with an exceptional flight control and aerial photography experience.\r\nWith its simple and intuitive interface, you can easily:\r\nReal-Time HD FPV: View a clear and smooth live video feed directly from the HK88 drone's camera.\r\nSmart GPS Flight Modes:\r\nFollow Me: Let the HK88 drone automatically follow your movements.\r\nWaypoint Flight: Pre-set a flight path on the map, and the HK88 will fly autonomously along it.\r\nPoint of Interest (Orbit Mode): Select a target, and the HK88 will circle it for stunning 360° shots.\r\nEasy Control & Shooting: Master one-key takeoff/landing, photo capture, and video recording with ease.\r\nGesture Recognition: Control photo taking or video recording with simple hand gestures (feature availability may depend on the specific HK88 model).\r\nGimbal Control: Precisely adjust the camera angle to capture the perfect shot.\r\nVR Mode Experience: immersive first-person view flight.\r\nDownload now and embark on an intelligent aerial photography journey with your HK88 drone! Explore the skies and capture amazing moments!",
+  "descriptionHTML": "Welcome to the HK88 Drone app! This is the companion application meticulously designed for our HK88 drone, aimed at providing you with an exceptional flight control and aerial photography experience.<br>With its simple and intuitive interface, you can easily:<br>Real-Time HD FPV: View a clear and smooth live video feed directly from the HK88 drone&#39;s camera.<br>Smart GPS Flight Modes:<br>Follow Me: Let the HK88 drone automatically follow your movements.<br>Waypoint Flight: Pre-set a flight path on the map, and the HK88 will fly autonomously along it.<br>Point of Interest (Orbit Mode): Select a target, and the HK88 will circle it for stunning 360° shots.<br>Easy Control &amp; Shooting: Master one-key takeoff/landing, photo capture, and video recording with ease.<br>Gesture Recognition: Control photo taking or video recording with simple hand gestures (feature availability may depend on the specific HK88 model).<br>Gimbal Control: Precisely adjust the camera angle to capture the perfect shot.<br>VR Mode Experience: immersive first-person view flight.<br>Download now and embark on an intelligent aerial photography journey with your HK88 drone! Explore the skies and capture amazing moments!",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/oOJPxa0Y0NLb2kT-hOIDSMHYDxDzhmmg_ydcfJI4iW38pd5h18InIC4PPCEbSZUyk2o",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/yPGiLH_Q7nIIiF7m7MH0Itd2rllN0CTsJJLO9kSForzUS854ZGH8HvTan3dOcejBiHA",
+    "https://play-lh.googleusercontent.com/UTXt39eQDDpKSHJEoaWipaA7IYBM9Y8WLiaJ_uQzSkuX1UBziVZxW-0MD4Mu8nc2kFw",
+    "https://play-lh.googleusercontent.com/2mheiFxAxSlwNB5zpej6MpbXMuaohh-fXlYHC_jr1SfwUSJnDRUjae7XFo2t0J-ZCGA",
+    "https://play-lh.googleusercontent.com/gz2jzSnBsez1HTZxXKh-Vj1pK40H7MaFuRscG5sqOddd4w_c4vRvZQ2kTmcJ0ZCWHw"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/85TC_VhcAws_Jym6qD90gGMU2eBMvAyS56bVSwalAYOgVuQvZvbEuz2EcNHnbJi37Mg",
+  "permissions": {
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Photos/Media/Files": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Microphone": [
+      "record audio"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Other": [
+      "Google Play license check",
+      "change network connectivity",
+      "connect and disconnect from Wi-Fi",
+      "full network access",
+      "view network connections"
+    ]
+  },
+  "reviews_data": null
+}

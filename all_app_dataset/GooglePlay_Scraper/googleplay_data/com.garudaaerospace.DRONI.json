@@ -1,0 +1,75 @@
+{
+  "pkg_name": "com.garudaaerospace.DRONI",
+  "appId": "com.garudaaerospace.DRONI",
+  "title": "DRONI",
+  "developer": "Garuda Aerospace Pvt Ltd",
+  "developer_id": "Garuda+Aerospace+Pvt+Ltd",
+  "developer_email": "info@garudaaerospace.com",
+  "developer_website": null,
+  "developer_address": null,
+  "category": "Photography",
+  "category_id": "PHOTOGRAPHY",
+  "content_rating": "Everyone",
+  "score": null,
+  "ratings": null,
+  "reviews_count": null,
+  "installs": "1,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "https://fly.walkera.cn/privacyPolicy_en.html",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "DRONI is a drone service providing platform",
+  "descriptionHTML": "DRONI is a drone service providing platform",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/4W50mAp4QqsbAydyxN2RcnvptibObo-0dOEHxumPtnjr4TZtV5vyJWYsRWAv7Kmeh0o",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/xQteAj2Rebq96J4d3zx17cg9jvFAtdR5uOblDE1-99nNXJakGOg5aSGCSXz69E9lgDQ",
+    "https://play-lh.googleusercontent.com/zo59UApzcjTf0pQWiHOiZ6TBsDsppf9_Lj3M-sDvFM-vDweTuVsevKbnw_JIMdaDLSI",
+    "https://play-lh.googleusercontent.com/8bv8zov_oJBACtb7rP5FB46ufU25FyVY5e3NipHmjr2d29EXJ_XbeqYI0kHi_yFRhQ",
+    "https://play-lh.googleusercontent.com/DZVKVJpBt0CQbnH_rC56eJyvZ7AiJE1vW63heGiCFA5xHiqrJ8q9kJu-yiZY35VJswAN",
+    "https://play-lh.googleusercontent.com/YmgrbxCQ3fQwh9AUbuJXTZt7kQoPIVqrfHLn7ZjcJaFHZXJzo5ZBtbrDh8srNjUzIrUs",
+    "https://play-lh.googleusercontent.com/CLgDUwcKMfONETWtnBLkwRPrb4yOJZwQHeeU0p5zSDf4u9Gd9W_plEKYjGJVphyjcaM",
+    "https://play-lh.googleusercontent.com/qqTIcVlVmbY28dsZfF8eLZCYqZhXVCWreWPBrKLl9hIdZTCa4_sSftOw00qyF6HrueUr",
+    "https://play-lh.googleusercontent.com/8uWNMMCeX7ke4wu4I6E1y7rhkFUjL5XGaGDJknb0UW2SdWpRYjO3KjRLeJzlnGP990Ta",
+    "https://play-lh.googleusercontent.com/6Y2cGU4eiAXjZXwM9PgT413uFOGhhHjLzzhitOgAHVmmXbgHz2vHcP9KX4ozGJpJ6Sw"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/SnWSGkDDvzJwhNvFWQ_NnOuNKIyRkyu_zQ38G3FLdsFT1ky6v8gKgCx8nH8VwigR8Bo",
+  "permissions": {
+    "Location": [
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Photos/Media/Files": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Camera": [
+      "take pictures and videos"
+    ],
+    "Microphone": [
+      "record audio"
+    ],
+    "Other": [
+      "access Bluetooth settings",
+      "change network connectivity",
+      "control vibration",
+      "full network access",
+      "modify system settings",
+      "pair with Bluetooth devices",
+      "prevent device from sleeping",
+      "run at startup",
+      "view network connections"
+    ]
+  },
+  "reviews_data": null
+}

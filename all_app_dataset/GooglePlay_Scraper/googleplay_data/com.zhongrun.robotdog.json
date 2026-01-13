@@ -1,0 +1,78 @@
+{
+  "pkg_name": "com.zhongrun.robotdog",
+  "appId": "com.zhongrun.robotdog",
+  "title": "Rapidpower",
+  "developer": "Shantou Huahui Information Technology Co., Ltd.",
+  "developer_id": "Shantou+Huahui+Information+Technology+Co.,+Ltd.",
+  "developer_email": "chhuahui@gmail.com",
+  "developer_website": null,
+  "developer_address": null,
+  "category": "Tools",
+  "category_id": "TOOLS",
+  "content_rating": "Everyone",
+  "score": 2.84375,
+  "ratings": 92,
+  "reviews_count": 22,
+  "installs": "10,000+",
+  "free": true,
+  "price": 0,
+  "currency": "USD",
+  "offers_iap": false,
+  "contains_ads": false,
+  "privacy_policy": "http://www.hjya.net/policy.html",
+  "size_mb": null,
+  "min_android_version": null,
+  "description": "Supports voice command, control, content, feeding, programming and other functions.",
+  "descriptionHTML": "Supports voice command, control, content, feeding, programming and other functions.",
+  "features": null,
+  "icon": "https://play-lh.googleusercontent.com/zRMiWJzCRyX4VLsLQv0btJ3VEANE3zcwZsverOFTZGZkh_ClgzR8SqTuPgRWzmoNSHRO",
+  "screenshots": [
+    "https://play-lh.googleusercontent.com/0dUWfbBkx6NyztOQf4QfITzSlRK7Ne_puYNQzKwOk9nG7N8_FraLtEiEXklfNU91cQ",
+    "https://play-lh.googleusercontent.com/vwZJ54d2Dtg2ZbT6S4wfnZsLl3tgRhxez8w5H0QK_oE5ewTBgYMTbwoLXEqgPwc0k3K3",
+    "https://play-lh.googleusercontent.com/0hxWaWy9zyJHc8XFmOBdapkwR2Nlt9WhW3E9TS-DZ0iW6k-pc4aoVGEcoiCKwIE-lA"
+  ],
+  "video": null,
+  "video_image": null,
+  "header_image": "https://play-lh.googleusercontent.com/CdG0HesEe-7mBUpuDQFxZ7uL4KgpUKbi-8lbyIGGiQ_95MypuucIveMzVKK6s7kMP0Q0",
+  "permissions": {
+    "Location": [
+      "access extra location provider commands",
+      "approximate location (network-based)",
+      "precise location (GPS and network-based)"
+    ],
+    "Phone": [
+      "read phone status and identity"
+    ],
+    "Photos/Media/Files": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Storage": [
+      "modify or delete the contents of your USB storage",
+      "read the contents of your USB storage"
+    ],
+    "Microphone": [
+      "record audio"
+    ],
+    "Wi-Fi connection information": [
+      "view Wi-Fi connections"
+    ],
+    "Device ID & call information": [
+      "read phone status and identity"
+    ],
+    "Other": [
+      "Google Play license check",
+      "access Bluetooth settings",
+      "change system display settings",
+      "change your audio settings",
+      "connect and disconnect from Wi-Fi",
+      "control vibration",
+      "full network access",
+      "modify system settings",
+      "pair with Bluetooth devices",
+      "send sticky broadcast",
+      "view network connections"
+    ]
+  },
+  "reviews_data": null
+}
