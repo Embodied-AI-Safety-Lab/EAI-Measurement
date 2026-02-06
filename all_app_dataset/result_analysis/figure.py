@@ -2,8 +2,8 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-# 读取数据
-df = pd.read_csv("putput_datatime.csv")
+# 读取数据 released time
+df = pd.read_csv("output_datatime.csv")
 
 # 时间字段
 df["released_dt"] = pd.to_datetime(df["released_ym"], format="%Y-%m")
@@ -50,6 +50,6 @@ g.fig.subplots_adjust(top=0.88)
 g.fig.suptitle("Released Time Distribution")
 
 
-plt.savefig("datatime_figure.png")
+plt.savefig("released_figure.png")
 plt.show()
 

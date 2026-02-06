@@ -24,4 +24,4 @@ invalid_rows = df[df["released_ym"].isna()]
 print(f"无法解析的日期数量：{len(invalid_rows)}")
 
 # 5. 保存结果
-df.to_csv("putput_datatime.csv", index=False)
+df.to_csv("output_datatime.csv", index=False)
